@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Core pages -->
+  <url><loc>https://jprolloff.com/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://jprolloff.com/services</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://jprolloff.com/pricing</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://jprolloff.com/service-areas</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://jprolloff.com/about</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://jprolloff.com/contact</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://jprolloff.com/faq</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+
+  <!-- Size-specific service pages -->
+  <url><loc>https://jprolloff.com/services/10-yard-dumpster</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://jprolloff.com/services/15-yard-dumpster</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://jprolloff.com/services/20-yard-dumpster</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://jprolloff.com/services/25-yard-dumpster</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://jprolloff.com/services/30-yard-dumpster</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+
+  <!-- City landing pages — Tier 1 (core service area) -->
+  <url><loc>https://jprolloff.com/locations/beltsville</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://jprolloff.com/locations/greenbelt</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://jprolloff.com/locations/college-park</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://jprolloff.com/locations/laurel</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+  <url><loc>https://jprolloff.com/locations/hyattsville</loc><changefreq>monthly</changefreq><priority>0.85</priority></url>
+
+  <!-- City landing pages — Tier 2 (expanded DMV) -->
+  <url><loc>https://jprolloff.com/locations/bowie</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://jprolloff.com/locations/silver-spring</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://jprolloff.com/locations/takoma-park</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://jprolloff.com/locations/riverdale</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://jprolloff.com/locations/landover</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://jprolloff.com/locations/upper-marlboro</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://jprolloff.com/locations/lanham</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://jprolloff.com/locations/bladensburg</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+  <url><loc>https://jprolloff.com/locations/cheverly</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://jprolloff.com/locations/rockville</loc><changefreq>monthly</changefreq><priority>0.75</priority></url>
+</urlset>
