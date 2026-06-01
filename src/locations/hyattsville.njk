@@ -1,0 +1,107 @@
+---
+title: "Dumpster Rental in Hyattsville, MD | Same-Day · JP Roll-Off"
+description: "Roll-off dumpster rental in Hyattsville, MD (20781, 20782, 20783, 20784). Bilingual service in the Hyattsville Arts District, Riverdale border, West Hyattsville, and University Hills. (301) 252-3586."
+canonical: "https://jprolloff.com/locations/hyattsville"
+navActive: "/service-areas"
+locationSlug: "hyattsville"
+quoteHref: "/#quote"
+---
+{% extends "base.njk" %}
+
+{% block head %}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "JP Roll-Off Service — Hyattsville Dumpster Rental",
+    "url": "https://jprolloff.com/locations/hyattsville",
+    "telephone": "+1-301-252-3586",
+    "address": { "@type": "PostalAddress", "addressLocality": "Hyattsville", "addressRegion": "MD", "postalCode": "20781", "addressCountry": "US" },
+    "areaServed": { "@type": "City", "name": "Hyattsville" },
+    "priceRange": "$$",
+    "knowsLanguage": ["en", "es"]
+  }
+  </script>
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://jprolloff.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Service Areas", "item": "https://jprolloff.com/service-areas" },
+      { "@type": "ListItem", "position": 3, "name": "Hyattsville", "item": "https://jprolloff.com/locations/hyattsville" }
+    ]
+  }
+  </script>
+{% endblock %}
+
+{% block content %}
+<main id="main">
+    <section class="page-header">
+      <div class="container">
+        <span class="eyebrow" style="color:#fff;">Service Area · Hyattsville, MD</span>
+        <h1>Dumpster rental in Hyattsville, MD.</h1>
+        <p>Bilingual service across the Hyattsville Arts District, West Hyattsville, University Hills, Castle Manor, and the Riverdale border. 20781, 20782, 20783, 20784 — entrega el mismo día disponible.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="feature-row">
+          <div class="feature-text">
+            <span class="eyebrow">Why Hyattsville</span>
+            <h3 style="font-size: var(--fs-56);">Older houses, smaller lots, bilingual office.</h3>
+            <p>Hyattsville has more pre-1950 houses than almost anywhere in PG County — that means tight driveways, narrow alleys, and remodels that surface a lot of plaster and lath. We know how to place a 15-yard on a short driveway off Hamilton or 38th Avenue without backing into the front porch.</p>
+            <p>The other thing Hyattsville needs: bilingual service. Our office speaks English and Spanish — you can call, text, or email a quote request in either, and the response comes back the same way. Atendemos en español todos los días.</p>
+            <a href="/#quote" class="btn">Get a Hyattsville Quote →</a>
+          </div>
+          <div class="feature-visual visual-red">
+            <span class="feature-visual-label">Hyattsville, MD</span>
+            <span class="feature-visual-num">EN/ES</span>
+            <span class="feature-visual-tag">Same-day</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt">
+      <div class="container">
+        <div class="section-head"><div><span class="eyebrow">Sizes available</span><h2>Cinco tamaños — para cualquier proyecto.</h2></div></div>
+        {% include "size-rows.njk" %}
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container container-narrow">
+        <div class="section-head" style="grid-template-columns: 1fr;"><div><span class="eyebrow">Hyattsville FAQ</span><h2>Local questions.</h2></div></div>
+        <div class="faq-list">
+          <details class="faq-item" open><summary>¿Atienden en español?</summary><div class="faq-answer">Sí — hablamos español en la oficina y en despacho. Puedes llamar al (301) 252-3586 o enviar tu solicitud por escrito en español, y respondemos en el mismo idioma. Casi todos nuestros conductores también hablan español.</div></details>
+          <details class="faq-item"><summary>Do I need a permit in Hyattsville?</summary><div class="faq-answer">The City of Hyattsville requires a Right-of-Way Use permit if a dumpster sits in the street or unpaved shoulder. Private driveways and back-yard placement don't require it. We can help you file with the City's DPW.</div></details>
+          <details class="faq-item"><summary>Will it fit in an Arts District alley?</summary><div class="faq-answer">A 10-yard usually works in the older alleys behind Hamilton, 38th, and Jefferson. 20-yard and up are typically front-of-house. Send us a photo of your spot and we'll spec the right size.</div></details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt">
+      <div class="container">
+        <h2 style="font-size: var(--fs-40); margin-bottom: var(--space-8);">Neighboring areas we cover</h2>
+        <div class="area-list" style="grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));">
+          <a href="/locations/beltsville">Beltsville</a>
+          <a href="/locations/college-park">College Park</a>
+          <a href="/locations/greenbelt">Greenbelt</a>
+          <a href="/locations/laurel">Laurel</a>
+          <a href="/service-areas">All DMV areas →</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="cta-band">
+          <div><h2>Same-day delivery en Hyattsville.</h2><p>Call or text dispatch in English or Spanish — we answer either way.</p></div>
+          <div class="cta-band-actions"><a href="tel:+13012523586" class="cta-band-phone">(301) 252-3586</a><a href="/#quote" class="btn btn-lg">Get a Free Quote →</a></div>
+        </div>
+      </div>
+    </section>
+  </main>
+{% endblock %}

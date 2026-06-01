@@ -1,0 +1,23 @@
+{# Shared 5-size alternating rows. Used on home + every location page. Sourced from `sizes`. #}
+<div class="size-rows">
+  {% for s in sizes %}
+  <div id="size-{{ s.yd }}" class="feature-row size-row{% if loop.index0 % 2 == 1 %} reverse{% endif %} reveal">
+    <div class="feature-text">
+      {% if s.popular %}<span class="popular-tag">Most Popular</span>{% endif %}
+      <span class="size-row-yd">{{ s.yd }} <small data-en="Yard" data-es="Yarda">Yard</small></span>
+      <h3 data-en="{{ s.title.en }}" data-es="{{ s.title.es }}">{{ s.title.en }}</h3>
+      <p class="size-meta" data-en="{{ s.homeMeta.en }}" data-es="{{ s.homeMeta.es }}">{{ s.homeMeta.en }}</p>
+      <ul class="feature-list">
+        {% for f in s.features %}
+        <li data-en="{{ f.en }}" data-es="{{ f.es }}">{{ f.en }}</li>
+        {% endfor %}
+      </ul>
+      {# On a location page (locationSlug set) link to that city's combo page; on the home page link to the generic size page. #}
+      <a href="{% if locationSlug %}/locations/{{ locationSlug }}/{{ s.yd }}-yard{% else %}/services/{{ s.slug }}{% endif %}" class="btn {% if s.popular %}btn-primary{% else %}btn-secondary{% endif %}" data-en="See {{ s.yd }}-Yard Details" data-es="Ver Detalles {{ s.yd }}-Yardas">See {{ s.yd }}-Yard Details →</a>
+    </div>
+    <div class="feature-visual size-visual">
+      <img src="/images/dumpster-{{ s.yd }}yd.png" alt="JP Roll-Off {{ s.yd }} yard dumpster" loading="lazy" onerror="this.style.display='none'" />
+    </div>
+  </div>
+  {% endfor %}
+</div>

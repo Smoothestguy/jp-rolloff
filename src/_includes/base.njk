@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#CC0000" />
+
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ description }}" />
+  {% if keywords %}<meta name="keywords" content="{{ keywords }}" />{% endif %}
+  <link rel="canonical" href="{{ canonical }}" />
+
+  {% if og %}
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="{{ site.name }}" />
+  <meta property="og:title" content="{{ og.title or title }}" />
+  <meta property="og:description" content="{{ og.description or description }}" />
+  <meta property="og:url" content="{{ canonical }}" />
+  <meta property="og:image" content="{{ og.image or 'https://jprolloff.com/images/og-default.jpg' }}" />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:locale:alternate" content="es_US" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{{ og.title or title }}" />
+  <meta name="twitter:description" content="{{ og.description or description }}" />
+  {% endif %}
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700;800&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700;800&display=swap" />
+
+  {% if leaflet %}
+  <!-- Leaflet (interactive map) -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+  {% endif %}
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="/css/tokens.css?v={{ site.assetVersion }}" />
+  <link rel="stylesheet" href="/css/reset.css?v={{ site.assetVersion }}" />
+  <link rel="stylesheet" href="/css/base.css?v={{ site.assetVersion }}" />
+  <link rel="stylesheet" href="/css/components.css?v={{ site.assetVersion }}" />
+  <link rel="stylesheet" href="/css/pages.css?v={{ site.assetVersion }}" />
+
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+
+  {% block head %}{% endblock %}
+</head>
+
+<body{% if bodyClass %} class="{{ bodyClass }}"{% endif %}>
+  <a href="#main" class="skip-link">Skip to main content</a>
+
+  {% include "nav.njk" %}
+
+  {% block content %}{% endblock %}
+
+  {% include "footer.njk" %}
+
+  {% if leaflet %}
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin="" defer></script>
+  {% endif %}
+  <script src="/js/main.js?v={{ site.assetVersion }}" defer></script>
+</body>
+</html>

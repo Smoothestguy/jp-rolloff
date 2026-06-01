@@ -34,10 +34,10 @@
   --color-border:        var(--color-gray-200);
 
   /* ---- TYPOGRAPHY ----
-     Display:  Anton (bold condensed, hero) — Google Fonts
-     Body:     Inter (clean sans, body) — Google Fonts
+     Display:  DIN Neue Roman Black Italic (local file) — used on all headers
+     Body:     Inter (Google Fonts)
      Mono:     system fallback (rarely used) */
-  --font-display: 'Anton', 'Impact', 'Oswald', system-ui, sans-serif;
+  --font-display: 'DIN Neue Roman', 'Anton', 'Impact', system-ui, sans-serif;
   --font-body:    'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --font-mono:    ui-monospace, SFMono-Regular, Menlo, monospace;
 

@@ -1,0 +1,24 @@
+---
+permalink: /sitemap.xml
+eleventyExcludeFromCollections: true
+---
+<?xml version="1.0" encoding="UTF-8"?>
+{#-
+  Generated sitemap. Lists every built page (hubs, size pages, combos, core pages),
+  skipping the 404 page. <loc> drops the trailing slash to match each page's canonical.
+
+  SCALE NOTE: a single sitemap is valid up to 50,000 URLs. At Tier 2 (~200 cities →
+  ~1,000 URLs) this is fine. When the URL count climbs into the thousands (Tier 3+),
+  split into a sitemap index: paginate collections.all into <=5,000-URL child sitemaps
+  and point /sitemap.xml at them as <sitemapindex>.
+-#}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+{%- for page in collections.all %}
+{%- if "/404" not in page.url %}
+  <url>
+    <loc>https://jprolloff.com{{ page.url | trimSlash }}</loc>
+    <lastmod>{{ page.date | isoDate }}</lastmod>
+  </url>
+{%- endif %}
+{%- endfor %}
+</urlset>

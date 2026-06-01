@@ -2,6 +2,14 @@
    BASE — element defaults, typography, layout primitives
    ============================================================ */
 
+@font-face {
+  font-family: 'DIN Neue Roman';
+  src: url('/fonts/DINNeueRoman-Test-Black-Italic-BF641a66f919e67.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+  font-display: swap;
+}
+
 html { font-size: 16px; }
 
 body {

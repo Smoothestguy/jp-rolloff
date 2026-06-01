@@ -1,0 +1,56 @@
+{# Site footer — single source. Dumpster links loop over `sizes`; areas from site.footerAreas. #}
+<footer class="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <img src="/images/JPRolloff.png" alt="JP Roll-Off Service" class="footer-logo" />
+        <p class="footer-tagline" data-en="Family-owned roll-off dumpster rental serving Beltsville, MD and the entire DMV since 2005. Same-day delivery, flat-rate pricing, real people on the phone." data-es="Renta de contenedores roll-off, empresa familiar sirviendo Beltsville, MD y todo el DMV desde 2005. Entrega el mismo día, precio fijo, personas reales al teléfono.">Family-owned roll-off dumpster rental serving Beltsville, MD and the entire DMV since 2005. Same-day delivery, flat-rate pricing, real people on the phone.</p>
+        <div class="footer-contact">
+          <span><strong>{{ site.phone.display }}</strong> <span style="color:var(--color-gray-500)">· dispatch</span></span>
+          <span>{{ site.phone.office }} <span style="color:var(--color-gray-500)">· office</span></span>
+          <span>{{ site.address }}</span>
+          <span data-en="Mon–Fri 7a–6p · Sat 8a–2p" data-es="Lun–Vie 7a–6p · Sáb 8a–2p">Mon–Fri 7a–6p · Sat 8a–2p</span>
+        </div>
+      </div>
+
+      <div>
+        <h5 data-en="Dumpsters" data-es="Contenedores">Dumpsters</h5>
+        <ul>
+          {% for s in sizes %}
+          <li><a href="/services/{{ s.slug }}">{{ s.yd }} Yard Dumpster</a></li>
+          {% endfor %}
+          <li><a href="/services" data-en="All services →" data-es="Todos →">All services →</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h5 data-en="Areas" data-es="Áreas">Areas</h5>
+        <ul>
+          {% for a in site.footerAreas %}
+          <li><a href="{{ a.href }}">{{ a.label }}</a></li>
+          {% endfor %}
+          <li><a href="/service-areas" data-en="All areas →" data-es="Todas →">All areas →</a></li>
+        </ul>
+      </div>
+
+      <div>
+        <h5 data-en="Company" data-es="Empresa">Company</h5>
+        <ul>
+          <li><a href="/about" data-en="About" data-es="Acerca">About</a></li>
+          <li><a href="/pricing" data-en="Pricing" data-es="Precios">Pricing</a></li>
+          <li><a href="/faq">FAQ</a></li>
+          <li><a href="/contact" data-en="Contact" data-es="Contacto">Contact</a></li>
+          <li><a href="/#quote" data-en="Free Quote" data-es="Cotización Gratis">Free Quote</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <span>© <span data-year>2026</span> JP Roll-Off Service, Inc.</span>
+      <span data-en="Beltsville, MD · Se Habla Español" data-es="Beltsville, MD · Se Habla Español">Beltsville, MD · Se Habla Español</span>
+      <span>
+        <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a>
+      </span>
+    </div>
+  </div>
+</footer>

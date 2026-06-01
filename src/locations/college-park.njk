@@ -1,0 +1,106 @@
+---
+title: "Dumpster Rental in College Park, MD | Same-Day · JP Roll-Off"
+description: "Roll-off dumpster rental in College Park, MD (20740, 20742). Serving UMD-area landlords, contractors, and homeowners. Same-day delivery on 10–30 yard dumpsters. (301) 252-3586."
+canonical: "https://jprolloff.com/locations/college-park"
+navActive: "/service-areas"
+locationSlug: "college-park"
+quoteHref: "/#quote"
+---
+{% extends "base.njk" %}
+
+{% block head %}
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "JP Roll-Off Service — College Park Dumpster Rental",
+    "url": "https://jprolloff.com/locations/college-park",
+    "telephone": "+1-301-252-3586",
+    "address": { "@type": "PostalAddress", "addressLocality": "College Park", "addressRegion": "MD", "postalCode": "20740", "addressCountry": "US" },
+    "areaServed": { "@type": "City", "name": "College Park" },
+    "priceRange": "$$"
+  }
+  </script>
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://jprolloff.com/" },
+      { "@type": "ListItem", "position": 2, "name": "Service Areas", "item": "https://jprolloff.com/service-areas" },
+      { "@type": "ListItem", "position": 3, "name": "College Park", "item": "https://jprolloff.com/locations/college-park" }
+    ]
+  }
+  </script>
+{% endblock %}
+
+{% block content %}
+<main id="main">
+    <section class="page-header">
+      <div class="container">
+        <span class="eyebrow" style="color:#fff;">Service Area · College Park, MD</span>
+        <h1>Dumpster rental in College Park, MD.</h1>
+        <p>Serving the UMD campus corridor, Berwyn, Old Town, Hollywood, Calvert Hills, and the Route 1 development strip. 20740, 20742, 20783. Built for the move-out rush and the contractor calendar.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="feature-row">
+          <div class="feature-text">
+            <span class="eyebrow">Why College Park</span>
+            <h3 style="font-size: var(--fs-56);">Student rentals, contractors, and Route 1.</h3>
+            <p>College Park has a rhythm to it — May move-out, August move-in, perpetual UMD-adjacent renovation. We're the dumpster company most local landlords and remodelers in 20740 and 20742 lean on because we don't flake during the busy weeks.</p>
+            <p>We deliver into student rental homes on Hartwick, Knox, Princeton, and the streets just off Route 1, plus the newer projects along Baltimore Ave and the Discovery District. Always boards-down, always written quote.</p>
+            <a href="/#quote" class="btn">Get a College Park Quote →</a>
+          </div>
+          <div class="feature-visual visual-red">
+            <span class="feature-visual-label">College Park, MD</span>
+            <span class="feature-visual-num">20740</span>
+            <span class="feature-visual-tag">UMD ready</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt">
+      <div class="container">
+        <div class="section-head"><div><span class="eyebrow">Sizes available</span><h2>Five sizes — from a one-bed cleanout to a tear-down.</h2></div></div>
+        {% include "size-rows.njk" %}
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container container-narrow">
+        <div class="section-head" style="grid-template-columns: 1fr;"><div><span class="eyebrow">College Park FAQ</span><h2>Local questions.</h2></div></div>
+        <div class="faq-list">
+          <details class="faq-item" open><summary>Do I need a permit in College Park?</summary><div class="faq-answer">The City of College Park requires a right-of-way permit if the dumpster sits in the street. Permits are issued through the Department of Public Works and we can help you apply. Driveways and private lots are permit-free.</div></details>
+          <details class="faq-item"><summary>Do you handle UMD student move-outs?</summary><div class="faq-answer">Yes — landlords and property managers reserve us months in advance for the late-April / early-May move-out rush. We recommend booking at least 2 weeks ahead if you need a guaranteed window during that period.</div></details>
+          <details class="faq-item"><summary>Can you deliver to the Route 1 / Discovery District area?</summary><div class="faq-answer">Yes. We work with several of the contractors building along the Baltimore Avenue corridor. Coordination with the GC and site supervisor is standard — just give us 24h on commercial sites.</div></details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt">
+      <div class="container">
+        <h2 style="font-size: var(--fs-40); margin-bottom: var(--space-8);">Neighboring areas we cover</h2>
+        <div class="area-list" style="grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));">
+          <a href="/locations/beltsville">Beltsville</a>
+          <a href="/locations/greenbelt">Greenbelt</a>
+          <a href="/locations/hyattsville">Hyattsville</a>
+          <a href="/locations/laurel">Laurel</a>
+          <a href="/service-areas">All DMV areas →</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="cta-band">
+          <div><h2>Need a dumpster near UMD?</h2><p>Call dispatch — we deliver across College Park six days a week.</p></div>
+          <div class="cta-band-actions"><a href="tel:+13012523586" class="cta-band-phone">(301) 252-3586</a><a href="/#quote" class="btn btn-lg">Get a Free Quote →</a></div>
+        </div>
+      </div>
+    </section>
+  </main>
+{% endblock %}

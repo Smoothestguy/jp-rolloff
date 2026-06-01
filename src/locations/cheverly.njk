@@ -1,0 +1,93 @@
+---
+title: "Dumpster Rental in Cheverly, MD | Same-Day · JP Roll-Off"
+description: "Roll-off dumpster rental in Cheverly, MD (20785). Serving a small, tree-lined bedroom community of historic single-family homes. Same-day delivery from Beltsville. (301) 252-3586."
+canonical: "https://jprolloff.com/locations/cheverly"
+navActive: "/service-areas"
+locationSlug: "cheverly"
+quoteHref: "/#quote"
+---
+{% extends "base.njk" %}
+
+{% block head %}
+<script type="application/ld+json">
+  { "@context": "https://schema.org", "@type": "LocalBusiness", "name": "JP Roll-Off Service — Cheverly Dumpster Rental", "url": "https://jprolloff.com/locations/cheverly", "telephone": "+1-301-252-3586", "address": { "@type": "PostalAddress", "addressLocality": "Cheverly", "addressRegion": "MD", "postalCode": "20785", "addressCountry": "US" }, "areaServed": { "@type": "City", "name": "Cheverly" }, "priceRange": "$$" }
+  </script>
+<script type="application/ld+json">
+  { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://jprolloff.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Service Areas", "item": "https://jprolloff.com/service-areas" },
+    { "@type": "ListItem", "position": 3, "name": "Cheverly", "item": "https://jprolloff.com/locations/cheverly" }
+  ]}
+  </script>
+{% endblock %}
+
+{% block content %}
+<main id="main">
+    <section class="page-header">
+      <div class="container">
+        <span class="eyebrow" style="color:#fff;">Service Area · Cheverly, MD</span>
+        <h1>Dumpster rental in Cheverly, MD.</h1>
+        <p>A small, tree-lined bedroom town of historic single-family homes. Tighter streets and protected trees mean careful placement — that's exactly what we do. ZIP 20785.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="feature-row">
+          <div class="feature-text">
+            <span class="eyebrow">Why Cheverly</span>
+            <h3 style="font-size: var(--fs-56);">Historic homes. Careful drivers.</h3>
+            <p>Cheverly is one of the most architecturally consistent towns in PG County — older single-family homes with mature tree canopies on lots that don't always cooperate with a big container. We know which streets fit a 20-yard and which need to stay at 10 or 15.</p>
+            <p>Cheverly enforces its no-commercial-zoning rules carefully, so for renovation work we always place on private property and confirm with the town when needed.</p>
+            <a href="/#quote" class="btn">Get a Cheverly Quote →</a>
+          </div>
+          <div class="feature-visual visual-red">
+            <span class="feature-visual-label">Cheverly, MD</span>
+            <span class="feature-visual-num">20785</span>
+            <span class="feature-visual-tag">Historic-careful</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt">
+      <div class="container">
+        <div class="section-head"><div><span class="eyebrow">Sizes available</span><h2>Five sizes — fit to your block.</h2></div></div>
+        {% include "size-rows.njk" %}
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container container-narrow">
+        <div class="section-head" style="grid-template-columns: 1fr;"><div><span class="eyebrow">Cheverly FAQ</span><h2>Local questions.</h2></div></div>
+        <div class="faq-list">
+          <details class="faq-item" open><summary>Do I need a permit in Cheverly?</summary><div class="faq-answer">The Town of Cheverly requires a permit if a dumpster is placed in the street or right-of-way. Most renovations here place on the driveway, which is permit-free. Town hall is responsive — typically 24–48 hour turnaround.</div></details>
+          <details class="faq-item"><summary>Will it clear my tree canopy?</summary><div class="faq-answer">Cheverly's tree canopy is no joke. If your driveway has overhanging branches under ~14 ft, tell us at booking — we'll send a lower-profile truck or recommend a smaller container.</div></details>
+          <details class="faq-item"><summary>How fast can I get one?</summary><div class="faq-answer">Same-day if you call by mid-morning. Cheverly is a 20-minute run from Beltsville.</div></details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt">
+      <div class="container">
+        <h2 style="font-size: var(--fs-40); margin-bottom: var(--space-8);">Neighboring areas we cover</h2>
+        <div class="area-list" style="grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));">
+          <a href="/locations/landover">Landover</a>
+          <a href="/locations/hyattsville">Hyattsville</a>
+          <a href="/locations/bladensburg">Bladensburg</a>
+          <a href="/locations/riverdale">Riverdale Park</a>
+          <a href="/service-areas">All DMV areas →</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="cta-band">
+          <div><h2>Renovating in Cheverly?</h2><p>Call dispatch — we'll size the right container for your block.</p></div>
+          <div class="cta-band-actions"><a href="tel:+13012523586" class="cta-band-phone">(301) 252-3586</a><a href="/#quote" class="btn btn-lg">Get a Free Quote →</a></div>
+        </div>
+      </div>
+    </section>
+  </main>
+{% endblock %}

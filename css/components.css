@@ -91,57 +91,67 @@
   position: fixed;
   top: 0; left: 0; right: 0;
   z-index: var(--z-nav);
-  background: rgba(255,255,255,0.92);
-  backdrop-filter: saturate(180%) blur(14px);
-  -webkit-backdrop-filter: saturate(180%) blur(14px);
+  background: transparent;
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
   border-bottom: 1px solid transparent;
-  transition: background var(--dur-base), border-color var(--dur-base), padding var(--dur-base);
+  transition: background var(--dur-base), border-color var(--dur-base), padding var(--dur-base), backdrop-filter var(--dur-base);
 }
 .nav.is-scrolled {
   background: rgba(255,255,255,0.98);
+  backdrop-filter: saturate(180%) blur(14px);
+  -webkit-backdrop-filter: saturate(180%) blur(14px);
   border-bottom-color: var(--color-border);
 }
+
+/* Inner pages (everything except home): white text + white logo on the transparent nav,
+   swap to black on scroll. The home page keeps its dark-text-on-light-video styling defined further below. */
+body:not(.is-home) .nav .nav-menu a,
+body:not(.is-home) .nav .nav-phone,
+body:not(.is-home) .nav .lang-toggle {
+  color: var(--color-white);
+}
+body:not(.is-home) .nav .lang-toggle {
+  border-color: rgba(255,255,255,0.4);
+}
+body:not(.is-home) .nav.is-scrolled .nav-menu a,
+body:not(.is-home) .nav.is-scrolled .nav-phone,
+body:not(.is-home) .nav.is-scrolled .lang-toggle {
+  color: var(--color-black);
+}
+body:not(.is-home) .nav.is-scrolled .lang-toggle {
+  border-color: var(--color-border);
+}
+/* Home page: always show black logo (light hero). Inner pages: white default, black on scroll. */
+body.is-home .nav-logo-default { display: none !important; }
+body.is-home .nav-logo-scrolled { display: block !important; }
 .nav-inner {
   display: flex;
   align-items: center;
   justify-content: space-between;
   gap: var(--space-6);
-  height: 80px;
+  height: 96px;
   max-width: var(--container-max);
   margin-inline: auto;
   padding-inline: var(--container-px);
 }
 .nav-brand {
-  display: flex;
+  display: inline-flex;
   align-items: center;
-  gap: var(--space-3);
-  font-family: var(--font-display);
-  font-size: var(--fs-20);
-  letter-spacing: var(--ls-snug);
-  text-transform: uppercase;
-  color: var(--color-black);
+  flex-shrink: 0;
+  height: 88px;
 }
-.nav-brand-mark {
-  width: 42px; height: 42px;
-  display: grid; place-items: center;
-  background: var(--color-red);
-  color: var(--color-white);
-  border-radius: var(--radius-md);
-  font-size: var(--fs-18);
-  font-weight: 800;
-  letter-spacing: 0;
-}
-.nav-brand-text { line-height: 1; }
-.nav-brand-text small {
+.nav-logo {
   display: block;
-  font-family: var(--font-body);
-  font-size: 10px;
-  font-weight: 600;
-  letter-spacing: var(--ls-wider);
-  color: var(--color-text-muted);
-  text-transform: uppercase;
-  margin-top: 2px;
+  height: 88px;
+  width: auto;
+  max-width: 110px;
+  object-fit: contain;
 }
+.nav-logo-scrolled { display: none !important; }
+.nav-logo-default { display: block !important; }
+.nav.is-scrolled .nav-logo-default { display: none !important; }
+.nav.is-scrolled .nav-logo-scrolled { display: block !important; }
 
 .nav-menu {
   display: flex;
@@ -188,11 +198,12 @@
   padding: 8px 14px;
   border: 1px solid var(--color-border);
   border-radius: var(--radius-pill);
+  color: var(--color-black);
   font-size: var(--fs-12);
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: var(--ls-wide);
-  transition: border-color var(--dur-base), color var(--dur-base);
+  transition: border-color var(--dur-base), color var(--dur-base), background var(--dur-base);
 }
 .lang-toggle:hover { border-color: var(--color-red); color: var(--color-red); }
 .lang-toggle .lang-active { color: var(--color-red); }
@@ -368,6 +379,15 @@
   line-height: 1;
   margin-bottom: var(--space-4);
 }
+.footer-logo {
+  display: block;
+  height: auto;
+  width: auto;
+  max-width: 360px;
+  max-height: 140px;
+  object-fit: contain;
+  margin-bottom: var(--space-5);
+}
 .footer-tagline {
   max-width: 36ch;
   color: var(--color-gray-300);
@@ -449,3 +469,36 @@
 .reveal-stagger.is-visible > *:nth-child(4) { transition-delay: 240ms; }
 .reveal-stagger.is-visible > *:nth-child(5) { transition-delay: 320ms; }
 .reveal-stagger.is-visible > *:nth-child(6) { transition-delay: 400ms; }
+
+/* ---------- ADDRESS AUTOCOMPLETE ---------- */
+.addr-autocomplete {
+  position: relative;
+}
+.addr-autocomplete-list {
+  position: absolute;
+  top: calc(100% + 4px);
+  left: 0;
+  right: 0;
+  max-height: 280px;
+  overflow-y: auto;
+  background: var(--color-white);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-md);
+  box-shadow: var(--shadow-lg);
+  z-index: 100;
+  margin: 0;
+  padding: 4px 0;
+  list-style: none;
+}
+.addr-autocomplete-item {
+  padding: 10px 14px;
+  cursor: pointer;
+  font-size: var(--fs-14);
+  color: var(--color-black);
+  transition: background var(--dur-fast, 120ms);
+  line-height: 1.35;
+}
+.addr-autocomplete-item:hover,
+.addr-autocomplete-item.is-active {
+  background: var(--color-bg-alt);
+}

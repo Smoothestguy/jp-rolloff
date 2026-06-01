@@ -1,0 +1,70 @@
+---
+title: "Contact JP Roll-Off Service · Beltsville, MD"
+description: "Contact JP Roll-Off Service: (301) 252-3586 dispatch, 301-879-7040 office. Serving Beltsville, MD and the entire DMV. Free quotes, same-day delivery."
+canonical: "https://jprolloff.com/contact"
+navActive: "/contact"
+---
+{% extends "base.njk" %}
+
+{% block content %}
+<main id="main">
+    <section class="page-header">
+      <div class="container">
+        <span class="eyebrow" style="color:#fff;">Contact</span>
+        <h1>Call. Text. Or send us a note.</h1>
+        <p>The fastest way to a quote is a phone call. We answer live during business hours and respond to forms within the hour.</p>
+      </div>
+    </section>
+
+    <section class="section section-alt">
+      <div class="container">
+        <div class="area-grid" style="align-items: start;">
+          <div>
+            <h2 style="font-size: var(--fs-56);">Talk to dispatch.</h2>
+            <p class="lead" style="margin-top: var(--space-5);">Two numbers — one to the truck, one to the office. Use whichever fits.</p>
+
+            <div style="margin-top: var(--space-10); display: flex; flex-direction: column; gap: var(--space-8);">
+              <div>
+                <span class="eyebrow">Dispatch (24/7 voicemail)</span>
+                <a href="tel:+13012523586" style="display:block; font-family: var(--font-display); font-size: var(--fs-72); color: var(--color-red); letter-spacing: var(--ls-snug); line-height: 1;">(301) 252-3586</a>
+              </div>
+              <div>
+                <span class="eyebrow">Office</span>
+                <a href="tel:+13018797040" style="display:block; font-family: var(--font-display); font-size: var(--fs-40); color: var(--color-black); letter-spacing: var(--ls-snug);">301-879-7040</a>
+              </div>
+              <div>
+                <span class="eyebrow">Mailing</span>
+                <p style="font-size: var(--fs-18); line-height: var(--lh-loose);">PO Box 168<br/>Beltsville, MD 20704</p>
+              </div>
+              <div>
+                <span class="eyebrow">Hours</span>
+                <p style="font-size: var(--fs-18); line-height: var(--lh-loose);">Mon–Fri · 7:00 AM – 6:00 PM<br/>Sat · 8:00 AM – 2:00 PM<br/>Sun · Emergency only</p>
+              </div>
+            </div>
+          </div>
+
+          <form data-quote-form class="form-grid" id="quote" style="background: var(--color-white); padding: var(--space-10); border-radius: var(--radius-xl); border: 1px solid var(--color-border);">
+            <div class="field-full" style="display:flex; flex-direction:column; gap: var(--space-2);">
+              <span class="eyebrow">Free Quote</span>
+              <h3 style="font-size: var(--fs-32);">Send us your project details.</h3>
+            </div>
+            <div class="field"><label for="cf-name">Full name</label><input id="cf-name" name="name" type="text" autocomplete="name" required /></div>
+            <div class="field"><label for="cf-phone">Phone</label><input id="cf-phone" name="phone" type="tel" autocomplete="tel" required /></div>
+            <div class="field field-full"><label for="cf-email">Email</label><input id="cf-email" name="email" type="email" autocomplete="email" /></div>
+            <div class="field field-full"><label for="cf-address">Service address</label><input id="cf-address" name="address" type="text" autocomplete="street-address" required /></div>
+            <div class="field"><label for="cf-size">Dumpster size</label>
+              <select id="cf-size" name="size" required>
+                <option value="">— Select —</option><option>10 Yard</option><option>15 Yard</option><option>20 Yard</option><option>25 Yard</option><option>30 Yard</option><option>Not sure — help me pick</option>
+              </select>
+            </div>
+            <div class="field"><label for="cf-date">Delivery date</label><input id="cf-date" name="date" type="date" /></div>
+            <div class="field field-full"><label for="cf-notes">Project details (optional)</label><textarea id="cf-notes" name="notes" rows="3"></textarea></div>
+            <div class="field-full">
+              <button type="submit" class="btn btn-lg btn-full">Send My Quote Request →</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </section>
+  </main>
+{% endblock %}

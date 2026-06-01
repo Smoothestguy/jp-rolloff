@@ -1,0 +1,93 @@
+---
+title: "Dumpster Rental in Bowie, MD | Same-Day · JP Roll-Off"
+description: "Roll-off dumpster rental in Bowie, MD (20715, 20716, 20720, 20721). Serving Belair, Mitchellville, Pointer Ridge, and the Bowie State area. Same-day delivery. (301) 252-3586."
+canonical: "https://jprolloff.com/locations/bowie"
+navActive: "/service-areas"
+locationSlug: "bowie"
+quoteHref: "/#quote"
+---
+{% extends "base.njk" %}
+
+{% block head %}
+<script type="application/ld+json">
+  { "@context": "https://schema.org", "@type": "LocalBusiness", "name": "JP Roll-Off Service — Bowie Dumpster Rental", "url": "https://jprolloff.com/locations/bowie", "telephone": "+1-301-252-3586", "address": { "@type": "PostalAddress", "addressLocality": "Bowie", "addressRegion": "MD", "postalCode": "20715", "addressCountry": "US" }, "areaServed": { "@type": "City", "name": "Bowie" }, "priceRange": "$$" }
+  </script>
+<script type="application/ld+json">
+  { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://jprolloff.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Service Areas", "item": "https://jprolloff.com/service-areas" },
+    { "@type": "ListItem", "position": 3, "name": "Bowie", "item": "https://jprolloff.com/locations/bowie" }
+  ]}
+  </script>
+{% endblock %}
+
+{% block content %}
+<main id="main">
+    <section class="page-header">
+      <div class="container">
+        <span class="eyebrow" style="color:#fff;">Service Area · Bowie, MD</span>
+        <h1>Dumpster rental in Bowie, MD.</h1>
+        <p>From the Levitt-built Belair neighborhoods to Mitchellville, Pointer Ridge, and the newer developments near Bowie State. Covering 20715, 20716, 20720, and 20721 with same-day delivery on most addresses.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="feature-row">
+          <div class="feature-text">
+            <span class="eyebrow">Why Bowie</span>
+            <h3 style="font-size: var(--fs-56);">Big city, big driveways — and our cleanest job site.</h3>
+            <p>Bowie is one of our easier delivery zones — wide streets, generous driveways, and HOAs that mostly know the drill. Belair's 1960s ranchers are constantly being renovated, Mitchellville is full of large-lot homes mid-remodel, and the commercial corridor along Route 301 keeps our trucks moving every week.</p>
+            <p>If you're inside the City of Bowie limits, expect 24-hour delivery in nearly all cases. Same-day is common.</p>
+            <a href="/#quote" class="btn">Get a Bowie Quote →</a>
+          </div>
+          <div class="feature-visual visual-red">
+            <span class="feature-visual-label">Bowie, MD</span>
+            <span class="feature-visual-num">20715</span>
+            <span class="feature-visual-tag">Same-day</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt">
+      <div class="container">
+        <div class="section-head"><div><span class="eyebrow">Sizes available</span><h2>Five sizes for every Bowie project.</h2></div></div>
+        {% include "size-rows.njk" %}
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container container-narrow">
+        <div class="section-head" style="grid-template-columns: 1fr;"><div><span class="eyebrow">Bowie FAQ</span><h2>Local questions.</h2></div></div>
+        <div class="faq-list">
+          <details class="faq-item" open><summary>Do I need a permit in Bowie?</summary><div class="faq-answer">The City of Bowie requires a right-of-way permit if the dumpster sits in a city street. Driveways and HOA-approved staging do not. Bowie's permit application is straightforward — we can hand it to you with your delivery confirmation.</div></details>
+          <details class="faq-item"><summary>Will my HOA approve it?</summary><div class="faq-answer">Most Bowie HOAs (Belair, Pointer Ridge, Whitemarsh, etc.) require advance notice but rarely deny. We can supply you with a one-page service confirmation to forward to your board.</div></details>
+          <details class="faq-item"><summary>How long does it take to get to Bowie from Beltsville?</summary><div class="faq-answer">About 25 minutes via Route 197 or the BW Parkway. We dispatch out of Beltsville daily, so morning calls usually get same-day delivery.</div></details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt">
+      <div class="container">
+        <h2 style="font-size: var(--fs-40); margin-bottom: var(--space-8);">Neighboring areas we cover</h2>
+        <div class="area-list" style="grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));">
+          <a href="/locations/upper-marlboro">Upper Marlboro</a>
+          <a href="/locations/lanham">Lanham</a>
+          <a href="/locations/greenbelt">Greenbelt</a>
+          <a href="/locations/beltsville">Beltsville</a>
+          <a href="/service-areas">All DMV areas →</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="cta-band">
+          <div><h2>Same-day delivery in Bowie.</h2><p>Call dispatch direct — most Bowie addresses are scheduled the same afternoon.</p></div>
+          <div class="cta-band-actions"><a href="tel:+13012523586" class="cta-band-phone">(301) 252-3586</a><a href="/#quote" class="btn btn-lg">Get a Free Quote →</a></div>
+        </div>
+      </div>
+    </section>
+  </main>
+{% endblock %}

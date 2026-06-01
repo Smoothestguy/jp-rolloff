@@ -1,0 +1,273 @@
+---
+title: "Dumpster Rental Services | JP Roll-Off Service · Beltsville, MD"
+description: "10, 15, 20, 25 & 30 yard roll-off dumpster rentals across the DMV. Construction, residential, demolition, and commercial cleanouts. Same-day delivery from Beltsville, MD."
+canonical: "https://jprolloff.com/services"
+navActive: "/services"
+quoteHref: "/#quote"
+---
+{% extends "base.njk" %}
+
+{% block content %}
+  <main id="main">
+    <section class="page-header">
+      <div class="page-header-img" aria-hidden="true">
+        <img src="/images/dumpster-20yd.png" alt="" loading="eager" />
+      </div>
+      <div class="container">
+        <span class="eyebrow" style="color:#fff;">Dumpsters · DMV</span>
+        <h1>Roll-off dumpster rental — every size, every project.</h1>
+        <p>Five sizes, one phone number, one flat price. JP Roll-Off Service drops 10, 15, 20, 25, and 30-yard roll-off dumpsters across Beltsville, Greenbelt, College Park, Laurel, Hyattsville, and the entire DMV — for garage cleanouts, kitchen remodels, roofing jobs, whole-house demos, and commercial sites. Same-day delivery in most ZIP codes. Tonnage and a 7-day rental included on every quote.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="pillars reveal-stagger">
+          <div class="pillar">
+            <div class="pillar-icon">$</div>
+            <h4>Flat-rate pricing</h4>
+            <p>One number on the quote, one number on the invoice. Tonnage and a 7-day rental are baked in — no fuel fees, no "overage" surprises.</p>
+          </div>
+          <div class="pillar">
+            <div class="pillar-icon">⚡</div>
+            <h4>Same-day delivery</h4>
+            <p>Call before noon for same-day drop in our core service area. Most quotes go out within the hour during business hours.</p>
+          </div>
+          <div class="pillar">
+            <div class="pillar-icon">★</div>
+            <h4>20+ years local</h4>
+            <p>Family-owned in Beltsville since 2005. We know the neighborhoods, the permit rules, and the tight driveways.</p>
+          </div>
+          <div class="pillar">
+            <div class="pillar-icon">¡!</div>
+            <h4>Bilingual office</h4>
+            <p>Atendemos llamadas y cotizaciones en español. Same price, same speed, same crew.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt">
+      <div class="container">
+        <div class="section-head reveal">
+          <div>
+            <span class="eyebrow">All Sizes</span>
+            <h2>Pick the right roll-off for your project.</h2>
+          </div>
+          <p class="lead">Not sure which size fits your job? The quick rule: most full-bathroom or single-room remodels need a 10 or 15-yard, whole-house cleanouts and mid-size roofing jobs land on a 20-yard, and demolitions, additions, or commercial cleanouts call for a 25 or 30-yard. Still unsure — call us. We'll spec it on the phone in under five minutes.</p>
+        </div>
+
+        <div class="dumpster-showcase reveal-stagger">
+          {% for s in sizes %}
+          <article class="ds-card{% if s.popular %} is-popular{% endif %}">
+            {% if s.popular %}<span class="popular-tag">Most Popular</span>{% endif %}
+            <div class="ds-img"><img src="/images/dumpster-{{ s.yd }}yd.png" alt="JP Roll-Off {{ s.yd }} yard dumpster" loading="lazy" /></div>
+            <span class="ds-yd">{{ s.yd }} yd</span>
+            <h3>{{ s.yd }} Yard</h3>
+            <p class="ds-price">From ${{ s.price.low }} · {{ s.tons }} ton{% if s.tons != 1 %}s{% endif %} included</p>
+            <p class="ds-meta">{{ s.servicesBlurb }}</p>
+            <a href="/services/{{ s.slug }}" class="btn btn-secondary btn-sm"{% if s.popular %} style="background:#fff;color:#CC0000;border-color:#fff;"{% endif %}>See {{ s.yd }}-yard details →</a>
+          </article>
+          {% endfor %}
+        </div>
+
+        <p style="margin-top: var(--space-8); text-align:center;">
+          <a class="link-arrow" href="/pricing">Compare all sizes &amp; full pricing →</a>
+        </p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="feature-row">
+          <div class="feature-text">
+            <span class="eyebrow">Why JP Roll-Off</span>
+            <h2 style="font-size: var(--fs-56);">A roll-off company that actually shows up.</h2>
+            <p style="font-size: var(--fs-18); color: var(--color-text-muted); line-height: var(--lh-loose); margin-bottom: var(--space-5);">After two decades hauling for homeowners, GCs, roofers, and property managers across Prince George's, Montgomery, and northern DC, we've learned what people actually want from a dumpster company: a clear price, a driver who answers the phone, and a container that arrives when they said it would. That's the whole business model.</p>
+            <ul class="feature-list is-stacked">
+              <li>
+                <strong>Same-hour written quotes</strong>
+                <span>No "we'll call you back." You get the price in writing, including taxes and tonnage, before you hang up.</span>
+              </li>
+              <li>
+                <strong>Drivers who text ETAs</strong>
+                <span>You'll know when the truck is 30 minutes out so you can move cars or open a gate.</span>
+              </li>
+              <li>
+                <strong>Boards under every container</strong>
+                <span>We protect driveways with 2×10 boards on every drop. No exceptions.</span>
+              </li>
+              <li>
+                <strong>Flexible pickup</strong>
+                <span>Done early? Need more days? Text us. We swap or pull when you're ready — no daily rate gotchas.</span>
+              </li>
+            </ul>
+            <a href="/about" class="btn">Read about JP Roll-Off →</a>
+          </div>
+          <div class="feature-visual feature-visual-photo">
+            <img src="/images/Jprolloffyard.png" alt="JP Roll-Off dumpster yard in Beltsville, MD" loading="lazy" />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt">
+      <div class="container">
+        <div class="section-head reveal">
+          <div>
+            <span class="eyebrow">What You Can Haul</span>
+            <h2>The right dumpster handles almost anything.</h2>
+          </div>
+          <p class="lead">Most residential and construction debris is welcome in any of our roll-offs. A few categories — heavy debris and hazardous materials — need to be handled differently. Here's the quick guide; if your project doesn't fit cleanly into one of these buckets, call us and we'll figure it out together.</p>
+        </div>
+
+        <div class="haul-grid reveal-stagger" style="margin-top: var(--space-10);">
+          <div class="haul-card">
+            <h4>Household junk</h4>
+            <p>Furniture, mattresses, appliances (no freon), boxes, clothes, toys, books, kitchenware. The classic "clean out the garage" haul.</p>
+          </div>
+          <div class="haul-card">
+            <h4>Construction debris</h4>
+            <p>Drywall, lumber, framing scraps, flooring, tile, cabinetry, doors, windows, insulation. Standard remodel and new-build waste.</p>
+          </div>
+          <div class="haul-card">
+            <h4>Roofing materials</h4>
+            <p>Asphalt shingles, underlayment, flashing, roofing nails, plywood decking. Heavy — we'll spec the right size so you don't pay overage.</p>
+          </div>
+          <div class="haul-card">
+            <h4>Yard waste &amp; trees</h4>
+            <p>Branches, brush, sod, mulch, leaves, shrubs, root balls. We can take whole trees — call us first to size it correctly.</p>
+          </div>
+          <div class="haul-card">
+            <h4>Concrete, dirt &amp; brick</h4>
+            <p>Heavy materials are quoted separately because they fill weight before they fill volume. Same flat-rate model, different price line.</p>
+          </div>
+          <div class="haul-card is-warning">
+            <h4>What we can't take</h4>
+            <p>No paint (unless dry and lidless), no oils, no batteries, no tires, no asbestos, no propane tanks, no medical waste, no refrigerators with freon. Ask if unsure.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head reveal">
+          <div>
+            <span class="eyebrow">How It Works</span>
+            <h2>Four steps. About five minutes on the phone.</h2>
+          </div>
+          <p class="lead">There's no app to download, no portal to log into, no 12-page quote form. The whole rental — from "I need a dumpster" to "they hauled it away" — fits in four steps and one phone number.</p>
+        </div>
+
+        <div class="steps reveal-stagger" style="margin-top: var(--space-10);">
+          <article class="step">
+            <div class="step-icon"><img src="/icons/callorquote.png" alt="" /></div>
+            <h4>1. Tell us your project</h4>
+            <p>Call {{ site.phone.display }} or fill out the quote form. Share your address, what you're tearing out or building, and when you want delivery. We confirm pricing in writing the same hour.</p>
+          </article>
+          <article class="step">
+            <div class="step-icon"><img src="/icons/Wedeliver.png" alt="" /></div>
+            <h4>2. We deliver to your door</h4>
+            <p>The driver texts a 30-minute ETA, places the container on 2×10 protective boards, and positions it where you asked — driveway, side yard, alleyway. Photo confirmation included.</p>
+          </article>
+          <article class="step">
+            <div class="step-icon"><img src="/icons/callforpickup.png" alt="" /></div>
+            <h4>3. You fill on your schedule</h4>
+            <p>Take your time — every quote includes a 7-day rental window. Need more days? Text us; extensions are inexpensive and quoted in advance. Don't overload past the fill line and you're set.</p>
+          </article>
+          <article class="step">
+            <div class="step-icon"><img src="/icons/callforpickup.png" alt="" /></div>
+            <h4>4. Text us. We haul.</h4>
+            <p>One text and we're back to pick it up — same day if it's before noon. You pay only the price we quoted. Done early? We'll come sooner. Need a swap? Just say so.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-alt">
+      <div class="container">
+        <div class="feature-row">
+          <div class="feature-text">
+            <span class="eyebrow">Service Area</span>
+            <h2 style="font-size: var(--fs-56);">Centered in Beltsville. Reaching the entire DMV.</h2>
+            <p style="font-size: var(--fs-18); color: var(--color-text-muted); line-height: var(--lh-loose); margin-bottom: var(--space-5);">Our yard sits just off the Capital Beltway in Beltsville, MD. That gives us roughly 45 minutes to every corner of Prince George's County, most of Montgomery County, northern Washington DC, and parts of Anne Arundel and Howard. Same-day delivery is the default for our core area — Beltsville, Greenbelt, College Park, Laurel, Hyattsville, Bowie, Riverdale Park, Lanham, Landover, Cheverly, Bladensburg, and Upper Marlboro. Outside that ring? Still likely — call to confirm.</p>
+            <div class="area-list" style="grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));">
+              <a href="/locations/beltsville">Beltsville</a>
+              <a href="/locations/greenbelt">Greenbelt</a>
+              <a href="/locations/college-park">College Park</a>
+              <a href="/locations/laurel">Laurel</a>
+              <a href="/locations/hyattsville">Hyattsville</a>
+              <a href="/locations/bowie">Bowie</a>
+              <a href="/locations/silver-spring">Silver Spring</a>
+              <a href="/locations/rockville">Rockville</a>
+              <a href="/service-areas">All areas →</a>
+            </div>
+          </div>
+          <div class="feature-visual feature-visual-photo">
+            <img src="/images/jprollofftruck.png" alt="JP Roll-Off Service truck delivering a dumpster in the DMV" loading="lazy" />
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="section-head reveal">
+          <div>
+            <span class="eyebrow">FAQ</span>
+            <h2>Common questions about dumpster rentals.</h2>
+          </div>
+          <p class="lead">If you don't see your question here, call us. We'd rather spend two minutes on the phone than have you book the wrong size.</p>
+        </div>
+
+        <div class="faq-list reveal-stagger" style="margin-top: var(--space-10); max-width: 860px;">
+          <details class="faq-item">
+            <summary>How much does it cost to rent a dumpster in the DMV?</summary>
+            <div class="faq-answer">Most residential dumpster rentals in Maryland run between $300 and $600 for 10- to 20-yard containers, depending on size, ZIP code, and debris type. Our flat rates start at $350 for a 10-yard and top out at $725 for a 30-yard, with tonnage and a 7-day rental included. See the <a href="/pricing">full pricing breakdown</a> — the price you're quoted is the price you pay.</div>
+          </details>
+          <details class="faq-item">
+            <summary>How long can I keep the dumpster?</summary>
+            <div class="faq-answer">Every quote includes a 7-day rental window at no extra charge. Done early? Just text us — we'll come grab it. Need more time? Day extensions are inexpensive and quoted up front so there's no surprise on the invoice. For long construction jobs, we offer multi-week rental packages too.</div>
+          </details>
+          <details class="faq-item">
+            <summary>Do I need a permit?</summary>
+            <div class="faq-answer">If the dumpster sits on your private property — driveway, lawn, side yard — you almost never need a permit. If it has to sit on a public street or right-of-way, your jurisdiction (Prince George's County, Montgomery County, city of Bowie, etc.) will usually require one. We can walk you through who to call. Permit fees, when required, are passed through at cost on your invoice.</div>
+          </details>
+          <details class="faq-item">
+            <summary>Can the dumpster damage my driveway?</summary>
+            <div class="faq-answer">We place 2×10 protective boards under every container, every drop — no exceptions. That spreads the load and prevents scarring on asphalt or concrete. For sealed or stamped concrete, mention it when you book and we'll add extra boards. In 20+ years we've had a handful of issues and we make every one right.</div>
+          </details>
+          <details class="faq-item">
+            <summary>What can't I put in a dumpster?</summary>
+            <div class="faq-answer">Hazardous materials are the universal "no" list: wet paint, oils, fuels, batteries, tires, asbestos, propane tanks, refrigerators with freon (must be evacuated first), and medical waste. Heavy materials like concrete, dirt, and brick are allowed but quoted separately because they fill weight before volume. When in doubt, ask before you toss it in — we'd rather sort it on the phone than at the transfer station.</div>
+          </details>
+          <details class="faq-item">
+            <summary>Do you offer commercial accounts?</summary>
+            <div class="faq-answer">Yes — net-15 terms are available for qualified accounts, and we run repeat-customer pricing for active GCs, roofers, and property managers. Tell us your typical volume and we'll build a price sheet you can budget against. We've been the standing roll-off vendor for some of the DMV's largest remodelers for years.</div>
+          </details>
+          <details class="faq-item">
+            <summary>How fast can you deliver?</summary>
+            <div class="faq-answer">If you call before noon and you're in our core service area (Beltsville, Greenbelt, College Park, Laurel, Hyattsville, Bowie, and the surrounding ZIPs), same-day delivery is the default. Outside that window, we typically deliver next business day. Need a specific time? Tell us when you book — we'll schedule a drop window.</div>
+          </details>
+          <details class="faq-item">
+            <summary>¿Hablan español?</summary>
+            <div class="faq-answer">Sí — toda nuestra oficina atiende llamadas, cotizaciones, y entregas en español. Mismo precio, misma velocidad, mismo equipo. Llama al {{ site.phone.display }} o pide tu cotización por escrito en español y la mandamos en menos de una hora durante horario laboral.</div>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="cta-band">
+          <div><h2>Still not sure which size?</h2><p>Tell us your project — we'll recommend the right size and quote it in the same call.</p></div>
+          <div class="cta-band-actions">
+            <a href="tel:{{ site.phone.tel }}" class="cta-band-phone">{{ site.phone.display }}</a>
+            <a href="/#quote" class="btn btn-lg">Get a Free Quote →</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+{% endblock %}

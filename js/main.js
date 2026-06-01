@@ -16,6 +16,7 @@
     window.addEventListener('scroll', onScroll, { passive: true });
   }
 
+
   // ---------- NAV: mobile menu ----------
   const navToggle = document.querySelector('.nav-toggle');
   const navEl = document.querySelector('.nav');
@@ -45,8 +46,10 @@
     document.querySelectorAll('[data-en]').forEach(el => {
       const en = el.getAttribute('data-en');
       const es = el.getAttribute('data-es');
-      if (lang === 'ES' && es) el.textContent = es;
-      else if (en) el.textContent = en;
+      const value = (lang === 'ES' && es) ? es : en;
+      if (value == null) return;
+      if (el.hasAttribute('data-html')) el.innerHTML = value;
+      else el.textContent = value;
     });
     langToggles.forEach(t => {
       const enLabel = t.querySelector('[data-lang="EN"]');
@@ -136,8 +139,247 @@
     });
   }
 
+  // ---------- TRUCK SCROLL REVEAL ----------
+  // Single scrollProgress value (0..1 across the section) drives every animated property.
+  // Vehicle x: -150% → 150% over [0.10, 0.80]
+  // Headline clip-path inset(0 100% 0 0) → inset(0 0% 0 0) over [0.35, 0.65]
+  // Wheel rotation derived from real horizontal travel ÷ wheel circumference.
+  const truckSection = document.querySelector('.truck-reveal');
+  if (truckSection) {
+    const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (!reduced) {
+      const headline = truckSection.querySelector('.truck-reveal-headline');
+      const vehicle  = truckSection.querySelector('.truck-reveal-vehicle');
+      const wheels   = truckSection.querySelectorAll('.truck-wheel');
+
+      const clamp = (n, lo, hi) => Math.min(Math.max(n, lo), hi);
+      const lerp  = (a, b, t) => a + (b - a) * t;
+
+      let ticking = false;
+      const update = () => {
+        const rect  = truckSection.getBoundingClientRect();
+        const winH  = window.innerHeight;
+        const total = winH + rect.height;
+        const t = clamp((winH - rect.top) / total, 0, 1);
+
+        // ---- Truck drives left → right (one pass) ----
+        // Travel distance is computed dynamically so the truck always fully crosses
+        // the section regardless of viewport width. xPct is expressed as a % of the
+        // vehicle's own width (since translate3d uses that as its reference).
+        const sectionWidthPx  = truckSection.offsetWidth || 1;
+        const vehicleWidthPx2 = vehicle.offsetWidth || 1;
+        // Final position: left edge of truck is 10% past the section's right edge.
+        const maxXPct = ((sectionWidthPx * 1.10) / vehicleWidthPx2) * 100;
+        const tVehicle = clamp((t - 0.05) / 0.85, 0, 1);
+        const xPct = lerp(0, maxXPct, tVehicle);
+        vehicle.style.transform = `translate3d(${xPct}%, -50%, 0)`;
+
+        // ---- Headline reveal tracks the truck's TRAILING (left) edge ----
+        // Only the area the truck has already passed is exposed.
+        const leftEdgePx  = (xPct / 100) * vehicleWidthPx2;
+        const leftEdgePct = (leftEdgePx / sectionWidthPx) * 100;
+        const insetRight  = clamp(100 - leftEdgePct, 0, 100);
+        headline.style.clipPath = `inset(0 ${insetRight}% 0 0)`;
+
+        // ---- Wheel rotation tied to current x position ----
+        // Real geometry: travelPx / (π × wheelWidth) = rotations
+        const vehicleWidthPx = vehicle.offsetWidth || 1;
+        const wheelWidthPx   = wheels[0] ? wheels[0].offsetWidth : 1;
+        const travelPx       = (xPct / 100) * vehicleWidthPx;
+        const circumference  = Math.PI * wheelWidthPx;
+        const degrees        = (travelPx / circumference) * 360;
+        wheels.forEach(w => { w.style.transform = `rotate(${degrees}deg)`; });
+
+        ticking = false;
+      };
+
+      const onScroll = () => {
+        if (!ticking) {
+          requestAnimationFrame(update);
+          ticking = true;
+        }
+      };
+      window.addEventListener('scroll', onScroll, { passive: true });
+      window.addEventListener('resize', onScroll);
+      update();
+    }
+  }
+
+  // ---------- SERVICE AREA MAP (Leaflet + OpenStreetMap) ----------
+  const mapEl = document.getElementById('service-map');
+  if (mapEl && typeof L !== 'undefined') {
+    const HQ = [39.0353, -76.9077]; // Beltsville
+    const cities = [
+      { name: 'Beltsville (HQ)', coords: [39.0353, -76.9077], hq: true },
+      { name: 'Greenbelt',       coords: [39.0046, -76.8755] },
+      { name: 'College Park',    coords: [38.9897, -76.9378] },
+      { name: 'Laurel',          coords: [39.0993, -76.8483] },
+      { name: 'Hyattsville',     coords: [38.9559, -76.9456] },
+      { name: 'Bowie',           coords: [38.9437, -76.7300] },
+      { name: 'Riverdale Park',  coords: [38.9626, -76.9333] },
+      { name: 'Silver Spring',   coords: [38.9907, -77.0261] },
+      { name: 'Takoma Park',     coords: [38.9779, -77.0075] },
+      { name: 'Landover',        coords: [38.9356, -76.8889] },
+      { name: 'Lanham',          coords: [38.9676, -76.8556] },
+      { name: 'Cheverly',        coords: [38.9279, -76.9156] },
+      { name: 'Bladensburg',     coords: [38.9387, -76.9314] },
+      { name: 'Rockville',       coords: [39.0840, -77.1528] },
+      { name: 'Upper Marlboro',  coords: [38.8157, -76.7494] }
+    ];
+
+    const map = L.map(mapEl, {
+      center: HQ,
+      zoom: 10,
+      scrollWheelZoom: false,
+      zoomControl: true,
+      attributionControl: true
+    });
+
+    // Dark tile theme matching the section's aesthetic (CartoDB Dark Matter — free, no key)
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png', {
+      attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
+      maxZoom: 19
+    }).addTo(map);
+
+    // Service radius — ~25 mi (40 km) around Beltsville
+    L.circle(HQ, {
+      radius: 40000,
+      color: '#CC0000',
+      weight: 2,
+      fillColor: '#CC0000',
+      fillOpacity: 0.10
+    }).addTo(map);
+
+    // Custom markers — red dot for cities, larger red pin for HQ
+    const dotIcon = L.divIcon({
+      className: 'service-map-marker',
+      html: '<span class="service-map-dot"></span>',
+      iconSize: [16, 16],
+      iconAnchor: [8, 8]
+    });
+    const hqIcon = L.divIcon({
+      className: 'service-map-marker is-hq',
+      html: '<span class="service-map-dot"></span>',
+      iconSize: [22, 22],
+      iconAnchor: [11, 11]
+    });
+
+    cities.forEach(c => {
+      L.marker(c.coords, { icon: c.hq ? hqIcon : dotIcon, title: c.name })
+        .addTo(map)
+        .bindTooltip(c.name, { permanent: false, direction: 'top', offset: [0, -8] });
+    });
+  }
+
   // ---------- CURRENT YEAR ----------
   document.querySelectorAll('[data-year]').forEach(el => {
     el.textContent = new Date().getFullYear();
   });
+
+  // ---------- ADDRESS AUTOCOMPLETE (Photon API, no key required) ----------
+  document.querySelectorAll('#qf-address, #cf-address').forEach(initAddressAutocomplete);
+
+  function initAddressAutocomplete(input) {
+    const wrap = document.createElement('div');
+    wrap.className = 'addr-autocomplete';
+    input.parentNode.insertBefore(wrap, input);
+    wrap.appendChild(input);
+
+    const dropdown = document.createElement('ul');
+    dropdown.className = 'addr-autocomplete-list';
+    dropdown.setAttribute('role', 'listbox');
+    dropdown.hidden = true;
+    wrap.appendChild(dropdown);
+
+    let debounceTimer;
+    let currentResults = [];
+    let activeIdx = -1;
+
+    const closeDropdown = () => { dropdown.hidden = true; activeIdx = -1; };
+
+    const formatResult = (feature) => {
+      const p = feature.properties || {};
+      const parts = [];
+      if (p.housenumber && (p.street || p.name)) parts.push(`${p.housenumber} ${p.street || p.name}`);
+      else if (p.street) parts.push(p.street);
+      else if (p.name) parts.push(p.name);
+      const city = p.city || p.town || p.village || p.county;
+      if (city) parts.push(city);
+      if (p.state) parts.push(p.state);
+      if (p.postcode) parts.push(p.postcode);
+      return parts.filter(Boolean).join(', ');
+    };
+
+    const renderList = (results) => {
+      currentResults = results;
+      activeIdx = -1;
+      dropdown.innerHTML = '';
+      if (!results.length) { closeDropdown(); return; }
+      results.forEach((r) => {
+        const li = document.createElement('li');
+        li.className = 'addr-autocomplete-item';
+        li.setAttribute('role', 'option');
+        li.textContent = r.display;
+        li.addEventListener('mousedown', (e) => {
+          e.preventDefault();
+          input.value = r.display;
+          closeDropdown();
+        });
+        dropdown.appendChild(li);
+      });
+      dropdown.hidden = false;
+    };
+
+    const fetchSuggestions = async (query) => {
+      try {
+        const url = `https://photon.komoot.io/api/?q=${encodeURIComponent(query)}&limit=8&lang=en&lat=39.0353&lon=-76.9077&zoom=10`;
+        const res = await fetch(url);
+        if (!res.ok) return;
+        const data = await res.json();
+        const results = (data.features || [])
+          .filter(f => {
+            const p = f.properties || {};
+            return p.country === 'United States' || p.countrycode === 'US';
+          })
+          .map(f => ({ display: formatResult(f) }))
+          .filter(r => r.display);
+        renderList(results);
+      } catch (_) { /* silent — user can still type manually */ }
+    };
+
+    input.addEventListener('input', () => {
+      const q = input.value.trim();
+      clearTimeout(debounceTimer);
+      if (q.length < 3) { closeDropdown(); return; }
+      debounceTimer = setTimeout(() => fetchSuggestions(q), 250);
+    });
+
+    input.addEventListener('keydown', (e) => {
+      if (dropdown.hidden) return;
+      const items = dropdown.querySelectorAll('.addr-autocomplete-item');
+      if (!items.length) return;
+      if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        activeIdx = (activeIdx + 1) % items.length;
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        activeIdx = (activeIdx - 1 + items.length) % items.length;
+      } else if (e.key === 'Enter' && activeIdx >= 0) {
+        e.preventDefault();
+        input.value = currentResults[activeIdx].display;
+        closeDropdown();
+        return;
+      } else if (e.key === 'Escape') {
+        closeDropdown();
+        return;
+      } else {
+        return;
+      }
+      items.forEach((el, i) => el.classList.toggle('is-active', i === activeIdx));
+      const active = items[activeIdx];
+      if (active && active.scrollIntoView) active.scrollIntoView({ block: 'nearest' });
+    });
+
+    input.addEventListener('blur', () => setTimeout(closeDropdown, 150));
+  }
 })();

@@ -1,0 +1,76 @@
+---
+title: "Dumpster Rental Pricing | JP Roll-Off Service · Beltsville, MD"
+description: "Flat-rate, all-inclusive pricing for 10–30 yard dumpster rentals across the DMV. No hidden fees. Tonnage included. Free written quotes — same day."
+canonical: "https://jprolloff.com/pricing"
+navActive: "/pricing"
+quoteHref: "#quote"
+---
+{% extends "base.njk" %}
+
+{% block content %}
+  <main id="main">
+    <section class="page-header">
+      <div class="container">
+        <span class="eyebrow" style="color:#fff;" data-en="Pricing" data-es="Precios">Pricing</span>
+        <h1 data-en="Flat-rate. All-inclusive. No surprises." data-es="Tarifa fija. Todo incluido. Sin sorpresas.">Flat-rate. All-inclusive. No surprises.</h1>
+        <p data-en="What we quote is what you pay. Delivery, pickup, the rental period, and a tonnage allowance — all bundled into one number." data-es="Lo que cotizamos es lo que pagas. Entrega, recogida, periodo de renta y tonelaje — todo en un solo precio.">What we quote is what you pay. Delivery, pickup, the rental period, and a tonnage allowance — all bundled into one number.</p>
+      </div>
+    </section>
+
+    <section class="section section-alt">
+      <div class="container">
+        <div class="market-context reveal" style="max-width: 720px; margin-bottom: var(--space-8);">
+          <span class="eyebrow" data-en="Market Context" data-es="Contexto del Mercado">Market Context</span>
+          <h2 style="font-size: var(--fs-40); margin-bottom: var(--space-5); margin-top: var(--space-3);" data-en="Typical pricing in our core service area" data-es="Precios típicos en nuestra área principal de servicio">Typical pricing in our core service area</h2>
+          <p class="lead" data-en="Typical residential dumpster rentals in Maryland fall between $300 and $600 for 10- to 20-yard containers. JP Roll-Off's Beltsville-area pricing sits inside that range — and every quote is all-inclusive, with tonnage and a 7-day rental built in." data-es="Las rentas residenciales típicas de contenedores en Maryland van de $300 a $600 para tamaños de 10 a 20 yardas. Nuestro precio en el área de Beltsville está dentro de ese rango — y cada cotización incluye tonelaje y 7 días de renta.">Typical residential dumpster rentals in Maryland fall between $300 and $600 for 10- to 20-yard containers. JP Roll-Off's Beltsville-area pricing sits inside that range — and every quote is all-inclusive, with tonnage and a 7-day rental built in.</p>
+        </div>
+
+        <div class="pricing-compare reveal-stagger">
+          {% for s in sizes %}
+          <article class="pricing-compare-row{% if s.popular %} is-popular{% endif %}">
+            {% if s.popular %}<span class="popular-tag" data-en="Most Popular" data-es="Más Popular">Most Popular</span>{% endif %}
+            <div class="pricing-compare-yd">{{ s.yd }}<small data-en="Yard" data-es="Yarda">Yard</small></div>
+            <div class="pricing-compare-body">
+              <p class="pricing-compare-price">${{ s.price.low }}–${{ s.price.high }}</p>
+              <ul class="pricing-compare-meta"{% if s.popular %} style="color: rgba(255,255,255,0.75);"{% endif %}>
+                <li data-en="7-day rental included" data-es="Renta de 7 días incluida">7-day rental included</li>
+                <li data-en="{{ s.tons }} ton ({{ s.lbs | thousands }} lb) tonnage included" data-es="{{ s.tons }} tonelada{% if s.tons != 1 %}s{% endif %} ({{ s.lbs | thousands }} lb) de tonelaje incluida{% if s.tons != 1 %}s{% endif %}">{{ s.tons }} ton ({{ s.lbs | thousands }} lb) tonnage included</li>
+              </ul>
+            </div>
+            <div class="pricing-compare-best">
+              <h4 data-en="Best for" data-es="Mejor para">Best for</h4>
+              <ul class="feature-list">
+                {% for b in s.bestFor %}
+                <li data-en="{{ b.en }}" data-es="{{ b.es }}">{{ b.en }}</li>
+                {% endfor %}
+              </ul>
+            </div>
+            <div class="pricing-compare-why">
+              <p class="pricing-compare-why-label" data-en="Why customers pick this" data-es="Por qué eligen este tamaño">Why customers pick this</p>
+              <p data-en="{{ s.why.en }}" data-es="{{ s.why.es }}">{{ s.why.en }}</p>
+              <a class="link-arrow" href="/services/{{ s.slug }}" data-en="See {{ s.yd }}-yard details →" data-es="Ver detalles {{ s.yd }} yardas →">See {{ s.yd }}-yard details →</a>
+            </div>
+          </article>
+          {% endfor %}
+        </div>
+
+        <p style="margin-top: var(--space-8); font-size: var(--fs-14); color: var(--color-text-muted);" data-en="* Heavy debris (concrete, dirt, brick) priced separately. Permit fees, if required by your jurisdiction, are passed through at cost. Day extensions are inexpensive and quoted in advance." data-es="* Escombros pesados (concreto, tierra, ladrillo) se cotizan por separado. Permisos, si tu jurisdicción los requiere, se cobran al costo. Días adicionales son económicos y se cotizan por adelantado.">* Heavy debris (concrete, dirt, brick) priced separately. Permit fees, if required by your jurisdiction, are passed through at cost. Day extensions are inexpensive and quoted in advance.</p>
+      </div>
+    </section>
+
+    <section class="section" id="quote">
+      <div class="container">
+        <div class="cta-band">
+          <div>
+            <h2 data-en="Get a written quote — today." data-es="Obtén una cotización por escrito — hoy.">Get a written quote — today.</h2>
+            <p data-en="Most quotes go out within the hour during business hours." data-es="La mayoría de las cotizaciones salen dentro de la hora durante horario de oficina.">Most quotes go out within the hour during business hours.</p>
+          </div>
+          <div class="cta-band-actions">
+            <a href="tel:{{ site.phone.tel }}" class="cta-band-phone">{{ site.phone.display }}</a>
+            <a href="/#quote" class="btn btn-lg" data-en="Get a Free Quote →" data-es="Obtener Cotización Gratis →">Get a Free Quote →</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+{% endblock %}
