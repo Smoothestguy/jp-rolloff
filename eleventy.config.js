@@ -1,4 +1,12 @@
+import markdownIt from "markdown-it";
+
+// Renderer for long-form combo bodies stored as markdown in /content/combos.
+const md = markdownIt({ html: true, linkify: true, typographer: true });
+
 export default function (eleventyConfig) {
+  // Render a markdown string to HTML (used by the combo template for deep bodies).
+  eleventyConfig.addFilter("markdown", (s) => (s ? md.render(String(s)) : ""));
+
   // Copy static assets straight through to the build output.
   // Object form: { "<source relative to project root>": "<dest relative to _site>" }
   // Assets live at the repo root (not in src/), so we map them explicitly.

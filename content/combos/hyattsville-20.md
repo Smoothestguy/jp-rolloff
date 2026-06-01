@@ -1,0 +1,36 @@
+Hyattsville is one of the original streetcar suburbs of Washington, D.C. — laid out in the 1880s, built up through the early 1940s, and still carrying a housing stock that runs from Queen Anne and Italianate to Second Empire, Colonial Revival, and the Craftsman bungalows that line so many of its blocks. Old houses like these are always in motion: gut renovations, additions, estate handoffs, and tired roofs coming off. For most of that work, the 20-yard roll-off is the size that fits — big enough for a real project, small enough to land in a driveway. It is the box we drop in Hyattsville more than any other.
+
+We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville — a short run down to most Hyattsville addresses. When you call, you reach the family that owns the trucks, not a call center.
+
+## What fits in a 20-yard dumpster
+
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical Hyattsville rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the fact.
+
+The five-foot walls are the part people underestimate. They are low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a serious project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but short of the 30-yard that mostly makes sense for new construction or heavy corridor work. It is the size most customers end up choosing — and rarely regret. On a standard two-car driveway, it fits with room to spare.
+
+## Which Hyattsville jobs suit the 20-yard
+
+This is the size people reach for when the work is real but still contained to one home. Around Hyattsville, a handful of jobs come up again and again:
+
+- **Whole-house cleanouts.** This is the 20-yard's best-known role. Hyattsville's older stock — much of it more than a century old — collects a lifetime of belongings, and clearing one of these homes between owners, or after years of accumulation, fills a 20-yard about right without paying for space you will not use.
+- **Multi-room remodels.** A kitchen-and-two-baths gut, or a run of rooms getting new flooring and drywall, is the classic 20-yard job in these late-1880s-to-1940s frame houses. The Historic District alone holds roughly 600 structures, including mail-order Sears & Roebuck kit bungalows from the 1920s, and that older stock drives a steady stream of renovations and historic restorations.
+- **Estate cleanouts.** When a longtime family home in the Historic District — Downtown, Hyattsville Hills, or Castle Manor — changes hands, the 20-yard handles furniture, boxes, and household debris in a single container.
+- **Mid-size roofing tear-offs.** A typical single-family roof tear-off fits comfortably, with the 2-ton allowance covering most single-layer asphalt jobs on these older homes.
+
+It helps to know that Hyattsville is not all one kind of house, because that changes what size you actually need. In the surrounding subdivisions — the mid-century Cape Cods, ranch-style homes, and red-brick Colonial Revivals that ring the older core — a 20-yard handles most remodels and cleanouts cleanly. University Hills, up against the University of Maryland, sees its share of turnover and renovation work. Out along the Arts District Hyattsville and the Route 1 corridor, where restored Italianate storefronts sit beside newer townhomes and commercial build-outs, heavier fit-out and demolition debris can push a project toward a 25 or 30-yard instead. Tell us your address and the job, and we will tell you straight whether the 20 is the right call.
+
+## Local logistics: placement, permits, and drive time
+
+**Lot and driveway placement.** This is where Hyattsville asks for more planning than a typical suburb. As a pre-automobile streetcar suburb, the older neighborhoods — especially the Historic District's Hyattsville Hills, Downtown, and Castle Manor — were platted on a gridiron of relatively narrow lots, with rear alleys and a notable absence of front-yard driveways. Many homes rely on rear alley access and detached garages rather than wide driveways; one representative historic lot runs about 39 feet wide by 57.5 feet deep with a 15-foot rear alley behind it. A 20-yard needs roughly 16 feet of straight length plus a few feet of clearance and an open swing for the rear door, so on these lots placement is a real conversation — a driveway-end drop, an alley set, or the street. We will scout it with you before the truck rolls and lay boards under the wheels on request to protect the surface.
+
+**When the street is the only option.** Where a driveway or back yard simply cannot take a roll-off, street placement becomes the practical choice — and in Hyattsville that is far more common than in auto-era suburbs. The City of Hyattsville requires a Street Access / Right-of-Way Usage permit, with a $50 fee, before a temporary storage container like a roll-off can sit on a public street. Private driveways and back-yard placement do not need it. City code also makes it unlawful to store materials on City streets or sidewalks without that permit, and any street obstruction must be marked with one or more red lanterns at night to warn the public. Permits and questions run through the City's Office of Code Compliance, at (301) 985-5032.
+
+One wrinkle worth knowing: the four Hyattsville ZIP codes — 20781, 20782, 20783, and 20784 — cover more ground than the incorporated City. 20781 is central and historic; 20782 reaches north and overlaps Chillum, University Park, Adelphi, and Mount Rainier; 20783 extends east into neighboring communities. The City's Right-of-Way permit rule only applies on City-maintained streets, so an address with a Hyattsville mailing ZIP that sits in unincorporated Prince George's County follows county rules instead. When we look at your address, we will flag which set applies before the box arrives.
+
+**Stream-valley lots.** West Hyattsville is bordered by the Northwest Branch of the Anacostia River, and the paved Anacostia Tributary Trail runs the stream valley through town. Lots near that corridor can face soft ground and limited access, so for a heavy 20-yard we plan placement carefully to keep the box on stable footing.
+
+**Drive time.** We are just up the road in Beltsville, so Hyattsville is one of our shorter runs, and same-day drops are common when you call early. Whether you are on a narrow historic block in Hyattsville Hills, in Castle Manor or West Hyattsville, near University Hills, or out toward the Riverdale border, we know the streets and plan placement before we roll.
+
+## Talk to the family that runs the trucks
+
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Hyattsville address and what you are tackling — a whole-house cleanout in the Historic District, a multi-room remodel on a narrow Hyattsville Hills lot, an estate cleanout in Castle Manor, or a roof tear-off near the Riverdale border — and we will confirm the 20-yard is the right size, sort out whether you need that Right-of-Way permit, and quote you on the spot.

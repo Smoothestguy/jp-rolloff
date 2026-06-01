@@ -1,0 +1,34 @@
+College Park is a city built around the University of Maryland, and that one fact shapes almost everything about a dumpster's life here. The campus sits at the heart of town, the Route 1 corridor running past it is in the middle of a multi-billion-dollar redevelopment wave, and the neighborhoods wrapped around both — Old Town, Berwyn, Hollywood, Calvert Hills — are full of old houses on narrow lots in their second, third, or fourth round of renovation. For the homeowner clearing out a whole house, gutting a few rooms, settling an estate, or tearing off a tired roof, the 20-yard roll-off is almost always the size that fits the job. It is the one we drop in College Park more than any other.
+
+We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville — a quick run down Route 1 to most College Park addresses. When you call, you reach the family that owns the trucks, not a call center.
+
+## What fits in a 20-yard dumpster
+
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical College Park rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the fact.
+
+The five-foot walls are the part people underestimate. They are low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a real project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but short of the 30-yard that mostly makes sense for new construction or heavy corridor demolition. It is the size most customers end up choosing — and rarely regret. On a standard two-car driveway, it fits with room to spare.
+
+## Which College Park jobs suit the 20-yard
+
+This is the size people reach for when the work is real but still contained to one home. Around College Park, a handful of jobs come up again and again:
+
+- **Whole-house cleanouts.** This is the 20-yard's best-known role. College Park's housing stock skews old and varied — most homes were built between roughly 1940 and 1969, with Old Town and Berwyn holding houses over a century old — and clearing one of those homes between owners, or after years of accumulation, fills a 20-yard about right without paying for space you will not use.
+- **Multi-room remodels.** A kitchen-and-two-baths gut, or a run of rooms getting new flooring and drywall, is the classic 20-yard job in these pre-WWII frame houses, mid-century Cape Cods, ranches, and split-levels that are on their second or third renovation.
+- **Estate cleanouts.** When a longtime family home in Old Town's historic district — nearly 300 buildings ranging from early-1900s Victorians and Queen Annes to Colonial Revivals and Arts & Crafts bungalows — changes hands, the 20-yard handles furniture, boxes, and household debris in a single container.
+- **Mid-size roofing tear-offs.** A typical single-family roof tear-off fits comfortably, with the 2-ton allowance covering most single-layer asphalt jobs on these older homes.
+
+It helps to know that College Park is not all one kind of house, because that changes what size you actually need. The Calvert Hills district near campus is an eclectic mix of Colonial Revival, Queen Anne, Craftsman, and Tudor Revival homes, many converted into multi-unit rentals that generate frequent renovation and turnover debris — squarely 20-yard work. Berwyn, developed from the 1880s along the old B&O Railroad, leans toward smaller frame homes and bungalows where an interior demo or a basement-and-attic cleanout might fit a 10 or 15-yard instead. And out along the Route 1 development strip, the heavy construction debris from corridor projects often calls for a 25 or 30-yard. If you tell us your address and the project, we will tell you straight whether the 20 is the right call.
+
+## Local logistics: placement, permits, and drive time
+
+**Lot and driveway placement.** This is where College Park asks for more planning than a typical suburb. Old Town was platted on the original 125-acre tract as a grid of long, narrow building lots — a standard lot was about 50 by 200 feet — so driveways tend to be single-car width and homes sit close to their neighbors. A 20-yard needs roughly 16 feet of straight length plus a few feet of clearance and an open swing for the rear door, and on these deep-but-narrow lots that can mean tight backing or a driveway-end drop-off. We will scout the placement with you so the truck clears and the box lands where it actually works, and we will lay boards under the wheels on request to protect the surface.
+
+**When the street is the only option.** Many homes near the UMD campus and in North College Park have few or no driveways and rely on street parking, and several of those crowded blocks are already permit-only for parking. Where a driveway simply cannot take a roll-off, street placement becomes the practical choice — and the City of College Park requires a right-of-way permit for a dumpster set in the street, issued through Public Works. Driveways and private lots are handled differently, and we will flag exactly what your address needs the moment we look at it. (Because the city's residential placement rules can be read more than one way, we confirm the current permit requirement directly with the city for any street drop rather than guess — that is a question worth getting right before the box arrives.)
+
+**The campus calendar.** Nowhere else in the area does the dumpster schedule revolve around the academic year the way it does here. Most off-campus student houses and apartments run August-to-July leases, so late summer brings a surge of move-out cleanouts, furniture and junk hauling, and landlord turnover work across the campus-adjacent neighborhoods. If you are a landlord planning an August turnover, book early — that window fills up fast, and a 20-yard is usually the right size for clearing a single student house.
+
+**Drive time.** We are just up Route 1 in Beltsville, so College Park is one of our shortest runs. Most addresses are scheduled inside 24 hours, and early calls often make the same-day drop. Whether you are off Baltimore Avenue in the campus corridor, on a narrow lot in Old Town, or out near the College Park Airport end of town, we know the streets and plan placement before we roll.
+
+## Talk to the family that runs the trucks
+
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your College Park address and what you are tackling — a whole-house cleanout in Old Town, a multi-room remodel in Calvert Hills, an August turnover near campus, or a roof tear-off in Hollywood — and we will confirm the 20-yard is the right size and quote you on the spot.

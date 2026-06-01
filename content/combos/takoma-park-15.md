@@ -1,0 +1,38 @@
+Most of the work that fills a roll-off in Takoma Park is not new construction — it is one room at a time inside a century-old house. The kitchen that finally loses its 1980s cabinets, a worn roof getting torn off down to the deck, a pair of dated bathrooms gutted to the studs, or a basement cleared out before a finish job. That is exactly where the 15-yard earns its keep. It is the in-between size: a step up from the small 10-yard, still compact enough to live on a driveway, and sized for the single-room renovation that defines so much of the work happening across this old streetcar suburb.
+
+We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville. When you call, you reach the owners, not a call center, and Beltsville is a short run from Takoma Park — your dumpster's not far behind.
+
+## What fits in a 15-yard dumpster
+
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds roughly four and a half pickup-truck loads of debris. It comes with a 1.5-ton (3,000 lb) weight allowance, and in Takoma Park a typical 15-yard rental runs **$425 to $485, including delivery, pickup, and that tonnage**. No tipping-fee surprises tacked on after the haul.
+
+Four feet of wall height is the part people appreciate once the work starts. It is low enough to walk debris up and toss it over the side without a ramp, which matters on a one-room remodel where you are carrying material out by hand all day. The 15-yard is best known as the "single-room reno" size for exactly that reason: bigger than the 10-yard you would grab for a quick declutter, but well short of the 20-, 25-, or 30-yard you would only want for a multi-room gut or a commercial tear-out. For a single project that generates real volume but still fits a tight historic-district lot, it is the right call.
+
+## Which Takoma Park jobs suit the 15-yard
+
+Takoma Park is one of the Washington area's oldest planned streetcar suburbs, founded in 1883, and its historic district holds more than 600 contributing buildings dating from the 1880s to the 1930s. The practical result is that roll-off projects here are disproportionately renovations and additions to century-old homes rather than ground-up builds. The dominant stock is late-Victorian and early-20th-century — Queen Anne and Stick/Shingle Victorians with ornate woodwork and front porches, Colonial Revival Foursquares, and Craftsman bungalows largely built in the 1920s or earlier. Those older houses drive exactly the single-room work the 15-yard is built for.
+
+- **Kitchen remodel.** Pulling cabinets, countertops, flooring, and plaster or drywall from one kitchen fills a 15-yard about right without paying for space you won't use.
+- **Roofing tear-off.** A single-layer asphalt tear-off on a typical Takoma Park home fits comfortably, with the 1.5-ton allowance covering most jobs that size. Heavier or multi-layer tear-offs may need the next size up, and we will tell you straight.
+- **Two-bath gut.** Tile, fixtures, vanities, and subfloor from a pair of bathrooms is a textbook 15-yard load — and common in homes where knob-and-tube and old plaster are coming out at the same time.
+- **Basement cleanout.** Clearing a storage or finished lower level before a remodel or a sale.
+
+In **Old Takoma**, the historic commercial heart along Carroll and Laurel Avenues anchored by the Red Line Metro station and the Sunday farmers market, the surrounding homes sit on small footprints with little room to spare. **North Takoma** is quieter and more wooded, with larger older homes and direct Sligo Creek Trail access. Older subdivisions like **Hampshire Knolls** and Carroll Manor follow the same pattern — one-room remodels and tear-offs, not big demolition. Each of these neighborhoods feeds the kind of contained, single-project debris a 15-yard handles cleanly.
+
+## Local logistics: placement, permits, and drive time
+
+**The Takoma Park placement wrinkle.** This is what sets Takoma Park apart from almost any other town we serve. Three constraints collide in one place. First, the city has one of the toughest tree-protection ordinances in Montgomery County and is a certified Tree City USA, with a dense, mature hardwood canopy of tall tulip trees and large street trees. Those low overhanging limbs are a real constraint both when spotting the can and when our truck makes the delivery and pickup. Second, the city sits on the Mid-Atlantic fall line and is notably hilly, with narrow, gridded streets set at odd angles — even Carroll Avenue, Old Takoma's main street, pinches to two lanes within city limits. Third, the city's right-of-way permit regime makes driveway placement strongly preferred. On 1880s-to-1930s lots with small footprints and heavy tree cover, deciding where to physically set the container is harder here than the size of the dumpster ever is. Tell us about your trees, your slope, and your driveway when you call, and we will plan the drop carefully.
+
+**The Takoma Park permit rule.** The City of Takoma Park's Public Works Department issues the permit for placing a dumpster or storage container in a city street or right-of-way, and many blocks ban street placement entirely — so a driveway is strongly preferred. The city explicitly states **no permit is required if the dumpster is placed in your driveway**. If the street is your only option, plan ahead: the city warns you may not place the container until you have received written notice that the permit is granted. We will flag which path applies once we see your address.
+
+**Driveway placement.** A 15-yard needs roughly 14 feet of straight length plus a few feet of clearance and an open swing for the rear door, and enough overhead room for the truck to lift and set the can clear of low limbs. On most Takoma Park homes that is a driveway drop, which keeps you out of the permit process entirely. We lay boards under the wheels on request to protect the surface.
+
+**A note on the Maple Avenue corridor.** The Maple Avenue pocket (ZIP 20912) is the city's multi-family area, with mid-century apartment buildings and condos. For a unit turnover or an association project there, dumpster placement usually relies on a designated lot space rather than a single-family driveway, so coordinate the spot with your building before we roll. And if your property backs onto the Sligo Creek stream valley, placement options can be tighter and the ground softer or sloped — worth mentioning up front.
+
+**ZIP and county note.** Takoma Park uses ZIP 20912, and the city spans the Montgomery County / Prince George's County line, so projects on the eastern edge can fall under PG County for non-city right-of-way matters. Give us the physical street address and we will sort out which rules apply.
+
+**Drive time.** Beltsville is a short run from Takoma Park, so this is a quick haul for us. The tight historic streets just mean we take our time on placement. We dispatch every morning — early calls usually make the same-day run, and most other addresses are scheduled inside 24 hours.
+
+## Talk to the family that runs the trucks
+
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Takoma Park address and what you are tackling, whether it is a kitchen remodel in Old Takoma, a roof tear-off on a North Takoma Victorian, a two-bath gut in Hampshire Knolls, or a basement cleanout near the Maple Avenue corridor, and we will confirm the 15-yard is the right size, sort out the permit and a tree-safe placement, and quote you on the spot. Reach us at **(301) 252-3586**.

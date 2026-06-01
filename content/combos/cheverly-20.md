@@ -1,0 +1,32 @@
+Cheverly is one of the more distinctive towns we serve — a small, tree-lined bedroom community of historic single-family homes, deliberately planned in the early 1900s as an "island of green" on rolling, wooded contours rather than a flat grid. The housing stock runs from the 34 original developer-built houses of 1921 to 1925 through Cape Cods, Colonial Revivals, ramblers, and mid-century ranch and split-levels of the 1950s and 60s. That mix of century-old and post-war homes, almost all detached on generous lots, is exactly the kind of place where the 20-yard roll-off earns its reputation. When a Cheverly homeowner is gutting more than one room, clearing out a family home, or tearing off a mid-size roof, the 20-yard is the size most of them land on — and rarely regret.
+
+We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about a 20-minute run from Cheverly. When you call, you get the family that owns the trucks, not a call center.
+
+## What fits in a 20-yard dumpster
+
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical Cheverly rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the fact.
+
+Those five feet of wall height are the part people underestimate. It is low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a real project. That balance is why the 20-yard sits in the sweet spot: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for a full structural gut or new construction. It is best known as the "whole-house cleanout" size — the one most customers end up choosing. On most two-car driveways it fits with room to spare.
+
+## Which Cheverly jobs suit the 20-yard
+
+This is the size people reach for when the work is real but contained to one home. Around Cheverly, that means a few jobs come up again and again:
+
+- **Whole-house cleanouts.** The 20-yard's best-known role. Clearing out one of the town's detached single-family homes between owners, or after years of accumulation, fills a 20-yard about right without paying for space you will not use.
+- **Multi-room remodels.** A kitchen-and-two-baths gut, or a run of bedrooms getting new flooring and drywall, is the classic 20-yard job. In a 1950s or 60s rambler or split-level on its second or third renovation, that is the typical haul.
+- **Estate cleanouts.** When a longtime family home changes hands, the 20-yard handles furniture, boxes, and household debris in a single container — a common need in a settled community where many homes have stayed in the same family for decades.
+- **Mid-size roofing tear-offs.** A typical single-layer asphalt tear-off on one of these homes fits comfortably, with the 2-ton allowance covering most of those jobs.
+
+It helps to know that Cheverly is not all one kind of house, because that changes what size you actually need. The town holds Prince George's County's largest documented collection of 1920s mail-order and kit houses — 34 homes from Sears, Roebuck & Co. and the McClure Homes Company — and the Cheverly Historic District is listed on the National Register of Historic Places. Renovating one of those century-old houses tends to mean plaster, lath, original wood, and dated additions, which is debris well-suited to a 15- or 20-yard depending on how much of the house you are touching. A single-room or single-bath refresh might only need a 10-yard, while a full gut or major estate clearout can push toward a 30. Tell us your address and the project, and we will tell you straight whether the 20 is the right call.
+
+## Local logistics: placement, permits, and drive time
+
+**Driveway placement and the tree canopy.** Cheverly is what sets this town apart for a hauler. It is a designated Tree City USA with a protected, mature oak canopy, winding and curving streets, and homes set back on generous, tree-shaded lots that follow the town's rolling natural contours. The practical upshot is that two things matter more here than in flat, grid-platted DMV suburbs: low-hanging tree limbs and grade. A 20-yard needs roughly 16 feet of straight length plus a few feet of clearance and an open swing for the rear door, and our truck needs vertical room to lift and set the container — so we will scout for overhanging limbs before we commit to a spot. On a sloped or graded driveway, we level the container so the door works and nothing shifts. We will lay boards under the wheels on request to protect the surface.
+
+**The Cheverly permit rule.** The Town of Cheverly requires a permit only when the dumpster sits on the street or public right-of-way. Driveway placement is permit-free. Because most Cheverly homes are detached single-family houses with their own driveways, the street permit is the exception here rather than the rule. If the only practical spot is the street, the permit runs on a 24 to 48-hour turnaround, and we will flag it the moment we look at your address so it is handled before your drop-off date.
+
+**Drive time and access.** We are about 20 minutes out in Beltsville. Cheverly is a compact town — just 1.35 square miles, about a mile from the northeastern D.C. line — and U.S. Route 50 borders the community, giving our trucks direct highway access right to the edge of town. Most addresses are scheduled inside 24 hours, and early calls often make the same-day run. Once we are off Route 50 and onto the curving residential streets, the only real planning is the tree clearance and grade we mentioned above, which we sort out with you when you book.
+
+## Talk to the family that runs the trucks
+
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Cheverly address and what you are tackling — a kit-house renovation in the historic district, a multi-room remodel in a post-war rambler, a mid-size roof tear-off, or a whole-house cleanout between owners — and we will confirm the 20-yard is the right size, account for the trees and the grade, and quote you on the spot.

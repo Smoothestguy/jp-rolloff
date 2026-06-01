@@ -1,0 +1,36 @@
+Greenbelt is not a town you can read like a typical suburb, and that changes how a roll-off gets placed here. The historic core, Old Greenbelt, is a National Historic Landmark New Deal town — roughly 1,600 cooperative row houses owned by Greenbelt Homes, Inc. (GHI), built by the federal government starting in 1936 and 1937, with another wave of defense-era wood-frame units in 1941 and 1942. They are attached homes set in rows of two to eight, arranged around shared interior "garden side" courts, with the parking lots, trash areas, and services pushed to the outer edge of each grouping. Newer Greenbelt is a different world again — the 1970s-to-1990s condos and townhomes of Greenbelt East and Greenbriar, and the 2010s Ryan Homes townhouses of Greenbelt Station. Across all of it, the 20-yard is the size most whole-home projects end up landing on, and it is the one we drop here more than any other.
+
+We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville — about ten minutes away, so your dumpster's not far behind. When you call, you reach the family that owns the trucks, not a call center.
+
+## What fits in a 20-yard dumpster
+
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical Greenbelt rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises added after the fact.
+
+Those five feet of wall height are the part people underestimate. It is low enough to walk debris up and toss it over the side, but tall enough to swallow the volume of a real project. That balance is why the 20-yard sits in the sweet spot for so many homes: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demo. It is best known as the "whole-house cleanout" size — the one most customers end up choosing, and rarely regret. On a standard two-car driveway it fits with room to spare.
+
+## Which Greenbelt jobs suit the 20-yard
+
+This is the size people reach for when the work is real but contained to one home. Around Greenbelt, that means a few jobs come up again and again:
+
+- **Whole-house cleanouts.** This is the 20-yard's best-known role. Clearing a home between owners, or after years of accumulation, fills a 20-yard about right without paying for space you will not use.
+- **Multi-room remodels.** A kitchen-and-baths gut, or a run of rooms getting new flooring and drywall, is the classic 20-yard job — especially in the larger Greenbelt Station townhomes finishing a basement or in a Greenbriar condo getting reworked.
+- **Estate cleanouts.** When a longtime family home changes hands, the 20-yard handles furniture, boxes, and household debris in a single container.
+- **Mid-size roofing tear-offs.** A typical single-family or townhome roof tear-off fits comfortably, with the 2-ton allowance covering most single-layer asphalt jobs.
+
+It helps to know that Greenbelt is not one kind of housing, because that changes what size you actually need. The historic GHI row houses sit on crawlspaces and boiler rooms rather than full basements, and GHI's multi-year Homes Improvement Program added insulation, air sealing, and vapor barriers down in those crawlspaces — so a lot of work in the core is smaller weatherization, gut, and interior-renovation jobs better suited to a 10 or 15-yard. The Goddard and Capital Office Park corridor, by contrast, drives larger commercial renovation and tenant-fit-out debris that often pushes toward a 25 or 30-yard. The 20-yard's home turf is the full-home residential project: the whole-house cleanout, the multi-room remodel, the estate clear-out. Tell us your address and the project, and we will tell you straight whether the 20 is the right call.
+
+## Local logistics: placement, permits, and drive time
+
+**Placement is the big Greenbelt question.** In a typical suburb the dumpster goes beside the house. In Old Greenbelt it often cannot. The New Deal layout puts living space on the interior garden courts and pushes parking, trash, and services to the outer edge of each row, so a roll-off serving a court home usually has to stage in the shared exterior parking lot or court drive rather than next to the unit. The community's curvilinear streets, superblocks, and pedestrian walkways separated from the road also limit where a truck can position the container in the core. We scout this with you before we commit to a drop, so the truck clears and the box lands somewhere usable.
+
+**GHI approval comes before placement.** Any improvement, alteration, or addition to a GHI home requires a GHI permit, and contractors have to produce the approved permit for the scope of work before starting. Additions enroll in the Addition Maintenance Program, and crawlspace work means contacting the GHI Staff Engineer first. For a cleanout or renovation in the historic core, that means lining up GHI's cooperative approval for both the work and the staging spot, on top of the city's rule below. We can provide a service confirmation to forward to GHI or your board.
+
+**The Greenbelt permit rule.** The City of Greenbelt requires a permit for placement in a city street or right-of-way, including most Old Greenbelt court parking. Driveways and HOA-approved staging typically do not. So in the historic core, where the realistic spot is often a shared court lot or court drive, a permit is frequently part of the plan rather than the exception. In the newer communities it depends on where the box sits.
+
+**The newer communities have their own staging rules.** Greenbelt East is roughly 84% apartments and townhomes built between 1970 and 1999, and Greenbriar's condos date to about 1975 — these 1970s-to-90s HOAs usually want approval and shared-lot staging rather than a private driveway. Greenbelt Station's 2010s Ryan Homes townhomes have narrow private driveways and aprons in front of one-car garages, which is the realistic spot for a container during a basement-finish or flooring job. Give your board or association a heads-up, and we will plan placement around the shared parking.
+
+**Drive time.** Beltsville is about ten minutes out, and we dispatch every morning toward Greenbelt — the city sits just inside the Capital Beltway, near Greenbelt Park and not far from our base. Most addresses are scheduled inside 24 hours, and early calls often make the same-day run. Worth knowing on ZIP codes: 20770 covers residential and business addresses inside the city, 20768 is P.O. boxes only (so a 20768 customer's actual jobsite is still a 20770 street address), and 20771 is reserved for NASA's Goddard Space Flight Center.
+
+## Talk to the family that runs the trucks
+
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Greenbelt address and what you are tackling — a whole-house cleanout in Hunting Ridge, a multi-room remodel in Greenbriar, an estate clear-out off a court in Old Greenbelt, or a basement finish in Greenbelt Station — and we will confirm the 20-yard is the right size, sort out the GHI or city permit question with you, and quote you on the spot.

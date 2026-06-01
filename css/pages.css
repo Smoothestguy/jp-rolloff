@@ -1715,3 +1715,11 @@
   list-style: disc;
 }
 .longform strong { color: var(--color-black); }
+.longform h2 {
+  font-size: var(--fs-32);
+  margin-top: var(--space-10);
+  margin-bottom: var(--space-4);
+  color: var(--color-black);
+}
+.longform h2:first-child { margin-top: 0; }
+.longform a { color: var(--color-red); font-weight: 700; }

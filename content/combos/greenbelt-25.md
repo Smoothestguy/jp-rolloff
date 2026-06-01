@@ -1,0 +1,33 @@
+When a Greenbelt project crosses the line from "weekend cleanout" into real construction, the 25-yard roll-off is usually the container you want under it. This is our major-construction size: a 20-foot by 8-foot by 5-foot box that swallows roughly 7.5 pickup-truck loads and comes with a 2.5-ton (5,000 lb) weight allowance. Typical pricing runs $525 to $625, and that figure already includes delivery, pickup, and tonnage, so there are no surprise line items when the job wraps. We're JP Roll-Off Service, a family-owned hauler based ten minutes up the road in Beltsville. When you call, an owner picks up the phone, not a call center reading from a script three states away.
+
+## What fits in a 25-yard dumpster
+
+The 25-yard sits a step below our largest container and is built for jobs that produce debris steadily over days or weeks rather than in a single afternoon. Those 7.5 truck loads of capacity handle the framing scrap, torn-out drywall, old flooring, cabinetry, and packaging that pile up on a serious build. The 5-foot walls keep the load low enough to toss heavier material over the side without a ladder, while the 20-foot length gives you room to spread weight instead of stacking it dangerously high in one corner.
+
+A word on that 2.5-ton allowance: it's generous for mixed construction and demolition debris, but dense material adds up fast. Plaster, tile, wet roofing, and old subfloor are heavy, so if your job leans that way, it's worth talking through the weight before we drop the box. That brings us to the rule we tell every customer on a build this size: measure twice before booking. The 25-yard wants a longer driveway or a real staging pad, and Greenbelt's housing stock makes that worth checking carefully.
+
+## Which Greenbelt jobs suit this size
+
+This is the container for the city's bigger work, and Greenbelt's mix of housing eras and its large commercial base both generate plenty of it.
+
+**Home additions and whole-house remodels.** Greenbelt East and the surrounding communities are a different world from the historic core. The residential real estate there was built almost entirely between 1970 and 1999, with Greenbriar's condominium community dating to about 1975. When owners in these 1970s-through-90s neighborhoods gut a unit or expand it, the rolling debris stream fits a 25-yard well. Just keep in mind that Greenbelt East is heavily apartment and townhome stock with shared lots, so placement often runs through an HOA rather than a private driveway (more on that below).
+
+**Large roofing.** A full tear-off on a larger home or a multi-unit roof produces dense, heavy debris, and the 25-yard gives you the volume to keep one container on site rather than swapping mid-job. Because roofing material is heavy, this is exactly the size where the weight conversation matters most.
+
+**Commercial cleanouts and tenant fit-outs.** Greenbelt's signature commercial anchor is NASA's Goddard Space Flight Center in ZIP 20771, the institution that built the city's office economy, and the nearby Capital Office Park / Ivy Lane corridor is an roughly 40-acre, ~810,000-square-foot office complex that recently went through an approximately $7 million modernization. Office renovations and tenant turnovers along that corridor throw off the kind of steady, voluminous debris a 25-yard is made for. And because we work with commercial accounts, those customers get net-15 terms, which keeps the paperwork simple when you're managing a build schedule.
+
+## Local logistics, permits, and placement
+
+Here's where Greenbelt is genuinely unlike any other DMV town, and where a 25-yard demands extra thought before it arrives.
+
+Old Greenbelt's core is a National Historic Landmark New Deal town: roughly 1,600 cooperative row houses owned by Greenbelt Homes, Inc. (GHI), built starting in 1936-1937 with defense-era wood-frame units added in 1941-1942. These are attached homes arranged in rows of two to eight around shared interior "garden side" courts, with parking, trash areas, and services pushed to the outer edge of each grouping. The practical upshot for a roll-off is significant: a container serving an Old Greenbelt court home often cannot sit beside the unit at all and must stage in the shared exterior parking lot or court drive. The original New Deal layout of curvilinear streets, superblocks, and separated pedestrian walkways further limits where our truck can position a box.
+
+There's a second layer in the historic core. GHI is a rare cooperative that permits member additions, but any improvement, alteration, or addition to a GHI home requires a GHI permit, and contractors must produce the approved GHI permit for the scope of work before starting; additions must also enroll in the Addition Maintenance Program. So an Old Greenbelt addition or whole-house remodel, the kind of job that justifies a 25-yard, needs GHI's cooperative approval for both the work and the staging spot, layered on top of any city rule. If your project is a smaller interior gut or weatherization job rather than a full addition, a 10- or 15-yard is often the better fit; the 25-yard is for the larger scope.
+
+Then there's the city's own rule. The City of Greenbelt requires a permit for any placement on a city street or right-of-way, including most Old Greenbelt court parking. Driveways and HOA-approved staging typically do not need that city permit. The newer communities split the difference: Greenbelt Station, the 2010s Ryan Homes development of three-to-five-level townhomes off Greenbelt Road near the Metro/MARC station, has narrow one-car-garage driveways that suit smaller containers better than a full 25-yard, so a major build there usually means lining up an off-street pad in advance.
+
+One ZIP-code note that trips people up: 20770 covers the residential and business addresses inside the city, 20768 is P.O. boxes only, and 20771 belongs to Goddard. If your billing address shows 20768, your actual jobsite is still a 20770 street address, and that street address is what we need to plan the drop.
+
+## Let's get your build covered
+
+Between Old Greenbelt's GHI courts, the 1970s-90s HOA communities of Greenbelt East and Greenbriar, the Hunting Ridge area, and the Goddard / Capital Office Park corridor, no two Greenbelt jobs stage the same way. That's exactly why it helps to talk to an owner who knows the city before the truck rolls. Beltsville's only ten minutes away, so your dumpster's not far behind. Call JP Roll-Off Service at (301) 252-3586, tell us the job and where you're thinking of putting the box, and we'll help you sort the permit and placement before we deliver your 25-yard.

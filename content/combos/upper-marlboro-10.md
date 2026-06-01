@@ -1,0 +1,34 @@
+Upper Marlboro is two places wearing one name, and that shapes every dumpster drop we make out here. There is the small historic county-seat core — tight streets, century-old houses, the Prince George's County Courthouse with its stone Ionic columns — and then there is the sprawling rest of 20772 and 20774: estate lots, horse farms, and master-planned communities like Westphalia and Marlton. We are JP Roll-Off Service, a family-owned hauler that runs out of Beltsville, and the 10-yard is the container we hand to folks here tackling one room or one corner at a time. It is our smallest box, and for a garage clear-out, a single bathroom, or a yard full of brush, it is almost always the honest pick — enough room to finish, small enough that you are not paying for empty air.
+
+## What fits in a 10-yard dumpster
+
+The 10-yard is the smallest footprint we offer, measuring 12 ft long by 8 ft wide by 3.5 ft tall. It holds roughly three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. Around Upper Marlboro a typical 10-yard rental runs **$350 to $425, including delivery, pickup, and that tonnage** — no surprise tipping fee after the load hits the scale.
+
+The low 3.5-foot walls are the quiet advantage. You can walk right up and drop debris over the side without a ramp or a heave, which matters when you are loading heavy, dense material like old tile, dirt, or shingles. The 1-ton allowance is sized for that kind of focused work — a single-room remodel or a one-room cleanout, not a whole-house demolition. And because the container fits in a single car spot, it slides onto a narrow downtown driveway without swallowing the whole thing, while still being right at home on a long rural driveway out by the horse farms. If your project is bigger than one room, we will point you toward a 15 or 20-yard instead — but for the jobs below, the 10 is the one that earns its keep.
+
+## Which Upper Marlboro jobs suit the 10-yard
+
+This is the "garage cleanout" size, and that is the call we field most. Given Upper Marlboro's split housing — a c.1730 wood-frame house in the historic core, a 1970s-80s single-family rancher across much of 20772, and brand-new townhomes in Westphalia — the four jobs that land squarely in a 10-yard are:
+
+- **Garage cleanouts.** A single- or two-car garage on one of the area's 1970s-and-later detached homes clears into a 10-yard without overpaying for space. Years of paint cans, old lumber, broken tools, and boxes come up faster than people expect and fill it about right.
+- **Bathroom remodels.** Much of 20772/20774 was built between 1970 and 1999, and those decades-old baths are prime for updating. A single-bath gut — old tile, the tub, vanity, drywall, and subfloor — is the textbook 10-yard job, and the dense tile and plaster stay well inside the 1-ton allowance for one bathroom.
+- **Yard waste and trees.** Out on the large lots, estate parcels, and rural-residential tracts that run through 20772, brush, branches, sod, and a removed tree or two load neatly into the low-walled 10. Green and wet yard debris gets heavy fast, so the 1-ton allowance is set for a single yard's worth.
+- **Estate downsize.** Upper Marlboro has homes spanning nearly three centuries, and when a longtime family place changes hands, a 10-yard handles the furniture, household goods, and accumulated clutter of a measured downsize — a focused cleanout rather than a full whole-house gut.
+
+If you are running a kitchen remodel, tearing off a roof, gutting a flood-damaged downtown house down to the studs, or clearing post-build framing debris from a new Westphalia or Marlton construction lot, those run heavier and bulkier than a 10 is built for, and we will tell you so up front. The 10-yard shines on the one-room, one-corner, one-weekend jobs.
+
+## Local logistics: placement, permits, and drive time
+
+**First, we always ask the same question: downtown historic core, or county?** Upper Marlboro is genuinely two different jobs depending on which side of that line you are on, and the permit rules and driveway realities swing with it.
+
+**If you are in the Town of Upper Marlboro (the historic core).** The town has its own rules. A roll-off container is allowed to sit on your **private property for up to 15 days without a town permit**. You will need a town permit if the unit stays longer than 15 days, or if it has to be placed in the town's right-of-way — the street or sidewalk. The town directs residents to Town Hall at **(301) 627-6905** for those permit details, and town Code Enforcement Officers also watch for the Prince George's County permits that qualifying construction requires. Downtown placement carries one more wrinkle: Water Street and the area along the Western Branch flood periodically, so we plan drops for dry, firm ground and talk through timing before the box goes down. The 10-yard's compact footprint is a real asset on those tight historic streets.
+
+**If you are in the rest of 20772/20774 (Prince George's County).** Out here, a dumpster sitting entirely on your private driveway, lawn, or yard does **not** require a permit. A permit is only needed when the container has to occupy the public right-of-way, which calls for a Prince George's County permit. Given how much of this area is large-lot, estate, and rural-residential land with long private driveways, most of these jobs never come close to the right-of-way, and a 10-yard tucks in easily. If your address is one of the rare cases that needs a county permit, we flag it in advance.
+
+**A note on the bigger jobs.** The new-construction work in Westphalia and Marlton, the flood gut-jobs downtown, and barn or outbuilding cleanouts on the working horse farms near the Show Place Arena all tend to outgrow a 10-yard quickly. We are glad to size you up to a 15, 20, 25, or 30-yard when that is the real need — the bigger boxes fit fine on those long rural driveways.
+
+**Drive time.** We are dispatched from Beltsville, about 35 minutes out via Route 4 or the Capital Beltway. We schedule Upper Marlboro drops tightly and typically have a container to you inside a day or so of your call.
+
+## Talk to the family that runs the trucks
+
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center, not a dispatch service three states away. Tell us your Upper Marlboro address, whether you are downtown in the historic core or out on a county lot, and what you are tackling — a garage clear-out, a bathroom gut, a yard full of brush, or an estate downsize — and we will confirm the 10-yard is the right size, walk you through the permit question for your side of the line, and quote you on the spot. Reach us at **(301) 252-3586** — same family, same trucks, ready to roll out Route 4.

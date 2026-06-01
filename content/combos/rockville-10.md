@@ -1,0 +1,34 @@
+Rockville is one of those cities where the first real question is not what size dumpster you need — it is *which Rockville* you live in. We are JP Roll-Off Service, a family-owned hauler that dispatches out of Beltsville, and the 10-yard is the container we hand to folks clearing a single garage, gutting one bathroom, hauling a season of yard waste, or downsizing a longtime family home. It is the smallest footprint we run, and in a city this divided between tight, alley-loaded streets and big leafy lots, the small can is often the only one that fits the spot you actually have.
+
+The county seat of Montgomery County, Rockville covers about 13.4 square miles and runs the gamut of housing density inside one set of city limits. Its ZIP codes tell the story: 20850 downtown and west, 20851 and 20853 out toward Twinbrook and Veirs Mill, 20852 down by the Pike District, and 20855 in Derwood. The housing skews mid-20th-century — the median home was built around the early 1970s, and only about 4% of houses predate 1950 — so the work here is overwhelmingly renovation, remodel, and cleanout rather than new-construction debris. That is exactly the lane a 10-yard lives in.
+
+## What fits in a 10-yard dumpster
+
+The 10-yard is the smallest container we offer, measuring 12 ft long by 8 ft wide by 3.5 ft tall. It holds roughly three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. A typical 10-yard rental in Rockville runs **$350 to $425, including delivery, pickup, and that tonnage** — not a teaser rate with tipping fees tacked on after the load hits the scale.
+
+Those low 3.5-foot walls are the quiet advantage. You walk right up and drop debris over the side — no ramp, no heave — which is what you want when the material is heavy and dense, like bathroom tile, broken-up concrete, dirt, or roofing scrap. The 1-ton allowance is sized for that kind of focused job: one room, one corner, one weekend, not a whole-house demolition. Best of all, the 10 fits in a single car spot, which is the whole reason it earns its keep in this particular city. If your project is bigger than one room, we will steer you to a 15 or 20-yard — but for the jobs below, the 10 is the honest pick.
+
+## Which Rockville jobs suit the 10-yard
+
+This is the size most people mean when they say "garage cleanout," and that is the call we field most around here. Four jobs land squarely in a 10-yard across Rockville:
+
+- **Garage cleanouts.** A single bay full of paint cans, old lumber, busted tools, and a decade of boxes clears into a 10-yard without paying for empty air. On the tight WWII-era Cape Cod streets of Twinbrook — a neighborhood launched in 1946 on former farmland, where roughly 88% of homes date to the 1940–1969 era — these modest garages are exactly a one-can job.
+- **Bathroom remodels.** A single-bath gut in a mid-century Rockville home — old tile, tub, vanity, drywall, and subfloor — is the textbook 10-yard project. Twinbrook is full of these: the original Capes were built with unfinished upper levels so families could expand, so dormer additions, attic finish-outs, and bath remodels are practically a local tradition. The dense tile and plaster stay well inside the 1-ton allowance for one bathroom.
+- **Yard waste and trees.** Brush, branches, sod, and a removed tree or two load neatly over the low walls of the 10. Out toward Derwood (ZIP 20855), where the larger colonial lots back up to Crabbs Branch and Rock Creek Regional Park near Lake Needwood, a single yard's worth of green debris fills it about right. Wet, green yard waste gets heavy fast, so the 1-ton allowance is matched to one yard, not a whole clearing job.
+- **Estate downsize.** When a longtime King Farm townhome or a Derwood colonial changes hands, a 10-yard handles the furniture, household goods, and accumulated clutter of a measured downsize — a focused cleanout rather than a full whole-house gut.
+
+If you are tearing off a roof, gutting a kitchen, or clearing an entire house at once, those run heavier and bulkier than a 10 is built for, and we will tell you that up front instead of watching you overflow it.
+
+## Local logistics: placement, permits, and drive time
+
+**Placement is where Rockville gets interesting, and the city itself sets the tone.** The City of Rockville's default expectation is that your dumpster goes on private property — the driveway or yard. Street and right-of-way placement is treated as the exception: you need a Public Works permit, and a condition of that permit is demonstrating the container *cannot* safely sit on private property (the DPW makes that call, at pw@rockvillemd.gov). Plan on 2–3 business days for that approval. The good news is that the 10-yard's single-car-spot footprint is built to avoid the whole permit question — it tucks onto even a narrow driveway, so most jobs stay permit-free.
+
+That matters more here than in most DMV towns, because Rockville is split between two extremes. In the dense, alley-loaded New Urbanist zones — King Farm, with its roughly 1,021 townhomes on narrow, shared, alley-loaded lots, plus Rockville Town Center and the high-rise Pike District on the North Bethesda border — you are working with tight street frontage and shared garages, the kind of placement that favors a compact can and careful positioning. Out in Derwood, by contrast, the bigger RE-1 acreage lots and long driveways make placement easy. A 10-yard needs about 12 feet of straight length plus a little clearance and a clear swing for the rear door; we lay boards under the wheels on request to protect the surface.
+
+**One more Rockville wrinkle: historic districts.** If your home sits in West End, East Rockville, or Lincoln Park — Rockville's three local historic districts, which hold some of the city's oldest houses — exterior alterations can require a Historic Area Work Permit before the work begins, with review scheduled within roughly 45 days. That is a project-permit issue, not a dumpster issue, but it is worth knowing before you book the can, since the timing of your renovation drives the timing of your haul-off.
+
+**Drive time.** Rockville is about 45 minutes from our Beltsville yard via I-495 or the ICC (Route 200). Standard turnaround is next-day, and we make same-day runs on most addresses when you call early enough in the morning.
+
+## Talk to the family that runs the trucks
+
+When you call JP Roll-Off, you reach the people who actually own and operate the company — not a call center, not a dispatch desk three states away. Tell us your Rockville address and what you are tackling, whether it is a garage clear-out in Twinbrook, a bathroom gut near Rockville Town Center, a yard full of brush in Derwood, or a downsize at a King Farm townhome, and we will confirm the 10-yard is the right size, flag any permit timing, and quote you on the spot. Reach us at **(301) 252-3586** — same family, same trucks, just up the road in Beltsville.

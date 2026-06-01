@@ -1,0 +1,34 @@
+Bladensburg packs roughly 9,657 people onto about one square mile of land, which works out to a density near 9,000 residents per square mile — and that single number tells you almost everything about how a roll-off job goes here. Lots are narrow, driveways are short, and curbside frontage is at a premium. On a town this tight, the smallest container we run, the 10-yard, is usually the right call: it fits a single car spot, handles a one-room project, and stays entirely on your driveway so you never have to chase a town permit. It is the size we reach for most when a Bladensburg homeowner is clearing a garage or gutting a single bathroom.
+
+We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville — a short run from our yard to Bladensburg. When you call, you get the people who own the trucks, not a call center, and we know the Port Towns blocks well enough to talk through where a container can actually sit before we ever load it onto the truck.
+
+## What fits in a 10-yard dumpster
+
+The 10-yard is the smallest footprint in our lineup, and on a town built this densely that is a feature, not a limitation. It measures 12 ft long by 8 ft wide by 3.5 ft tall, holds roughly three pickup-truck loads of debris, and comes with a 1-ton (2,000 lb) weight allowance. In Bladensburg a typical 10-yard rental runs **$350 to $425, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on afterward.
+
+The low 3.5-foot walls are the part people appreciate once it is on the ground: you can walk debris right up and drop it over the side without a ramp, which makes it the easy choice for one-room work. It is best known as the "garage cleanout" size, and the reason is simple — it handles a single concentrated job without making you pay for cubic feet of empty space you were never going to fill. If you are gutting a whole house or tearing off a full roof, you want something larger; for the focused projects below, the 10-yard is exactly right.
+
+## Which Bladensburg jobs suit the 10-yard
+
+Bladensburg's housing stock skews older and mid-century — ZIP 20710 has roughly 3,800 housing units with a median build year around 1969, and a heavy concentration of homes from the 1950s and 1960s. Add the historic 1910s bungalow blocks of Decatur Heights, platted in 1914 and 1917 on the gridded streets north and south of Annapolis Road, plus the 1947 Sunnybrook single-family homes, and you have a town full of houses that are now hitting the age where one room at a time gets refreshed. That is squarely 10-yard territory. The jobs we see it used for most around Bladensburg:
+
+- **Garage cleanouts.** The classic 10-yard job. One bay of accumulated boxes, old paint, broken furniture, and yard tools fills a 10-yard about right, and the container tucks into a single driveway spot while you work.
+- **Bathroom remodels.** Pulling a 1960s tub, vanity, tile, and subfloor from a single bath produces a tight, heavy load that the 10-yard's 1-ton allowance is built for — without the oversized container hogging a narrow driveway.
+- **Yard waste and trees.** Brush, branches, and storm debris from a small in-town lot. On the older Decatur Heights blocks shaded by mature trees, a 10-yard handles a serious pruning or a downed limb cleanup.
+- **Estate downsizes.** When a longtime family home changes hands, a 10-yard clears one room or one focused round of sorting — furniture, household goods, and clutter — without committing to a whole-house container.
+
+Because so many Bladensburg homes are modest in size and sit on small lots, the debris from these single-focus jobs comes up in a volume the 10-yard was made for. If your project grows beyond one room, we will tell you straight and point you to the next size up.
+
+## Local logistics: placement, permits, and drive time
+
+**Driveway placement is the default here, and there is a real reason for it.** On Bladensburg's narrow, dense in-town streets — many of them short blocks fanning east off Annapolis Road (MD 450), the town's main commercial corridor, with D.C. about a mile away — a street-placed container would intrude on traffic. The Town of Bladensburg requires a permit for any dumpster set in the street or public right-of-way; driveway placement is permit-free, with same-week turnaround. So if the 10-yard goes on your driveway, you are clear and we can usually have it out to you inside the week. If the only workable spot is the street, you will need the town right-of-way permit, and we will flag that when we look at your address. The 10-yard's single-car-spot footprint is the whole point — it is the size most likely to fit a short Bladensburg driveway and keep you permit-free.
+
+**Ground and surface matter more in Bladensburg than in most DMV suburbs.** This is a flood-shaped Port Town sitting at the headwaters of the Anacostia, one of four municipalities — alongside Colmar Manor, Cottage City, and Edmonston — clustered where the Northwest and Northeast branches meet. After the severe floods of 1933, 1942, and 1954, a major flood-control project in the late 1950s built levees and dredged the river, but low-lying parcels near the Anacostia tributary corridor and along the Edmonston border still sit in or near the floodplain, which can affect ground conditions. The town has also invested heavily in green stormwater infrastructure to protect the river — including roughly 11,160 square feet of Grasspave2 porous paving where the old asphalt drive at the historic Bostwick House used to be. Permeable and grass-paved surfaces like those cannot bear a loaded dumpster, so on some Bladensburg properties the real question is not which size but where the container can safely sit. We lay boards under the wheels on request, and we will scout a firm, level spot with you before drop-off.
+
+**Tight setbacks on the older blocks.** In the Decatur Heights bungalow sections and the other early-20th-century streets, setbacks are close and driveways are narrow. The 10-yard's compact 12-foot length is the easiest container we run to fit those footprints, which is another reason it is the right pick for so much in-town work.
+
+**Drive time.** Beltsville is a short run from Bladensburg, and we dispatch every morning. Early calls often make the same-day drop; most other addresses are scheduled inside 24 hours, well within the town's same-week permit-free turnaround.
+
+## Talk to the family that runs the trucks
+
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Bladensburg address and what you are tackling, whether it is a garage cleanout near the Port Towns, a single-bath remodel in a 1960s rancher, or a tree-and-yard cleanup over by the Edmonston border, and we will confirm the 10-yard is the right size, sort out the driveway-versus-street question, and quote you on the spot. Reach us at **(301) 252-3586**.

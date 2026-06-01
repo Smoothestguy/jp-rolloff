@@ -1,0 +1,34 @@
+Upper Marlboro is a town with two faces, and the size dumpster you need often depends on which one you live in. The small historic core has been the county seat of Prince George's County since 1721, with the courthouse and its landmark stone Ionic columns, the County Administration Building, and tight residential streets that sit inside the federally listed Upper Marlboro Residential Historic District. Step outside that core and the rest of 20772 and 20774 opens up into sprawling county land — 1970s-and-80s single-family homes on large lots, working horse farms in the Rural Tier, and master-planned new construction in Westphalia and Marlton. The 20-yard roll-off is the size that fits the broadest stretch of those projects, and it is the one most customers around Upper Marlboro end up choosing — and rarely regret.
+
+We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 35 minutes from most Upper Marlboro addresses by way of Route 4 or the Capital Beltway. When you call, you get the family that owns the trucks, not a call center.
+
+## What fits in a 20-yard dumpster
+
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical Upper Marlboro rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the fact.
+
+Those five feet of wall height are the part people underestimate. It is low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a real project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demo. On a standard two-car driveway, it fits with room to spare.
+
+## Which Upper Marlboro jobs suit the 20-yard
+
+This is the size people reach for when the work is real but contained to one home. Around Upper Marlboro, that means a few jobs come up again and again:
+
+- **Whole-house cleanouts.** This is the 20-yard's best-known role. Much of 20772 and 20774 was built between 1970 and 1999, so a lot of these are decades-lived-in single-family homes being cleared between owners or after years of accumulation — and a whole-house clear-out fills a 20-yard about right without paying for space you will not use.
+- **Multi-room remodels.** That 1970s-and-80s housing stock is squarely in its renovation cycle, which around here means kitchen-and-bath guts, basement finishes, and runs of bedrooms getting new flooring and drywall. The multi-room remodel is the classic 20-yard job in these homes.
+- **Estate cleanouts.** When a longtime family home changes hands — in the historic core or out on one of the large lots and long driveways toward Rosaryville Road — the 20-yard handles furniture, boxes, and household debris in a single container.
+- **Mid-size roofing tear-offs.** A typical single-family roof tear-off fits comfortably, with the 2-ton allowance covering most single-layer asphalt jobs.
+
+It helps to know that Upper Marlboro is not all one kind of property, because that changes what size you actually need. Town-wide the housing splits roughly down the middle — detached homes and row/attached townhomes in nearly equal measure — so a downtown or Marlton townhome with a tight shared driveway is a different placement problem than a five-acre estate lot. The new construction in Westphalia Town Center and Marlton generates framing scrap and post-build cleanout that can run to a 30-yard, while a barn cleanout or outbuilding teardown on one of the area's horse farms might fit a 20 or push past it depending on the debris. If you tell us your address and the project, we will tell you straight whether the 20 is the right call.
+
+## Local logistics: placement, permits, and drive time
+
+**Driveway placement.** Out in the county portions of 20772 and 20774 — the large-lot homes, the estate parcels, the horse farms — there is usually plenty of room, and a long private driveway easily takes a 20-yard (or even a 30) without anyone worrying about the street. A 20-yard needs roughly 16 feet of straight length plus a few feet of clearance and an open swing for the rear door, and most two-car driveways here handle that easily. We lay boards under the wheels on request to protect the surface. In the townhome rows of Marlton and the downtown core, where driveways are tighter and shared, placement matters more than capacity, and we will scout it with you so the truck clears and the container fits.
+
+**The permit rule — and why your side of the line matters.** This is the one thing about Upper Marlboro you have to get right up front, because the rules genuinely change depending on whether you are in the historic town core or out in the broader county. **Inside the Town of Upper Marlboro,** a roll-off can sit on your own private property for up to 15 days without a town permit; you need a town permit if it stays longer than 15 days or if it goes in the town's right-of-way (the street or sidewalk). The town also enforces Prince George's County construction permits through its own Code Enforcement Officers. For the town permit details, Town Hall handles it at (301) 627-6905. **Outside the town core,** the rest of 20772 and 20774 falls under Prince George's County, where right-of-way placement also requires a permit but private-property drops typically do not. The simplest way to keep it clean: drop on your own driveway or lot when you can, and tell us which side of that line you are on so we flag the right rule.
+
+**Downtown flooding.** If your address is in the historic core near Water Street and the Western Branch, keep in mind the area has a well-documented, recurring flooding problem — floodwalls went in back in 1964 and dozens of structures along the branch are flood-prone. That cuts both ways: it is a real driver of flood-damage gut-and-cleanout jobs, and it is a reason to time your drop for dry conditions and pick firm, level ground so the container does not sink or shift.
+
+**Drive time.** We are about 35 minutes out in Beltsville and dispatch every morning by Route 4 or the Capital Beltway. Most addresses are scheduled inside 24 hours, and early calls often make the same-day run. We serve the Upper Marlboro ZIPs 20772 and 20774.
+
+## Talk to the family that runs the trucks
+
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Upper Marlboro address and what you are tackling — a whole-house cleanout on a county lot, a multi-room remodel in a 70s home, an estate clear-out near the historic core, or a roof tear-off in Westphalia — and we will confirm the 20-yard is the right size, sort out which permit rule applies to your side of the line, and quote you on the spot.

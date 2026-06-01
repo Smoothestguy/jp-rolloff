@@ -1,0 +1,32 @@
+Landover is one of those Prince George's County places that looks straightforward on a map and turns out to be anything but once you start a project. The bulk of it is an unincorporated community — a census-designated place of nearly 26,000 people, stitched together from small mid-century subdivisions like Ardwick Park, Kentland, Kenmoor, Dodge Park, Brightseat, and Palmer Park — and most of those homes went up between roughly 1955 and 1975. Split-levels, brick ramblers, and modest two-story colonials, now 50 to 70 years old and well into their second or third round of renovations. When a Landover homeowner is gutting more than one room, clearing out a family home, or tearing off a mid-size roof, the 20-yard roll-off is the size most of them land on — and rarely regret.
+
+We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, a short hop up the road from Landover. When you call, you get the family that owns the trucks, not a call center.
+
+## What fits in a 20-yard dumpster
+
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical Landover rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the fact.
+
+Those five feet of wall height are the part people underestimate. It is low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a real project. That balance is why the 20-yard sits in the sweet spot: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for a full structural gut or new construction. It is best known as the "whole-house cleanout" size — the one most customers end up choosing. On most two-car driveways it fits with room to spare, which matters in Landover, where the unincorporated subdivisions tend to have wider lots and full driveways.
+
+## Which Landover jobs suit the 20-yard
+
+This is the size people reach for when the work is real but contained to one home. Around Landover, that means a few jobs come up again and again:
+
+- **Whole-house cleanouts.** The 20-yard's best-known role. Clearing out one of the area's mid-century split-levels or ramblers between owners, or after years of accumulation, fills a 20-yard about right without paying for space you will not use. Landover's 20785 ZIP carries an unusually high share of rental and investor-owned homes, so turnover and rehab cleanouts are a steady part of what we haul here.
+- **Multi-room remodels.** A kitchen-and-two-baths gut, or a run of bedrooms getting new flooring and drywall, is the classic 20-yard job. In a 1960s rambler on its second or third renovation, that is the typical haul — old plaster, dated cabinets, and worn flooring add up fast.
+- **Estate cleanouts.** When a longtime family home in Kentland, Dodge Park, or Palmer Park changes hands, the 20-yard handles furniture, boxes, and household debris in a single container — a common need in settled subdivisions where homes have stayed in the same family for decades.
+- **Mid-size roofing tear-offs.** A typical single-layer asphalt tear-off on one of these homes fits comfortably, with the 2-ton allowance covering most of those jobs.
+
+It helps to know that not every Landover job needs the same size. A single-room refresh or one-bath update might only need a 10 or 15-yard, while a full structural gut or a larger commercial clearout along the Route 202 industrial strip — where the Ardwick Industrial Park's warehouses and distribution space generate bigger demolition and build-out hauls — can push toward a 30. Tell us your address and the project, and we will tell you straight whether the 20 is the right call.
+
+## Local logistics: placement, permits, and drive time
+
+**Driveway placement is the easy path.** Most Landover homes sit on their own driveways, and private-property placement does not require any permit. A 20-yard needs roughly 16 feet of straight length plus a few feet of clearance and an open swing for the rear door. We will level the container so the door works and nothing shifts, and we will lay boards under the wheels on request to protect the surface.
+
+**The permit fault line — this is the one to get right in Landover.** Because Landover proper is unincorporated Prince George's County, any dumpster set on the street or public right-of-way falls under the county's Department of Permitting, Inspections and Enforcement (DPIE), which issues the site/road permit for right-of-way placement out of its Largo office. Driveway placement needs nothing. But here is the catch that trips people up: the small WWII-era town of **Landover Hills is separately incorporated**, with its own town street-placement permit. Its lots are tighter and its streets narrower — many of those homes date to the 1940s housing boom along Annapolis Road (Route 450) — so driveway placement is sometimes a snug fit and street placement comes up more often there. A few blocks can be the difference between a county process and a town process. We sort out which one applies to your exact address before your drop-off date, so you are never caught between two rulebooks.
+
+**Drive time and access.** We are a short run from our Beltsville yard. Landover sits right against the Capital Beltway (I-495/I-95) where it crosses U.S. Route 50, with interchanges at Route 202 (Landover Road) and Brightseat Road, so our trucks have direct highway access to the edge of the community and into the FedExField corridor near Northwest Stadium. Most addresses are scheduled inside 24 hours, and early calls often make the same-day run. Once we are off the highway and onto the residential streets near the Glenarden border or out toward Palmer Park, the only real planning is confirming whether you are in unincorporated Landover or in Landover Hills — which we handle when you book.
+
+## Talk to the family that runs the trucks
+
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Landover address and what you are tackling — a multi-room remodel in a mid-century rambler, an estate cleanout in Kentland, a mid-size roof tear-off, or a whole-house cleanout between tenants — and we will confirm the 20-yard is the right size, tell you straight whether your spot needs a county DPIE permit, a Landover Hills town permit, or no permit at all, and quote you on the spot.

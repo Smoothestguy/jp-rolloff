@@ -11,6 +11,7 @@ permalink: "/locations/{{ combo.city.slug }}/{{ combo.size.yd }}-yard/"
 {% extends "base.njk" %}
 {% set city = combo.city %}
 {% set s = combo.size %}
+{% set comboBody = comboContent[city.slug + "-" + s.yd] %}
 
 {% block head %}
 <script type="application/ld+json">
@@ -43,6 +44,18 @@ permalink: "/locations/{{ combo.city.slug }}/{{ combo.size.yd }}-yard/"
       </div>
     </section>
 
+    {% if comboBody %}
+    <section class="section">
+      <div class="container container-narrow">
+        <div class="longform">
+          {{ comboBody | markdown | safe }}
+        </div>
+        <p style="margin-top: var(--space-8);"><a href="/#quote" class="btn btn-primary">Get a {{ city.name }} Quote →</a></p>
+      </div>
+    </section>
+    {% endif %}
+
+    {% if not comboBody %}
     <section class="section">
       <div class="container">
         <div class="feature-row">
@@ -80,6 +93,8 @@ permalink: "/locations/{{ combo.city.slug }}/{{ combo.size.yd }}-yard/"
         </div>
       </div>
     </section>
+
+    {% endif %}
 
     <section class="section">
       <div class="container">
