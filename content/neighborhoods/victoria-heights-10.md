@@ -1,0 +1,36 @@
+Victoria Heights is one of the last "V"-section neighborhoods of Levitt & Sons' Belair at Bowie — the final wave of detached, full-size single-family homes that Levitt finished out around 1964 to 1968 before the company shifted to townhouses in Belair Town and Lake Village. The spine street is Victoria Heights Drive, and like every Bowie letter section, all the streets here begin with the section's letter, so an address on a "V" street tells our drivers exactly where you are. We're JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, and the 10-yard dumpster is the container we drop here for a focused, one-area project. When you call, you get one of the owners — not a call center.
+
+## Why the 10-yard fits Victoria Heights homes
+
+Victoria Heights sits in the mature, tree-lined Levitt core that became the nucleus of the modern City of Bowie when it incorporated in 1963. These are conventional single-family lots — standard Levitt Belair parcels run about 8,400 square feet, roughly a quarter acre, sized uniformly to keep the original pricing equitable, with corner lots sold as premiums. That means nearly every home here has a real but modest driveway and side yard where a roll-off can be staged without ever touching the street.
+
+That's exactly why the 10-yard is worth knowing about. Its footprint is just 12 feet long, 8 feet wide and 3.5 feet tall — about a single car spot. On a quarter-acre Victoria Heights lot, that compact size is the difference between staging the container entirely on your own driveway and having to think about the road. The 10-yard holds about three pickup-truck loads and includes a 1-ton (2,000-pound) tonnage allowance, plus delivery and pickup, with typical all-in pricing of $350 to $425.
+
+## The right jobs for a 10-yard here
+
+We call the 10-yard the "garage cleanout" size for good reason: it's the smallest footprint we offer, so you handle a one-room job without paying for cubic yards you'll never fill. On Victoria Heights homes that are now 55 to 60 years old, the projects that fit it cleanly tend to be these:
+
+- **Garage cleanout.** Decades of original-owner storage in a Levitt garage empties neatly into one 10-yard. It's the classic use, and the compact can tucks into a single driveway spot.
+- **Bathroom remodel.** Tearing out one of these original 1960s baths — tile, vanity, tub, subfloor — makes heavy debris but not high volume. That's exactly where the low 3.5-foot walls and the 1-ton allowance earn their keep.
+- **Yard waste and trees.** Mature trees, overgrown beds and brush on a quarter-acre lot in this tree-lined section fill a 10-yard when you're reclaiming a side or back yard.
+- **Estate downsize.** Many of these homes are still held by original owners or their families. When it's time to clear out a long-held rambler or colonial room by room, the 10-yard moves the job along without crowding the driveway.
+
+A quick honest note on this neighborhood specifically. Victoria Heights was Belair's later, larger detached wave — it's dominated by the bigger Levitt models: ramblers, three- and four-bedroom Colonials, and the top-of-line Country Clubber, the largest house Levitt offered here. Because that housing stock is now hitting its 55-to-60-year major-renovation cycle, a lot of folks in this section are actually planning whole-house jobs: a full kitchen gut, a finished basement, an addition, or a roof and siding tear-off. Those throw off far more drywall, plaster, cabinetry and shingle debris than a 10-yard holds, and you'll fill it fast. If that's your project, tell us on the phone and we'll point you to a 20- or 30-yard instead. The 10-yard is the no-waste choice when the work stays in one room or one corner of the lot.
+
+## Staging it on your driveway — and the Bowie permit rule
+
+Here's where Victoria Heights's layout works in your favor. These are detached homes on private driveways, so most 10-yard drops here sit entirely on the homeowner's own driveway — and that means you generally do **not** need a City of Bowie right-of-way permit. The city only requires that permit when a dumpster sits in a city street. Driveways and HOA-approved staging don't trigger it, and on a quarter-acre Levitt lot with its own driveway, placement on the driveway typically avoids the permit entirely.
+
+A couple of practical notes for this neighborhood. The original Levitt detached sections of Belair — Victoria Heights among them — were built as conventional single-family subdivisions and are widely known as "no HOA" neighborhoods. The associations covering these streets are generally voluntary civic associations rather than mandatory HOAs with architectural-control bonds, so placement here is governed mainly by the Bowie street rule and ordinary good-neighbor courtesy rather than gate access or board approval. If you want to be certain about your specific block, the City of Bowie keeps an official homeowners and civic association directory you can check. And if the only workable spot truly is the street, don't worry — just say so when you call and we'll walk you through the right-of-way permit so you're covered. Because the 10-yard's footprint is so small, clearing a single-car spot on the driveway the night before is usually all the prep you'll need.
+
+## Why neighbors call the family
+
+We dispatch every morning from our Beltsville yard, and Victoria Heights is about 25 minutes out via Route 197 or the BW Parkway. That short, predictable run is why same-day delivery is common here — call early on a project that's ready to go and there's a good chance we can have a can on your driveway that day. Because Bowie's section-naming is so consistent, a Victoria Heights Drive address is unambiguous to our drivers; the "V" streets read as one tight cluster, so we navigate quiet residential blocks straight to you rather than guessing between similarly named subdivisions.
+
+Being family-owned means the person who answers the phone is the same person making sure the truck shows up. We'll talk through your job honestly: if a 10-yard is right, we'll send it; if you'd be better served by a bigger container for a whole-house remodel, we'll tell you that instead of watching you overfill the small one.
+
+## Get a 10-yard on your Victoria Heights driveway
+
+Whether it's a garage that's been collecting since the late 1960s, an original Levitt bathroom finally getting its remodel, a quarter-acre lot you're clearing of overgrown trees, or an estate cleanout that needs to move at a respectful pace, the 10-yard dumpster is the no-waste choice for a one-area job in Victoria Heights. Delivery, pickup, and your 1-ton tonnage allowance are all included in one straightforward price, typically $350 to $425.
+
+Call the family at **(301) 252-3586** and we'll get you scheduled — often the same day. You'll talk to an owner, get honest answers about sizing and placement, and have your dumpster staged right there on your own Victoria Heights driveway.

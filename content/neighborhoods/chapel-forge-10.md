@@ -1,0 +1,36 @@
+Chapel Forge is one of the later, larger sections of Levitt's Belair at Bowie, where the homes along Chapel Forge Drive and the C-named streets that branch off it were built and finished in the mid-1960s — many carry a 1966 build year, which puts this housing stock right around 60 years old today. We're JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, and the 10-yard dumpster is the container we drop here for a focused, one-area project. It's the smallest can we run, and on a Chapel Forge rambler's driveway it's usually the right fit when the work is concentrated in a single room or corner of the yard. When you call, you get one of the owners — not a call center.
+
+## Why the 10-yard fits Chapel Forge homes
+
+Chapel Forge was among the youngest of the core Levitt sections — Bowie incorporated as a city in 1963, just as this part of Belair was being built out around the old Belair Mansion farmland. The result is a neighborhood of detached, single-family ramblers that run a little larger than Bowie's earliest starter-Levitts. Verified listings along Chapel Forge Drive show homes of roughly 1,850 to 2,200-plus square feet sitting on lots of about 9,600 to 10,700 square feet — call it a quarter-acre. That's real room, but on a mid-century lot it's modest room: there's genuine but limited space on the driveway and front yard for staging a roll-off.
+
+That's exactly why the 10-yard is worth knowing about. Its footprint is just 12 feet long, 8 feet wide and 3.5 feet tall — about a single car spot. On these Chapel Forge driveways, that compact size is the difference between staging the container entirely on your own property and having to think about the street. The 10-yard holds about three pickup-truck loads and includes a 1-ton (2,000-pound) tonnage allowance, plus delivery and pickup, with typical all-in pricing of $350 to $425.
+
+## The right jobs for a 10-yard here
+
+We call the 10-yard the "garage cleanout" size for good reason: it's the smallest footprint we offer, so you handle a one-room job without paying for cubic yards you'll never fill. On 60-year-old Chapel Forge homes, the projects that fit it cleanly tend to be these:
+
+- **Garage cleanout.** Decades of original-owner storage in a Levitt garage empties neatly into one 10-yard. It's the classic use, and the compact can tucks into a single driveway spot.
+- **Bathroom remodel.** Tearing out one of these original 1960s baths — tile, vanity, tub, subfloor — makes heavy debris but not high volume. That's exactly where the low 3.5-foot walls and the 1-ton allowance earn their keep.
+- **Yard waste and trees.** Mature trees, overgrown beds and brush on a quarter-acre Chapel Forge lot fill a 10-yard when you're reclaiming a side or back yard.
+- **Estate downsize.** Many of these homes are still held by original owners or their families. When it's time to clear out a long-held rambler room by room, the 10-yard moves the job along without crowding a tight driveway.
+
+A quick honest note on this neighborhood specifically. Because Chapel Forge skews toward larger mid-century homes that are now due for real modernization — Levitt built them with signature spatter-paint walls and original wood kitchen cabinets, and those are common gut-and-redo targets — a lot of folks here are actually planning whole-house jobs: full interior demo, an addition, a finished basement, or a roof. Those throw off far more drywall, plaster, cabinetry and shingle debris than a 10-yard holds, and you'll fill it fast. If that's your project, tell us on the phone and we'll point you to a larger size. The 10-yard is the no-waste choice when the work stays in one room or one corner of the lot.
+
+## Staging it on your driveway — and the Bowie permit rule
+
+Here's where Chapel Forge's layout works in your favor. These are detached homes on private driveways, so most 10-yard drops here sit entirely on the homeowner's own driveway — and that means you generally do **not** need a City of Bowie right-of-way permit. The city only requires that permit when a dumpster sits in a city street. Driveways don't trigger it.
+
+A couple of practical notes for this neighborhood. The original Levitt sections like Chapel Forge are organized around civic associations and PTAs rather than the deed-restricted, dues-collecting HOAs you find in newer Bowie subdivisions, and there's no sign Chapel Forge is gated — so placement here is governed mainly by that Bowie street rule plus ordinary good-neighbor courtesy, not gate access or HOA staging approval. If the only workable spot truly is the street, don't worry: just say so when you call and we'll walk you through the right-of-way permit so you're covered. And because the 10-yard's footprint is so small, clearing a single-car spot on the driveway the night before is usually all the prep you'll need.
+
+## Why neighbors call the family
+
+We dispatch every morning from our Beltsville yard, and Chapel Forge is about 25 minutes out via Route 197 or the BW Parkway, with US 50, US 301 and MD 450 all close by. That short, predictable run is why same-day delivery is common here — call early on a project that's ready to go and there's a good chance we can have a can on your driveway that day. Chapel Forge's streets are named alliteratively off Chapel Forge Drive, with side streets and cul-de-sacs like Milan Way — home to the Chapel Forge Early Childhood Center — so our trucks navigate quiet residential blocks rather than wide arterials to reach you. We know how to get in and out cleanly on a street like that.
+
+One small detail worth mentioning: while some directories list Chapel Forge under the 20716 ZIP, the verified addresses on Chapel Forge Drive and at the school on Milan Way all carry 20715. Either way, give us the street address and we'll find you — being family-owned means the person who answers the phone is the same person making sure the truck shows up. We'll talk through your job honestly: if a 10-yard is right, we'll send it; if you'd be better served by a bigger container, we'll tell you that instead of watching you overfill the small one.
+
+## Get a 10-yard on your Chapel Forge driveway
+
+Whether it's a garage that's been collecting since 1966, an original spatter-paint bathroom finally getting its remodel, a quarter-acre lot you're clearing of overgrown trees, or an estate cleanout that needs to move at a respectful pace, the 10-yard dumpster is the no-waste choice for a one-area job in Chapel Forge. Delivery, pickup, and your 1-ton tonnage allowance are all included in one straightforward price, typically $350 to $425.
+
+Call the family at **(301) 252-3586** and we'll get you scheduled — often the same day. You'll talk to an owner, get honest answers about sizing and placement, and have your dumpster staged right there on your own Chapel Forge driveway.

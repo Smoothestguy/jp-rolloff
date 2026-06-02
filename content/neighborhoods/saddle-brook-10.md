@@ -1,0 +1,34 @@
+If you live in Saddle Brook off Race Track Road and you have a one-room job in front of you, the 10-yard is usually the right-sized box — even here, where the houses run big. We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, and the 10-yard is the smallest container we run. It is the one we drop for neighbors clearing a single garage bay, gutting one bathroom, hauling out a yard's worth of brush, or working through an estate downsize one room at a time. Saddle Brook's homes are some of the larger custom and New Traditional colonials in Bowie, so plenty of full-house projects here need a 20 or a 30. But for the focused, single-room job, the 10 keeps you from paying for space you will not fill.
+
+Saddle Brook is a late-1990s-to-early-2000s subdivision tucked on the doorstep of the former Bowie Race Track, and it is a different animal from Bowie's older Levitt-era ramblers and split-levels. The original Saddlebrook section went up largely between 1997 and 2001 — full-size colonials running roughly 2,228 to 4,462 square feet, three to six bedrooms, most with basements. The adjacent Saddlebrook West section is younger still, New Traditional homes from about 2001 to 2004 with brick fronts and Colonial Revival lines, some pushing past 5,000 square feet. That housing stock matters when you are sizing a dumpster: the renovations here are big, but the cleanouts often start small and contained, and a 10-yard is built for exactly that contained corner of the job.
+
+## What fits in a 10-yard dumpster
+
+The 10-yard measures 12 ft long by 8 ft wide by 3.5 ft tall. It holds about three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. In Saddle Brook a typical 10-yard rental runs **$350 to $425, including delivery, pickup, and that tonnage** — no surprise tipping fee after we weigh the load at the end.
+
+The low 3.5-foot walls are the quiet advantage on a small job. You can walk right up to the side and drop debris in without a ramp or an overhead heave, which matters when you are loading the dense, heavy material a remodel gives up — old tile, vanity tops, a cast-iron tub, sod and dirt. The 1-ton allowance is matched to focused work: one room, one corner, one weekend. And because the footprint is the smallest we offer — it fits a single car spot — it tucks onto a Saddle Brook driveway without swallowing the whole apron. If your project turns out bigger than one room, we will steer you to a 15 or a 20 instead. But for the four jobs below, the 10 is the honest pick.
+
+## Which Saddle Brook jobs suit the 10-yard
+
+This is the size people call the "garage cleanout" container, and around Saddle Brook that is a job we field often. The four jobs that land squarely in a 10-yard here:
+
+- **Garage cleanouts.** Twenty-plus years in one of these colonials adds up to a garage full of old paint, warped lumber, broken tools, and boxes. A single bay empties into a 10-yard about right, without paying for space you will not use — the classic one-bay clear-out, even on a home with a two- or three-car garage.
+- **Bathroom remodels.** A single-bath gut in one of these late-'90s or early-2000s homes — tile, the tub, the vanity, drywall, and subfloor — is the textbook 10-yard job. The dense tile and surround from one bathroom stay well inside the 1-ton allowance for a house this size, even when the full house is large.
+- **Yard waste and trees.** These lots have had two decades to mature, and the beds, hedges, and trees have grown in. Brush, branches, sod, and a removed tree or two load neatly over the low walls, and the 1-ton allowance is sized for a single yard's worth of green, heavy debris.
+- **Estate downsize.** When a long-held Saddle Brook home changes hands, a 10-yard handles the furniture, household goods, and accumulated clutter of a measured downsize — emptying a room at a time rather than gutting the whole property in one drop.
+
+If you are taking on a whole-house interior gut, a kitchen tear-out, or a full basement and garage cleanout all at once, those run heavier and bulkier than a 10 is built for — and on Saddle Brook's larger floor plans with full basements, those big projects usually do call for a 20 or 30. We will tell you that up front rather than watch you overfill a 10. But the one-room, one-corner work is exactly where the 10 earns its keep.
+
+## Local logistics: placement, permits, and drive time
+
+**Driveway and HOA-approved staging is the norm in Saddle Brook.** This is a subdivision of uniform private driveways, not a neighborhood where containers sit in the street, so a 10-yard on the apron is the realistic fit for most jobs here. A 10-yard needs about 12 feet of straight length plus a little clearance and a clear swing for the rear door, which fits a single car spot on these wider colonial driveways without blocking the second car or the walk. We lay boards under the wheels on request to protect the surface.
+
+**Check with the HOA before we roll.** Saddlebrook West is served by a homeowners association that manages common areas — a pool, two tennis courts, and a playground — and Saddlebrook homes carry quarterly association fees, which signals an active HOA. If your staging touches a shared drive or any common area, that may need HOA coordination on top of city rules. On your own driveway you are usually clear, but it is worth a quick check so nobody is surprised on delivery morning.
+
+**The City of Bowie permit rule.** Saddle Brook sits inside the City of Bowie, and the city only requires a right-of-way permit when a dumpster has to sit in a city street. A container placed entirely on your private driveway or on HOA-approved staging does **not** require the permit. With driveway placement the norm here, most Saddle Brook jobs never trigger it — and if your address is the rare case that does, we will flag it before we roll.
+
+**Drive time.** Saddle Brook is about 25 minutes from our Beltsville yard, an easy run up Route 197 or the BW Parkway. Give us your address and our driver knows he is headed for the Race Track Road corridor near Saddlebrook East Park — that keeps the morning drop quick and predictable. We dispatch every morning, so early calls regularly make the same-day drop and the rest are typically scheduled inside 24 hours.
+
+## Talk to the family that runs the trucks
+
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center, not a dispatch desk three states away. Tell us your Saddle Brook address and what you are tackling, whether it is a garage bay near the old race track grounds, a single-bath gut in one of the brick-front colonials, a yard full of brush off a twenty-year-old lot, or an estate downsize on one of the equestrian streets, and we will confirm the 10-yard is the right size and quote you on the spot. Reach us at **(301) 252-3586** — same family, same trucks, just up the Parkway.

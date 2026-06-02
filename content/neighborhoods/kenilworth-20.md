@@ -1,0 +1,36 @@
+Kenilworth is the "K" section of Belair at Bowie, and once you know that, the whole neighborhood snaps into focus. Levitt and Sons laid out Belair so each section's streets shared a starting letter — Somerset with its "S" streets, Buckingham with "B," Foxhill with "F," Tulip Grove with "T," and Kenilworth with "K." It was one of the earliest sections to go up, built right after Somerset and Buckingham in the early 1960s, after Levitt threw open the Belair grand opening in October 1960 to a crowd of around 20,000 and the first families moved in a year later. The homes here date overwhelmingly to that tight 1960–1964 window, which means Kenilworth is now a neighborhood of 60-plus-year-old Levitt houses, remarkably uniform in age and model. That uniformity is exactly why the 20-yard roll-off is the size we drop here more than any other.
+
+We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 25 minutes from Kenilworth by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks, not a call center.
+
+## What fits in a 20-yard dumpster
+
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical Kenilworth rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the fact.
+
+Those five feet of wall height are the part people underestimate. It is low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a real project. That balance is why the 20-yard sits in the sweet spot: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demolition. It is the size most customers end up choosing — and rarely regret. On a standard Kenilworth driveway, it fits with room to spare.
+
+## Which Kenilworth jobs suit the 20-yard
+
+What sets Kenilworth apart from much of Bowie is how predictable the work is. NeighborhoodScout reports that roughly 96% of homes in the Kenilworth at Belair neighborhood were built between 1940 and 1969, and that the area has more single-family detached houses than almost 99% of U.S. neighborhoods, with a heavy share of four-, five-, and six-bedroom homes. In plain terms: nearly every property here is an owner-occupied, single-family Levitt house of the same era — not a mix of housing types. So the projects cluster around the same handful of jobs, again and again, and they tend to land on a 20-yard:
+
+- **Whole-house cleanouts.** This is the 20-yard's best-known role — the "whole-house cleanout" size. Clearing a Kenilworth Levitt home between owners, or after decades of one family living in it, fills a 20-yard about right without paying for space you will not use.
+- **Multi-room remodels.** Because the housing stock is uniformly 60-plus years old, the typical project here is updating original 1960s features all at once — a kitchen-and-baths gut, or a run of bedrooms getting new flooring and drywall. That multi-room scope is the classic 20-yard job in a Levitt home on its second or third renovation.
+- **Estate cleanouts.** When a longtime family home on one of the "K" streets changes hands, the 20-yard handles furniture, boxes, and household debris in a single container.
+- **Mid-size roofing tear-offs.** Sixty-year-old roofs come due in waves around here, and a typical Belair single-layer asphalt tear-off fits comfortably within the 2-ton allowance.
+
+Because the homes are so alike, sizing is rarely a guessing game in Kenilworth. The basements finish out to similar square footage, the additions go on similar footprints, and the kitchens were built to the same original Levitt floor plans. If you are gutting a single floor or doing a whole-house clear-out, the 20 is almost always the answer. The exception is a true gut-to-studs plus a full basement haul-out at the same time, which can nudge you toward a 30 — and we will tell you straight if your project is one of those.
+
+## Local logistics: placement, permits, and drive time
+
+**Driveway placement.** This is where Kenilworth has a built-in advantage. Belair Levitt homes were sold in a handful of models — the Cape Cod, the three- and four-bedroom Colonials, the Rancher, the Country Clubber, the Manor House — and every one of them came standard with an integral garage and a private driveway. That means virtually every Kenilworth home has its own driveway suitable for on-property staging, so the dumpster can almost always sit on your property rather than in the street. A 20-yard needs roughly 16 feet of straight length plus a few feet of clearance and an open swing for the rear door, and the driveways here handle that comfortably. We will lay boards under the wheels on request to protect the surface.
+
+**The Bowie permit rule.** The City of Bowie requires a right-of-way permit only if the dumpster sits in a city street. Driveways and HOA-approved staging do not. Because nearly every Kenilworth job stages on the homeowner's own driveway, a city street permit is the rare exception here, not the rule. If the only practical spot turns out to be the street, that permit goes through Bowie's Public Works Department (301-809-2344), and we will flag it the moment we look at your address.
+
+**Associations.** Bowie's original Levitt sections, Kenilworth included, are generally served by voluntary civic associations rather than the dues-mandatory HOAs with architectural-approval gatekeeping you find in newer planned communities. In practice that usually means fewer hoops before a container drops. Still, it is worth confirming your specific association before staging — and if anyone needs it, we are glad to provide a service confirmation to forward along.
+
+**A neighborhood with a record.** Belair at Bowie is documented in the Library of Congress Historic American Buildings Survey, with individual models recorded separately, which speaks to the recognized historic character of the Levitt stock Kenilworth shares. None of that adds red tape to a private driveway dumpster — it is simply a reminder of what these homes are. We treat your property and the surface under the container accordingly.
+
+**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway. Kenilworth sits in the 20715 ZIP, and most addresses are scheduled inside 24 hours, with early calls often making the same-day run.
+
+## Talk to the family that runs the trucks
+
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Kenilworth address and what you are tackling — a kitchen-and-baths gut in a "K"-street Colonial, a roof tear-off on a Rancher, an estate cleanout, or a whole-house clear-out between owners — and we will confirm the 20-yard is the right size and quote you on the spot.

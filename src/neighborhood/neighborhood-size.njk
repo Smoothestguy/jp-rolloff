@@ -1,0 +1,76 @@
+---
+pagination:
+  data: neighborhoodPages
+  size: 1
+  alias: np
+  addAllPagesToCollections: true
+permalink: "/locations/{{ np.city.slug }}/{{ np.neighborhood.slug }}/{{ np.size.yd }}-yard/"
+---
+{% extends "base.njk" %}
+{% set city = np.city %}
+{% set hood = np.neighborhood %}
+{% set s = np.size %}
+
+{% block head %}
+<script type="application/ld+json">
+  { "@context": "https://schema.org", "@type": "Service", "serviceType": "{{ s.yd }}-yard roll-off dumpster rental", "provider": { "@type": "LocalBusiness", "name": "JP Roll-Off Service", "telephone": "+1-301-252-3586", "priceRange": "$$" }, "areaServed": { "@type": "Place", "name": "{{ hood.name }}, {{ city.name }}, MD" }, "offers": { "@type": "Offer", "priceCurrency": "USD", "price": "{{ s.price.low }}", "priceSpecification": { "@type": "PriceSpecification", "minPrice": "{{ s.price.low }}", "maxPrice": "{{ s.price.high }}", "priceCurrency": "USD" } } }
+  </script>
+<script type="application/ld+json">
+  { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://jprolloff.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Service Areas", "item": "https://jprolloff.com/service-areas" },
+    { "@type": "ListItem", "position": 3, "name": "{{ city.name }}", "item": "https://jprolloff.com/locations/{{ city.slug }}" },
+    { "@type": "ListItem", "position": 4, "name": "{{ hood.name }} {{ s.yd }}-Yard", "item": "https://jprolloff.com/locations/{{ city.slug }}/{{ hood.slug }}/{{ s.yd }}-yard" }
+  ]}
+  </script>
+{% endblock %}
+
+{% block content %}
+<main id="main">
+    <section class="page-header">
+      <div class="container">
+        <nav class="breadcrumb" aria-label="Breadcrumb" style="margin-bottom: var(--space-4); font-size: var(--fs-14);">
+          <a href="/locations/{{ city.slug }}" style="color:rgba(255,255,255,.75);">{{ city.name }}</a>
+          <span style="color:rgba(255,255,255,.45);"> / </span>
+          <a href="/locations/{{ city.slug }}/{{ s.yd }}-yard" style="color:rgba(255,255,255,.75);">{{ s.yd }}-Yard</a>
+          <span style="color:rgba(255,255,255,.45);"> / </span>
+          <span style="color:#fff;">{{ hood.name }}</span>
+        </nav>
+        <span class="eyebrow" style="color:#fff;">{{ s.yd }}-Yard · {{ hood.name }}, {{ city.name }} MD</span>
+        <h1>{{ s.yd }}-yard dumpster rental in {{ hood.name }}, {{ city.name }} MD.</h1>
+        <p>{{ s.dims }} · holds about {{ s.loads }} pickup-truck loads · {{ s.tons }}-ton ({{ s.lbs | thousands }} lb) allowance. Serving {{ hood.name }} — {{ hood.oneLine }}.</p>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container container-narrow">
+        <div class="longform">
+          {{ np.body | markdown | safe }}
+        </div>
+        <p style="margin-top: var(--space-8);"><a href="/#quote" class="btn btn-primary">Get a {{ hood.name }} Quote →</a></p>
+      </div>
+    </section>
+
+    <section class="section section-alt">
+      <div class="container">
+        <div class="section-head"><div><span class="eyebrow">Other sizes in {{ hood.name }}</span><h2>Need a different size?</h2></div></div>
+        <div class="area-list" style="grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));">
+          {% for o in sizes %}{% if o.yd != s.yd %}
+          <a href="/locations/{{ city.slug }}/{{ hood.slug }}/{{ o.yd }}-yard">{{ o.yd }}-yard in {{ hood.name }}</a>
+          {% endif %}{% endfor %}
+          <a href="/locations/{{ city.slug }}/{{ s.yd }}-yard">All of {{ city.name }} →</a>
+          <a href="/locations/{{ city.slug }}">{{ city.name }} info →</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container">
+        <div class="cta-band">
+          <div><h2>{{ s.yd }}-yard to {{ hood.name }}.</h2><p>Call dispatch direct, or send your address and we'll quote on the spot.</p></div>
+          <div class="cta-band-actions"><a href="tel:+13012523586" class="cta-band-phone">(301) 252-3586</a><a href="/#quote" class="btn btn-lg">Get a Free Quote →</a></div>
+        </div>
+      </div>
+    </section>
+  </main>
+{% endblock %}

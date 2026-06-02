@@ -1,0 +1,40 @@
+When a job in Whitehall outgrows a single room and turns into a real build — a full addition, a whole-house remodel, a large roof tear-off — the 25-yard roll-off is the container we send. If your address starts with the letter W and your back fence looks out onto the Bowie Golf Club, you're in Whitehall, the Levitt "W-section" where every street from William Lane on down follows the alphabetized-section quirk that tells locals exactly which corner of Belair at Bowie you're in. We're JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, and the 25-yard is the biggest container we run. When you call, you get one of the owners — not a call center.
+
+## What fits in a 25-yard dumpster
+
+The 25-yard is our major-construction size. It measures 20 feet long by 8 feet wide by 5 feet tall and holds roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000-pound) weight allowance, and in Whitehall a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage** — no tipping-fee surprises added after the haul.
+
+The jump up to this size is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through. The walls are still five feet, so a crew can walk debris up and pitch it over the side without a ramp, but there's meaningfully more room behind those walls than the mid-size containers offer. It's the difference between one box that lives in the driveway for the whole build and a swap mid-job that stalls the crew.
+
+One piece of advice we give every customer on this size: **measure twice before booking.** Twenty feet of straight container, plus clearance for the truck and the rear swing door, is a long footprint. On these detached Levitt lots there's usually room, but it's worth confirming the spot — especially the longer driveways — before delivery day rather than after.
+
+## Why the 25-yard suits Whitehall's bigger jobs
+
+Whitehall is the last and largest run of Levitt's mid-1960s detached single-family homes in Belair at Bowie, with most of its houses realized between roughly 1964 and 1968. That puts nearly the entire neighborhood in the 55-to-60-year-old range now, and 55-to-60-year-old houses are exactly where the major jobs come from — aging roofs, original systems, dated kitchens and baths. These aren't tear-down lots. Over the decades Whitehall's once-uniform Levitt streetscapes have been heavily personalized with upgrades and additions, so what drives a 25-yard here isn't new construction — it's an aging home finally getting a big push.
+
+Levitt offered six models across Belair — two Cape Cod variations, two Ranchers, the Colonial, the Country Clubber, and the Manor House — and Whitehall's homes range from compact Capes around 1,400 square feet up to the larger Country Clubbers near 2,400. That spread matters: the same W-named street can hold a small Cape and a big Country Clubber, and project debris volumes vary right along with it. When the work is genuinely large, these are the jobs the 25-yard is built for:
+
+- **Home additions.** Bumping out a Rancher or adding square footage onto a Country Clubber throws off framing lumber, old siding, and tear-out debris in the volume a 25-yard is meant to hold — more than a smaller box can take without a mid-project swap.
+- **Whole-house remodels.** A full gut of an original 1964–1968 Levitt home — kitchen, baths, flooring, and drywall all coming out at once — is a textbook 25-yard job. When one of these houses gets modernized down to the studs, the debris adds up fast, and one large container beats two trips.
+- **Large roofing tear-offs.** After roughly six decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs on the larger models run heavy, and the 2.5-ton allowance gives more headroom for shingle weight than the smaller sizes.
+- **Commercial cleanouts.** When a larger property or business clearout in the area throws off material in bulk, the 25-yard handles it in one go.
+
+If your Whitehall project is smaller — converting that original carport into finished living space, finishing an attic, or opening up a galley kitchen — you'll generate framing and drywall, but usually not enough to justify the biggest box. Those mid-century remodels are typically a 10- or 15-yard job. Tell us the work on the phone and we'll size it honestly; the 25-yard pays off when the build is genuinely big, and we'd rather not watch you rent more steel than you'll fill.
+
+## Staging it on your driveway — and the golf-course question
+
+Here's where Whitehall's layout shapes the planning. These are detached single-family homes on private driveways, not townhomes or a gated community, so a 25-yard here almost always sits on the homeowner's own driveway or an HOA-approved spot. That means you generally do **not** need a City of Bowie right-of-way permit. The city only requires that permit when a dumpster sits in a city street — driveways and HOA-approved staging don't trigger it. If the only workable spot truly is the street, that's fine; let us know and we'll walk you through the right-of-way permit so you're covered.
+
+The real planning question in Whitehall usually isn't permits — it's placement, and on this size it matters more than on any other. A 20-foot container needs a clear, fairly straight run to set down, and if your lot is one of the many that backs directly onto the Bowie Golf Club, the course boundary can complicate staging debris near the rear of the property. On a big remodel or roof job, the temptation is to stage material in the back yard, but on a golf-course-backing lot that rear boundary is often the wrong call. We'll almost always recommend keeping the can up front on the driveway and feeding it from there. Scout the spot with us before delivery day, and if your block has an active civic or homeowners association, follow any approved placement guidance alongside the city's street rule — we'd just say check with your local association directly, since there's a lot of bad info online about unrelated "Whitehall" groups elsewhere.
+
+## Why neighbors call the family
+
+We dispatch every morning from our Beltsville yard, and Whitehall is about 25 minutes out via Route 197 or the BW Parkway. That short, predictable run is why same-day delivery is common here — and on a build with a crew waiting, having the container show up when it's needed is the whole point. We also know the W-section grid, so when you give us a William Lane or any other W-named address, we find it without a fuss.
+
+Being family-owned means the person who answers the phone is the same person who makes sure the truck shows up. No layers, no runaround. We've run enough containers into Bowie's Levitt sections to know how these big remodels actually unfold on an aging mid-1960s home, and we'll talk your job through honestly — if the 25-yard is right, we'll send it; if a 15- or 20-yard would serve you better, we'll tell you that too.
+
+## Get a 25-yard on your Whitehall driveway
+
+Whether it's an addition on one of the W-named streets, a whole-house gut of an original Levitt home, a large roof tear-off that's been coming for years, or a bigger cleanout, the 25-yard dumpster is the right container when the job is genuinely major. Delivery, pickup, and your 2.5-ton tonnage allowance are all included in one straightforward price, typically $525 to $625 — and we'll help you find the placement that keeps a 20-foot box clear of the golf-course boundary.
+
+Call the family at **(301) 252-3586** and we'll get you scheduled — often the same day. You'll talk to an owner, get honest answers about sizing and placement, and have your dumpster staged right there on your own W-section driveway.

@@ -1,0 +1,38 @@
+Old Town Bowie is Bowie's original core — the rectilinear grid platted in 1870 by developer Benjamin Plumb as "Huntington City," laid out around the Baltimore & Potomac Railroad junction with tree-named streets like Chestnut Avenue running one way and numbered streets crossing them. It predates the 1960s Levitt-built sections of Bowie by roughly 90 years, and it shows: the housing stock is predominantly wood-frame, much of it dating from around 1880 onward, with Victorian-era I-houses, front-gabled homes, American Foursquares, bungalows, and Cape Cods packed onto small town lots along narrow streets. When one of those century-old frame houses finally comes due for a gut-renovation, an estate clear-out, or a roof and siding tear-off, the 20-yard roll-off is the size most of those jobs land on — and that is the work we do here most.
+
+We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 25 minutes from Old Town Bowie by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks — not a call center.
+
+## What fits in a 20-yard dumpster
+
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical Old Town Bowie rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises added after the fact.
+
+Those five feet of wall height are the part people underestimate. It is low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demo. It is the size most customers end up choosing — and rarely regret.
+
+## Why the 20-yard fits Old Town Bowie specifically
+
+Old Town Bowie's homes are old, and old frame houses generate a particular kind of debris. The MNCPPC historic communities survey documents roughly 590 primary buildings in this compact footprint, ranging in age from about 1880 to the present, with vernacular Queen Anne, Colonial Revival, and Dutch Colonial Revival detailing on top of those Victorian I-house and Foursquare frames. These are not the standardized 1960s tract homes you find elsewhere in Bowie — they are individually built wood-frame houses that, after a century-plus, come due for gut-rehabs, plaster-and-lath tear-outs, and roof and siding replacement that throw off debris by the truckload.
+
+Here are the jobs that come up again and again in Old Town Bowie, and they fall squarely in the 20-yard's wheelhouse:
+
+- **Whole-house cleanouts.** This is the 20-yard's best-known role — it is even nicknamed the "whole-house cleanout" size. Clearing one of these older frame homes between owners, or after decades of accumulation, fills a 20-yard about right without paying for space you will not use.
+- **Multi-room remodels.** Tearing out original plaster, lath, trim, and dated kitchens and baths across several rooms of one of these century-old houses is the classic 20-yard job here. A gut on a Victorian I-house or Foursquare produces exactly the volume a 20 was built for.
+- **Estate cleanouts.** Old Town Bowie's small-lot, close-knit character means many of these houses have stayed in the same hands for generations. When one of those longtime homes changes hands, the 20-yard handles furniture, boxes, and a full lifetime of household belongings in a single container.
+- **Mid-size roofing and siding tear-offs.** Wood-frame homes of this era frequently need both the roof and the wood or asphalt siding pulled. A single-layer roof tear-off on one of these houses fits comfortably, with the 2-ton allowance covering most jobs of that footprint.
+
+If your project is smaller — a single bathroom, a porch demo, a garage purge — a 10 or 15-yard may actually serve you better on these tight lots, where a smaller can is easier to tuck in. If you are taking a house down to the studs and adding on, we will talk through whether a 30 makes more sense. Tell us the address and the scope and we will steer you straight; we would rather size it right than oversell you.
+
+## Placement, permits, and getting the truck in
+
+**Placement is the real conversation in Old Town Bowie.** This is the part of Bowie where the dumpster question gets genuinely tighter than anywhere else in the city. The 1870s grid was platted for small town lots and narrow streets, so driveways here tend to be short and curbside room is limited compared with Bowie's wide suburban subdivisions. A 20-yard needs about 16 feet of straight length plus a few feet of clearance and an open swing for the rear door. On a roomier lot that drops onto the driveway with no trouble; on a tight historic parcel, we may need to stage carefully, and on some blocks the only practical spot is the curb. When you call, tell us exactly where you picture it sitting and we will confirm it fits before we roll — getting that right the first time matters far more on these lots than it does in newer Bowie. We lay boards under the wheels on request to protect the surface.
+
+**The Bowie permit rule.** The City of Bowie requires a right-of-way permit only if the dumpster sits in a city street. Driveways and approved private staging do not. That distinction comes up more often in Old Town Bowie than in the rest of the city, because short driveways and narrow streets mean curbside placement is a real possibility here rather than the exception. If the only workable spot turns out to be the street, that permit goes through Bowie's Public Works Department, and we will flag it the moment we look at your address so there are no surprises.
+
+**Historic district review.** Old Town Bowie is covered by an Old Town Bowie Development District Overlay Zone, administered through Prince George's County and M-NCPPC planning, which applies tailored design-review standards to this historic district. That review governs your renovation work, not our roll-off — but if your project touches the exterior of a structure here, it is worth confirming where you stand with the county before demo begins. We are not your reviewing authority and will not pretend to be; we just place the can and haul it when you are ready.
+
+**Getting the truck in.** The district anchors on the Bowie Railroad Buildings at 8614 Chestnut Avenue, with the largest concentration of historic structures along 9th Street, where the 1939 firehouse still stands. Those are the kinds of narrow, tightly built streets we route through carefully rather than the wide arterials of newer Bowie. With the city-backed revitalization bringing new galleries, a brewery, and a performing arts venue to the district, we are also seeing more tenant-improvement and commercial cleanout work down here — and the 20-yard handles plenty of that too. The neighborhood is in ZIP 20715.
+
+**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning. Most Old Town Bowie addresses are scheduled inside 24 hours, and an early call often makes the same-day run.
+
+## Talk to the family that runs the trucks
+
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Old Town Bowie address and what you are tackling — a plaster-and-lath gut on a Victorian frame house off Chestnut Avenue, a whole-house cleanout, an estate clear-out, or a roof and siding tear-off on one of these century-old homes — and we will confirm the 20-yard is the right size, talk through where it can sit on a tight lot, and quote you on the spot.

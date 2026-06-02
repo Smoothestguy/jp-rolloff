@@ -1,0 +1,36 @@
+Old Stage isn't one of Bowie's old Levitt tracts — it's a smaller, newer enclave that branches off Old Stage Road at the west end of the city, built out mostly from the 1980s through the 2000s. The homes here are split-levels and Colonial Revivals, larger than the 1960s midcentury houses that fill the rest of Bowie, and almost all of them sit on generous lots with attached garages. We're JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, and the 10-yard dumpster is the can we drop when the project is focused on one room, one bathroom, or one corner of the yard. It's the smallest container we run, and on an Old Stage driveway there's almost always room to set it without ever touching the street. When you call, you get one of the owners — not a call center.
+
+## Why the 10-yard fits Old Stage homes
+
+Old Stage stands apart from the rest of Bowie. While much of the city is dominated by smaller, lower-priced 1960s Levitt homes, Old Stage is a community of larger split-levels and Colonials that price in roughly the $500,000 to $650,000 range, varying by square footage and lot size. The Old Stage Road corridor itself runs to big residential parcels — some listings cite lots near 100 by 125 feet, and one stretch even reaches a couple of acres. That matters for a dumpster: frontage and driveways here tend to be roomy, so on-property placement is the norm rather than the exception.
+
+That's exactly the setting the 10-yard is built for. Its footprint is just 12 feet long, 8 feet wide and 3.5 feet tall — about a single car spot, and the smallest can we offer. On these generous Old Stage driveways, that compact size means you stage the entire container on your own property without crowding the garage or the cars. The 10-yard holds about three pickup-truck loads and includes a 1-ton (2,000-pound) tonnage allowance, plus delivery and pickup, with typical all-in pricing of $350 to $425.
+
+## The right jobs for a 10-yard here
+
+We call the 10-yard the "garage cleanout" size because it's the smallest footprint we run — you handle a one-area job without paying for cubic yards you'll never fill. On Old Stage's mature 1980s-2000s homes, the projects that fit it cleanly tend to be these:
+
+- **Garage cleanout.** Nearly every home here has an attached garage, and after twenty or thirty years they fill up. One 10-yard empties a garage neatly and tucks into a single driveway spot while you work.
+- **Bathroom remodel.** Updating one of these original 1980s or '90s baths — tile, vanity, tub, subfloor — throws off heavy debris but not high volume. That's where the low 3.5-foot walls and the 1-ton allowance earn their keep.
+- **Yard waste and trees.** On the larger Old Stage lots, mature trees, overgrown beds and brush add up fast when you're reclaiming a side or back yard. A 10-yard handles a focused cleanup.
+- **Estate downsize.** When a long-held Old Stage home changes hands or a family clears it room by room, the 10-yard moves the job along at a respectful pace without dominating the driveway.
+
+A quick honest note specific to this neighborhood. Because Old Stage homes are larger and now reaching the age where owners modernize them, plenty of folks here are actually planning bigger projects — a full kitchen gut, a finished basement, a roof, or a whole-house refresh. Those throw off far more drywall, cabinetry and shingle debris than a 10-yard holds, and you'll fill it fast. If that's your project, tell us on the phone and we'll point you to a larger size. The 10-yard is the no-waste choice when the work genuinely stays in one room or one corner of the lot.
+
+## Staging it on your property — the HOA approval that matters here
+
+Here's where Old Stage's layout works in your favor, and where it differs from the rest of Bowie. These are detached homes on roomy private driveways and frontage, so most 10-yard drops sit entirely on your own property — and that means you generally do **not** need a City of Bowie right-of-way permit. The city's Public Works Department only requires that permit when a dumpster occupies a city street or sidewalk. A driveway placement doesn't trigger it.
+
+The real gatekeeper in Old Stage isn't the city — it's the homeowners association. The neighborhood is governed by the Olde Stage Homeowners Association, which sets the bylaws and handles community maintenance. If your dumpster is going on your own driveway, that's typically your call. But if the only workable spot is a common area or some non-driveway staging location, you may need HOA approval before we drop the can. It's worth a quick check with the association if you're staging anywhere off your own pavement. And because the 10-yard's footprint is so small, clearing a single-car spot on the driveway the night before is usually all the prep you'll need. If a street placement ever turns out to be unavoidable, just say so when you call and we'll walk you through the right-of-way permit so you're covered.
+
+## Why neighbors call the family
+
+We dispatch every morning from our Beltsville yard, and Old Stage is about 25 minutes out via Route 197 or the BW Parkway. That short, predictable run is why same-day delivery is common here — call early on a project that's ready to go and there's a good chance we can have a can on your driveway that day. Old Stage sits within minutes of Bowie Town Center and is served by Prince George's County Public Schools, with Bowie elementaries like Yorktown on Race Track Road and Whitehall on Woodhaven Lane in the area, so our trucks work quiet residential blocks off Old Stage Road rather than wide arterials to reach you.
+
+One detail worth flagging: while the task that built this page listed a 20715 ZIP, public listings consistently place Old Stage and Old Stage Road in ZIP code 20720 — the Olde Stage HOA itself sits at a 20720 address. Either way, give us your street address and we'll find you. Being family-owned means the person who answers the phone is the same person making sure the truck shows up, and we'll talk through your job honestly: if a 10-yard is right, we'll send it; if you'd be better served by a bigger container, we'll tell you that instead of watching you overfill the small one.
+
+## Get a 10-yard on your Old Stage driveway
+
+Whether it's an attached garage that's been filling up for two decades, an original 1990s bathroom finally getting its remodel, a wooded back lot you're clearing, or an estate cleanout that needs to move at a respectful pace, the 10-yard dumpster is the no-waste choice for a one-area job in Old Stage. Delivery, pickup, and your 1-ton tonnage allowance are all included in one straightforward price, typically $350 to $425.
+
+Call the family at **(301) 252-3586** and we'll get you scheduled — often the same day. You'll talk to an owner, get honest answers about sizing and HOA placement, and have your dumpster staged right there on your own Old Stage driveway.

@@ -1,0 +1,36 @@
+Belair Town is one of Bowie's few dense, shared-wall townhouse enclaves — about 300 attached units built by Levitt and Sons in two phases between 1968 and 1970, flanking the stores on the north side of Annapolis Road (MD 450). That is a very different animal from Bowie's roomy detached-home subdivisions, and it changes what a big roll-off job looks like. So when a 25-yard container rolls out of our Beltsville yard bound for a Morningside Lane address or a unit off Race Track Road, it is almost always headed to something major: a home addition, a whole-house remodel of a 50-plus-year-old townhouse, a large roof, or a commercial cleanout nearby. The 25-yard is our largest-job container, and in a neighborhood of aging Levitt-era attached homes, it earns its keep — but only when the staging is worked out first.
+
+We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 25 minutes from Belair Town by way of Route 197 or the BW Parkway. The owners answer the phone — no call center, no runaround — and we have run enough containers into Bowie's older Levitt sections to know how the big projects, and the tight townhouse frontages, actually play out.
+
+## What fits in a 25-yard dumpster
+
+The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000 lb) weight allowance, and in Belair Town a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage**. No tipping-fee surprises tacked on after the haul.
+
+The jump from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through — a whole-house remodel, an addition, a large roof, or a full cleanout. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls than the mid-size containers offer.
+
+One piece of advice we give every Belair Town customer on this size: **measure twice before booking.** Twenty feet of straight container, plus clearance for the truck and the rear swing door, is a long footprint — and on the narrow, late-1960s townhouse frontages here, that footprint is the whole conversation. Confirm the spot before delivery day rather than after.
+
+## Which Belair Town jobs suit the 25-yard
+
+Belair Town's housing stock is the story here. These are modest attached homes, roughly 918 to 1,538 square feet with two or three bedrooms, built in the Levitt era and now over 50 years old. Original 1960s construction is dated by today's standards, and that is what drives demand for a container this size. These are the jobs the 25-yard is built for:
+
+- **Home additions.** A bump-out or rear addition on an attached townhouse throws off framing lumber, old siding, and tear-out debris in the volume a 25-yard is meant to hold — more than a smaller box can take without a mid-project swap.
+- **Whole-house remodels.** A full gut of a 50-plus-year-old Belair Town unit — kitchen, baths, flooring, and drywall all coming out at once — is a textbook 25-yard job. When a late-1960s townhouse gets modernized down to the studs, the debris adds up fast, and one large container beats two trips.
+- **Large roofing tear-offs.** After five decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs run heavy, and the 2.5-ton allowance gives more headroom for shingle weight than the smaller sizes.
+- **Commercial cleanouts.** With the shops on the north side of MD 450 right at the neighborhood's doorstep, a larger property or business clearout that throws off material in bulk is exactly what the 25-yard handles in one go.
+
+If your Belair Town project is on the smaller side — a single bathroom refresh, one room redone, or a routine turnover cleanout — a 20-yard or even a 15-yard is usually the smarter spend, and we will tell you so. Remember, too, that routine household garbage, recycling, and yard waste are already handled by municipal pickup here, so a roll-off this size is for renovation debris and construction loads that blow past curbside service. The 25-yard pays off when the job is genuinely big.
+
+## Local logistics: placement, parking, and permits
+
+**Placement is the deciding factor in Belair Town.** This is where an attached-townhouse neighborhood is unlike the detached subdivisions elsewhere in Bowie. Under the Belair Town II parking rules, each unit is entitled to the exclusive use of just one assigned space, with anything beyond that limited to street parking or rear-of-unit spaces. That tight, assigned parking is a real constraint for a 20-foot container — there is rarely a wide private driveway to drop it on. Before we dispatch, we will talk through exactly where the box can sit: an approved staging spot, a coordinated stretch of street frontage, or a rear-of-unit area that the truck can reach and the door can swing into.
+
+**Coordinate with your HOA first.** Belair Town II was established in 1969 and is governed by a Declaration of Covenants, By-Laws, and parking regulations administered by its homeowners association. Because exterior projects and container placement on or near common areas fall under those covenants, an HOA-approved spot is usually the single thing that makes a 25-yard drop here go smoothly. If you are in Belair Town II, a quick note to the association (belairtownii@gmail.com) to confirm placement is time well spent — and we are glad to work around whatever they approve.
+
+**The city permit rule is straightforward — and usually in your favor.** The City of Bowie requires a right-of-way permit only when a dumpster has to sit in a city street. A container staged on private property or in an HOA-approved spot does **not** need one. So in practice, confirming an HOA-approved location is the deciding factor for most Belair Town drops, not a city permit. If your particular project forces the container into a city street, we will flag the permit requirement up front rather than letting it surprise you on delivery day.
+
+**Drive time.** Primary access runs off Annapolis Road (Route 450) by way of Race Track Road, with streets like Morningside Lane inside the enclave. From our Beltsville yard, that is about a 25-minute run via Route 197 or the BW Parkway. We dispatch every morning, and same-day delivery is common — so when you are running a build on a deadline, the container shows up when the crew needs it.
+
+## Talk to the family that runs the trucks
+
+When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Belair Town address and what you are tackling — an addition, a whole-house gut of a Levitt-era townhouse, a large roof tear-off, or a bigger cleanout — and let us know whether you have an HOA-approved spot lined up off Race Track Road or Morningside Lane. We will confirm the 25-yard is the right size, help you sort placement on a tight townhouse frontage, and quote you on the spot. Reach us at **(301) 252-3586**.

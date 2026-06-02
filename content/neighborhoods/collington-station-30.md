@@ -1,0 +1,38 @@
+When a Collington Station job is big enough that a smaller bin would just mean a second haul, the 30-yard roll-off is the box you want staged at the top of the driveway. It's the largest container we run, and around here it earns its nickname — the "commercial and demo" size — because it's built for full tear-outs, contractor site debris, bulk waste hauls, and multi-family cleanouts in a single drop and a single pickup. We're JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, and Collington Station — the planned community of 528 single-family homes off lane-style streets like Jordon Pond Lane and Johnstone Lane on the south end of Bowie — is about 25 minutes from our yard via Route 197 or the BW Parkway. That puts it well inside our regular morning run, and same-day drops are common. When you call, you get one of the owners — not a call center.
+
+## What the 30-yard holds
+
+The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That long, tall box swallows about nine pickup-truck loads of material, which is why it's the go-to for jobs that throw off a steady wall of debris rather than a few bags. It comes with a 3-ton (6,000 lb) weight allowance, and our typical pricing runs $595 to $725 — a number that already includes delivery, pickup, and the included tonnage, so there are no surprise line items waiting at the end.
+
+One honest word on that weight allowance. The 30-yard's volume fills up fastest with bulky, lighter material — framing lumber, drywall, old cabinetry, roofing tear-off, carpet, furniture, and general construction debris. If your load leans heavy with concrete, brick, dirt, or tile, the cube fills slowly but the tonnage climbs fast, and a smaller bin or a dedicated heavy-debris container is usually the smarter call. When you phone in, tell us what's going in and we'll steer you to the right size before the truck rolls.
+
+## Why a Collington Station job reaches this size
+
+Here's what makes Collington Station different from the rest of Bowie. This isn't a mix of eras — it's a uniform stock of mid-1990s three-level Colonial Revivals, brick-fronted with attached garages, that all went up starting around 1990. That means the whole neighborhood is hitting its 30-year mark at the same time, and it's hitting the renovation-heavy window all at once. These are upper-middle-income, well-kept homes where owners tend to invest in larger remodels, additions, and full cleanouts rather than patch-and-go fixes. When a three-level colonial gets a real overhaul, the debris stream is exactly what the 30-yard was built for:
+
+- **Full demolition.** Gutting one of these 30-year-old colonials down to the studs — kitchen-and-bath gut remodels, original cabinetry, dated tile, flooring, and trim coming out in a steady run — throws off far more than most owners expect. The 30-yard keeps a demo crew moving without stopping to swap containers mid-job.
+- **Commercial site work.** Contractor tear-outs and larger build-outs across the neighborhood throw off a continuous run of fixtures, flooring, ceiling material, framing scrap, and packaging. One large box keeps the dumpster off the critical path.
+- **Bulk waste hauls.** These homes have full basements, and a basement that's been collecting for 30 years plus a full level of furniture, appliances, and stored belongings piles up fast. Nine truck-loads of capacity means you load once and we haul once. The same goes for a roof tear-off on a three-level colonial — shingle debris stacks up heavy and high in a hurry.
+- **Multi-family cleanouts.** When a long-held Collington Station home turns over, or several properties get cleared at once, the combined volume — old appliances, carpet, mattresses, and the contents of a whole house together — is precisely the scale the 30-yard handles in a single pull.
+
+For a single-room remodel, a bathroom refresh, or a routine garage cleanout in Collington Station, a smaller container is almost always the better fit. The 30-yard shines when capacity — not budget — is the thing that would otherwise cost you a second trip.
+
+## Placement: the driveway works in your favor, but clear it with the HOA first
+
+This is where Collington Station's layout is genuinely on your side. Because every home here is a detached colonial with an attached-garage paved driveway, a 30-yard almost always stages on your own property rather than out on the lane. And that matters for the rules: the City of Bowie requires a right-of-way permit only if the dumpster sits in a city street. Driveways don't trigger it, and HOA-approved staging doesn't either. Drop the can on your own drive and you generally need no city permit at all.
+
+The one thing the 30-yard asks for that the smaller sizes don't is room to set down. It's the longest box we run, and it needs a clear, straight run-up to place cleanly. Collington Station's wide colonial driveways usually give us that, but it's worth thinking through before the truck arrives — clear both car spots and the approach to the garage the night before so we have a straight shot to set the container square.
+
+There's also one placement note specific to this community. Collington Station is governed by an active, professionally managed homeowners' association — listed over on Jordon Pond Lane — that maintains common amenities like the clubhouse, pool, tennis courts, and playground. A drop on your own driveway is your property and is straightforward. But because a 30-yard is a large, visible container and the HOA keeps a close eye on the neighborhood's appearance, it's smart to give them a heads-up and clear the placement before a long job, especially if any part of the staging or the truck's approach touches a common area. If the only workable spot turns out to be the street, just say so when you call and we'll walk you through the city's right-of-way permit so you're covered.
+
+## Routing the truck on the lanes
+
+Collington Station is laid out as a quiet suburban subdivision — lane-style residential streets like Jordon Pond Lane and Johnstone Lane that wind through the community rather than carry through-traffic. It's bordered to the south by the Oak Creek Golf Club, separated by a dense tree line, so these are calm interior blocks, not arterials. Our trucks navigate streets like these every day, but a long trailer carrying a 30-yard appreciates a clean approach. Telling us your exact street within the 20721 ZIP, and where on the driveway you want the container, helps us route in and back out cleanly the first time without disturbing your neighbors on the lane.
+
+That short, predictable 25-minute run from the Beltsville yard is also why same-day delivery is common here. Call early on a project that's ready to go and there's a good chance we can have a 30-yard on your driveway that day.
+
+## Talk to the family before you book
+
+Because we're family-owned, the people who answer the phone are the owners — not a call center reading from a script. That means you can describe your Collington Station project — a full colonial gut, a kitchen-and-bath demo, a 30-years-deep basement cleanout, a roof tear-off, or a multi-property turnover — and get a straight answer on whether the 30-yard is the right size, what it'll cost all-in, and exactly how we'll stage it on your driveway without crowding the garage approach.
+
+If you've got a big job in Collington Station and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We'll help you confirm the placement, clear it with the HOA if your spot needs it, and get a 30-yard scheduled — dispatched from the Beltsville yard in the morning and on your driveway about 25 minutes later, often the same day.

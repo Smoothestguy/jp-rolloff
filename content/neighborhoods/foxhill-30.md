@@ -1,0 +1,36 @@
+When a job in Foxhill gets big enough that a smaller bin would only mean a second haul, the 30-yard roll-off is the box you want on the driveway. It is the largest container we run, the one folks around here call the "commercial and demo" size, and it is built for full tear-outs, contractor site debris, bulk waste, and multi-family cleanouts in a single drop and a single pickup. JP Roll-Off Service is a family-owned hauler dispatched out of Beltsville, and Foxhill — the original "F-section" of Belair at Bowie, the patch near Foxhill Park and the Belair Mansion where every street starts with the letter F — is about 25 minutes from our yard via Route 197 or the BW Parkway. We dispatch every morning, and same-day drops here are common.
+
+## What the 30-yard holds
+
+The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That long, tall box swallows about nine pickup-truck loads of material, which is why it is the go-to when a job throws off a steady wall of debris rather than a few bags. It comes with a 3-ton (6,000 lb) weight allowance, and our typical pricing runs $595 to $725 — a number that already includes delivery, pickup, and the included tonnage, so there is no surprise line item waiting at the end.
+
+One honest word on that weight allowance before you book. The 30-yard's volume fills up best with bulky, lighter material — framing lumber, drywall, old cabinetry, roofing tear-off, lath and plaster, furniture, and general construction debris. If your load runs heavy with concrete, brick, dirt, or tile, the cube fills slowly while the tonnage climbs fast, and a smaller bin or a dedicated heavy-debris container is usually the smarter call. Tell us what is going in when you call and we will steer you to the right size rather than the biggest one.
+
+## Why Foxhill is a little different
+
+Foxhill is the "F-section" of Belair at Bowie, one of the earliest neighborhoods Levitt and Sons laid out in the development. Levitt opened Belair sales in October 1960, and the earliest sections — Foxhill among them — were finished in the years right around 1960 to 1964. That makes these some of the oldest homes in Bowie: single-family detached houses drawn from the original Levitt models — the Cape Cod, the Rancher, the Colonial, the Country Clubber, and the Manor House — now more than 60 years old. Foxhill reads as a well-established, higher-income pocket of Bowie, the kind of neighborhood where owners have both the means and the motivation to fund substantial remodels, additions, and estate turnovers.
+
+That history shapes the debris. Levitt built these houses assembly-line style on concrete slabs, finishing six to ten homes a day, so most Foxhill renovations are interior gut/remodel work and roof or siding tear-offs rather than basement digs. A great deal of that fits a 10- or 20-yard on the driveway. But Foxhill also sees the heavier end of the work — the full tear-outs and turnovers — and that is squarely 30-yard territory.
+
+## Which Foxhill jobs suit this size
+
+- **Full demolition.** Taking one of these 60-plus-year-old Levitt ranchers or colonials down to the studs, pulling a long-ago addition, or clearing out a dated original kitchen and bath generates far more debris than most owners expect. On a slab-built house the demo runs wide rather than deep, and it throws off a continuous stream of framing, drywall, plaster, and old cabinetry. The 30-yard keeps a demo crew moving without stopping to swap containers mid-job.
+- **Commercial site work.** A contractor tear-out or tenant turnover near Foxhill produces a steady flow of fixtures, ceiling material, flooring, and packaging. One large box keeps the dumpster off the critical path instead of forcing a second haul partway through.
+- **Bulk waste hauls.** A whole-house clear-out of a long-held Foxhill home — decades of belongings, old appliances, and accumulated material from an original-owner property finally turning over — piles up fast. Nine truck-loads of capacity means you load once and we haul once.
+- **Multi-family cleanouts.** Turning over several units at once, with old carpet, mattresses, appliances, and tenant debris together, is exactly the volume the 30-yard was built to handle.
+
+For a single-room remodel or a routine garage clear-out in Foxhill, a smaller container is almost always the better fit. The 30-yard earns its keep when capacity — not budget — is the thing that would otherwise cost you a second trip.
+
+## Placement on Foxhill's slab-era driveways
+
+Foxhill's Levitt layout is genuinely easy to work with, with one caveat that comes straight from the size. Most Belair lots were standardized at about 8,400 square feet — roughly a fifth of an acre — to keep pricing fair across the development, and every original home came with its own paved driveway. That means we can almost always stage the dumpster on your driveway rather than out in the street. And that matters for permits: the City of Bowie requires a right-of-way permit only if the dumpster sits in a city street — driveways and HOA-approved staging do not. So in Foxhill, a street permit is the exception, not the rule.
+
+The caveat is the 30-yard itself. It is a big box on a long frame, and it needs a longer, clearer run-up to set than the smaller sizes — the driver needs room to back the trailer in straight. Foxhill's lots are those modest, uniform mid-century parcels with standard single-width driveways, not the wide aprons of Bowie's newer subdivisions, so the approach is the thing to think about before we roll out. A flat, open driveway with room to line the trailer up is ideal. When you book, tell us whether your drive is tight, short, sloped, or shares a curb cut with a neighbor, and we will plan the drop around it. If the only workable spot turns out to be the public street, the city's Public Works Department handles that right-of-way review, and we are glad to walk you through what is involved before your container shows up.
+
+One small bonus for our driver: because Belair's streets are arranged by section, every street in Foxhill begins with the letter F. Telling us your exact F street is the quickest way for locals to pin down location within the section, and it helps us route a truck and a long trailer cleanly the first time.
+
+## Talk to the family before you book
+
+Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script. You can describe your Foxhill project — a full Levitt gut job, a contractor tear-out, a bulk haul, or a multi-unit cleanout — and get a straight answer on whether the 30-yard is the right size, what it will cost all-in, and exactly how we will fit it onto an original slab-era driveway off one of the F streets.
+
+If you have a big job in Foxhill and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We will get a 30-yard scheduled, dispatched from the Beltsville yard in the morning, and on your site about 25 minutes later.

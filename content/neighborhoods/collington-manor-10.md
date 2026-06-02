@@ -1,0 +1,36 @@
+Collington Manor sits on the eastern side of Bowie, near Jones Bridge Road and Lottsford Road in Prince George's County's 20721 ZIP — a leafy, green-heavy corner of the city anchored by the wooded Collington retirement campus off Lottsford. We're JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, and the 10-yard dumpster is the container we bring here when the job is focused on a single room, a single bath, or one corner of the lot. It's the smallest can we run, and on a Collington Manor driveway it's almost always the right fit for a one-area project. When you call, you get one of the owners — not a call center.
+
+## Why the 10-yard fits Collington Manor homes
+
+The bulk of Collington Manor's housing — a mix of large four- and five-bedroom detached homes alongside three- and four-bedroom homes and townhomes — went up from roughly 1990 through the early 2000s. That puts most of the stock in the 25-to-35-year window, squarely the age when original kitchens and baths start coming out, beds get reclaimed from overgrowth, and long-held homes change hands. The 10-yard is built for the smaller end of that work: the contained, one-room jobs that don't justify a bigger can.
+
+What makes Collington Manor unusual for Bowie is the lots. Listings in and around the section run on notably large parcels — some on roughly an acre or two, with long private driveways feeding the detached homes. That matters for staging. The 10-yard measures just 12 feet long, 8 feet wide and 3.5 feet tall — about the footprint of a single car spot — so on one of these long Collington Manor drives it tucks in easily without crowding your approach or spilling toward the street. It holds about three pickup-truck loads and includes a 1-ton (2,000-pound) tonnage allowance, plus delivery and pickup, with typical all-in pricing of $350 to $425.
+
+## The right jobs for a 10-yard here
+
+We call the 10-yard the "garage cleanout" size for good reason: it's the smallest footprint we offer, so you handle a one-area job without paying for cubic yards you'll never fill. On Collington Manor's 1990s-and-early-2000s homes, the projects that fit it cleanly tend to be these:
+
+- **Garage cleanout.** Two or three decades of accumulation in a detached-home garage empties neatly into one 10-yard. It's the classic use here, and the compact can sits in a single driveway spot without blocking the rest of your drive.
+- **Bathroom remodel.** Pulling one of these original-era baths — tile, vanity, tub, subfloor — throws off heavy debris but not high volume. That's exactly where the low 3.5-foot walls and the 1-ton allowance earn their keep, since you're loading dense material you don't want to lift over a tall wall.
+- **Yard waste and trees.** This is a green, tree-heavy corridor near the wooded Collington campus, and the large Collington Manor lots come with mature plantings, overgrown beds and limbs. Reclaiming a side or back yard fills a 10-yard quickly.
+- **Estate downsize.** When a long-held home here changes hands and needs clearing room by room, the 10-yard moves the job along at a respectful, manageable pace without parking an oversized can on the drive for weeks.
+
+A quick honest note specific to this section. Because Collington Manor's homes are reaching the 25-to-35-year mark, plenty of owners are planning bigger jobs — a full basement finish, a kitchen-and-bath gut, a roof tear-off, or whole-house siding and deck replacement. Those throw off far more drywall, cabinetry, carpet and shingle debris than a 10-yard holds, and you'll fill it fast. If that's your project, tell us on the phone and we'll steer you to a larger size. The 10-yard is the no-waste choice when the work stays in one room or one corner of the lot.
+
+## Staging it on your driveway — and the Bowie permit rule
+
+Here's where Collington Manor's layout works strongly in your favor. Because the detached homes sit on large lots with long private driveways, most 10-yard drops here go entirely on your own driveway — and that means you generally do **not** need a City of Bowie right-of-way permit. The city only requires that permit when a dumpster sits in a city street. A private driveway doesn't trigger it, and with the compact 10-yard you've got room to spare on a Collington Manor drive.
+
+The one variable that's more important here than street access is the HOA. Collington Manor has a real, registered homeowners' association, so exterior projects and dumpster staging can fall under its architectural or approval rules. For the detached homes, a drop on your own long driveway is your property and is usually straightforward, but it's worth a quick check against your association's guidelines before a multi-day project. Townhome owners are a different case: with shorter, sometimes shared drives, your only workable spot may be a common area — which needs HOA sign-off — or the street, which would need the city right-of-way permit. If you're not sure who your association is, the City of Bowie publishes an official Homeowners & Civic Associations directory you can use to confirm the contact. And if the street genuinely is the only option, just say so when you call and we'll walk you through the permit so you're covered.
+
+## Why neighbors call the family
+
+We dispatch every morning from our Beltsville yard, and Collington Manor is about 25 minutes out via Route 197 or the BW Parkway. That short, predictable run is why same-day delivery is common here — call early on a project that's ready to go and there's a good chance we can have a can on your driveway that day. The eastern Bowie streets around Jones Bridge and Lottsford Road are calm, residential and tree-lined, so our trucks get in and out cleanly without fighting through-traffic to reach you.
+
+Being family-owned means the person who answers the phone is the same person making sure the truck shows up. We'll talk through your job honestly: if a 10-yard is right, we'll send it; if you'd be better served by a larger container for a basement finish or a roof, we'll tell you that rather than watch you overfill the small one. Give us the street address — anywhere in the 20721 ZIP — and we'll find you.
+
+## Get a 10-yard on your Collington Manor driveway
+
+Whether it's a garage that's been filling for two decades, an original bathroom finally getting its remodel, a stretch of overgrown beds and limbs on a large eastern-Bowie lot, or an estate cleanout that needs to move at a respectful pace, the 10-yard dumpster is the no-waste choice for a one-area job in Collington Manor. Delivery, pickup, and your 1-ton tonnage allowance are all included in one straightforward price, typically $350 to $425.
+
+Call the family at **(301) 252-3586** and we'll get you scheduled — often the same day. You'll talk to an owner, get honest answers about sizing, HOA staging and permits, and have your dumpster set right there on your own Collington Manor driveway.

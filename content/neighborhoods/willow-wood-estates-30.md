@@ -1,0 +1,34 @@
+When a Willow Wood Estates job is big enough that a smaller bin would just mean a second haul, the 30-yard roll-off is the box you want staged and ready. It is the largest container we run, and around here it earns the nickname the "commercial and demo" size — the one built for full demolition, contractor site debris, bulk waste hauls, and multi-family cleanouts in a single drop and a single pickup. JP Roll-Off Service is a family-owned hauler dispatched out of Beltsville, and Willow Wood Estates — the well-established midsize-home community in Bowie, in Prince George's County — sits about 25 minutes from our yard via Route 197 or the BW Parkway. That puts it well inside our regular morning run, and same-day drops are common.
+
+## What the 30-yard holds
+
+The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That long, tall box swallows about nine pickup-truck loads of material, which is why it is the go-to for jobs that throw off a steady wall of debris rather than a few bags. It comes with a 3-ton (6,000 lb) weight allowance, and our typical pricing runs $595 to $725 — a number that already includes delivery, pickup, and the included tonnage, so there are no surprise line items waiting at the end.
+
+One honest word on that weight allowance. The 30-yard's volume fills up fastest with bulky, lighter material — framing lumber, drywall, old cabinetry, roofing tear-off, lath and plaster, furniture, and general construction debris. If your load leans heavy with concrete, brick, dirt, or tile, the cube fills slowly but the tonnage climbs fast, and a smaller bin or a dedicated heavy-debris container is usually the smarter call. When you phone in, tell us what is going in and we will steer you to the right size before the truck rolls.
+
+## Why a Willow Wood Estates job reaches this size
+
+It is worth being straight with you up front: Willow Wood Estates is not where the 30-yard sees the most work. This is a compact, owner-occupied community of midsize single-family homes — roughly 894 to 2,790 square feet, with three to five bedrooms — and the bulk of it was built in a tight window from about 1977 to 1983. That housing stock points most jobs here toward our 10-, 15-, and 20-yard containers: interior renovations, roof tear-offs, and garage or basement cleanouts on private homes rather than ground-up new construction. For most Willow Wood projects, one of those smaller sizes is the better, more economical fit.
+
+But a 30-yard still has its place here, and when it is the right call it is decisively the right call:
+
+- **Full demolition.** When a homeowner takes one of these 40-plus-year-old houses down to the studs — or clears a detached garage or large addition entirely — the debris comes out in a steady stream of drywall, lath, plaster, dated cabinetry, flooring, and trim. The 30-yard keeps a demo crew moving without stopping to swap containers mid-job.
+- **Commercial site work.** For the occasional contractor turnover or larger build in and around the neighborhood, a continuous run of fixtures, flooring, ceiling material, and packaging is exactly what one large box is meant to absorb, keeping the dumpster off the critical path.
+- **Bulk waste hauls.** On a home held by one family since the neighborhood was built, an estate or whole-house cleanout piles up fast — furniture, appliances, and the contents of a finished basement all at once. Nine truck-loads of capacity means you load once and we haul once.
+- **Multi-family cleanouts.** When several units or a group of homes turn over at the same time — old appliances, carpet, mattresses, and accumulated debris together — that is precisely the volume the 30-yard was built to handle.
+
+If your project is a single-room remodel, a bathroom refresh, a single-layer roof tear-off, or a routine cleanout, please ask us about a 10-, 15-, or 20-yard before you commit to this size. The 30-yard shines when capacity, not budget, is the thing that would otherwise cost you a second trip.
+
+## Placement is straightforward in Willow Wood Estates
+
+Here is the good news for Willow Wood Estates, and it is genuinely different from the tighter, shared-wall pockets elsewhere in Bowie. This is a subdivision of detached homes on owner-occupied lots with their own driveways, which means most 30-yard drops here can go right on private property. The 30-yard is the longest box we run and needs a clear, straight run-up to set down, so the driveway depth and lot setbacks common to these midsize homes are an advantage — there is usually room to stage the container without putting it anywhere near the street.
+
+That matters for permits. The City of Bowie requires a right-of-way permit only if the dumpster sits in a city street; driveways and HOA-approved staging do not trigger it at all. Because Willow Wood Estates is built around private driveways rather than curbside-only frontages, the typical drop here needs no city permit. If the only workable spot turns out to be the public street, the city's right-of-way review applies, and Bowie's Public Works Department at 16500 Annapolis Road handles that engineering review and permitting — but in this neighborhood that is the exception, not the rule. We are glad to walk you through it either way before your container shows up.
+
+One thing worth knowing about this particular community: because it is a uniform-age subdivision where neighbors tend to hit the same renovation cycle around the same time — roofs, basements, and gut-remodels coming due in waves on homes now more than 40 years old — driveway staging is almost always the cleaner choice over crowding a shared street. Telling us your exact street and where you want the box to sit lets us route the truck and trailer cleanly the first time and set the container down without clipping a flower bed or a neighbor's frontage.
+
+## Talk to the family before you book
+
+Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script. That means you can describe your Willow Wood Estates project — a full tear-down, a contractor turnover, a bulk estate haul, or a multi-unit cleanout — and get a straight answer on whether the 30-yard is actually the right size or whether a smaller, cheaper bin would do the job. We would rather send you the container that fits than the biggest one on the lot.
+
+If you have a job in Willow Wood Estates large enough that a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We will help you settle on the right size, confirm a driveway spot that keeps you clear of any city permit, and get a 30-yard scheduled, dispatched from the Beltsville yard in the morning, and on your street about 25 minutes later.

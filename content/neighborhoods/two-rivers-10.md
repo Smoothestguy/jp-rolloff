@@ -1,0 +1,40 @@
+Two Rivers is one of the area's newest master-planned communities — a roughly 1,460-acre development of about 2,060 homesites named for its setting between the Patuxent and the Little Patuxent Rivers. If you searched for it as a Bowie neighborhood, here's the honest correction we'd give you on the phone: Two Rivers actually sits in Odenton, in Anne Arundel County (ZIP 21113), just east of Bowie — close enough that it's a quick run for us, but a different city and county than Bowie proper. We're JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, and the 10-yard dumpster is the smallest can we run. On a Two Rivers driveway it's the right fit when the work is concentrated in a single room, one garage bay, or one corner of a lot. When you call, you get one of the owners — not a call center.
+
+## Why the 10-yard fits Two Rivers homes
+
+Two Rivers is new construction. The final community plan was approved in 2012 and builders like Classic Group, NVHomes, Ryan Homes, Brookfield Residential and Winchester Homes are still actively putting up homes — single-family designs that run up to roughly 5,285 square feet alongside 55+ active-adult villas. That recent-build pedigree changes what a dumpster is usually here for. You're far more likely to be tackling an owner-driven upgrade, a basement or garage finish, or new-build punch-out debris than the gut-rehab of a mid-century house you'd see in older neighborhoods.
+
+The 10-yard measures just 12 feet long, 8 feet wide and 3.5 feet tall — about a single car spot. On a modern Two Rivers driveway, that small footprint is the difference between staging the container entirely on your own property and having to think about a shared drive or a common area. It holds about three pickup-truck loads and includes a 1-ton (2,000-pound) tonnage allowance, plus delivery and pickup, with typical all-in pricing of $350 to $425.
+
+If you're in one of the 55+ sections — The Regency or the Villages, where the HOA handles lawn care and snow removal — the 10-yard matters even more. Those active-adult villa lots often have shorter driveways and clustered, shared layouts, so there's simply less room for a large roll-off to sit. The 10-yard is the one size that reliably tucks into that kind of compact spot without crowding a neighbor or a shared drive aisle.
+
+## The right jobs for a 10-yard here
+
+We call the 10-yard the "garage cleanout" size for good reason: it's the smallest footprint we offer, so you handle a one-area job without paying for cubic yards you'll never fill. On these newer Two Rivers homes, the projects that fit it cleanly tend to be these:
+
+- **Garage cleanout.** Even on a newer home, a garage fills up fast with boxes, old furniture and project leftovers. One 10-yard clears it, and the compact can tucks into a single driveway bay without blocking the rest of your parking.
+- **Bathroom remodel.** Updating a builder-grade bath in a home that's only a few years old — tile, vanity, tub, fixtures — throws off heavy debris but not high volume. That's exactly where the low 3.5-foot walls and the 1-ton allowance earn their keep.
+- **Yard waste and trees.** Two Rivers keeps more than 700 acres as green space and laces the community with 7-plus miles of trails connecting toward the WB&A trail, and many homes back to woods or open land. Clearing brush, limbs and overgrown beds fills a 10-yard nicely.
+- **Estate downsize.** When a long-held home in one of the established villages needs to be cleared room by room, the 10-yard moves the job along at a respectful pace without crowding a villa's shorter driveway.
+
+An honest note specific to Two Rivers. Because so many homes here are recent builds with full basements, the most common renovation driver is a basement-finishing project — drywall, flooring, framing, trim and old carpet. That throws off far more debris than a 10-yard holds, and you'll fill it fast. If you're finishing a basement or working across more than one room, tell us on the phone and we'll steer you to a larger size. The 10-yard is the no-waste choice when the work genuinely stays in one room, one bay, or one corner of the lot.
+
+## Staging it — and why HOA approval matters more than a city permit
+
+Here's the part that trips people up in Two Rivers, and it's where that Bowie-versus-Odenton distinction actually matters. Two Rivers is in unincorporated Anne Arundel County, not inside the City of Bowie city limits — so Bowie's city permit rules don't govern an address here. The rules that apply are Anne Arundel County and Maryland state right-of-way rules, which generally only come into play when a container has to sit in a public road. For the typical Two Rivers drop — a 10-yard parked on your own driveway — that kind of road permit usually isn't a factor at all.
+
+What is the real gatekeeper here is the HOA. Two Rivers is an HOA-governed community, organized into named villages and neighborhoods clustered around shared amenity hubs like the 15,000-square-foot Founders Club clubhouse, the planned Hamlet Clubhouse, a 100-plus-acre community park and those miles of trails. The 55+ sections add their own staging considerations on top. So before delivery, the smart move is a quick check with your community association about where a container can sit, how long it can stay, and whether a villa or clustered lot needs common-area sign-off. That's especially worth doing early in the active-adult sections, where driveways are shorter and parking is shared.
+
+Because the 10-yard's footprint is so small, clearing a single car spot the night before is usually all the prep you'll need. And if the only workable spot genuinely turns out to be a public street, just say so when you call and we'll walk you through what Anne Arundel County expects so you're covered.
+
+## Why neighbors call the family
+
+We dispatch every morning from our Beltsville yard, and Two Rivers is a short run — roughly 25 minutes via Route 197 or the BW Parkway. That short, predictable trip is why same-day delivery is common: call early on a project that's ready to go, and there's a good chance we can have a can on your driveway that day. Our trucks know how to navigate amenity-dense, trail-laced communities with tighter interior streets and shared parking to reach a driveway cleanly — exactly the kind of layout Two Rivers is built around.
+
+Being family-owned means the person who answers the phone is the same person making sure the truck shows up. We'll talk through your job honestly: if a 10-yard is right for a single-room remodel, a garage clearout or a yard cleanup, we'll send it; if you're finishing one of Two Rivers' full basements, we'll tell you a bigger container will serve you better rather than watching you overfill the small one. And if you reached this page thinking Two Rivers was in Bowie, we'll set the record straight kindly — it's in Odenton, and we serve it either way.
+
+## Get a 10-yard on your Two Rivers driveway
+
+Whether it's a garage that needs clearing, a builder-grade bathroom finally getting its update, a wooded lot you're cleaning up of brush and limbs, or an estate cleanout that needs to move at a respectful pace, the 10-yard dumpster is the no-waste choice for a one-area job in Two Rivers. Delivery, pickup, and your 1-ton tonnage allowance are all included in one straightforward price, typically $350 to $425.
+
+Call the family at **(301) 252-3586** and we'll get you scheduled — often the same day. You'll talk to an owner, get honest answers about sizing and HOA-friendly placement, and have your dumpster staged right there on your own Two Rivers driveway in Odenton.

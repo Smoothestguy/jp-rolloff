@@ -1,0 +1,38 @@
+When a Mitchellville project is big enough that a smaller container would just mean a second haul, the 30-yard roll-off is the box you want sitting on the driveway. It is the largest container we run, and around here it earns the nickname the "commercial and demo" size — the one built for full tear-outs, contractor site debris, bulk waste, and multi-family cleanouts in a single drop and a single pickup. JP Roll-Off Service is a family-owned hauler dispatched out of Beltsville, and Mitchellville — the affluent, big-lot side of Bowie in Prince George's County, ZIP 20721 — is about 25 minutes away via Route 197 or the BW Parkway. That puts it well inside our regular morning run, and same-day drops are common.
+
+## What the 30-yard holds
+
+The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That long, tall box swallows about nine pickup-truck loads of material, which is why it is the go-to for jobs that throw off a steady wall of debris rather than a few bags. It comes with a 3-ton (6,000 lb) weight allowance, and our typical pricing runs $595 to $725 — a number that already includes delivery, pickup, and the included tonnage, so there are no surprise line items waiting at the end.
+
+One honest word on that weight allowance. The 30-yard's volume fills up fastest with bulky, lighter material — framing lumber, drywall, old cabinetry, finished-basement build-out, furniture, and general construction debris. If your load leans heavy with concrete, brick, dirt, or tile, the cube fills slowly but the tonnage climbs fast, and a smaller bin or a dedicated heavy-debris container is usually the smarter call. When you phone in, tell us what is going in and we will steer you to the right size before the truck rolls.
+
+## Why Mitchellville jobs reach this size
+
+Mitchellville is a different animal from the older Levitt-built sections of Bowie. Where those neighborhoods date to the early 1960s, Mitchellville's housing stock is newer — most homes here were built from the late 1970s through the 1990s and into the early 2000s, after Prince George's County rezoned the area's former tobacco and cattle farmland for residential use. The result is a community of larger Colonial Revivals, many with front columns, on half-acre to one-acre lots inside subdivisions with curving streets and expansive yards. Big brick Colonials here have sold in the $810,000 to $865,000 range, and the area carries a median family income around $118,000 with roughly 91.5% owner-occupied homes — one of the wealthiest predominantly African-American communities in the country.
+
+That profile drives a particular kind of work. Renovations in Mitchellville usually mean updating 1980s, 1990s, and 2000s-era kitchens, baths, and finished basements rather than gutting a 1960s teardown — but on homes this size, even a "single project" produces serious volume. That is the work the 30-yard is made for:
+
+- **Full demolition.** Taking a large Colonial down to the studs, clearing a finished basement, or removing a dated wing throws off far more debris than most owners expect. The 30-yard keeps a demo crew moving without stopping to swap containers mid-job.
+- **Commercial site work.** Tenant turnovers and contractor tear-outs near the Woodmore commercial corridor produce a continuous stream of fixtures, flooring, ceiling material, and packaging. One large box keeps the dumpster off the critical path.
+- **Bulk waste hauls.** Whole-house clear-outs and estate cleanups in a long-held family home on a big lot pile up fast. Nine truck-loads of capacity means you load once and we haul once.
+- **Multi-family cleanouts.** Turning over several units at once — old appliances, carpet, mattresses, and tenant debris together — is exactly the volume the 30-yard was built to handle.
+
+For a single-bath remodel or a routine garage cleanout, a smaller container is almost always the better fit. The 30-yard shines when capacity, not budget, is the thing that would otherwise cost you a second trip.
+
+## Placement on Mitchellville's big lots
+
+Here is where Mitchellville is genuinely easy compared with a lot of the DMV. These are half-acre-to-acre lots with long, wide driveways, and Prince George's County's larger-lot residential zoning is what makes that the norm — estate-type zones permit lots of roughly one acre or larger, and R-R zoning permits about half-acre lots. The practical upshot for a roll-off: there is almost always room to stage a 30-yard on your own driveway rather than out in the street, even though the 30 needs a longer run-up than the smaller sizes to set straight.
+
+That matters because of how the city handles permits. The City of Bowie requires a right-of-way permit only if the dumpster sits in a city street — driveways and HOA-approved staging do not. Because Mitchellville homes have the lot and driveway room to keep a container entirely on private property, that street permit is rarely needed here. If your only workable spot turns out to be the public street, the city's Public Works Department handles that right-of-way review, and we are glad to walk you through it before your container shows up.
+
+The one wrinkle Mitchellville has that the older Levitt sections do not is gates and active HOAs. Woodmore — the area's signature gated, country-club community off Pleasant Prospect — was planned for 398 single-family homes on 799 acres, and gated access here means a delivery has to be coordinated through the gate and the HOA before the truck arrives. The same goes for the sub-developments around it, like Woodmore Meadows, Woodmore South, and the Kingsford development off Enterprise Road. Several homeowner associations operate in and around the Woodmore golf community, and HOA-governed communities commonly require an approved staging spot. None of this is a problem — it just means a phone call ahead of time so the driver is cleared at the gate and we know exactly where the bin is going.
+
+## Routing the truck to your door
+
+A 30-yard is a big box on a long frame, so the driver needs a clear, straight run-up to back the trailer in. On a Mitchellville lot that usually works fine, but it is worth a look before we arrive. The practical landmarks for routing here are the arterials that bound the Woodmore area — Enterprise Road (MD-193) on the west, Church Road on the east, Central Avenue (MD-214) on the south, and Route 50 on the north, with Woodmore Road running east-west through the middle. Telling us your subdivision, your gate, and the nearest of those roads helps us route the truck and trailer cleanly the first time. If the approach is tight, sloped, or shares a curb cut with a neighbor, mention it when you book and we will plan the drop around it.
+
+## Talk to the family before you book
+
+Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script. That means you can describe your Mitchellville project — a full gut job on a big Colonial, a contractor tear-out, a bulk haul, or a multi-unit cleanout — and get a straight answer on whether the 30-yard is the right size, what it will cost all-in, and exactly how we will set it on your driveway and clear it through the Woodmore gate if you are behind one.
+
+If you have a big job in Mitchellville and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We will get a 30-yard scheduled, dispatched from the Beltsville yard in the morning, and on your site about 25 minutes later.

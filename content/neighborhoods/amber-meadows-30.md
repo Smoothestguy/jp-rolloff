@@ -1,0 +1,36 @@
+When an Amber Meadows project is big enough that a smaller bin would only mean a second haul, the 30-yard roll-off is the box you want staged on the driveway. It is the largest container we run, and around here it earns the nickname the "commercial and demo" size — the one built for full tear-outs, contractor site debris, bulk waste hauls, and multi-family cleanouts in a single drop and a single pickup. JP Roll-Off Service is a family-owned hauler dispatched out of Beltsville, and Amber Meadows — the compact single-family pocket in south Bowie, off Mitchellville Road near US Route 301 and grouped with the Oaktree section — sits about 25 minutes from our yard via Route 197 or the BW Parkway. That puts it well inside our regular morning run, and same-day drops are common.
+
+## What the 30-yard holds
+
+The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That long, tall box swallows about nine pickup-truck loads of material, which is why it is the go-to for jobs that throw off a steady wall of debris rather than a few bags. It comes with a 3-ton (6,000 lb) weight allowance, and our typical pricing runs $595 to $725 — a number that already includes delivery, pickup, and the included tonnage, so there are no surprise line items waiting at the end.
+
+One honest word on that weight allowance. The 30-yard's volume fills up fastest with bulky, lighter material — framing lumber, drywall, old cabinetry, tear-out flooring, furniture, and general construction debris. If your load leans heavy with concrete, brick, dirt, or tile, the cube fills slowly but the tonnage climbs fast, and a smaller bin or a dedicated heavy-debris container is usually the smarter call. When you phone in, tell us what is going in and we will steer you to the right size before the truck rolls.
+
+## Why Amber Meadows jobs reach this size
+
+Amber Meadows is an aging neighborhood, and that is the whole story behind the work the 30-yard was made for. The homes here were built between roughly 1970 and 1993 — ranch styles, split-levels, and Colonial Revivals running from about 1,247 to 2,382 square feet, three to five bedrooms, attached garages, on quarter-to-half-acre lots along sidewalk-lined streets. That vintage means the projects skew toward first-generation work: original kitchens and baths coming out, dated finishes coming down, and decades of accumulation getting cleared. When one of those projects goes big, this is the size that absorbs it.
+
+- **Full demolition.** Gutting an Amber Meadows home to the studs — pulling an original 1970s or '80s kitchen, taking out interior walls, or stripping a finished lower level back to bare framing — produces far more debris than most owners expect. The 30-yard keeps a demo crew moving without stopping to swap containers mid-job.
+- **Commercial site work.** Contractor tear-outs and build-outs throw off a continuous stream of fixtures, flooring, ceiling material, and packaging. One large box keeps the dumpster off the critical path.
+- **Bulk waste hauls.** Whole-house clear-outs, estate and downsizing cleanouts after a long-held home changes hands, and the contents of a full split-level pile up fast. Nine truck-loads of capacity means you load once and we haul once.
+- **Multi-family cleanouts.** When several units turn over at once and old appliances, carpet, and tenant debris all go out together, that is exactly the volume the 30-yard handles in a single drop.
+
+The standout driver here is the split-level. Split-levels are common in Amber Meadows, and a multi-level renovation generates a distinctive debris stream — flooring torn out across staggered levels, a dated finished lower level coming apart, framing and drywall from a whole-floor reno. When that kind of project escalates into a gut or a whole-home refresh, the 30-yard is the size that handles it without a second trip. For a single room or a routine garage cleanout, a smaller container is almost always the better fit. The 30-yard shines when capacity, not budget, is the thing that would otherwise cost you a second haul.
+
+## Placing a big box on Amber Meadows lots and streets
+
+A 30-yard is a big box on a long frame, and the driver needs a longer, clearer run-up than the smaller sizes to back the trailer in straight. The good news is that Amber Meadows is built for it. Unlike Bowie's denser townhome tracts, this is a pocket of single-family homes on quarter-to-half-acre lots with private driveways and generous setbacks — the kind of frontage that gives our driver a real apron to stage on and the room to line the truck up the first time.
+
+Those lots run along an easy-to-recognize, near-uniform "A"-themed street grid off Mitchellville Road — Amber Meadows Drive itself, plus Arbor Hill Lane, Alderwood Lane, Alstead Lane, Ardleigh Court, Ayrwood Lane, Ainsworth Terrace, and Artesian Lane. A few of those are courts and terraces, so when you book, tell us the street and the approach — a cul-de-sac bulb, a corner lot, or a driveway hemmed by mature trees — and we will plan the drop around it before the truck leaves Beltsville.
+
+## Permits and HOA staging in Amber Meadows
+
+Placement also decides whether a permit even enters the picture. The City of Bowie requires a right-of-way permit only if the dumpster sits in a city street — driveways and HOA-approved staging do not. Because almost every Amber Meadows home gives us a private driveway or generous lot to set the box on, off the street, a city street permit ends up being the rare exception here rather than the rule. That is one of the real advantages of this neighborhood over Bowie's tighter sections: the box can almost always sit on your own property for the length of a demolition or remodel.
+
+If your community turns out to have an active homeowners association — something worth a quick check on your end, since we could not confirm a Bowie-specific Amber Meadows HOA — a short word with them on where a container this size can sit, and for how long, keeps everything clean and avoids a covenant headache mid-project. And in the uncommon case where the public street genuinely is your only workable spot, the city's right-of-way review applies, and we are glad to walk you through what is involved before your container shows up.
+
+## Talk to the family before you book
+
+Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script. That means you can describe your Amber Meadows project — a full gut job, a split-level lower-level tear-out, a contractor build-out, a bulk estate haul, or a multi-unit cleanout — and get a straight answer on whether the 30-yard is the right size, what it will cost all-in, and how we will route the truck onto your driveway off Mitchellville Road.
+
+If you have a big job in Amber Meadows and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We will get a 30-yard scheduled, dispatched from the Beltsville yard in the morning, and on your site about 25 minutes later.

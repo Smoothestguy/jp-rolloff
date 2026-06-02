@@ -1,0 +1,32 @@
+When a job in Glenridge is big enough that a smaller bin would just mean calling us back for a second haul, the 30-yard roll-off is the box you want sitting on the driveway. It is the largest container we run, and around here it earns the nickname the "commercial and demo" size — the one built for full tear-outs, contractor site debris, bulk waste, and multi-family cleanouts in a single drop and a single pickup. JP Roll-Off Service is a family-owned hauler dispatched out of Beltsville, and Glenridge — the tiny "G section" of Belair at Bowie, off Maryland Route 197 — is about 25 minutes away via Route 197 or the BW Parkway. That keeps it inside our regular morning run, and same-day drops are common.
+
+## What the 30-yard holds
+
+The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That long, tall box swallows about nine pickup-truck loads of material, which is why it is the go-to for jobs that throw off a steady wall of debris rather than a few bags here and there. It comes with a 3-ton (6,000 lb) weight allowance, and our typical pricing runs $595 to $725 — a number that already includes delivery, pickup, and the included tonnage, so there is no surprise line item waiting at the end.
+
+One honest word on that weight allowance. The 30-yard fills its volume fastest with bulky, lighter material — framing lumber, drywall, old cabinetry, roofing tear-off, lath and plaster, and general construction debris. If your load leans heavy with concrete, brick, dirt, or tile, the cube fills slowly but the tonnage climbs fast, and a smaller bin or a dedicated heavy-debris container is usually the smarter call. When you phone in, tell us what is going in and we will steer you to the right size before the truck rolls.
+
+## Why a few Glenridge jobs reach this size
+
+Glenridge is a small, late-phase corner of the Levitt-built Belair at Bowie development. While Belair started selling back in October 1960, Glenridge's homes went up in 1969 — among the later phases of Levitt & Sons' roughly 7,500-home Bowie buildout — and only a couple dozen houses were ever built here. That puts every Glenridge home well past the 55-year mark, an age where original kitchens and baths, single-pane windows, and aging roofing and HVAC commonly drive renovation work. Most of those jobs are single-room remodels that fit a smaller bin. The 30-yard comes into the picture on the larger end of the spectrum:
+
+- **Full demolition.** Gutting a 1969 Levitt colonial down to the studs — pulling the original kitchen, clearing interior walls, taking out a finished basement, or tearing off old roofing — produces far more debris than most owners expect. The 30-yard keeps a demo crew moving without stopping to swap containers mid-job.
+- **Tear-out of older rear additions.** Many Glenridge homes were expanded over the decades — listings here mention a 17x26 rec room addition, a large sunroom, and slider-to-patio family rooms. Removing or rebuilding one of those decades-old additions throws off framing lumber, drywall, old roofing, and sometimes concrete all at once, which is exactly the kind of mixed volume a 30-yard absorbs in one drop.
+- **Bulk waste hauls.** A whole-house cleanout of a long-held family home, or an estate clear-out where decades of accumulated material come out at once, piles up fast. Nine truck-loads of capacity means you load once and we haul once.
+- **Multi-family or multi-property cleanouts.** When several units or a cluster of these closely built G-section homes turn over together — old appliances, carpet, mattresses, and general debris combined — that is the volume the 30-yard was built to handle.
+
+To be straight with you: for a single bathroom gut, a window swap, or a one-room remodel in one of these modest 1,583-to-2,063-square-foot houses, a 10- or 15-yard is almost always the better fit, and even a whole-house cleanout often lands comfortably at 20 yards. The 30-yard earns its place when capacity — not budget — is the thing that would otherwise cost you a second trip.
+
+## Placement on Glenridge's driveways
+
+Here is where Glenridge is genuinely easy compared with a lot of DMV neighborhoods. These are predominantly Levitt colonials, including multi-level split-colonial variants, and homes of this vintage came with a private driveway and an attached or built-in garage. That gives you a flat, code-compliant spot to stage a roll-off on your own property rather than out in the street. On a quiet interior G-street, that driveway placement is almost always the right answer.
+
+That matters because of how the city handles permits. The City of Bowie requires a right-of-way permit only if the dumpster sits in a city street — driveways and HOA-approved staging do not. Because nearly every Glenridge home has its own driveway, most placements here skip the permit entirely. If your only workable spot turns out to be the public street, the city's review applies and we are glad to walk you through what is involved before your container shows up.
+
+A 30-yard does ask for a longer, clearer run-up than the smaller sizes — it is a big box on a long frame, and the driver needs room to back the trailer in straight. Glenridge's layout actually helps here: typical access runs off Route 197 onto Gradys Walk, then onto Galaxy Lane, a quiet interior residential street rather than a busy through road. Because every street in this section starts with the letter G — Galaxy Lane and Gradys Walk are the documented examples — telling us your exact street helps us route the truck and trailer cleanly the first time. If your driveway approach is tight, sloped, or shares a curb cut with a neighbor on one of these closely spaced lots, mention it when you book and we will plan the drop around it.
+
+## Talk to the family before you book
+
+Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script. That means you can describe your Glenridge project — a full colonial gut job, tearing out a decades-old rear addition, a bulk estate haul, or a multi-unit cleanout — and get a straight answer on whether the 30-yard is genuinely the right size, what it will cost all-in, and exactly how we will set it on your driveway off one of the G streets.
+
+If you have a big job in Glenridge and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We will get a 30-yard scheduled, dispatched from the Beltsville yard in the morning, and on your site off Route 197 about 25 minutes later.

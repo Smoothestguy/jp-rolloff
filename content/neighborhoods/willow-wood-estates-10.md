@@ -1,0 +1,38 @@
+Willow Wood Estates is a compact, well-established pocket of Bowie, Maryland — a neighborhood of midsize single-family homes, mostly three-to-five bedrooms, that went up in a tight window from the late 1970s into the early 1980s. That makes it a different animal from the sprawling 1960s Levitt-built "Belair at Bowie" grid that defines so much of the rest of town. Here you've got owner-occupied detached houses on private lots, now squarely 40-plus years old and hitting their renovation stride. We're JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, and the 10-yard dumpster is the container we drop here for a focused, one-area job. It's the smallest can we run, and on a Willow Wood Estates driveway it's usually the right fit when the work stays in a single room, a single garage bay, or one corner of the lot. When you call, you get one of the owners — not a call center.
+
+## Why the 10-yard fits Willow Wood Estates homes
+
+The houses here run from roughly 894 to 2,790 square feet — genuinely midsize, not the big-box new construction you'd stage a 30-yard for. They sit on owner-occupied lots with their own driveways, which is exactly the setup the 10-yard is built around. It measures just 12 feet long, 8 feet wide and 3.5 feet tall — about the size of a single car spot. On a Willow Wood Estates driveway, that small footprint is the difference between staging the container entirely on your own property and having to think about the street.
+
+The 10-yard holds about three pickup-truck loads and includes a 1-ton (2,000-pound) tonnage allowance, plus delivery and pickup, with typical all-in pricing of $350 to $425. Because this is a uniform-age subdivision where neighbors tend to renovate in waves — roofs, baths, and basements coming due around the same lifecycle — the everyday container sizes here are the 10-, 15-, and 20-yard. The 10-yard is the one you reach for when you're tackling just one piece of that list rather than the whole house.
+
+## The right jobs for a 10-yard here
+
+We call the 10-yard the "garage cleanout" size for good reason: it's the smallest footprint we offer, so you handle a one-room job without paying for cubic yards you'll never fill. On these late-'70s and early-'80s Willow Wood Estates homes, the projects that fit it cleanly tend to be these:
+
+- **Garage cleanout.** Four decades of accumulation in a Willow Wood Estates garage empties neatly into one 10-yard, and the compact can tucks into a single driveway bay without blocking the rest of your parking.
+- **Bathroom remodel.** Gutting an original 1980-era bath — tile, vanity, tub, subfloor — makes heavy debris but not high volume. That's exactly where the low 3.5-foot walls (easy to toss a tub over) and the 1-ton allowance earn their keep.
+- **Yard waste and trees.** On mature lots where the landscaping has been growing in for 40 years, clearing overgrown beds, limbs, brush, and the occasional small tree fills a 10-yard nicely without committing to a larger can.
+- **Estate downsize.** When it's time to clear out a long-held Willow Wood Estates home room by room, the 10-yard moves the job along at a respectful pace without crowding the driveway.
+
+An honest note specific to this neighborhood. Because these homes are now in the 40-plus-year renovation and replacement cycle, the bigger projects we see here are original-roof shingle tear-offs, kitchen gut-remodels, and basement finishes — and those throw off far more debris than a 10-yard holds. A full roof tear-off in particular gets heavy fast and usually wants a 15- or 20-yard. If your project is a whole-room kitchen, a roof, or more than one room at once, tell us on the phone and we'll point you to the right size. The 10-yard is the no-waste choice when the work genuinely stays in one bathroom, one garage, or one corner of the yard.
+
+## Staging it — and why your driveway beats the street
+
+Here's the part worth getting right in Willow Wood Estates, and the good news is it's simpler than most people expect. The City of Bowie only requires a right-of-way permit when a dumpster sits in a city street. A dumpster on your own driveway does not trigger that permit. Since this neighborhood is built around detached homes with private driveways, the typical 10-yard drop here is staged entirely on your property — which means no permit, no paperwork, no waiting on the city.
+
+That's a real advantage of how Willow Wood Estates is laid out. Unlike street-placed containers you'd see on a dense new-construction site, a mature subdivision like this one has the driveway room to keep the can on private property. Because the 10-yard's footprint is so small — roughly one car spot — clearing a single space the night before delivery is usually all the prep you'll need.
+
+If your section of the neighborhood has any homeowners-association staging guidance, a quick check before delivery never hurts. And in the rare case the only workable spot truly turns out to be a city street, just say so when you call. Bowie's Public Works Department (at 16500 Annapolis Road) handles right-of-way permitting, and we'll walk you through it so you're covered before the truck rolls.
+
+## Why neighbors call the family
+
+We dispatch every morning from our Beltsville yard, and Willow Wood Estates is about 25 minutes out via Route 197 or the BW Parkway. That short, predictable run is why same-day delivery is common here — call early on a project that's ready to go and there's a good chance we can have a can on your driveway that day. The neighborhood sits in Prince George's County within the Bowie/Mitchellville area, and our trucks know these residential streets well enough to reach a driveway cleanly and set the container exactly where you want it.
+
+Being family-owned means the person who answers the phone is the same person making sure the truck shows up. We'll talk through your job honestly: if a 10-yard is right for a single-room remodel, a garage clearout, an overgrown-yard cleanup, or an estate downsize, we'll send it. If you're tearing off a 40-year-old roof or gutting a kitchen, we'll tell you a 15- or 20-yard will serve you better rather than watching you overfill the small one. That kind of straight answer is the whole point of calling a family hauler instead of a 1-800 number.
+
+## Get a 10-yard on your Willow Wood Estates driveway
+
+Whether it's a garage that's been filling since the Carter administration, an original bathroom finally getting its remodel, a mature lot you're clearing of brush and limbs, or an estate cleanout that needs to move at a respectful pace, the 10-yard dumpster is the no-waste choice for a one-area job in Willow Wood Estates. Delivery, pickup, and your 1-ton tonnage allowance are all included in one straightforward price, typically $350 to $425 — and on a private driveway here, with no city permit to chase.
+
+Call the family at **(301) 252-3586** and we'll get you scheduled — often the same day. You'll talk to an owner, get honest answers about sizing, and have your dumpster staged right there on your own Willow Wood Estates driveway.

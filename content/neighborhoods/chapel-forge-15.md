@@ -1,0 +1,36 @@
+Chapel Forge is one of the later "C-section" tracts of Belair at Bowie — the part of Levitt & Sons' big 1960s development where the spine street is Chapel Forge Drive and the names run alliteratively through the section. Realized roughly between 1964 and 1968 (individual homes on Chapel Forge Drive carry a 1966 build year), these are detached single-family Levitt ramblers, now about 60 years old and squarely in renovation territory. They are also among the larger Levitt models — ranch/rambler floor plans of roughly 1,850 to 2,200-plus square feet — so when one room of one of these homes comes due for a remodel, the 15-yard roll-off is usually the size that fits.
+
+We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 25 minutes from Chapel Forge by Route 197 or the BW Parkway. When you call, you reach the family that owns the trucks — the same people who answer the phone schedule your drop and run it out to you.
+
+## Why the 15-yard fits Chapel Forge homes
+
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. It comes with a 1.5-ton (3,000 lb) weight allowance, and a typical Chapel Forge rental runs **$425 to $485, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the haul.
+
+We call this the "single-room reno" size, and it earns the name on Chapel Forge Drive. The 15 is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly for most homes. That matters here in a specific way. Chapel Forge was one of Levitt's later, larger-home sections, but the mid-century lots underneath those bigger ramblers are still modest: verified parcels on Chapel Forge Drive run roughly 9,600 to 10,664 square feet — about a fifth to a quarter acre. So you get a roomy house on a tight-ish lot, which means real but limited driveway and front-yard room for staging a roll-off. The 14-foot length of the 15-yard is the size that tucks onto those driveways without spilling into the street.
+
+So the 15 is a fit on two counts: it swallows a contained, one-room project in a 60-year-old Levitt house, and its short footprint stages on the modest lots out here. If you are gutting the whole house or clearing an entire estate at once, you may want to step up to a 20. For a single defined project, the 15 is the one we drop most often on the C-streets.
+
+## Which Chapel Forge projects suit the 15-yard
+
+Because the housing stock here is original mid-1960s Levitt — ramblers now 60-plus years old — the work that comes up is aging-home modernization and cleanout, not new-build debris. Chapel Forge was the section where Levitt introduced wood kitchen cabinets and finished interiors with the signature spatter paint (flat white walls oversprayed with gold, grey and white speckle to hide drywall seams). Those original finishes are exactly what people pull out today, and they fill a container in predictable ways. A 15-yard is sized right for projects that hit one part of the house at a time:
+
+- **Kitchen remodel.** Tearing out the original Levitt wood cabinets, counters, flooring and a wall of spatter-painted plaster or drywall from a Chapel Forge kitchen fills a 15-yard about right, without paying for space you will not use.
+- **Roofing tear-off.** A single-layer asphalt tear-off on a rambler of this footprint sits comfortably inside the 1.5-ton allowance — these are modest mid-century roof spans, not sprawling new-construction rooflines.
+- **Two-bath gut.** Pulling tile, vanities, tubs and subfloor from a pair of bathrooms is a classic 15-yard job in a home on its second or third round of renovation.
+- **Basement cleanout.** Many of these homes finished their lower levels decades ago; clearing old paneling, carpet and 60 years of accumulation lands neatly in a 15.
+
+Because Chapel Forge came out of the same Levitt catalog, we have a good sense of what one room's worth of demo weighs before we ever pull up — a kitchen of cabinetry and plaster, a couple of baths of tile and trim. If you are not sure whether your project is a 15 or a 20, tell us the room and the scope. We have hauled enough of these Levitt remodels to point you the right way before you commit.
+
+## Placement, permits, and the C-streets
+
+**Driveway placement on modest Chapel Forge lots.** This is the detail that matters most here. With lots in the 9,600 to 10,664 square-foot range, you have real driveway and front-yard room — but not unlimited room — so squaring the container correctly is part of the job. The 15-yard needs roughly 14 feet of straight length plus a little clearance and an open swing for the rear door. On most Chapel Forge driveways that fits with room to spare, and we will lay boards under the wheels on request to protect the surface. Getting the 15 onto the driveway, rather than the street, is usually the right call on these lots — and it is the sizing decision that keeps a permit out of the picture entirely.
+
+**The Bowie permit rule.** The City of Bowie requires a right-of-way permit only if the dumpster sits in a city street. Driveways and approved staging do not. Since most Chapel Forge jobs stage on the homeowner's own driveway, a street permit is the exception here, not the rule. Chapel Forge is one of the original Levitt sections, organized around a civic association rather than a deed-restricted, dues-collecting HOA, and there is no evidence the neighborhood is gated — so placement is governed mainly by the Bowie right-of-way rule plus any neighborly civic-association courtesy, not gate access or HOA approval. If your spot truly forces the container into the street, we will flag it the moment we look at your address so there are no surprises.
+
+**Finding your door.** The C-section naming helps our drivers. Chapel Forge Drive is the spine, but the neighborhood also threads through side streets like Milan Way — home to the Chapel Forge Early Childhood Center at 12711 Milan Way — and nearby Chelmont Lane. That named-loop layout means our trucks work residential side streets rather than wide arterials to reach a placement, so a clear address and a known reference point like the early childhood center keep the delivery moving. Chapel Forge sits north of Annapolis Road (MD 450) and east of Collington Road, which gives us straightforward highway access in and out.
+
+**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway. Most Chapel Forge addresses are scheduled inside 24 hours, and an early call often makes the same-day run.
+
+## Talk to the family that runs the trucks
+
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Chapel Forge address and what you are tackling — a kitchen gut in a Chapel Forge Drive rambler, a roof tear-off, a two-bath remodel, or a basement cleanout in a long-held family home — and we will confirm the 15-yard is the right size and quote you on the spot, tonnage and delivery included.

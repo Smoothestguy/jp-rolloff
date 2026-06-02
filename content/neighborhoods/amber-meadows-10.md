@@ -1,0 +1,38 @@
+Amber Meadows is a compact, single-family pocket in south Bowie, tucked off Mitchellville Road in the Collington area near US Route 301 — a quiet grid of "A"-named streets like Arbor Hill Lane, Alderwood Lane and Ayrwood Lane, grouped with the neighboring Oaktree section. We're JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, and the 10-yard dumpster is the container we bring here when the job stays focused on a single room, a single bath, or one corner of the lot. It's the smallest can we run, and on an Amber Meadows driveway it's almost always the right fit for a contained, one-area project. When you call, you get one of the owners — not a call center.
+
+## Why the 10-yard fits Amber Meadows homes
+
+Amber Meadows' homes were built between roughly 1970 and 1993 — ranch styles, split-levels and Colonial Revivals, running from about 1,247 to 2,382 square feet with three to five bedrooms. That vintage puts the whole neighborhood squarely in first-major-renovation territory: original kitchens and baths, dated finishes, and the kind of decades-deep accumulation that builds up in a home one family has held for a long time. The 10-yard is built for the smaller end of that work — the contained, one-room jobs that don't justify a bigger can.
+
+The 10-yard measures just 12 feet long, 8 feet wide and 3.5 feet tall — about the footprint of a single car spot. It holds roughly three pickup-truck loads and includes a 1-ton (2,000-pound) tonnage allowance, plus delivery and pickup, with typical all-in pricing of $350 to $425. Because Amber Meadows homes sit on quarter-to-half-acre lots with attached garages and private driveways along sidewalk-lined streets, that small footprint tucks neatly into a single driveway spot without crowding your approach or spilling toward the road.
+
+## The right jobs for a 10-yard here
+
+We call the 10-yard the "garage cleanout" size for good reason: it's the smallest footprint we offer, so you handle a one-area job without paying for cubic yards you'll never fill. On Amber Meadows' 1970s-through-early-90s homes, the projects that fit it cleanly tend to be these:
+
+- **Garage cleanout.** Every Amber Meadows home has an attached garage, and after a couple of decades those fill up. One 10-yard empties a single garage neatly and sits in a single driveway spot without blocking the rest of your drive.
+- **Bathroom remodel.** Pulling one of these original-era baths — tile, vanity, tub, subfloor — throws off heavy debris but not high volume. That's exactly where the low 3.5-foot walls and the 1-ton allowance earn their keep, since you're loading dense material you don't want to lift over a tall wall.
+- **Yard waste and trees.** These quarter-to-half-acre lots have had fifty years to grow in. Reclaiming an overgrown bed, clearing brush, or taking down limbs along a sidewalk-lined street fills a 10-yard quickly without needing a bigger can.
+- **Estate downsize.** When a long-held Amber Meadows home changes hands and needs clearing room by room, the 10-yard moves the job along at a respectful, manageable pace without parking an oversized container on the drive for weeks.
+
+A quick honest note specific to this section. Amber Meadows has a fair number of split-levels, which are known for putting yard space to efficient use — and they also generate their own kind of renovation debris. Tearing out flooring across multiple half-levels, or remodeling a finished lower level, can throw off more drywall, carpet and subfloor than a single 10-yard holds, and you'll fill it fast. If your job spans several levels or turns into a full kitchen-and-bath gut, tell us on the phone and we'll steer you to a larger size. The 10-yard is the no-waste choice when the work stays in one room or one corner of the lot.
+
+## Staging it on your driveway — and the Bowie permit rule
+
+Here's where Amber Meadows' layout works strongly in your favor. Because nearly every home here has a private driveway and a generous lot with wide setbacks, almost every 10-yard drop in the neighborhood goes entirely on your own property — and that means you generally do **not** need a City of Bowie right-of-way permit. The city only requires that permit when a dumpster sits in a city street. A private driveway or an HOA-approved staging spot doesn't trigger it, and with the compact 10-yard you've got room to spare on an Amber Meadows drive. This is the real difference between Amber Meadows and Bowie's denser townhome tracts: here, the street almost never has to be the answer.
+
+One thing worth confirming before a multi-day project is whether your stretch of Amber Meadows falls under an active homeowners' association with architectural or staging rules. We couldn't verify a Bowie-specific HOA for this section, so the simplest path is a quick check of your own community's guidelines — and if you're not sure who to ask, the City of Bowie publishes an official Homeowners & Civic Associations directory you can use to confirm the contact. In the rare case the street genuinely is the only workable spot, just say so when you call and we'll walk you through the right-of-way permit so you're covered.
+
+One more local note: the address details for Amber Meadows can be confusing. Many listings place the neighborhood in ZIP 20716 rather than 20715, so when you call, the surest thing is to give us your street address off Mitchellville Road — we'll find you regardless of which ZIP shows up.
+
+## Why neighbors call the family
+
+We dispatch every morning from our Beltsville yard, and Amber Meadows is about 25 minutes out via Route 197 or the BW Parkway. That short, predictable run is why same-day delivery is common here — call early on a project that's ready to go and there's a good chance we can have a can on your driveway that day. The "A"-named streets off Mitchellville Road are calm and residential, near familiar landmarks like Allen Pond Park a couple of miles north and the Bowie Town Center shops, so our trucks get in and out cleanly without fighting through-traffic to reach you.
+
+Being family-owned means the person who answers the phone is the same person making sure the truck shows up. We'll talk through your job honestly: if a 10-yard is right, we'll send it; if a multi-level flooring tear-out or a full gut would be better served by a larger container, we'll tell you that rather than watch you overfill the small one. Give us the street address off Mitchellville Road and we'll find you.
+
+## Get a 10-yard on your Amber Meadows driveway
+
+Whether it's a garage that's been filling since the home was built, an original bathroom finally getting its remodel, a stretch of overgrown beds and limbs on a half-acre lot, or an estate cleanout that needs to move at a respectful pace, the 10-yard dumpster is the no-waste choice for a one-area job in Amber Meadows. Delivery, pickup, and your 1-ton tonnage allowance are all included in one straightforward price, typically $350 to $425.
+
+Call the family at **(301) 252-3586** and we'll get you scheduled — often the same day. You'll talk to an owner, get honest answers about sizing, HOA staging and permits, and have your dumpster set right there on your own Amber Meadows driveway.

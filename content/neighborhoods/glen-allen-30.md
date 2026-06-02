@@ -1,0 +1,36 @@
+When a Glen Allen project is big enough that a smaller bin would just mean a second haul, the 30-yard roll-off is the box you want staged on the driveway. It is the largest container we run, and around here it earns the nickname the "commercial and demo" size — the one built for full tear-outs, contractor site debris, bulk waste hauls, and multi-family cleanouts in a single drop and a single pickup. JP Roll-Off Service is a family-owned hauler dispatched out of Beltsville, and Glen Allen — the roughly 400-home subdivision off Mitchellville Road in Bowie's southeastern 20715, just south of Bowie Town Center — is about 25 minutes away via Route 197 or the BW Parkway. That puts it well inside our regular morning run, and same-day drops are common.
+
+## What the 30-yard holds
+
+The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That long, tall box swallows about nine pickup-truck loads of material, which is why it is the go-to for jobs that throw off a steady wall of debris rather than a few bags. It comes with a 3-ton (6,000 lb) weight allowance, and our typical pricing runs $595 to $725 — a number that already includes delivery, pickup, and the included tonnage, so there are no surprise line items waiting at the end.
+
+One honest word on that weight allowance. The 30-yard's volume fills up fastest with bulky, lighter material — framing lumber, drywall, old cabinetry, finished-basement build-out, furniture, and general construction debris. If your load leans heavy with concrete, brick, dirt, or tile, the cube fills slowly but the tonnage climbs fast, and a smaller bin or a dedicated heavy-debris container is usually the smarter call. When you phone in, tell us what is going in and we will steer you to the right size before the truck rolls.
+
+## Why Glen Allen jobs reach this size
+
+Glen Allen is one of the "new Bowie" sections, not part of the original 1960s Levitt developments north of Route 50. It was built in phases over a decade starting in the 1990s, primarily by Drees Homes, which means the houses here are mature but only about 25 to 35 years old. These are larger move-up homes — brick colonials and Craftsman-style houses on manicured lawns, with a median single-family price around $657,000, well above the Prince George's County norm. Homes that age and that size are now hitting their first or second wave of major work, and the bigger the house, the bigger the debris pile. That combination is what drives the jobs the 30-yard was made for:
+
+- **Full demolition.** Gutting one of these larger colonials to the studs — pulling an original kitchen, taking out interior walls, or tearing a level back to bare framing — produces far more debris than most owners expect. The 30-yard keeps a demo crew moving without stopping to swap containers mid-job.
+- **Commercial site work.** Contractor tear-outs and build-outs throw off a continuous stream of fixtures, flooring, ceiling material, and packaging. One large box keeps the dumpster off the critical path.
+- **Bulk waste hauls.** Whole-house clear-outs, estate and downsizing cleanouts, and the contents of a full move-up home pile up fast. Nine truck-loads of capacity means you load once and we haul once.
+- **Multi-family cleanouts.** When the job spans several units at once, clearing old appliances, carpet, and tenant debris together is exactly the volume the 30-yard handles in a single drop.
+
+Here is the honest read on Glen Allen, though. Because these are mature homes on their first or second renovation cycle rather than full gut rehabs, the most common project in the neighborhood is a substantial kitchen or bath remodel, a roof or deck replacement — work that often lands squarely on a 20-yard or 25-yard box. The 30-yard is the right call when the scope crosses a line: a whole-floor or whole-home remodel, a full tear-out, a contractor site, or a bulk haul where capacity, not budget, is the thing that would otherwise cost you a second trip. If your job is a single room or a routine cleanout, a smaller container is almost always the better fit, and we will tell you so.
+
+## Placing a big box on Glen Allen's cul-de-sac lots
+
+A 30-yard is a big box on a long frame, and the driver needs a longer, clearer run-up than the smaller sizes to back the trailer in straight. That is worth thinking through in Glen Allen, because the neighborhood is laid out with numerous quiet cul-de-sacs, which means a lot of homes sit on pipestem or court-end lots with curved frontage and limited street curb space. There simply is not much usable curb on a cul-de-sac bulb.
+
+The good news is that these larger Drees-built homes almost always come with generous private driveways, and on a box this size that off-street pad is exactly where we want to stage it. A wide suburban apron gives the truck a straight approach and gives the container a stable spot to sit for the length of a demolition or remodel. If your drive is a pipestem or hemmed by the curve of a court, tell us the approach when you book — and feel free to use the neighborhood's landmarks to orient the driver, since Glen Allen Park sits embedded in the community and Allen Pond Park borders it just over in 20716. We will plan the drop around your lot the first time.
+
+## Permits and the real Glen Allen gatekeeper: your HOA
+
+Placement also decides whether a permit even enters the picture. The City of Bowie's Public Works Department handles permitting for work in public rights-of-way, but a right-of-way permit is required only if the dumpster sits in a city street — driveways and HOA-approved staging do not need one. Because Glen Allen's wide private driveways on detached single-family lots almost always give us a place to set the box off the street, a city street permit ends up being the exception rather than the rule here.
+
+The hurdle that actually matters in Glen Allen is the HOA, not the city. The neighborhood has its own homeowners association — listed among the City of Bowie's registered HOAs and reportedly managed by ProCom Management — so for a container this size, sitting on a driveway for the length of a project, the relevant approval is placement and screening clearance from your association. A quick word with them before the drop — confirming where the box can sit and for how long — keeps everything clean and avoids a covenant headache mid-project. If the public street genuinely is your only workable spot, the city's review applies, and we are glad to walk you through what is involved before your container shows up.
+
+## Talk to the family before you book
+
+Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script. That means you can describe your Glen Allen project — a full gut job, a whole-home remodel, a contractor build-out, a bulk haul, or a multi-unit cleanout — and get a straight answer on whether the 30-yard is the right size, what it will cost all-in, how we will route the truck onto your driveway off a cul-de-sac, and how to square the drop with your HOA.
+
+If you have a big job in Glen Allen and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We will get a 30-yard scheduled, dispatched from the Beltsville yard in the morning, and on your site about 25 minutes later.

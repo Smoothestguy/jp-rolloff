@@ -1,0 +1,36 @@
+Two Rivers is a newer master-planned community of roughly 2,060 homes spread across about 1,460 acres, named for the way it sits between the Patuxent and the Little Patuxent. Most people searching for it tie it to the Bowie side of things, but the community itself actually sits just east in Odenton, in Anne Arundel County (ZIP 21113) — only about ten minutes from Bowie proper. We tell people that up front because it changes the practical details of a dumpster drop, from the staging rules to which jurisdiction's right-of-way rules apply. What does not change is the size that fits most single-project jobs out here: for one defined room or one defined tear-off, the 15-yard is usually the right call.
+
+We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 25 minutes from Two Rivers by Route 197 or the BW Parkway. When you call, you reach the family that owns the trucks — the same people who answer the phone are the ones who schedule your drop and run it out.
+
+## Why the 15-yard fits a Two Rivers home
+
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. It carries a 1.5-ton (3,000 lb) weight allowance, and a typical Two Rivers rental runs **$425 to $485, including delivery, pickup, and that tonnage** — not a base rate with tipping fees added after the haul.
+
+We call this the "single-room reno" size, and it is the in-between container — bigger than a 10-yard quick cleanout, but still short and low enough to stay driveway-friendly for most homes. That balance matters a lot in Two Rivers. The community runs from large single-family homes up toward 5,000-plus square feet down to clustered 55-plus villas in the active-adult sections, and the lots and driveways vary just as widely. On a full-size single-family lot in one of the family neighborhoods, the 15 leaves room to spare on the driveway. In the 55-plus villa sections, where driveways are often shorter and the layouts are clustered with shared frontage, the 15's compact 14-foot footprint is frequently the largest container that will sit cleanly on your own pad without spilling toward a neighbor's space.
+
+So the 15 fits on two counts here: it swallows a contained, one-room project, and its short footprint stages where there is genuinely room. If you are gutting a whole house or clearing a full move-out, you may want a 20. For a single defined project in a Two Rivers home, the 15 is the one we drop most often.
+
+## Which Two Rivers projects suit the 15-yard
+
+Two Rivers is recent construction — the final plan was approved around 2012 and builders like Classic Group, NVHomes, Ryan Homes, Brookfield, and Winchester were still putting up homes well after that. That shapes the work that comes up. You do not see many mid-century gut-rehabs out here; instead the demand skews toward owner-driven upgrades, basement and garage finishes, and finishing touches on newer homes. That is squarely 15-yard territory — larger debris from one part of the house at a time.
+
+- **Kitchen remodel.** Even on a newer Two Rivers home, the first owner-driven kitchen refresh — pulling the builder-grade cabinets, counters, and flooring, drywall and all — fills a 15-yard about right without paying for space you will not use.
+- **Roofing tear-off.** A single-layer asphalt tear-off on one of these contemporary rooflines sits comfortably inside the 1.5-ton allowance, so the load weight stays in line with the price.
+- **Two-bath gut.** Pulling tile, vanities, tubs, and subfloor from a pair of bathrooms is a classic 15-yard job, common as these homes hit the age for their first real refresh.
+- **Basement cleanout.** This is the signature driver in Two Rivers. Many of the single-family homes were sold with unfinished basements, and finishing one — or clearing out years of stored boxes, framing, and old carpet — lands neatly in a 15.
+
+Because so many of these homes came from the same handful of builders and share similar layouts, we have a good sense of what one room's worth of demo weighs before we pull up. If you are not sure whether your project is a 15 or a 20, tell us the room and the scope. We have hauled enough of these basement-finishing and remodel loads in the area to point you the right way before you commit.
+
+## Placement, HOA approval, and the right jurisdiction
+
+**In Two Rivers, the HOA is the real gatekeeper.** The community is HOA-governed, with significant 55-plus active-adult sections where the association handles things like lawn care and snow removal. For a dumpster, that means architectural and staging approval from the HOA is usually the deciding factor — more so than any city paperwork. The 55-plus villa lots in particular tend to have shorter driveways and clustered, shared layouts, so confirming an approved spot up front is what makes for a clean drop. It is worth clearing that with your association before we roll.
+
+**A note on permits and jurisdiction.** A lot of online listings file Two Rivers under Bowie, and the City of Bowie's rule is straightforward — a right-of-way permit is needed only if a dumpster sits in a city street, while driveways and HOA-approved staging do not require one. The wrinkle is that Two Rivers is not actually inside the City of Bowie. It sits in unincorporated Anne Arundel County, so the City of Bowie permit rule does not legally govern your address. If your only workable placement truly puts the container in a public street rather than your driveway or an HOA-approved spot, we will check the correct Anne Arundel County right-of-way requirement for your block before we deliver, so there are no surprises. For nearly every Two Rivers job, though, the container goes on your driveway or an approved staging spot and no permit comes into it at all.
+
+**Lots, driveways, and tight interior streets.** Two Rivers is amenity-dense and trail-laced, organized into named villages clustered around shared hubs like the Founders Club, with parks and miles of trails woven through. That makes for a pleasant neighborhood and, in spots, some narrow interior streets and shared parking that are tight for large equipment. The 15's short footprint helps here too. Give us the spot your HOA has cleared, plus any width or shared-driveway constraints, and we will square the container to fit it and lay boards under the wheels on request to protect the driveway.
+
+**Finding your door and drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway, which puts Two Rivers in easy same-day or next-day reach. Most addresses out here are scheduled inside 24 hours, and an early call often makes the same-day run. A clear address and a known cross-street near your village entrance keep the delivery moving.
+
+## Talk to the family that runs the trucks
+
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Two Rivers address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout — and where your HOA has cleared you to stage the container. We will confirm the 15-yard is the right size, sort out the correct staging for your section, and quote you on the spot, tonnage and delivery included.

@@ -1,0 +1,36 @@
+Idlewild is the "I-section" of Belair at Bowie, and like every Levitt section here it follows the alphabetical street-naming quirk the whole city is known for — addresses cluster around Idlewild Drive, where neighbors will tell you flat out that they live in the I-section. The homes behind those signs went up in the later Levitt wave between roughly 1964 and 1968, the same stretch that built neighboring sections like Whitehall, Rockledge, Overbrook, Yorktown and Victoria Heights. Property records along Idlewild Drive average a mid-1960s build year, right around 1965, which puts this housing stock near 60 years old. That single fact drives most of the dumpster work we do here, and the 20-yard roll-off is the size most of those projects land on.
+
+We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 25 minutes from Idlewild by way of Route 197 (Collington Road) or the BW Parkway. When you call, you get the family that owns the trucks — not a call center.
+
+## What fits in a 20-yard dumpster
+
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical Idlewild rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises added after the fact.
+
+Those five feet of wall height are the part people underestimate. It is low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many I-section homes: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demo. It is the size most customers end up choosing — and rarely regret. People around here call it the "whole-house cleanout" size for a reason.
+
+## Why the 20-yard fits Idlewild specifically
+
+Idlewild was built in the Levitt era from a small set of repeating models — the Cape Cod (sold here as the Ardsley), the Rancher (the Buckingham), the Colonials (Cambridge and Gladstone), the Country Clubber (Framingham) and the Manor House. The models on offer in 1968 were essentially the same ones launched in 1960, which means renovation scope across the section is remarkably predictable. When we hear which model you have, we already have a good idea what a kitchen gut or a roof tear-off will generate.
+
+Sixty years on, those original builds feel dated: standardized kitchens, original baths, layouts today's buyers want opened up. When an Idlewild home turns over or a longtime owner finally commits to modernizing, the work tends to be substantial but contained to one house — exactly the 20-yard's wheelhouse. Here are the jobs that come up again and again on the I-named streets:
+
+- **Whole-house cleanouts.** This is the 20-yard's best-known role — it is even nicknamed the "whole-house cleanout" size. Clearing an original Idlewild Levitt home between owners, or after years of accumulation, fills a 20-yard about right without paying for space you will not use.
+- **Multi-room remodels.** A kitchen-and-baths gut, or a run of bedrooms getting new flooring and drywall, is the classic 20-yard job in a Levitt home on its second or third renovation. Because Idlewild homes come from a handful of repeating floor plans, tearing out an original kitchen and a bath or two generates a debris volume a 20 was built for.
+- **Estate cleanouts.** Idlewild has held many of the same families since the homes were new. When one of those longtime houses changes hands, the 20-yard handles furniture, boxes, and household debris in a single container.
+- **Mid-size roofing tear-offs.** A typical Belair-era roof tear-off on these modest-footprint detached homes fits comfortably, with the 2-ton allowance covering most single-layer asphalt jobs.
+
+If your project is smaller — a single bathroom, a garage purge, a few rooms of flooring — a 15-yard may serve you better. If you are gutting the house to the studs and adding on, we will talk through whether a 30 makes more sense. Tell us the address and the scope and we will steer you straight; we would rather size it right than oversell you.
+
+## Placement, permits, and the Idlewild advantage
+
+**Driveway placement.** This is where Idlewild has a built-in advantage over Bowie's newer subdivisions. Every Belair home was originally delivered with a garage and a private paved driveway as a standard feature — Levitt advertised garages, driveways, landscaping and central air among the built-in extras. That means most Idlewild lots have a real driveway suitable for on-property dumpster placement, and a 20-yard fits most of these driveways with room to spare. It needs roughly 16 feet of straight length plus a few feet of clearance and an open swing for the rear door. With Idlewild Drive alone running 90-plus addresses on uniform Levitt-era lots, these are exactly the mature suburban driveways a 20 was meant for. We will lay boards under the wheels on request to protect the surface.
+
+**The Bowie permit rule.** The City of Bowie requires a right-of-way permit only if the dumpster sits in a city street; driveways and HOA-approved staging do not. Bowie's code does prohibit obstructions in streets, sidewalks or alleys without City Manager permission and requires permits and amber lanterns for materials stored in a public street — but because nearly every Idlewild home has its own paved driveway, a city street permit is the exception here, not the rule. Most I-section projects stage entirely on private property with no permit at all. If the only practical place turns out to be the street, we will flag it the moment we look at your address.
+
+**No mandatory HOA.** The original 1960s Levitt sections of Bowie, Idlewild included, generally do not have mandatory homeowners associations — listings in these Belair sections routinely advertise "No HOA." Unlike newer Bowie subdivisions with design review and staging-approval steps, Idlewild residents usually have no association gatekeeping before placing a dumpster on their own driveway. That keeps the whole process simple: you call, we deliver, you fill it.
+
+**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 (Collington Road) or the BW Parkway, with quick access off US Route 50. Idlewild sits in northeastern Bowie near the 182-acre Whitemarsh Park and is served by Belair Drive, so we know exactly where these streets are. Most Idlewild addresses are scheduled inside 24 hours, and an early call often makes the same-day run. The section is in ZIP 20715.
+
+## Talk to the family that runs the trucks
+
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Idlewild address and what you are tackling — an original Levitt kitchen gut on Idlewild Drive, a whole-house cleanout, an estate clear-out, or a mid-size roof tear-off — and we will confirm the 20-yard is the right size and quote you on the spot.
