@@ -2,7 +2,7 @@ When a Chapel Forge project grows past a single room and into a real build, the 
 
 ## Why the 25-yard fits the bigger Chapel Forge jobs
 
-The 25-yard box runs roughly 20 feet long, 8 feet wide and 5 feet tall — about 7.5 pickup-truck loads of debris, with a 2.5-ton (5,000 lb) tonnage allowance built into the price. We call it the "major construction" size for a reason. It's the one you reach for when the work is going to throw off real volume, not just a weekend's worth of trash.
+The 25-yard box runs roughly 20 feet long, 8 feet wide and 5 feet tall — about 7.5 pickup-truck loads of debris, with a 2-ton tonnage allowance built into the price. We call it the "major construction" size for a reason. It's the one you reach for when the work is going to throw off real volume, not just a weekend's worth of trash.
 
 In Chapel Forge specifically, that means jobs like a **home addition**, a **whole-house remodel**, a **large roofing tear-off**, or a **commercial cleanout**. The neighborhood's housing stock leans this way. Chapel Forge is one of the later, larger-home Levitt sections — ramblers of roughly 1,850 to 2,200-plus square feet rather than the smaller starter models in Bowie's earlier sections. Verified listings on Chapel Forge Drive show homes like the 1,849-square-foot 1966 rambler at 3705, the 1,943-square-foot home at 3804, and the 2,196-square-foot home at 4006. When a home that size gets a full gut, the debris adds up fast.
 
@@ -28,12 +28,12 @@ Our yard sits about 25 minutes from Chapel Forge. We run it either up Route 197 
 
 Worth knowing for the truck: Belair at Bowie's streets are named alliteratively by section, so Chapel Forge's spine is Chapel Forge Drive, with nearby streets like Milan Way — home to the Chapel Forge Early Childhood Center at 12711 Milan Way — and Chelmont Lane. The neighborhood sits north of Annapolis Road (MD 450) and east of Collington Road, so our drivers come off the highway and work in along residential side streets rather than wide arterials. None of that is a problem; it just means we plan the approach so the truck can set a 20-foot box cleanly.
 
-Pricing on the 25-yard typically runs **$525 to $625**, and that number includes delivery, pickup, and the 2.5-ton tonnage allowance — no surprise line items added after the fact. Because we're family-run and dispatching locally, we can be flexible on timing too: dropping the box the evening before a Saturday roofing crew arrives, or staging it clear of the Early Childhood Center traffic over on Milan Way during morning drop-off. Just tell us how your project is laid out.
+Pricing on the 25-yard is per material, and **starts at $640 for construction debris (other materials priced separately)**. That price includes delivery, pickup, and a 14-day rental with a 2-ton tonnage allowance; extra days run $5 each, and any weight over the allowance is $105 per additional ton. Pickup is on request — just call to schedule the haul-away. Because we're family-run and dispatching locally, we can be flexible on timing too: dropping the box the evening before a Saturday roofing crew arrives, or staging it clear of the Early Childhood Center traffic over on Milan Way during morning drop-off. Just tell us how your project is laid out.
 
 ## A few things worth thinking through
 
-- **Heavy materials add up quickly.** Roofing shingles, plaster, and old tile are dense. A large roofing tear-off on a 60-year-old Levitt rambler can approach or pass the 2.5-ton allowance, so tell us what you're loading and we'll flag whether you're likely to go over.
-- **Spatter-paint gut jobs are the sweet spot.** Whole-house remodel debris — drywall, plaster, original wood cabinets, flooring and trim — fills the volume of a 25-yard without usually maxing out the weight. That's the ideal load for this size.
+- **Heavy materials add up quickly.** Roofing shingles, plaster, and old tile are dense. A large roofing tear-off on a 60-year-old Levitt rambler can approach or pass the 2-ton allowance, so tell us what you're loading and we'll flag whether you're likely to go over — excess weight is $105 per additional ton.
+- **Spatter-paint gut jobs are the sweet spot.** Whole-house remodel debris — drywall, plaster, original wood cabinets, flooring and trim — fills the volume of a 25-yard without usually maxing out the 2-ton weight allowance. That's the ideal load for this size.
 - **Additions generate both.** A home addition throws off excavation spoils, framing waste, and packaging all at once. Keep heavy soil and concrete loads modest so the container stays under its tonnage cap.
 - **Commercial cleanouts vary.** If you're clearing out a space, the volume is easy to underestimate. Describe the contents and we'll tell you whether the 25-yard handles it in one go or whether a swap makes more sense.
 

@@ -4,7 +4,7 @@ The owners answer the phone here — no call center, no dispatcher reading from 
 
 ## What a 25-yard holds, and why it is the big one
 
-The 25-yard measures 20 ft long by 8 ft wide by 5 ft tall — roughly 7.5 pickup-truck loads — and comes with a 2.5-ton (5,000 lb) weight allowance built in. In Bowie a typical 25-yard rental runs **$525 to $625, and that price includes delivery, pickup, and the tonnage.** No tipping-fee surprises tacked on after the haul.
+The 25-yard measures 20 ft long by 8 ft wide by 5 ft tall — roughly 7.5 pickup-truck loads — and comes with a 2-ton (4,000 lb) weight allowance built in. In Bowie a 25-yard **starts at $640 for construction debris (other materials are priced separately), and that price includes delivery, pickup, and a 14-day rental.** Extra days are $5/day, and any weight over the 2-ton allowance is billed at $105 per additional ton. Pickup is on request — just call us when you are ready and we will schedule it.
 
 This is the size people in the trade call "major construction," and the name is honest. The walls are five feet, so a crew can still walk debris up and toss it over the side without a ramp, but there is real volume behind those walls — enough to keep one container on site through a job that would otherwise need a mid-project swap. That is exactly when the 25 earns its keep: longer projects, bigger builds, and the kind of all-at-once tear-out a 20-yard would outgrow.
 
@@ -16,7 +16,7 @@ Be honest with yourself about the project. Most work on a 65-year-old Levitt Cap
 
 - **Home additions.** When you bump out the back of a Somerset rancher or push a Cape Cod's footprint outward, you generate framing, old siding, sheathing, and tear-out in the volume the 25 is built to hold. On a 1960s slab- or crawl-era house, an addition usually means opening up original structure, and that adds up fast.
 - **Whole-house remodels.** Taking an original Levitt down to the studs — kitchen, baths, flooring, plaster and drywall, dated fixtures all at once — is a classic 25-yard job. A smaller box here means stopping work to swap containers mid-gut.
-- **Large roofing tear-offs.** A full roof replacement on these homes, especially a multi-layer tear-off built up over six decades, runs heavy. The 2.5-ton allowance gives more headroom for shingle weight than the smaller sizes do.
+- **Large roofing tear-offs.** A full roof replacement on these homes, especially a multi-layer tear-off built up over six decades, runs heavy. The 2-ton allowance gives more headroom for shingle weight than the smaller sizes do.
 - **Commercial cleanouts.** If you are clearing out a larger space and the material comes fast and in quantity, the 25 keeps pace where a smaller container would fill before the day is done.
 
 If your Somerset project is a single room, a routine declutter, or a modest estate cleanout, tell us — a 15- or 20-yard is almost always the smarter spend, and we will say so plainly. The 25 is the right answer when the job is truly big.

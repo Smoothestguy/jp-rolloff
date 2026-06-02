@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## Why the 15-yard fits a Pointer Ridge home
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. It carries a 1.5-ton (3,000 lb) weight allowance, and a typical Pointer Ridge rental runs **$425 to $485, including delivery, pickup, and that tonnage** — no tipping-fee surprises added after the haul.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. Pricing is per material — for construction debris the 15-yard **starts at $595 (other materials are priced separately), including delivery, pickup, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance**. Extra weight beyond the allowance is $105 per additional ton, and the extra days run $5/day if you keep it past 14. Pickup is on request — just call to schedule the haul.
 
 We call this the "single-room reno" size, and it earns that name on these P-streets. The 15 is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly. That matters less for clearance here than it does in Bowie's tighter townhouse enclaves, because Pointer Ridge homes sit on roughly third-of-an-acre lots with private driveways and room to spare. What the 15 really does on a lot this size is keep you from overpaying: it is sized to one defined project rather than a whole-house overhaul, so you are not renting empty air in a 20- or 30-yard box for a job that fills half of it.
 
@@ -35,4 +35,4 @@ Because so many of these homes came out of the same Levitt-era expansion of Bela
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Pointer Ridge address, what you are tackling — a kitchen gut, a roof tear-off, a two-bath remodel, or a basement cleanout in a long-held home — and whether you will stage on the driveway. We will confirm the 15-yard is the right size and quote you on the spot, tonnage and delivery included.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Pointer Ridge address, what you are tackling — a kitchen gut, a roof tear-off, a two-bath remodel, or a basement cleanout in a long-held home — and whether you will stage on the driveway. We will confirm the 15-yard is the right size and quote you on the spot — construction debris starts at $595 (other materials priced separately), with delivery, pickup on request, and a 14-day rental plus a 1.5-ton allowance included; extra weight is $105 per ton.

@@ -2,7 +2,7 @@ If you have a single garage to clear out, a bathroom to gut, or a yard full of b
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard holds roughly three pickup-truck loads. Picture three full beds of debris stacked into a low-walled box you can walk right up to and load over the side. It comes with a 1-ton (2,000 lb) weight allowance built into the price, and our typical Landover rate runs $350 to $425 with delivery, pickup, and that ton of tonnage all included. No surprise line items at the end.
+The 10-yard holds roughly three pickup-truck loads. Picture three full beds of debris stacked into a low-walled box you can walk right up to and load over the side. Pricing is per material: a 10-yard starts at $550 for construction debris, with other materials priced separately. That rate includes delivery, pickup, and a 14-day rental with a 1-ton (2,000 lb) weight allowance. Extra days are $5/day, and any weight over the allowance is billed $105 per additional ton. Pickup is on request, so you just give us a call when you are ready for the box to go.
 
 Because the walls are low and the footprint is small, this size shines for dense, heavy material in modest volumes rather than big bulky-but-light loads. A bathroom's worth of tile, a garage packed with old paint cans and broken shelving, or a weekend's worth of yard waste fills it sensibly without blowing past the weight cap. If you are gutting a whole house or tearing off a roof, you will want a larger box; for a single room or a single zone of the property, the 10-yard is the honest fit.
 

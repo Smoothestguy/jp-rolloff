@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## Why the 15-yard fits Chapel Forge homes
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. It comes with a 1.5-ton (3,000 lb) weight allowance, and a typical Chapel Forge rental runs **$425 to $485, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the haul.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. Pricing is per material: a 15-yard for construction debris **starts at $595** (other materials priced separately; aggregates are accepted only in 10, 15, and 20-yard containers). That price includes delivery, pickup on request, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance — extra days are $5/day, and any weight over the allowance is $105 per additional ton.
 
 We call this the "single-room reno" size, and it earns the name on Chapel Forge Drive. The 15 is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly for most homes. That matters here in a specific way. Chapel Forge was one of Levitt's later, larger-home sections, but the mid-century lots underneath those bigger ramblers are still modest: verified parcels on Chapel Forge Drive run roughly 9,600 to 10,664 square feet — about a fifth to a quarter acre. So you get a roomy house on a tight-ish lot, which means real but limited driveway and front-yard room for staging a roll-off. The 14-foot length of the 15-yard is the size that tucks onto those driveways without spilling into the street.
 
@@ -33,4 +33,4 @@ Because Chapel Forge came out of the same Levitt catalog, we have a good sense o
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Chapel Forge address and what you are tackling — a kitchen gut in a Chapel Forge Drive rambler, a roof tear-off, a two-bath remodel, or a basement cleanout in a long-held family home — and we will confirm the 15-yard is the right size and quote you on the spot, tonnage and delivery included.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Chapel Forge address and what you are tackling — a kitchen gut in a Chapel Forge Drive rambler, a roof tear-off, a two-bath remodel, or a basement cleanout in a long-held family home — and we will confirm the 15-yard is the right size and quote you on the spot for your material, with delivery, pickup on request, and the 14-day rental and 1.5-ton allowance included.

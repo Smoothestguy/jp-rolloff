@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall, and it holds roughly four-and-a-half pickup-truck loads of debris. It comes with a 1.5-ton (3,000 lb) weight allowance, and a typical Victoria Heights rental runs **$425 to $485, including delivery, pickup, and that tonnage** — no tipping-fee surprise tacked on after the fact.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall, and it holds roughly four-and-a-half pickup-truck loads of debris. Pricing is per material: construction debris in the 15-yard **starts at $595** (other materials are priced separately, and aggregates are accepted only in the 10-, 15-, and 20-yard). That price **includes delivery, pickup, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance**. Keep it longer for $5 a day, and any weight past the 1.5-ton allowance is billed at $105 per additional ton. Pickup is on request — give us a call to schedule it.
 
 The four-foot wall height is the quiet advantage of this size. The sides are low enough to pitch debris over the rail without a ramp, which matters when you are carrying load after load out of a kitchen or up from a basement. But there is still enough volume to hold a real single-room job start to finish. That is why the 15 is best known as the "single-room reno" size — the one to reach for when a 10-yard feels a touch tight but a 20 would leave you paying for air.
 

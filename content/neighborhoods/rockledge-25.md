@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000 lb) weight allowance, and in Rockledge a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the haul.
+The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Rockledge a 25-yard **starts at $640 for construction debris (other materials priced separately)**, and that price includes delivery, a 14-day rental with a 2-ton weight allowance, and pickup on request. Need the container longer? It is just **$5 per extra day**. Go over the 2-ton allowance and additional weight runs **$105 per ton** — so the bill tracks the actual job, priced per material rather than as a single fixed charge.
 
 The jump up from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through — a whole-house remodel, a substantial addition, a large roof, or a full cleanout. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls than the mid-size containers give you.
 
@@ -16,7 +16,7 @@ Rockledge's housing stock is the whole story here. As one of Belair's later sect
 
 - **Home additions.** Bumping out the back of an R-section Levitt home or adding a second story throws off framing lumber, old siding, and tear-out debris in the volume a 25-yard is meant to hold — more than a smaller box can take without a mid-project swap.
 - **Whole-house remodels.** A full modernization of a 60-year-old Levitt house — kitchen, baths, flooring, and drywall all coming out at once, often paired with a basement finish — is a textbook 25-yard job. When a house gets taken down to the studs, the debris adds up fast, and one large container beats two trips.
-- **Large roofing tear-offs.** After six decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs run heavy, and the 2.5-ton allowance gives more headroom for shingle weight than the smaller sizes.
+- **Large roofing tear-offs.** After six decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs run heavy, so heads up that shingle weight can push past the included 2-ton allowance, with extra weight billed at $105 per ton.
 - **Commercial cleanouts.** When a larger property or business clearout near the section throws off material in bulk, the 25-yard handles it in one go.
 
 If your Rockledge project is on the smaller side — a single-room redo, one bathroom refresh, a routine garage cleanout — a 20-yard or even a 15-yard is usually the smarter spend, and we will tell you so. The 25-yard pays off when the job is genuinely big.

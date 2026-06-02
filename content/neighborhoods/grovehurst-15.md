@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## Why the 15-yard fits a Grovehurst Colonial
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. It carries a 1.5-ton (3,000 lb) weight allowance, and a typical Grovehurst rental runs **$425 to $485, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the haul.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. Pricing is per material — for construction debris, the 15-yard **starts at $595, with other materials priced separately**. That price includes delivery, pickup on request, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance built in. Keep it past 14 days for $5 a day, and if you go over the allowance, additional weight runs $105 per ton.
 
 We call this the "single-room reno" size, and it earns that name in a home like the ones here. The 15 is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly. In Grovehurst, where driveways are wide and lots run a quarter to a half acre, that low 4-foot profile is easy to tuck onto the asphalt or a side yard without crowding the house, the garage, or the tree line at the back of the lot.
 
@@ -35,4 +35,4 @@ Because these homes came out of a tight 1990s build and share a similar footprin
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Grovehurst address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in one of these 1990s Colonials — and where on the driveway or lot you want the container staged. We will confirm the 15-yard is the right size and quote you on the spot, tonnage and delivery included.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Grovehurst address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in one of these 1990s Colonials — and where on the driveway or lot you want the container staged. We will confirm the 15-yard is the right size and quote you on the spot — construction debris starts at $595, with delivery, pickup on request, and a 14-day rental with a 1.5-ton allowance included.

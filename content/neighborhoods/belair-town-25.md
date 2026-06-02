@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000 lb) weight allowance, and in Belair Town a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage**. No tipping-fee surprises tacked on after the haul.
+The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Belair Town a 25-yard **starts at $640 for construction debris (other materials priced separately)**, and that price includes delivery, pickup, and a **14-day rental with a 2-ton weight allowance**. Keep it longer for +$5 per extra day. Extra weight beyond the 2-ton allowance is $105 per additional ton, and pickup is on request — just call to schedule the haul.
 
 The jump from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through — a whole-house remodel, an addition, a large roof, or a full cleanout. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls than the mid-size containers offer.
 
@@ -16,7 +16,7 @@ Belair Town's housing stock is the story here. These are modest attached homes, 
 
 - **Home additions.** A bump-out or rear addition on an attached townhouse throws off framing lumber, old siding, and tear-out debris in the volume a 25-yard is meant to hold — more than a smaller box can take without a mid-project swap.
 - **Whole-house remodels.** A full gut of a 50-plus-year-old Belair Town unit — kitchen, baths, flooring, and drywall all coming out at once — is a textbook 25-yard job. When a late-1960s townhouse gets modernized down to the studs, the debris adds up fast, and one large container beats two trips.
-- **Large roofing tear-offs.** After five decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs run heavy, and the 2.5-ton allowance gives more headroom for shingle weight than the smaller sizes.
+- **Large roofing tear-offs.** After five decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs run heavy, and the 2-ton allowance covers the start of the load, with any extra weight billed at $105 per additional ton.
 - **Commercial cleanouts.** With the shops on the north side of MD 450 right at the neighborhood's doorstep, a larger property or business clearout that throws off material in bulk is exactly what the 25-yard handles in one go.
 
 If your Belair Town project is on the smaller side — a single bathroom refresh, one room redone, or a routine turnover cleanout — a 20-yard or even a 15-yard is usually the smarter spend, and we will tell you so. Remember, too, that routine household garbage, recycling, and yard waste are already handled by municipal pickup here, so a roll-off this size is for renovation debris and construction loads that blow past curbside service. The 25-yard pays off when the job is genuinely big.

@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical Woodmore North rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the fact.
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. Pricing here is per material, and a 20-yard **starts at $620 for construction debris (other materials priced separately; aggregates are accepted only in the 10, 15, and 20-yard)**. That price includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) weight allowance — extra days run $5/day, and any weight over the 2-ton allowance is billed at $105 per additional ton.
 
 Those five feet of wall height are the part people underestimate. The wall is low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot: bigger than a quick-cleanup 10 or 15-yard, but short of the 25 or 30-yard containers that mostly make sense when you take a whole house to the studs. It is the size most customers end up choosing — and rarely regret. It even has a nickname for the role it plays best: the "whole-house cleanout" size.
 
@@ -17,7 +17,7 @@ Here are the jobs that come up again and again across Woodmore North:
 - **Whole-house cleanouts.** This is the 20-yard's best-known role. Clearing out one of these 5,000-to-8,400-square-foot homes between owners, or before a top-to-bottom refresh, fills a 20-yard about right without paying for space you will not use.
 - **Multi-room remodels.** A kitchen-and-baths update, or a run of rooms getting new flooring and drywall, is the classic 20-yard job in a 2000s home reaching the age where builder-grade finishes start to date. With four-to-six-bath floor plans here, a multi-room refresh throws off real volume.
 - **Estate cleanouts.** When a longtime Woodmore North home finally changes hands, the 20-yard handles furniture, boxes, and household debris in a single container, finished basement included.
-- **Mid-size roofing tear-offs.** A single-layer asphalt tear-off on one of these multi-story homes fits comfortably, with the 2-ton allowance covering most jobs on a typical Woodmore North roofline.
+- **Mid-size roofing tear-offs.** A single-layer asphalt tear-off on one of these multi-story homes fits comfortably; the 14-day rental covers a typical Woodmore North roofline, and any weight beyond the 2-ton allowance is billed at $105 per additional ton.
 
 If your project is smaller — a single bathroom, a garage purge, a few rooms of flooring — a 15-yard may serve you better. If you are gutting one of these large homes top to bottom, finishing a full walk-out basement plus a kitchen at once, or doing a complete tear-off across a big roof, we will talk through whether a 25 or 30 makes more sense. Tell us the address and the scope and we will steer you straight; we would rather size it right than oversell you.
 

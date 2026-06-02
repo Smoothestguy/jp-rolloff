@@ -9,7 +9,7 @@ export default {
     title: (data) =>
       `${data.combo.size.yd}-Yard Dumpster Rental in ${data.combo.city.name}, MD | JP Roll-Off`,
     description: (data) =>
-      `Rent a ${data.combo.size.yd}-yard roll-off dumpster in ${data.combo.city.name}, MD (${data.combo.city.zips.join(", ")}). ${data.combo.size.dims} · holds ~${data.combo.size.loads} pickup loads · $${data.combo.size.price.low}–$${data.combo.size.price.high}. Same-day delivery. (301) 252-3586.`,
+      `Rent a ${data.combo.size.yd}-yard roll-off dumpster in ${data.combo.city.name}, MD (${data.combo.city.zips.join(", ")}). ${data.combo.size.dims} · ~${data.combo.size.loads} pickup loads · from $${data.combo.size.price.from}. Same-day delivery. (301) 252-3586.`,
     canonical: (data) =>
       `https://jprolloff.com/locations/${data.combo.city.slug}/${data.combo.size.yd}-yard`
   }

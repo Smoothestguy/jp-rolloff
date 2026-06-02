@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## Why the 15-yard fits Somerset homes
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. It comes with a 1.5-ton (3,000 lb) weight allowance, and a typical Somerset rental runs **$425 to $485, including delivery, pickup, and that tonnage** — no tipping-fee surprises added on after the haul.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. It comes with a 1.5-ton (3,000 lb) weight allowance, and pricing is per material — a 15-yard **starts at $595 for construction debris (other materials priced separately), including delivery, pickup on request, and a 14-day rental with that 1.5-ton allowance**. Extra days run $5/day, and any weight over the allowance is billed at $105 per additional ton.
 
 We call this the "single-room reno" size, and it earns the name on these streets. The original Somerset Cape Cods and ranchers are compact homes on modest mid-century lots with a standard single-width driveway — not the wide two-car aprons you see in Bowie's newer sections. That changes the math two ways. First, the 15-yard's four-foot walls and 14-foot length tuck onto a single-width driveway far more comfortably than a longer 20- or 30-yard would, so you keep the container on your own property instead of out at the curb. Second, the work itself in a 65-year-old Levitt house tends to be one room at a time, which is precisely the volume a 15-yard is built to swallow.
 

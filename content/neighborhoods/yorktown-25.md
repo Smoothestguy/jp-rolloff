@@ -2,7 +2,7 @@ Yorktown is one of the Levitt "Y-section" neighborhoods of Belair at Bowie — b
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 feet long by 8 feet wide by 5 feet tall and holds roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000-pound) weight allowance, and in Yorktown a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage**. No tipping-fee surprises tacked on after the haul.
+The 25-yard is our major-construction size. It measures 20 feet long by 8 feet wide by 5 feet tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Yorktown a 25-yard for construction debris **starts at $640 (other materials are priced separately), including delivery, pickup, and a 14-day rental with a 2-ton weight allowance**. Extra days run $5/day, and weight beyond the 2-ton allowance is billed at $105 per additional ton. Pickup is on request — just call to schedule it.
 
 The jump up from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through — a full remodel, a substantial addition, a big roof, or a bulk cleanout. The walls are still five feet, so a crew can walk debris up and toss it over the side without needing a ramp, but there's meaningfully more room behind those walls than the mid-size cans offer.
 
@@ -14,7 +14,7 @@ Yorktown's housing stock is the whole story here. The section is overwhelmingly 
 
 - **Home additions.** Bumping out a Rancher or adding onto a Colonial on one of the Y-named streets throws off framing lumber, old siding, and tear-out debris in the volume a 25-yard is meant to hold — more than a smaller box can take without a mid-project swap.
 - **Whole-house remodels.** A full gut of an original Levitt home — kitchen, baths, flooring, and plaster or drywall all coming out at once — is a textbook 25-yard job. When a 1960s house gets modernized down to the studs, the debris adds up fast, and one large container beats two trips.
-- **Large roofing tear-offs.** After six decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs run heavy, and the 2.5-ton allowance gives more headroom for shingle weight than the smaller sizes do.
+- **Large roofing tear-offs.** After six decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs run heavy, so plan for the 2-ton allowance up front — weight beyond it is billed at $105 per additional ton.
 - **Commercial cleanouts.** When a larger property or a business clearout near the section throws off material in bulk, the 25-yard handles it in one go.
 
 If your Yorktown project is on the smaller side — a single bathroom, a garage cleanout, or clearing brush from an established lot — a 10-yard or 15-yard is usually the smarter spend, and we'll tell you so on the phone. The 25-yard pays off when the job is genuinely big. Given how many of these homes have been held by the same families for years, the work we see at this size often skews toward the heavy end: full-house renovations on aging Levitt stock, additions, roof tear-offs, and large estate or downsizing cleanouts that empty an entire 1960s home.
@@ -29,4 +29,4 @@ If your Yorktown project is on the smaller side — a single bathroom, a garage 
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Yorktown address and what you're tackling — an addition on one of the Y-named streets, a whole-house gut of an original Levitt home, a large roof tear-off, or a bigger cleanout — and we'll confirm whether the 25-yard is the right size and quote you on the spot. Delivery, pickup, and your 2.5-ton tonnage allowance are all included in one straightforward price, typically $525 to $625. Reach the family at **(301) 252-3586**.
+When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Yorktown address and what you're tackling — an addition on one of the Y-named streets, a whole-house gut of an original Levitt home, a large roof tear-off, or a bigger cleanout — and we'll confirm whether the 25-yard is the right size and quote you on the spot. Pricing is per material, so a 25-yard for construction debris starts at $640 (other materials are priced separately), and that includes delivery, pickup on request, and a 14-day rental with a 2-ton allowance — extra days are $5/day and weight over the allowance runs $105 per additional ton. Reach the family at **(301) 252-3586**.

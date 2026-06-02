@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched from Beltsville, an
 
 ## What fits in a 30-yard dumpster
 
-The 30-yard measures 22 ft long by 8 ft wide by 6 ft tall and holds roughly nine pickup-truck loads of debris. It comes with a 3-ton (6,000 lb) weight allowance, and in Silver Spring a typical 30-yard rental runs **$595 to $725, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the fact.
+The 30-yard measures 22 ft long by 8 ft wide by 6 ft tall and holds roughly nine pickup-truck loads of debris. In Silver Spring a 30-yard **starts at $665 for construction debris (other materials are priced separately), including delivery, a 14-day rental, and a 3-ton (6,000 lb) weight allowance.** Pickup is on request — just call to schedule it. Extra days are $5/day, and any weight over the 3-ton allowance is billed at $105 per additional ton.
 
 That extra foot of wall height over the mid-size bins, stretched across 22 feet of length, is what makes this the maximum-capacity option. It is built for volume, not for tossing a few bags over the side. The trade-off is the footprint. A 30-yard needs a long, straight run-up to set down level, plus room for the truck to position and lift it. On a wide commercial lot that is no issue. On a 1940s Cape Cod's single-car driveway in Four Corners, it is exactly the kind of placement we scout in advance — and sometimes the reason we will steer you to a 25-yard instead.
 

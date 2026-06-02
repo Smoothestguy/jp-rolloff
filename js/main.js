@@ -142,7 +142,7 @@
           `Delivery Date: ${data.date || ''}\n` +
           `Project Details: ${data.notes || ''}\n`
         );
-        window.location.href = `mailto:office@jprolloff.com?subject=Quote%20Request%20-%20${encodeURIComponent(data.name || 'Web')}&body=${body}`;
+        window.location.href = `mailto:Office@jprolloff.net?subject=Quote%20Request%20-%20${encodeURIComponent(data.name || 'Web')}&body=${body}`;
         if (btn) btn.textContent = 'Opening your email…';
       }).finally(() => {
         setTimeout(() => { if (btn) { btn.disabled = false; btn.textContent = original; } }, 4000);
@@ -565,7 +565,7 @@
           'Email: ' + (lead.email || '—') + '\n'
         );
         const a = document.createElement('a');
-        a.href = 'mailto:office@jprolloff.com?subject=' + encodeURIComponent('Quote Request — ' + lead.name) + '&body=' + body;
+        a.href = 'mailto:Office@jprolloff.net?subject=' + encodeURIComponent('Quote Request — ' + lead.name) + '&body=' + body;
         a.style.display = 'none';
         document.body.appendChild(a);
         a.click();

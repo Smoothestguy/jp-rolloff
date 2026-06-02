@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000 lb) weight allowance, and in Willow Wood Estates a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the haul.
+The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Willow Wood Estates a 25-yard for construction debris **starts at $640 (other materials are priced separately)**, and that price includes delivery, pickup on request, and a 14-day rental with a 2-ton weight allowance. Extra days run $5/day, and weight over the 2-ton allowance is billed at $105 per additional ton.
 
 The jump from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through — a whole-house remodel, a substantial addition, a large roof, or a sizable cleanout. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls than the mid-size containers offer.
 
@@ -16,7 +16,7 @@ Here is the honest version: in Willow Wood Estates, the 25-yard is the exception
 
 - **Home additions.** Bumping out the back of a 1970s detached home or putting on a second-story or in-law addition throws off framing lumber, old siding, and tear-out debris in the volume a 25-yard is meant to hold — more than a mid-size box can take without a mid-project swap.
 - **Whole-house remodels.** A full gut of one of these 40-plus-year-old homes — kitchen, baths, flooring, and drywall all coming out at once — is a textbook 25-yard job. When a midsize home gets modernized down to the studs, the debris adds up fast, and one large container beats two trips.
-- **Large roofing tear-offs.** Homes built in the late 1970s and early 1980s are well into the original-roof replacement window. On the bigger floor plans in the neighborhood — the four- and five-bedroom homes pushing toward 2,790 square feet — a full or multi-layer tear-off runs heavy, and the 2.5-ton allowance gives more headroom for shingle weight than the smaller sizes.
+- **Large roofing tear-offs.** Homes built in the late 1970s and early 1980s are well into the original-roof replacement window. On the bigger floor plans in the neighborhood — the four- and five-bedroom homes pushing toward 2,790 square feet — a full or multi-layer tear-off runs heavy, so it pays to plan around the 2-ton allowance and the $105-per-ton charge for anything over it.
 - **Commercial cleanouts.** When a larger property or a business clearout in the broader Bowie area throws off material in bulk, the 25-yard handles it in one go.
 
 If your Willow Wood project is a single-room redo, a bathroom refresh, a routine garage or basement cleanout, or a standard-sized roof, a 20-yard or even a 15-yard is usually the smarter spend, and we will tell you so on the phone. The 25-yard pays off when the job is genuinely major.

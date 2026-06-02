@@ -6,7 +6,7 @@ The 10-yard is best known as the "garage cleanout" size for a reason: its low 3.
 
 Think of it in pickup-truck terms — about three full loads. That is the right capacity for a single room or a focused project, and the one-ton weight allowance covers the typical mix of household junk, furniture, and light renovation debris. Heavier loads like concrete, brick, or wet plaster fill that ton fast, so if your project is mostly dense material, give us a quick call and we will tell you straight whether 10 yards is enough or whether you would be better off with a bigger box.
 
-Typical pricing for the 10-yard runs about **$350 to $425**, and that number already includes delivery, pickup, and your tonnage — no surprise line items after the truck leaves.
+Pricing is per material, so the 10-yard **starts at $550 for construction debris** (other materials are priced separately). That rate includes delivery, pickup, and a 14-day rental with a 1-ton weight allowance built in. Extra time runs $5 per additional day, and any weight over the allowance is billed at $105 per additional ton. Pickup is on request, so you just give us a call to schedule the haul once you are loaded.
 
 ## Which College Park jobs suit this size
 
@@ -31,4 +31,4 @@ As for getting to you: we dispatch from Beltsville, so a College Park delivery i
 
 We are a family-owned operation, which means when you call, one of the owners picks up — no call center, no script, no being passed around. We will help you figure out whether the 10-yard is genuinely the right size for your garage, bathroom, yard, or estate project, or whether a different box would save you money or a second haul.
 
-If you are clearing a garage in Hollywood, gutting a bathroom in Berwyn, hauling brush off an Old Town lot, or downsizing a family home near the campus corridor, the 10-yard is usually where the conversation starts. Call us at **(301) 252-3586** and we will get a container down Route 1 and into your driveway, with delivery, pickup, and tonnage all in one honest price.
+If you are clearing a garage in Hollywood, gutting a bathroom in Berwyn, hauling brush off an Old Town lot, or downsizing a family home near the campus corridor, the 10-yard is usually where the conversation starts. Call us at **(301) 252-3586** and we will get a container down Route 1 and into your driveway — your rate includes delivery, pickup, and a 14-day rental with a 1-ton allowance, with extra weight billed at $105 per ton and pickup scheduled whenever you call.

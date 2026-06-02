@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## Why the 15-yard fits a Saddle Brook project
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. It carries a 1.5-ton (3,000 lb) weight allowance, and a typical Saddle Brook rental runs **$425 to $485, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the haul.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. Pricing is per material: a 15-yard **starts at $595 for construction debris (other materials priced separately)**, and that includes delivery, pickup on request, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance. Extra weight beyond the allowance is $105 per additional ton, and days past the 14-day window run $5 per day.
 
 We call this the "single-room reno" size, and that name is the key to using it well in a neighborhood of big colonials. The 15 is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly. On these 2,000-to-5,000-square-foot homes, it would be easy to over-order; a whole-house gut or a full-property estate cleanout in a six-bedroom colonial genuinely wants a 20 or a 30. The 15 is the right call when the scope is contained: one room, one system, one level. Its 14-foot length sits comfortably on the wide private driveways that are standard in Saddle Brook and Saddlebrook West, which is exactly where most of these homes have room to stage a box.
 

@@ -4,9 +4,9 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville. 
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000 lb) weight allowance, and a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage**. No tipping-fee surprises tacked on after the haul.
+The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: a 25-yard **starts at $640 for construction debris (other materials priced separately)**, and that includes delivery, pickup, and a **14-day rental with a 2-ton allowance**. Pickup is on request, so just call to schedule it. Keep your project under the 2-ton allowance and there is nothing more to pay; extra weight is billed at **$105 per additional ton**, and extra days run **$5/day**.
 
-The jump up from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through — a home addition, a whole-house remodel, a large roof, or a sizable cleanout. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls than the mid-size containers offer.
+It comes with a 2-ton (4,000 lb) weight allowance. The jump up from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through — a home addition, a whole-house remodel, a large roof, or a sizable cleanout. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls than the mid-size containers offer.
 
 One piece of advice we give every Two Rivers customer on this size: **measure twice before booking.** Twenty feet of straight container, plus clearance for the truck and the rear swing door, is a long footprint — and on the newer, sometimes clustered lots in Two Rivers, that footprint is the whole conversation. Confirm the spot before delivery day rather than after.
 
@@ -16,7 +16,7 @@ Two Rivers is comparatively new construction. The final community plan was appro
 
 - **Home additions.** A bump-out or rear addition on a larger Two Rivers single-family home throws off framing lumber, siding, and tear-out debris in the volume a 25-yard is meant to hold — more than a smaller box can take without a mid-project swap.
 - **Whole-house remodels.** Even newer homes get reworked when a family's needs change. A full interior remodel — kitchen, baths, flooring, and finishing debris coming out at once — across a five-bedroom floor plan is a textbook 25-yard job, and one large container beats two trips.
-- **Large roofing.** On the bigger rooflines this community is built for, a tear-off or re-roof runs heavy, and the 2.5-ton allowance gives more headroom for shingle weight than the smaller sizes.
+- **Large roofing.** On the bigger rooflines this community is built for, a tear-off or re-roof runs heavy, and the 2-ton allowance gives more headroom for shingle weight than the smaller sizes — just keep in mind extra weight is billed at $105 per ton.
 - **Commercial cleanouts.** A larger property clearout or a build-out near the community that throws off material in bulk is exactly what the 25-yard handles in one go.
 
 If your Two Rivers project is on the smaller side — a single bathroom refresh, a basement or garage finish, one room redone, or a punch-out cleanout on a near-new build — a 20-yard or even a 15-yard is usually the smarter spend, and we will tell you so. The 25-yard pays off when the job is genuinely big.

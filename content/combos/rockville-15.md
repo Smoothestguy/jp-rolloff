@@ -4,7 +4,7 @@ We're JP Roll-Off Service, a family-owned hauler that dispatches out of Beltsvil
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall, and it holds roughly four-and-a-half pickup-truck loads of debris. It comes with a 1.5-ton (3,000 lb) weight allowance, and around Rockville a typical 15-yard rental runs **$425 to $485, including delivery, pickup, and that tonnage** — no surprise tipping fee after the fact.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall, and it holds roughly four-and-a-half pickup-truck loads of debris. It comes with a 1.5-ton (3,000 lb) weight allowance, and around Rockville a 15-yard **starts at $595 for construction debris (other materials are priced separately)**. That price includes delivery, pickup on request, and a 14-day rental with the 1.5-ton allowance built in; extra days run $5/day, and any weight over the allowance is billed at $105 per additional ton.
 
 The four-foot wall height is the quiet advantage of this size. The sides are low enough to pitch debris over the rail without a ramp or a fight, which matters a lot when you're carrying load after load out of a kitchen or hauling it up from a basement. But there's still real volume in there — enough to hold a full single-room job from start to finish. That's why this is the "single-room reno" size: the one to reach for when a 10-yard feels a touch tight but a 20 would leave you paying for air you'll never fill.
 

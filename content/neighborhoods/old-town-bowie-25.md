@@ -4,13 +4,13 @@ A 25-yard container is our "major construction" size, and in Old Town Bowie it e
 
 ## What the 25-yard is built for in Old Town Bowie
 
-The 25-yard measures about 20 feet long, 8 feet wide, and 5 feet tall — roughly seven and a half pickup-truck loads of space. It comes with a 2.5-ton (5,000 lb) weight allowance, and our typical all-in price runs $525 to $625 including delivery, pickup, and that tonnage. There's no separate trip fee buried in the fine print; the number we quote is the number you pay.
+The 25-yard measures about 20 feet long, 8 feet wide, and 5 feet tall — roughly seven and a half pickup-truck loads of space. Pricing is per material: construction debris in the 25-yard starts at $640, with other materials priced separately (aggregates are only offered in the 10-, 15-, and 20-yard sizes). That price includes delivery, pickup on request, and a 14-day rental with a 2-ton allowance; additional days run $5 each, and any weight over the 2-ton allowance is billed at $105 per additional ton.
 
 This size makes sense for the larger projects that the district's aging frame houses tend to generate:
 
 - **Home additions** — framing scrap, old siding, demolished walls, and the mixed debris that comes with bumping out the back of an 1890s house.
 - **Whole-house remodels** — gut-rehabs of plaster, lath, flooring, cabinetry, and fixtures pulled out of a Foursquare or Victorian all at once.
-- **Large roofing tear-offs** — multiple layers of shingles stripped off a steep-pitched older roof, which gets heavy quickly (mind the 2.5-ton allowance).
+- **Large roofing tear-offs** — multiple layers of shingles stripped off a steep-pitched older roof, which gets heavy quickly (mind the 2-ton allowance — extra weight is $105 per additional ton).
 - **Commercial cleanouts** — tenant turnovers and building clear-outs along the 9th Street commercial spine.
 
 If your job is smaller — a single room, a bathroom, a one-layer roof, or a garage purge — we'd rather steer you toward a 10-, 15-, or 20-yard can so you're not paying for air. The honest answer in this neighborhood is to measure twice before booking the big one. Call us and describe the project, and we'll tell you straight whether the 25 is the right fit.
@@ -33,4 +33,4 @@ It's also worth noting the district is on the upswing. A city-backed revitalizat
 
 We're about 25 minutes from Old Town Bowie, dispatching every morning out of our Beltsville yard and running up Route 197 or the BW Parkway. Because we're close, same-day delivery is common — if you call early and we have a container free, there's a good chance we can get it to you that day. We dropped the cookie-cutter approach a long time ago: every quote is for your specific lot and your specific project.
 
-Being family-owned means when you call, you reach the people who actually own the trucks. No call center, no runaround — just a straight answer about size, price, and where the box should go. If you're planning an addition, a whole-house remodel, a big roofing job, or a commercial cleanout in Old Town Bowie and you think the 25-yard is your size, give us a ring at **(301) 252-3586**. We'll help you confirm it fits your lot, lock in the all-in price, and get it dropped — often the same day.
+Being family-owned means when you call, you reach the people who actually own the trucks. No call center, no runaround — just a straight answer about size, price, and where the box should go. If you're planning an addition, a whole-house remodel, a big roofing job, or a commercial cleanout in Old Town Bowie and you think the 25-yard is your size, give us a ring at **(301) 252-3586**. We'll help you confirm it fits your lot, give you the per-material price, and get it dropped — often the same day.

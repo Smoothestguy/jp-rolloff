@@ -13,7 +13,7 @@ permalink: "/locations/{{ np.city.slug }}/{{ np.neighborhood.slug }}/{{ np.size.
 
 {% block head %}
 <script type="application/ld+json">
-  { "@context": "https://schema.org", "@type": "Service", "serviceType": "{{ s.yd }}-yard roll-off dumpster rental", "provider": { "@type": "LocalBusiness", "name": "JP Roll-Off Service", "telephone": "+1-301-252-3586", "priceRange": "$$" }, "areaServed": { "@type": "Place", "name": "{{ hood.name }}, {{ city.name }}, MD" }, "offers": { "@type": "Offer", "priceCurrency": "USD", "price": "{{ s.price.low }}", "priceSpecification": { "@type": "PriceSpecification", "minPrice": "{{ s.price.low }}", "maxPrice": "{{ s.price.high }}", "priceCurrency": "USD" } } }
+  { "@context": "https://schema.org", "@type": "Service", "serviceType": "{{ s.yd }}-yard roll-off dumpster rental", "provider": { "@type": "LocalBusiness", "name": "JP Roll-Off Service", "telephone": "+1-301-252-3586", "priceRange": "$$" }, "areaServed": { "@type": "Place", "name": "{{ hood.name }}, {{ city.name }}, MD" }, "offers": { "@type": "Offer", "priceCurrency": "USD", "price": "{{ s.price.from }}", "priceSpecification": { "@type": "PriceSpecification", "minPrice": "{{ s.price.from }}", "maxPrice": "{{ s.price.from }}", "priceCurrency": "USD" } } }
   </script>
 <script type="application/ld+json">
   { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [

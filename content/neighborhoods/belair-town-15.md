@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## Why the 15-yard fits a Belair Town townhouse
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. It carries a 1.5-ton (3,000 lb) weight allowance, and a typical Belair Town rental runs **$425 to $485, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the haul.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. It carries a 1.5-ton (3,000 lb) weight allowance, and a 15-yard **starts at $595 for construction debris (other materials priced separately)**. That price includes delivery, pickup on request, and a 14-day rental with the 1.5-ton allowance; extra time runs $5/day and any weight over the allowance is $105 per additional ton.
 
 We call this the "single-room reno" size, and it earns that name here more than almost anywhere in Bowie. The 15 is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly for most homes. In Belair Town, where the townhouses are modest and the parking is tight, that compact footprint is the whole point. A 30-yard box has no business sitting in front of a late-1960s shared-wall townhouse with narrow frontage; the 14-foot length of the 15 is far easier to tuck into an assigned space, a short driveway, or an HOA-approved staging spot without blocking your neighbor's wall.
 
@@ -35,4 +35,4 @@ Because every one of these homes came out of the same Levitt catalog and shares 
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Belair Town address, what you are tackling — a kitchen gut, a roof tear-off, a two-bath remodel, or a basement cleanout in a long-held townhouse — and where the HOA has cleared you to stage the container. We will confirm the 15-yard is the right size and quote you on the spot, tonnage and delivery included.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Belair Town address, what you are tackling — a kitchen gut, a roof tear-off, a two-bath remodel, or a basement cleanout in a long-held townhouse — and where the HOA has cleared you to stage the container. We will confirm the 15-yard is the right size and quote you on the spot — construction debris starts at $595, with delivery, pickup on request, and a 14-day rental and 1.5-ton allowance included (extra weight is $105 per additional ton).

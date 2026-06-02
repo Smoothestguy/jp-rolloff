@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville �
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical Takoma Park rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the fact.
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. Pricing is per material — for construction debris it **starts at $620, including delivery, pickup, and a 14-day rental with a 2-ton (4,000 lb) weight allowance** (other materials are priced separately). Additional days run $5 each, and any weight over the 2-ton allowance is billed at $105 per additional ton. Pickup is on request — just call to schedule it when you are ready.
 
 The five-foot walls are the part people underestimate. They are low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a real project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but short of the 30-yard that mostly makes sense for new construction or heavy demolition. It is the size most customers end up choosing — and rarely regret. On most two-car driveways it fits with room to spare, which matters more in Takoma Park than almost anywhere, because the driveway is usually where the can has to go.
 

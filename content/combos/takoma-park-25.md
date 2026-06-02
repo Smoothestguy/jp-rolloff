@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville. 
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. It carries a 2.5-ton (5,000 lb) weight allowance, and in Takoma Park a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on afterward.
+The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Takoma Park a 25-yard **starts at $640 for construction debris (other materials are priced separately)**, and that price **includes delivery, a 14-day rental, and a 2-ton weight allowance**. Pickup is on request — just call to schedule it. Pricing is per material, not a single all-in number: extra days run $5/day, and weight over the 2-ton allowance is billed at $105 per additional ton.
 
 The step up from a 20-yard is real volume, not just a few extra feet. That extra capacity is what keeps a single container on site through a project that would otherwise need a mid-job swap. The walls stay at five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls.
 
@@ -15,9 +15,9 @@ The advice we give every customer on this size in Takoma Park is blunt: **measur
 The dominant housing stock here is late-Victorian and early-20th-century — Queen Anne and Stick/Shingle Victorians with ornate woodwork and front porches, Colonial Revival Foursquares, and Craftsman bungalows mostly built in the 1920s or earlier. Old houses generate big jobs, and these are the ones the 25-yard is built for:
 
 - **Home additions.** Bumping out the back of an Old Takoma Victorian or adding onto a North Takoma Foursquare throws off framing lumber, old siding, lath, and demolition debris in the volume a 25-yard is meant to hold.
-- **Whole-house remodels.** A full gut on a century-old home — pulling plaster, knob-and-tube wiring, and old flooring down to the studs across kitchen, baths, and living space all at once — is a classic 25-yard job. The plaster and lath alone run heavy, which is where the 2.5-ton allowance earns its place.
+- **Whole-house remodels.** A full gut on a century-old home — pulling plaster, knob-and-tube wiring, and old flooring down to the studs across kitchen, baths, and living space all at once — is a classic 25-yard job. The plaster and lath alone run heavy, which is where the 2-ton allowance earns its place.
 - **Large roofing tear-offs.** Bigger or multi-layer roofs on these older homes run heavy with asphalt shingle, and the 25-yard's weight allowance gives more headroom than the smaller sizes.
-- **Commercial cleanouts.** Along the Maple Avenue corridor, the city's multi-family pocket of mid-century apartments and condos, unit turnovers and HOA projects can produce a lot of material fast. The 25-yard handles those, and **commercial accounts get net-15 terms** so billing keeps pace with the work.
+- **Commercial cleanouts.** Along the Maple Avenue corridor, the city's multi-family pocket of mid-century apartments and condos, unit turnovers and HOA projects can produce a lot of material fast. The 25-yard handles those, and **commercial accounts welcome — ask about billing** so billing keeps pace with the work.
 
 If your project is a single-room redo or a routine cleanout, a 20-yard or 15-yard is usually the smarter spend, and we will say so. The 25-yard earns its keep when the job is genuinely large.
 

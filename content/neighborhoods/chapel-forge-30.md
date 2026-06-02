@@ -2,7 +2,7 @@ When a Chapel Forge job is big enough that a smaller bin would just mean a secon
 
 ## What the 30-yard holds
 
-The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That long, tall box swallows about nine pickup-truck loads of material, which is why it is the go-to for jobs that throw off a steady wall of debris rather than a few bags. It comes with a 3-ton (6,000 lb) weight allowance, and our typical pricing runs $595 to $725 — a number that already includes delivery, pickup, and the included tonnage, so there are no surprise line items waiting at the end.
+The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That long, tall box swallows about nine pickup-truck loads of material, which is why it is the go-to for jobs that throw off a steady wall of debris rather than a few bags. Pricing is per material: construction debris in the 30-yard starts at $665 (other materials are priced separately), and that price includes delivery, pickup, and a 14-day rental with a 3-ton (6,000 lb) weight allowance. After 14 days it is just $5 per extra day, and any weight over the 3-ton allowance runs $105 per additional ton. Pickup is on request, so call to schedule the haul when you are ready.
 
 One honest word on that weight allowance. The 30-yard's volume fills up fastest with bulky, lighter material — framing lumber, drywall, old cabinetry, roofing tear-off, lath and plaster, furniture, and general construction debris. If your load leans heavy with concrete, brick, dirt, or tile, the cube fills slowly but the tonnage climbs fast, and a smaller bin or a dedicated heavy-debris container is usually the smarter call. When you phone in, tell us what is going in and we will steer you to the right size before the truck rolls.
 
@@ -27,6 +27,6 @@ One more local note on routing. Chapel Forge's spine is Chapel Forge Drive, but 
 
 ## Talk to the family before you book
 
-Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script. That means you can describe your Chapel Forge project — a full spatter-paint-and-cabinet gut job, a contractor tear-out, a bulk estate haul, or a multi-unit cleanout — and get a straight answer on whether the 30-yard is the right size, what it will cost all-in, and exactly how we will set it on your driveway without crowding one of these mid-century lots.
+Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script. That means you can describe your Chapel Forge project — a full spatter-paint-and-cabinet gut job, a contractor tear-out, a bulk estate haul, or a multi-unit cleanout — and get a straight answer on whether the 30-yard is the right size, what it will cost for your material (construction debris starts at $665, with the 14-day rental and 3-ton allowance included and extra weight at $105 per ton), and exactly how we will set it on your driveway without crowding one of these mid-century lots.
 
 If you have a big job in Chapel Forge and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We will get a 30-yard scheduled, dispatched from the Beltsville yard in the morning, and on your site about 25 minutes later.

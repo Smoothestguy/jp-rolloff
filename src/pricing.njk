@@ -1,6 +1,6 @@
 ---
-title: "Dumpster Rental Pricing | JP Roll-Off Service · Beltsville, MD"
-description: "Flat-rate, all-inclusive pricing for 10–30 yard dumpster rentals across the DMV. No hidden fees. Tonnage included. Free written quotes — same day."
+title: "Dumpster Rental Pricing | JP Roll-Off Service"
+description: "Real per-material dumpster pricing for 10–30 yard roll-offs. Construction debris from $550. 14-day rental included. Tonnage limits & terms listed. Call (301) 879-7040."
 canonical: "https://jprolloff.com/pricing"
 navActive: "/pricing"
 quoteHref: "#quote"
@@ -12,62 +12,63 @@ quoteHref: "#quote"
     <section class="page-header">
       <div class="container">
         <span class="eyebrow" style="color:#fff;" data-en="Pricing" data-es="Precios">Pricing</span>
-        <h1 data-en="Flat-rate. All-inclusive. No surprises." data-es="Tarifa fija. Todo incluido. Sin sorpresas.">Flat-rate. All-inclusive. No surprises.</h1>
-        <p data-en="What we quote is what you pay. Delivery, pickup, the rental period, and a tonnage allowance — all bundled into one number." data-es="Lo que cotizamos es lo que pagas. Entrega, recogida, periodo de renta y tonelaje — todo en un solo precio.">What we quote is what you pay. Delivery, pickup, the rental period, and a tonnage allowance — all bundled into one number.</p>
+        <h1 data-en="Straightforward pricing — by size and material." data-es="Precios claros — por tamaño y material.">Straightforward pricing — by size and material.</h1>
+        <p data-en="Prices below include delivery, pickup, and a 14-day rental. Construction-debris containers include a set tonnage allowance; extra weight is billed per ton (see terms)." data-es="Los precios incluyen entrega, recogida y 14 días de renta. Los contenedores de escombros incluyen un límite de tonelaje; el peso extra se cobra por tonelada (ver términos).">Prices below include delivery, pickup, and a 14-day rental. Construction-debris containers include a set tonnage allowance; extra weight is billed per ton (see terms).</p>
       </div>
     </section>
 
     <section class="section section-alt">
       <div class="container">
-        <div class="market-context reveal" style="max-width: 720px; margin-bottom: var(--space-8);">
-          <span class="eyebrow" data-en="Market Context" data-es="Contexto del Mercado">Market Context</span>
-          <h2 style="font-size: var(--fs-40); margin-bottom: var(--space-5); margin-top: var(--space-3);" data-en="Typical pricing in our core service area" data-es="Precios típicos en nuestra área principal de servicio">Typical pricing in our core service area</h2>
-          <p class="lead" data-en="Typical residential dumpster rentals in Maryland fall between $300 and $600 for 10- to 20-yard containers. JP Roll-Off's Beltsville-area pricing sits inside that range — and every quote is all-inclusive, with tonnage and a 7-day rental built in." data-es="Las rentas residenciales típicas de contenedores en Maryland van de $300 a $600 para tamaños de 10 a 20 yardas. Nuestro precio en el área de Beltsville está dentro de ese rango — y cada cotización incluye tonelaje y 7 días de renta.">Typical residential dumpster rentals in Maryland fall between $300 and $600 for 10- to 20-yard containers. JP Roll-Off's Beltsville-area pricing sits inside that range — and every quote is all-inclusive, with tonnage and a 7-day rental built in.</p>
-        </div>
-
-        <div class="pricing-compare reveal-stagger">
-          {% for s in sizes %}
-          <article class="pricing-compare-row{% if s.popular %} is-popular{% endif %}">
-            {% if s.popular %}<span class="popular-tag" data-en="Most Popular" data-es="Más Popular">Most Popular</span>{% endif %}
-            <div class="pricing-compare-yd">{{ s.yd }}<small data-en="Yard" data-es="Yarda">Yard</small></div>
-            <div class="pricing-compare-body">
-              <p class="pricing-compare-price">${{ s.price.low }}–${{ s.price.high }}</p>
-              <ul class="pricing-compare-meta"{% if s.popular %} style="color: rgba(255,255,255,0.75);"{% endif %}>
-                <li data-en="7-day rental included" data-es="Renta de 7 días incluida">7-day rental included</li>
-                <li data-en="{{ s.tons }} ton ({{ s.lbs | thousands }} lb) tonnage included" data-es="{{ s.tons }} tonelada{% if s.tons != 1 %}s{% endif %} ({{ s.lbs | thousands }} lb) de tonelaje incluida{% if s.tons != 1 %}s{% endif %}">{{ s.tons }} ton ({{ s.lbs | thousands }} lb) tonnage included</li>
-              </ul>
-            </div>
-            <div class="pricing-compare-best">
-              <h4 data-en="Best for" data-es="Mejor para">Best for</h4>
-              <ul class="feature-list">
-                {% for b in s.bestFor %}
-                <li data-en="{{ b.en }}" data-es="{{ b.es }}">{{ b.en }}</li>
+        <div class="price-table-wrap reveal" style="overflow-x:auto;">
+          <table class="price-table" style="width:100%; min-width:760px; border-collapse:collapse;">
+            <thead>
+              <tr>
+                <th style="text-align:left;" data-en="Material" data-es="Material">Material</th>
+                {% for yd in pricing.sizeCols %}
+                <th>{{ yd }} <small data-en="Yard" data-es="Yarda">Yard</small><br><span style="font-weight:500; color:var(--color-text-muted); font-size:var(--fs-12);">{{ pricing.tonnage[yd] }}</span></th>
                 {% endfor %}
-              </ul>
-            </div>
-            <div class="pricing-compare-why">
-              <p class="pricing-compare-why-label" data-en="Why customers pick this" data-es="Por qué eligen este tamaño">Why customers pick this</p>
-              <p data-en="{{ s.why.en }}" data-es="{{ s.why.es }}">{{ s.why.en }}</p>
-              <a class="link-arrow" href="/services/{{ s.slug }}" data-en="See {{ s.yd }}-yard details →" data-es="Ver detalles {{ s.yd }} yardas →">See {{ s.yd }}-yard details →</a>
-            </div>
-          </article>
-          {% endfor %}
+              </tr>
+            </thead>
+            <tbody>
+              {% for m in pricing.materials %}
+              <tr>
+                <th style="text-align:left;" data-en="{{ m.name.en }}" data-es="{{ m.name.es }}">{{ m.name.en }}</th>
+                {% for yd in pricing.sizeCols %}
+                <td style="text-align:center;">{% if m.prices[yd] %}${{ m.prices[yd] }}.00{% else %}<span style="color:var(--color-text-muted);">—</span>{% endif %}</td>
+                {% endfor %}
+              </tr>
+              {% endfor %}
+            </tbody>
+          </table>
         </div>
-
-        <p style="margin-top: var(--space-8); font-size: var(--fs-14); color: var(--color-text-muted);" data-en="* Heavy debris (concrete, dirt, brick) priced separately. Permit fees, if required by your jurisdiction, are passed through at cost. Day extensions are inexpensive and quoted in advance." data-es="* Escombros pesados (concreto, tierra, ladrillo) se cotizan por separado. Permisos, si tu jurisdicción los requiere, se cobran al costo. Días adicionales son económicos y se cotizan por adelantado.">* Heavy debris (concrete, dirt, brick) priced separately. Permit fees, if required by your jurisdiction, are passed through at cost. Day extensions are inexpensive and quoted in advance.</p>
+        <p style="margin-top: var(--space-4); font-size: var(--fs-14); color: var(--color-text-muted);" data-en="Heavy aggregates (dirt, concrete, asphalt, granite) are available in 10, 15 & 20-yard only. Metal is a flat $275 at any size." data-es="Los agregados pesados (tierra, concreto, asfalto, granito) solo en 10, 15 y 20 yardas. El metal es $275 fijo en cualquier tamaño.">Heavy aggregates (dirt, concrete, asphalt, granite) are available in 10, 15 &amp; 20-yard only. Metal is a flat $275 at any size.</p>
       </div>
     </section>
 
-    <section class="section" id="quote">
+    <section class="section">
+      <div class="container container-narrow">
+        <div class="section-head" style="grid-template-columns:1fr;"><div>
+          <span class="eyebrow" data-en="The Fine Print" data-es="Los Detalles">The Fine Print</span>
+          <h2 data-en="Rental terms & important guidelines" data-es="Términos de renta y guías importantes">Rental terms &amp; important guidelines</h2>
+        </div></div>
+        <ul class="feature-list" style="font-size: var(--fs-16);">
+          {% for t in pricing.terms %}
+          <li data-en="{{ t.en }}" data-es="{{ t.es }}">{{ t.en }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </section>
+
+    <section class="section section-alt" id="quote">
       <div class="container">
         <div class="cta-band">
           <div>
-            <h2 data-en="Get a written quote — today." data-es="Obtén una cotización por escrito — hoy.">Get a written quote — today.</h2>
-            <p data-en="Most quotes go out within the hour during business hours." data-es="La mayoría de las cotizaciones salen dentro de la hora durante horario de oficina.">Most quotes go out within the hour during business hours.</p>
+            <h2 data-en="Not sure which size or material rate applies?" data-es="¿No sabes qué tamaño o tarifa aplica?">Not sure which size or material rate applies?</h2>
+            <p data-en="Tell us what you're throwing out and we'll confirm the exact price." data-es="Dinos qué vas a desechar y confirmamos el precio exacto.">Tell us what you're throwing out and we'll confirm the exact price.</p>
           </div>
           <div class="cta-band-actions">
             <a href="tel:{{ site.phone.tel }}" class="cta-band-phone">{{ site.phone.display }}</a>
-            <a href="/#quote" class="btn btn-lg" data-en="Get a Free Quote →" data-es="Obtener Cotización Gratis →">Get a Free Quote →</a>
+            <a href="/#quote" class="btn btn-lg" data-quote-open data-en="Get a Free Quote →" data-es="Obtener Cotización →">Get a Free Quote →</a>
           </div>
         </div>
       </div>

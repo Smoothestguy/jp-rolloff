@@ -2,7 +2,7 @@ When a job in Heather Hills is big enough that a smaller bin would just mean a s
 
 ## What the 30-yard holds
 
-The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That long, tall box swallows about nine pickup-truck loads of material, which is why it is the go-to for jobs that throw off a steady wall of debris rather than a few bags. It comes with a 3-ton (6,000 lb) weight allowance, and our typical pricing runs $595 to $725 — a number that already includes delivery, pickup, and the included tonnage, so there are no surprise line items waiting at the end.
+The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That long, tall box swallows about nine pickup-truck loads of material, which is why it is the go-to for jobs that throw off a steady wall of debris rather than a few bags. Pricing is per material, and a 30-yard starts at $665 for construction debris (other materials are priced separately). That price includes delivery, pickup on request, and a 14-day rental with a 3-ton (6,000 lb) weight allowance — extra days run $5 per day, and any weight beyond the allowance is $105 per additional ton.
 
 One honest word on that weight allowance. The 30-yard's volume fills up fastest with bulky, lighter material — framing lumber, drywall, old cabinetry, roofing tear-off, lath and plaster, furniture, and general construction debris. If your load leans heavy with concrete, brick, dirt, or tile, the cube fills slowly but the tonnage climbs fast, and a smaller bin or a dedicated heavy-debris container is usually the smarter call. When you phone in, tell us what is going in and we will steer you to the right size before the truck rolls.
 
@@ -31,6 +31,6 @@ Placement also decides whether a permit even enters the picture. The City of Bow
 
 ## Talk to the family before you book
 
-Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script. That means you can describe your Heather Hills project — a full Levitt gut job, a contractor tear-out, a bulk haul, or a multi-unit cleanout — and get a straight answer on whether the 30-yard is the right size, what it will cost all-in, and exactly how we will route the truck across into the section and set the box on your driveway off one of the H streets.
+Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script. That means you can describe your Heather Hills project — a full Levitt gut job, a contractor tear-out, a bulk haul, or a multi-unit cleanout — and get a straight answer on whether the 30-yard is the right size, what it will cost for your material, how the 14-day rental and 3-ton allowance work, and exactly how we will route the truck across into the section and set the box on your driveway off one of the H streets.
 
 If you have a big job in Heather Hills and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We will get a 30-yard scheduled, dispatched from the Beltsville yard in the morning, and on your site about 25 minutes later.

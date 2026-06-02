@@ -4,7 +4,7 @@ Rockledge's housing is what shapes the job. These are detached single-family hom
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard is the smallest footprint we run, measuring 12 ft long by 8 ft wide by 3.5 ft tall. It holds roughly three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. In Rockledge a typical 10-yard rental runs **$350 to $425, including delivery, pickup, and that tonnage** — no tipping fee sprung on you after the load hits the scale.
+The 10-yard is the smallest footprint we run, measuring 12 ft long by 8 ft wide by 3.5 ft tall. It holds roughly three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. Pricing is per material: in Rockledge a 10-yard **starts at $550 for construction debris (other materials are priced separately), and that price includes delivery, pickup, and a 14-day rental with a 1-ton allowance** — extra days run $5/day and any weight over the 1-ton allowance is billed at $105 per additional ton. Pickup is on request, so just call to schedule it when you are done.
 
 Those low 3.5-foot walls are the quiet advantage on an older Levitt home. You can walk right up and drop debris over the side without a ramp or a heave, which matters when you are loading the heavy, dense material these houses give up — old tile, plaster, dirt, roofing scrap. The 1-ton allowance is sized for exactly that kind of focused job: a single-room remodel or a one-corner cleanout, not a whole-house gut. And because the container fits inside a single car spot, it slides onto a Rockledge driveway without swallowing the whole thing. If your project outgrows one room, we will steer you to a 15 or 20-yard instead — but for the jobs below, the 10 is the right call.
 

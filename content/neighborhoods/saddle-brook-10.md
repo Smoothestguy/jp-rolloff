@@ -4,7 +4,7 @@ Saddle Brook is a late-1990s-to-early-2000s subdivision tucked on the doorstep o
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard measures 12 ft long by 8 ft wide by 3.5 ft tall. It holds about three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. In Saddle Brook a typical 10-yard rental runs **$350 to $425, including delivery, pickup, and that tonnage** — no surprise tipping fee after we weigh the load at the end.
+The 10-yard measures 12 ft long by 8 ft wide by 3.5 ft tall. It holds about three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. In Saddle Brook a 10-yard **starts at $550 for construction debris (other materials priced separately), including delivery, pickup, and a 14-day rental with that 1-ton allowance**. Extra time is $5/day, and any weight over the 1-ton allowance is $105 per additional ton, weighed at the end. Pickup is on request — give us a call to schedule it.
 
 The low 3.5-foot walls are the quiet advantage on a small job. You can walk right up to the side and drop debris in without a ramp or an overhead heave, which matters when you are loading the dense, heavy material a remodel gives up — old tile, vanity tops, a cast-iron tub, sod and dirt. The 1-ton allowance is matched to focused work: one room, one corner, one weekend. And because the footprint is the smallest we offer — it fits a single car spot — it tucks onto a Saddle Brook driveway without swallowing the whole apron. If your project turns out bigger than one room, we will steer you to a 15 or a 20 instead. But for the four jobs below, the 10 is the honest pick.
 

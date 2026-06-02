@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000 lb) weight allowance, and in Foxhill a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the haul is weighed.
+The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: a 25-yard in Foxhill **starts at $640 for construction debris (other materials priced separately)**, and that price **includes delivery, pickup, and a 14-day rental with a 2-ton allowance**. Need it longer? It is just **+$5/day**. Go over the included tonnage and excess weight runs **$105 per additional ton** — we weigh the haul and bill only the overage. Pickup is on request, so give us a call to schedule it when you are ready.
 
 The jump up from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through — a whole-house remodel, a substantial addition, a large roof, or a bulk cleanout. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls than the mid-size containers offer.
 
@@ -16,7 +16,7 @@ Foxhill's housing stock is the story here. The F-section was one of the earliest
 
 - **Home additions.** Bumping out a Rancher or adding onto a Colonial on an F-named street throws off framing lumber, old siding, and tear-out debris in the volume a 25-yard is meant to hold — more than a smaller box can take without a mid-project swap.
 - **Whole-house remodels.** A full gut of an original slab-built Levitt home — kitchen, baths, flooring, and drywall all coming out at once — is a textbook 25-yard job. When a 1960s house gets modernized down to the studs, decades of dated finishes add up fast, and one large container beats two trips.
-- **Large roofing tear-offs.** After six decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs run heavy, and the 2.5-ton allowance gives more headroom for shingle weight than the smaller sizes.
+- **Large roofing tear-offs.** After six decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs run heavy, and any weight beyond the included 2-ton allowance is just $105 per additional ton.
 - **Commercial cleanouts.** When a larger property or a business near the section clears out in bulk, the 25-yard swallows furniture, fixtures, and accumulated material in one go.
 
 If your Foxhill project is on the smaller side — a single-room redo, one bathroom, or a routine garage cleanout — a 10-, 15-, or 20-yard is usually the smarter spend, and we will tell you so. Most everyday Foxhill jobs fit a mid-size driveway container just fine. The 25-yard pays off when the work is genuinely big.

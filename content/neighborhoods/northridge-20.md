@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical Northridge rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the fact.
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. Pricing is per material: a 20-yard **starts at $620 for construction debris (other materials priced separately)**, and includes delivery, pickup on request, and a **14-day rental with a 2-ton (4,000 lb) weight allowance**. Need it longer? It's just +$5 a day. Go over the 2-ton allowance and extra weight runs $105 per additional ton, so heavy loads are billed by what they actually weigh.
 
 Those five feet of wall height are the part people underestimate. The wall is low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a real project. That balance is why the 20-yard sits in the sweet spot for so many Northridge homes: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural teardown. It is the size most customers end up choosing — and rarely regret.
 
@@ -17,7 +17,7 @@ Here are the jobs that come up again and again across Northridge:
 - **Whole-house cleanouts.** This is the 20-yard's best-known role — it is even nicknamed the "whole-house cleanout" size. Clearing a Northridge home between owners, or before a top-to-bottom refresh, fills a 20-yard about right without paying for space you will not use.
 - **Multi-room remodels.** A kitchen-and-baths gut, or a run of rooms getting new flooring and drywall, is the classic 20-yard job in a 1990s contemporary home reaching the age where original finishes start to date. Pulling builder-era cabinets, counters, and a bath or two throws off exactly the debris volume a 20 was made to hold.
 - **Estate cleanouts.** When a longtime Northridge home finally changes hands, the 20-yard handles furniture, boxes, and household debris in a single container.
-- **Mid-size roofing tear-offs.** A single-layer asphalt tear-off on one of these contemporary or Colonial Revival rooflines fits comfortably, with the 2-ton allowance covering most jobs on a typical Northridge roof.
+- **Mid-size roofing tear-offs.** A single-layer asphalt tear-off on one of these contemporary or Colonial Revival rooflines fits comfortably; heavier roofs may run past the 2-ton allowance, where extra weight is billed at $105 per additional ton.
 
 If your project is smaller — a single bathroom, a garage purge, a few rooms of flooring — a 15-yard may serve you better. If you are taking the house to the studs or building an addition with structural demolition, we will talk through whether a 30 makes more sense. Tell us the address and the scope and we will steer you straight; we would rather size it right than oversell you.
 

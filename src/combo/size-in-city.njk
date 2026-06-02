@@ -15,7 +15,7 @@ permalink: "/locations/{{ combo.city.slug }}/{{ combo.size.yd }}-yard/"
 
 {% block head %}
 <script type="application/ld+json">
-  { "@context": "https://schema.org", "@type": "Service", "serviceType": "{{ s.yd }}-yard roll-off dumpster rental", "provider": { "@type": "LocalBusiness", "name": "JP Roll-Off Service", "telephone": "+1-301-252-3586", "priceRange": "$$" }, "areaServed": { "@type": "City", "name": "{{ city.name }}", "address": { "@type": "PostalAddress", "addressLocality": "{{ city.name }}", "addressRegion": "MD", "addressCountry": "US" } }, "offers": { "@type": "Offer", "priceCurrency": "USD", "price": "{{ s.price.low }}", "priceSpecification": { "@type": "PriceSpecification", "minPrice": "{{ s.price.low }}", "maxPrice": "{{ s.price.high }}", "priceCurrency": "USD" } } }
+  { "@context": "https://schema.org", "@type": "Service", "serviceType": "{{ s.yd }}-yard roll-off dumpster rental", "provider": { "@type": "LocalBusiness", "name": "JP Roll-Off Service", "telephone": "+1-301-252-3586", "priceRange": "$$" }, "areaServed": { "@type": "City", "name": "{{ city.name }}", "address": { "@type": "PostalAddress", "addressLocality": "{{ city.name }}", "addressRegion": "MD", "addressCountry": "US" } }, "offers": { "@type": "Offer", "priceCurrency": "USD", "price": "{{ s.price.from }}", "priceSpecification": { "@type": "PriceSpecification", "minPrice": "{{ s.price.from }}", "maxPrice": "{{ s.price.from }}", "priceCurrency": "USD" } } }
   </script>
 <script type="application/ld+json">
   { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
@@ -89,7 +89,7 @@ permalink: "/locations/{{ combo.city.slug }}/{{ combo.size.yd }}-yard/"
           {% if city.neighborhoods.length %}
           <details class="faq-item"><summary>Which parts of {{ city.name }} do you cover?</summary><div class="faq-answer">All of it — including {{ city.neighborhoods | join(", ") }}. We serve ZIP{% if city.zips.length > 1 %}s{% endif %} {{ city.zips | join(", ") }}.</div></details>
           {% endif %}
-          <details class="faq-item"><summary>How much does a {{ s.yd }}-yard cost here?</summary><div class="faq-answer">Most {{ city.name }} {{ s.yd }}-yard rentals land between ${{ s.price.low }} and ${{ s.price.high }}, including delivery, pickup, and the {{ s.tons }}-ton weight allowance. Call for an exact quote on your address — there are no hidden fees.</div></details>
+          <details class="faq-item"><summary>How much does a {{ s.yd }}-yard cost here?</summary><div class="faq-answer">A {{ s.yd }}-yard in {{ city.name }} starts at ${{ s.price.from }} for construction debris (price varies by material). That includes delivery, pickup, a 14-day rental, and a {{ s.tons }}-ton weight allowance — extra weight is $105/ton. Call for an exact quote on your material and address.</div></details>
         </div>
       </div>
     </section>

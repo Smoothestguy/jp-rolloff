@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville. 
 
 ## What fits in a 30-yard dumpster
 
-The 30-yard measures 22 ft long by 8 ft wide by 6 ft tall and holds roughly nine pickup-truck loads of debris. It comes with a 3-ton (6,000 lb) weight allowance, and a typical Landover 30-yard rental runs **$595 to $725, including delivery, pickup, and that tonnage** — not a base rate with tipping fees stacked on after the fact.
+The 30-yard measures 22 ft long by 8 ft wide by 6 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material: a 30-yard **starts at $665 for construction debris** (other materials are priced separately, and heavy aggregates like dirt, concrete, and asphalt are only offered in the 10-, 15-, and 20-yard sizes). That price **includes delivery, a 14-day rental, and a 3-ton (6,000 lb) weight allowance**, with pickup on request when you call to schedule it. Extra time runs $5 a day, and any weight over the 3-ton allowance is billed at $105 per additional ton — so you always know how the number is built.
 
 That extra foot of wall height over the mid-size bins, carried across 22 feet of length, is what makes this the maximum-capacity option. It is built for volume, not for tossing a few bags over the rail. The trade-off is footprint: a 30-yard needs a long, straight run-up to set down level, plus room for the truck to position and lift it. On a wide commercial lot or one of Landover's larger unincorporated parcels, that is no problem. On a tight wartime lot over in Landover Hills, it is the first thing we check — and sometimes the reason we steer you to a 25-yard instead.
 

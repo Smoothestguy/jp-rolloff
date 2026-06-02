@@ -2,7 +2,7 @@ When a Lanham job is big enough that a smaller bin would mean stopping work to w
 
 ## What fits in a 30-yard
 
-The 30-yard gives you the same 8-foot width and 6-foot walls as our mid-size bins, but the extra length stretches it to a full 22 feet, and that volume changes what kinds of jobs it can absorb. Think nine pickup-truck loads of debris in one container. It comes with a 3-ton weight allowance — that is 6,000 pounds included before any overage applies — and the typical all-in price runs $595 to $725 with delivery, pickup, and that tonnage built in. No separate trip fees, no surprise line items at the end.
+The 30-yard gives you the same 8-foot width and 6-foot walls as our mid-size bins, but the extra length stretches it to a full 22 feet, and that volume changes what kinds of jobs it can absorb. Think nine pickup-truck loads of debris in one container. It starts at $665 for construction debris (other materials are priced separately), and that price includes delivery, a 14-day rental, and a 3-ton weight allowance — that is 6,000 pounds included before any overage applies. Pickup is included too, scheduled on request when you call. Extra days run $5 a day, and weight over the 3-ton allowance is billed at $105 per additional ton.
 
 Where the 30-yard earns its keep is on light, bulky, high-volume material: framing lumber, drywall, cabinetry, fixtures, furniture, packaging, and general construction debris that fills space fast without piling on weight. If your debris is dense — think concrete, brick, dirt, roofing tear-off, or other heavy aggregate — a smaller box is usually the smarter call, because dense material hits the weight ceiling long before it fills 30 yards of volume. We are happy to talk through your material on the phone and point you to the right size; we would rather get you the correct bin the first time than send a 30-yard to a job that wanted a 20.
 
@@ -28,6 +28,6 @@ The 30-yard is our longest box, and it needs a long, clear run-up to set down le
 
 ## Booking your 30-yard in Lanham
 
-We keep this simple because we are a family business, not a chain. Tell us the job, the material, and the address, and we will confirm the right size, walk through whether you need a county right-of-way permit, and give you a clear all-in price before anything rolls. From Beltsville we are about fifteen minutes out via Route 450 or the BW Parkway, so scheduling around your timeline in Lanham, Seabrook, or out toward the Goddard and Glenarden borders is rarely a problem.
+We keep this simple because we are a family business, not a chain. Tell us the job, the material, and the address, and we will confirm the right size, walk through whether you need a county right-of-way permit, and give you a clear price for your material before anything rolls. From Beltsville we are about fifteen minutes out via Route 450 or the BW Parkway, so scheduling around your timeline in Lanham, Seabrook, or out toward the Goddard and Glenarden borders is rarely a problem.
 
 If you have got a full demolition, a commercial site, a bulk haul, or a multi-family cleanout coming up, call the owners directly at (301) 252-3586. We will get the 30-yard where it needs to be and keep your job moving.

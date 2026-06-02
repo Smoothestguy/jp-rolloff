@@ -16,7 +16,7 @@ quoteHref: "/#quote"
       <div class="container">
         <span class="eyebrow" style="color:#fff;">Dumpsters · DMV</span>
         <h1>Roll-off dumpster rental — every size, every project.</h1>
-        <p>Five sizes, one phone number, one flat price. JP Roll-Off Service drops 10, 15, 20, 25, and 30-yard roll-off dumpsters across Beltsville, Greenbelt, College Park, Laurel, Hyattsville, and the entire DMV — for garage cleanouts, kitchen remodels, roofing jobs, whole-house demos, and commercial sites. Same-day delivery in most ZIP codes. Tonnage and a 7-day rental included on every quote.</p>
+        <p>Five sizes, one phone number, pricing matched to your material. JP Roll-Off Service drops 10, 15, 20, 25, and 30-yard roll-off dumpsters across Beltsville, Greenbelt, College Park, Laurel, Hyattsville, and the entire DMV — for garage cleanouts, kitchen remodels, roofing jobs, whole-house demos, and commercial sites. Same-day delivery in most ZIP codes. Delivery, pickup, a per-size tonnage allowance, and a 14-day rental are included on every quote — excess weight is just $105 per additional ton.</p>
       </div>
     </section>
 
@@ -25,8 +25,8 @@ quoteHref: "/#quote"
         <div class="pillars reveal-stagger">
           <div class="pillar">
             <div class="pillar-icon">$</div>
-            <h4>Flat-rate pricing</h4>
-            <p>One number on the quote, one number on the invoice. Tonnage and a 7-day rental are baked in — no fuel fees, no "overage" surprises.</p>
+            <h4>Pricing by material</h4>
+            <p>Your rate is priced to the material you're hauling. Delivery, pickup, a per-size tonnage allowance, and a 14-day rental are baked in — go over your allowance and excess weight is $105 per additional ton.</p>
           </div>
           <div class="pillar">
             <div class="pillar-icon">⚡</div>
@@ -36,7 +36,7 @@ quoteHref: "/#quote"
           <div class="pillar">
             <div class="pillar-icon">★</div>
             <h4>20+ years local</h4>
-            <p>Family-owned in Beltsville since 2005. We know the neighborhoods, the permit rules, and the tight driveways.</p>
+            <p>Family-owned in Beltsville since 2000. We know the neighborhoods, the permit rules, and the tight driveways.</p>
           </div>
           <div class="pillar">
             <div class="pillar-icon">¡!</div>
@@ -64,7 +64,7 @@ quoteHref: "/#quote"
             <div class="ds-img"><img src="/images/dumpster-{{ s.yd }}yd.png" alt="JP Roll-Off {{ s.yd }} yard dumpster" loading="lazy" /></div>
             <span class="ds-yd">{{ s.yd }} yd</span>
             <h3>{{ s.yd }} Yard</h3>
-            <p class="ds-price">From ${{ s.price.low }} · {{ s.tons }} ton{% if s.tons != 1 %}s{% endif %} included</p>
+            <p class="ds-price">From ${{ s.price.from }} · {{ s.tons }} ton{% if s.tons != 1 %}s{% endif %} included</p>
             <p class="ds-meta">{{ s.servicesBlurb }}</p>
             <a href="/services/{{ s.slug }}" class="btn btn-secondary btn-sm"{% if s.popular %} style="background:#fff;color:#CC0000;border-color:#fff;"{% endif %}>See {{ s.yd }}-yard details →</a>
           </article>
@@ -98,8 +98,8 @@ quoteHref: "/#quote"
                 <span>We protect driveways with 2×10 boards on every drop. No exceptions.</span>
               </li>
               <li>
-                <strong>Flexible pickup</strong>
-                <span>Done early? Need more days? Text us. We swap or pull when you're ready — no daily rate gotchas.</span>
+                <strong>Pickup on request</strong>
+                <span>Done early? Need more days? Call us to schedule. We swap or pull when you're ready — your 14-day rental and pickup are already included.</span>
               </li>
             </ul>
             <a href="/about" class="btn">Read about JP Roll-Off →</a>
@@ -132,7 +132,7 @@ quoteHref: "/#quote"
           </div>
           <div class="haul-card">
             <h4>Roofing materials</h4>
-            <p>Asphalt shingles, underlayment, flashing, roofing nails, plywood decking. Heavy — we'll spec the right size so you don't pay overage.</p>
+            <p>Asphalt shingles, underlayment, flashing, roofing nails, plywood decking. Heavy — we'll spec the right size and tonnage allowance so you can plan around the $105-per-additional-ton excess-weight rate.</p>
           </div>
           <div class="haul-card">
             <h4>Yard waste &amp; trees</h4>
@@ -140,7 +140,7 @@ quoteHref: "/#quote"
           </div>
           <div class="haul-card">
             <h4>Concrete, dirt &amp; brick</h4>
-            <p>Heavy materials are quoted separately because they fill weight before they fill volume. Same flat-rate model, different price line.</p>
+            <p>Heavy materials are quoted separately because they fill weight before they fill volume. Same per-material pricing, different price line.</p>
           </div>
           <div class="haul-card is-warning">
             <h4>What we can't take</h4>
@@ -174,12 +174,12 @@ quoteHref: "/#quote"
           <article class="step">
             <div class="step-icon"><img src="/icons/callforpickup.png" alt="" /></div>
             <h4>3. You fill on your schedule</h4>
-            <p>Take your time — every quote includes a 7-day rental window. Need more days? Text us; extensions are inexpensive and quoted in advance. Don't overload past the fill line and you're set.</p>
+            <p>Take your time — every quote includes a 14-day rental window. Need more days? Call us; extensions are inexpensive and quoted in advance. Stay within your per-size tonnage allowance and you're set — excess weight runs $105 per additional ton.</p>
           </article>
           <article class="step">
             <div class="step-icon"><img src="/icons/callforpickup.png" alt="" /></div>
-            <h4>4. Text us. We haul.</h4>
-            <p>One text and we're back to pick it up — same day if it's before noon. You pay only the price we quoted. Done early? We'll come sooner. Need a swap? Just say so.</p>
+            <h4>4. Call us. We haul.</h4>
+            <p>Pickup is on request — call to schedule and we're back to pull it, often same day if it's before noon. Your quote covers delivery, pickup, and your tonnage allowance; the only extra is $105 per additional ton if you go over. Done early? We'll come sooner. Need a swap? Just say so.</p>
           </article>
         </div>
       </div>
@@ -224,11 +224,11 @@ quoteHref: "/#quote"
         <div class="faq-list reveal-stagger" style="margin-top: var(--space-10); max-width: 860px;">
           <details class="faq-item">
             <summary>How much does it cost to rent a dumpster in the DMV?</summary>
-            <div class="faq-answer">Most residential dumpster rentals in Maryland run between $300 and $600 for 10- to 20-yard containers, depending on size, ZIP code, and debris type. Our flat rates start at $350 for a 10-yard and top out at $725 for a 30-yard, with tonnage and a 7-day rental included. See the <a href="/pricing">full pricing breakdown</a> — the price you're quoted is the price you pay.</div>
+            <div class="faq-answer">Pricing depends on the material you're hauling, the size, and your ZIP code. For construction debris, our rates start at $550 for a 10-yard and run up to $665 for a 30-yard, with delivery, pickup, a per-size tonnage allowance, and a 14-day rental included. Go over your allowance and excess weight is $105 per additional ton. See the <a href="/pricing">full pricing breakdown</a> for material-by-material rates.</div>
           </details>
           <details class="faq-item">
             <summary>How long can I keep the dumpster?</summary>
-            <div class="faq-answer">Every quote includes a 7-day rental window at no extra charge. Done early? Just text us — we'll come grab it. Need more time? Day extensions are inexpensive and quoted up front so there's no surprise on the invoice. For long construction jobs, we offer multi-week rental packages too.</div>
+            <div class="faq-answer">Every quote includes a 14-day rental window at no extra charge. Done early? Pickup is on request — just call us and we'll come grab it. Need more time? Day extensions are inexpensive and quoted up front so there's no surprise on the invoice. For long construction jobs, we offer multi-week rental packages too.</div>
           </details>
           <details class="faq-item">
             <summary>Do I need a permit?</summary>
@@ -244,7 +244,7 @@ quoteHref: "/#quote"
           </details>
           <details class="faq-item">
             <summary>Do you offer commercial accounts?</summary>
-            <div class="faq-answer">Yes — net-15 terms are available for qualified accounts, and we run repeat-customer pricing for active GCs, roofers, and property managers. Tell us your typical volume and we'll build a price sheet you can budget against. We've been the standing roll-off vendor for some of the DMV's largest remodelers for years.</div>
+            <div class="faq-answer">Yes — commercial accounts welcome; ask about billing for qualified accounts, and we run repeat-customer pricing for active GCs, roofers, and property managers. Tell us your typical volume and we'll build a price sheet you can budget against. We've been the standing roll-off vendor for some of the DMV's largest remodelers for years.</div>
           </details>
           <details class="faq-item">
             <summary>How fast can you deliver?</summary>

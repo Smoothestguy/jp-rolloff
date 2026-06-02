@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000 lb) weight allowance, and in Glenridge a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage**. No tipping-fee surprises tacked on after the haul.
+The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Glenridge a 25-yard **starts at $640 for construction debris (other materials priced separately)**, and that includes delivery, pickup on request, and a 14-day rental with a 2-ton allowance. Keep it longer for $5 a day, and any weight over the 2-ton allowance is $105 per additional ton.
 
 The jump from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps one container on site through a project that would otherwise force a second haul partway through — a whole-house remodel, a substantial addition, a large roof, or a full cleanout. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls than the mid-size containers offer.
 
@@ -16,7 +16,7 @@ Glenridge's housing stock is the whole story here. These are predominantly Levit
 
 - **Home additions.** Many Glenridge homes were expanded decades ago — listings cite a 17x26 rec room addition, a sunroom addition, and slider-to-patio family rooms. Building a new addition, or tearing out one of those earlier ones, throws off framing lumber, old siding, drywall, and concrete in the volume a 25-yard is meant to hold.
 - **Whole-house remodels.** A full gut of an original 1969 colonial — kitchen, baths, flooring, single-pane windows, and drywall all coming out at once — is a textbook 25-yard job. When a house this age gets modernized down to the studs, the debris adds up fast, and one large container beats two trips.
-- **Large roofing tear-offs.** After more than five decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs run heavy, and the 2.5-ton allowance gives more headroom for shingle weight than the smaller sizes.
+- **Large roofing tear-offs.** After more than five decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs run heavy, and the 2-ton allowance gives more headroom for shingle weight than the smaller sizes.
 - **Commercial cleanouts.** When a larger property or business clearout near the section throws off material in bulk, the 25-yard handles it in one go.
 
 A fair word, since Glenridge is a small section of modest-to-mid-size colonials: if your project is a single-room redo, one bath gut, or a kitchen refresh, a 10- or 15-yard usually fits the bill, and a 20-yard covers most addition tear-outs. We will tell you so. The 25-yard pays off when the job is genuinely big — a true whole-house remodel, a large addition, or a major roof.

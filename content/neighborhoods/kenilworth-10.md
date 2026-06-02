@@ -4,7 +4,7 @@ Kenilworth is the "K" section of Levitt & Sons' Belair at Bowie — the signatur
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard measures 12 ft long by 8 ft wide by 3.5 ft tall. It holds about three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. In Kenilworth a typical 10-yard rental runs **$350 to $425, including delivery, pickup, and that tonnage** — no surprise tipping fee after the truck weighs the load.
+The 10-yard measures 12 ft long by 8 ft wide by 3.5 ft tall. It holds about three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. Pricing is per material: in Kenilworth a 10-yard **starts at $550 for construction debris (other materials priced separately), including delivery, pickup on request, and a 14-day rental with that 1-ton allowance**. Extra days run $5/day, and any weight beyond the first ton is $105 per additional ton.
 
 The low 3.5-foot walls are the quiet advantage on a small job. You can walk right up to the side and drop debris in without a ramp or an overhead heave, which matters when you are loading the dense, heavy material a 1960s Levitt house tends to produce — old ceramic tile, plaster, a cast-iron tub, sod and dirt. The 1-ton allowance is matched to that kind of focused work: one room, one corner, one weekend. The container's footprint is the smallest we offer — it fits a single car spot — so it tucks onto a Kenilworth driveway without swallowing the whole thing. If your project turns out to be bigger than one room, we will steer you to a 15 or a 20 instead. But for the four jobs below, the 10 is the honest pick.
 

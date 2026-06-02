@@ -2,7 +2,7 @@ When a single-room project outgrows a 10-yard box but doesn't quite need a 20, t
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures roughly 14 feet long, 8 feet wide, and 4 feet tall, and holds about four and a half pickup-truck loads of debris. It comes with a 1.5-ton (3,000-pound) weight allowance built into the price, so you're not guessing about a separate tonnage bill at the end. Typical pricing runs $425 to $485, and that number already includes delivery, pickup, and the tonnage allowance — no surprise line items after the truck leaves.
+The 15-yard measures roughly 14 feet long, 8 feet wide, and 4 feet tall, and holds about four and a half pickup-truck loads of debris. Pricing is per material: for construction debris, a 15-yard starts at $595 (other materials are priced separately). That price includes delivery, pickup, and a 14-day rental with a 1.5-ton (3,000-pound) weight allowance. Go over the allowance and excess weight is billed at $105 per additional ton; need the box longer and extra days are $5 a day. Pickup is on request — just call us to schedule when you're ready.
 
 Those four-foot walls matter more than people expect. They're low enough that you can walk a wheelbarrow up a ramp or pitch shingles over the side without an exhausting lift, but the footprint still holds enough volume for a genuine remodel's worth of waste. It's the in-between size: bigger than a 10, but still driveway-friendly for most homes, which is exactly why it's the one we recommend when someone isn't sure whether to size up.
 

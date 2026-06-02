@@ -6,7 +6,7 @@ The 10-yard is best known as the "garage cleanout" size, and its low 3.5-foot wa
 
 Think of capacity in pickup-truck terms — about three full loads. That covers a single room or a focused project, and the one-ton weight allowance handles the typical mix of household junk, old fixtures, and light renovation debris. Dense material is the thing to watch: plaster, old tile, brick, and wet debris fill that ton quickly, and gut jobs on these older homes throw off a lot of heavy plaster. If your project is mostly dense material, give us a quick call and we will tell you straight whether 10 yards is enough or whether a bigger box saves you a second haul.
 
-Typical pricing for the 10-yard runs about **$350 to $425**, and that already includes delivery, pickup, and your tonnage — no surprise line items after the truck pulls away.
+Pricing is per material rather than one price for every load. For construction debris, the 10-yard **starts at $550** (other materials are priced separately, and heavy aggregates like dirt, concrete, and asphalt are only offered in the 10-, 15-, and 20-yard boxes). That price includes delivery, pickup, and a 14-day rental with a 1-ton weight allowance; additional days run $5/day, and any weight over the allowance is billed at $105 per additional ton. Pickup is on request, so just call us when you are ready and we will schedule it.
 
 ## Which Takoma Park jobs suit this size
 
@@ -33,4 +33,4 @@ As for getting to you: we dispatch from Beltsville, so a Takoma Park delivery is
 
 We are a family-owned operation, which means when you call, one of the owners picks up — no call center, no script, no being passed around. We will help you figure out whether the 10-yard is genuinely right for your garage, bathroom, yard, or estate project, and just as important in this city, we will help you plan where the box can actually go around the trees, the slope, and the permit rules.
 
-If you are clearing a garage in North Takoma, gutting a bathroom in an Old Takoma bungalow, handling brush off a Sligo Creek lot, or downsizing a family home near the Maple Avenue corridor, the 10-yard is usually where the conversation starts. Call us at **(301) 252-3586** and we will get a container into your driveway with delivery, pickup, and tonnage all in one honest price.
+If you are clearing a garage in North Takoma, gutting a bathroom in an Old Takoma bungalow, handling brush off a Sligo Creek lot, or downsizing a family home near the Maple Avenue corridor, the 10-yard is usually where the conversation starts. Call us at **(301) 252-3586** and we will get a container into your driveway — delivery, pickup, and a 14-day rental with a 1-ton allowance included, with extra weight billed at $105 per ton and pickup scheduled whenever you call.

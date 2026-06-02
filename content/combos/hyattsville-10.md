@@ -2,7 +2,7 @@ If you're clearing out one room, one garage, or one stubborn corner of the yard 
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard measures roughly 12 feet long, 8 feet wide, and 3.5 feet tall. That low profile is the whole point: it holds about three pickup-truck loads of debris and comes with a 1-ton (2,000-pound) weight allowance built into the price. Typical cost runs $350 to $425, and that number already includes delivery, pickup, and your tonnage — there's no surprise line item waiting at the end.
+The 10-yard measures roughly 12 feet long, 8 feet wide, and 3.5 feet tall. That low profile is the whole point: it holds about three pickup-truck loads of debris and comes with a 1-ton (2,000-pound) weight allowance built into the price. Pricing is per material — for construction debris, a 10-yard starts at $550 (other materials are priced separately), and that rate includes delivery, pickup, and a 14-day rental with the 1-ton allowance. Go over that weight and extra tonnage is billed at $105 per additional ton; extra days run $5 a day, and pickup is on request when you call to schedule.
 
 Because the walls are only about waist-high, you can walk heavy items right up to the side and tip them in instead of hoisting everything over your head. That makes the 10-yard the favorite for dense, heavy loads like dirt, brick, tile, and old roofing, where you'll hit the weight limit long before you fill the box. For a one-room project, that's exactly the trade-off you want.
 

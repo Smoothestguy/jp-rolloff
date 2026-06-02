@@ -2,7 +2,7 @@ When a project in Riverdale Park outgrows a 10-yard bin but doesn't quite need a
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures roughly 14 feet long, 8 feet wide, and 4 feet tall. That holds about four and a half pickup-truck loads of debris, with a weight allowance of 1.5 tons (3,000 pounds) included. Typical pricing runs $425 to $485, and that covers delivery, pickup, and the tonnage allowance in one number, so there are no surprises after the can is hauled.
+The 15-yard measures roughly 14 feet long, 8 feet wide, and 4 feet tall. That holds about four and a half pickup-truck loads of debris, with a weight allowance of 1.5 tons (3,000 pounds) included. Pricing is per material: a 15-yard starts at $595 for construction debris, with other materials priced separately. That price covers delivery, pickup, and a 14-day rental with the 1.5-ton allowance included; additional days run $5 a day, and any weight over the allowance is billed at $105 per additional ton. Pickup is on request, so you call us to schedule the haul when you're done.
 
 The four-foot wall height is the part homeowners appreciate most. It's low enough to toss in drywall, flooring, cabinets, and bagged debris over the side without a struggle, but the footprint still fits the modest driveways that are common across town. When Riverdale Park was platted back in 1889 as a railroad "villa park," the original sections were laid out with fairly uniform lots and setbacks, which means a lot of homes here have narrow, consistent frontages and short driveways. The 15-yard is sized to work with that, not fight it.
 

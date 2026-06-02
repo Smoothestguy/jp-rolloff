@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical Yorktown rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises added after the fact.
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. Pricing is per material: the 20-yard **starts at $620 for construction debris (other materials priced separately)**, and aggregates can only go in the 10, 15, or 20-yard. That price includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) weight allowance. Keep it past 14 days and it is just +$5/day; go over the 2 tons and additional weight is $105 per ton.
 
 Those five feet of wall height are the part people underestimate. It is low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes in the Y-section: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demo. It is the size most customers end up choosing — and rarely regret.
 

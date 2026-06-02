@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000 lb) weight allowance, and in Old Stage a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage**. No tipping-fee surprises tacked on after the haul.
+The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Old Stage a 25-yard **starts at $640 for construction debris (other materials priced separately)**, and that includes delivery, a 14-day rental, and a 2-ton weight allowance, with pickup on request — just call to schedule. Extra days run $5/day and weight over the 2-ton allowance is $105 per additional ton.
 
 The jump from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through — an addition, a full remodel, a big roof, or a heavy cleanout. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls than the mid-size containers offer.
 
@@ -16,7 +16,7 @@ The neighborhood's housing era is the story here. Old Stage homes were built fro
 
 - **Home additions.** A bump-out, a rear addition, or a garage expansion on a split-level or Colonial throws off framing lumber, old siding, and tear-out debris in the volume a 25-yard is meant to hold — more than a smaller box can take without a mid-project swap.
 - **Whole-house remodels.** A full modernization of a 1980s-or-90s Old Stage home — kitchen, baths, flooring, and drywall all coming out at once — is a textbook 25-yard job. When a larger house gets updated room by room or down to the studs, the debris adds up fast, and one large container beats two trips.
-- **Large roofing tear-offs.** After two or three decades, the original roofs on these homes reach the end of the line. Bigger or multi-layer tear-offs run heavy, and the 2.5-ton allowance gives more headroom for shingle weight than the smaller sizes.
+- **Large roofing tear-offs.** After two or three decades, the original roofs on these homes reach the end of the line. Bigger or multi-layer tear-offs run heavy, so plan for the 2-ton allowance — extra weight is billed at $105 per additional ton.
 - **Commercial cleanouts.** Old Stage sits within minutes of Bowie Town Center, so a larger property turnover or a business clearout nearby that throws off material in bulk is exactly what the 25-yard handles in one go.
 
 If your Old Stage project is on the smaller side — a single bathroom refresh, one room redone, or a routine garage clearout — a 20-yard or even a 15-yard is usually the smarter spend, and we will tell you so. Remember, too, that routine household garbage, recycling, and yard waste are already handled by municipal pickup here, so a roll-off this size is for renovation debris and construction loads that blow past curbside service. The 25-yard pays off when the job is genuinely big.

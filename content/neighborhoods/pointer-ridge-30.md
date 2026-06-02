@@ -4,7 +4,7 @@ If you live here, you already know the giveaway: every street starts with the le
 
 ## What the 30-yard holds
 
-The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That long, tall box swallows about nine pickup-truck loads of material, which is why it is the go-to for jobs that throw off a steady wall of debris rather than a few bags. It comes with a 3-ton (6,000 lb) weight allowance, and our typical pricing runs **$595 to $725 — already including delivery, pickup, and that tonnage**, so there are no surprise line items waiting at the end after the load is weighed.
+The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That long, tall box swallows about nine pickup-truck loads of material, which is why it is the go-to for jobs that throw off a steady wall of debris rather than a few bags. Pricing is per material: construction debris in a 30-yard **starts at $665, with other materials priced separately**. That price includes delivery, pickup on request, and a **14-day rental with a 3-ton allowance**; extra days run $5/day, and any weight over the allowance is **$105 per additional ton** once the load is weighed.
 
 One honest word on that weight allowance. The 30-yard fills up fastest with bulky, lighter material — framing lumber, drywall, old cabinetry, roofing tear-off, lath and plaster, furniture, and general construction debris. If your load leans heavy with concrete, brick, dirt, or tile, the cube fills slowly but the tonnage climbs fast, and a smaller heavy-debris container is usually the smarter call. Tell us what is going in when you phone, and we will steer you to the right size before the truck rolls.
 
@@ -33,6 +33,6 @@ One neighborly note for the bigger drops: Pointer Ridge Elementary sits right in
 
 ## Talk to the family before you book
 
-Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script three states away. That means you can describe your Pointer Ridge project — a full gut on Pointer Ridge Drive, a contractor tear-out on Pointer Ridge Place, a bulk estate haul, or a multi-unit turnover off Parkington Lane — and get a straight answer on whether the 30-yard is the right size, what it will cost all-in, and exactly how we will stage that long box on your third-acre driveway without crowding a neighbor.
+Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script three states away. That means you can describe your Pointer Ridge project — a full gut on Pointer Ridge Drive, a contractor tear-out on Pointer Ridge Place, a bulk estate haul, or a multi-unit turnover off Parkington Lane — and get a straight answer on whether the 30-yard is the right size, what it will cost for your material, and exactly how we will stage that long box on your third-acre driveway without crowding a neighbor.
 
 If you have a big job in Pointer Ridge and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. Same family, same trucks, dispatched fresh every morning out of Beltsville and on your P street about 25 minutes later.

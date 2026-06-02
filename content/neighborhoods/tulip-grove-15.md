@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## Why the 15-yard fits Tulip Grove homes
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. It comes with a 1.5-ton (3,000 lb) weight allowance, and a typical Tulip Grove rental runs **$425 to $485, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the haul.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. Pricing is per material: a 15-yard **starts at $595 for construction debris (other materials priced separately)**, and that price includes delivery, pickup on request, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance. Need it longer? It is just +$5 a day. Go over the allowance and extra weight is $105 per additional ton.
 
 We call this the "single-room reno" size, and it earns the name on the T-streets. The 15 is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly. That matters here in a specific way. Tulip Grove (with neighboring Long Ridge) was Levitt's eastward expansion, built with slightly larger homes and lots than the company's earlier Bowie sections. Lots run roughly a fifth of an acre and up — recent Tulip Grove Drive listings show parcels in the ~9,100 to 10,600 sq ft range, with bigger corner lots. That extra side- and rear-yard space, paired with detached homes on private driveways, means a 15-yard almost always stages entirely on your own property.
 
@@ -33,4 +33,4 @@ The four-bedroom Colonials on streets like Swirl Lane and the Cape Cods over on 
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Tulip Grove address and what you are tackling — a kitchen gut in a Tulip Grove Drive Rancher, a roof tear-off, a two-bath remodel in a Stonehaven Lane Cape, or a basement cleanout in a long-held family Colonial — and we will confirm the 15-yard is the right size and quote you on the spot, tonnage and delivery included.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Tulip Grove address and what you are tackling — a kitchen gut in a Tulip Grove Drive Rancher, a roof tear-off, a two-bath remodel in a Stonehaven Lane Cape, or a basement cleanout in a long-held family Colonial — and we will confirm the 15-yard is the right size and quote you on the spot. Construction debris starts at $595 (other materials priced separately), with delivery, pickup on request, and a 14-day rental and 1.5-ton allowance included; extra weight runs $105 per ton.

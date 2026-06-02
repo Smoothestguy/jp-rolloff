@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville �
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical College Park rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the fact.
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. Pricing is per material — for construction debris, a College Park 20-yard **starts at $620, including delivery, pickup, and a 14-day rental with a 2-ton (4,000 lb) weight allowance** (other materials are priced separately, and heavy aggregates like dirt, concrete, and asphalt are offered only in 10, 15, and 20-yard sizes). Extra weight over the allowance is billed at $105 per additional ton, and additional days run $5 a day. Pickup is on request — give us a call to schedule it.
 
 The five-foot walls are the part people underestimate. They are low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a real project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but short of the 30-yard that mostly makes sense for new construction or heavy corridor demolition. It is the size most customers end up choosing — and rarely regret. On a standard two-car driveway, it fits with room to spare.
 

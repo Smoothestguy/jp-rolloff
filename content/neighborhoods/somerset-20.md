@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## Why the 20-yard fits Somerset homes
 
-The 20-yard measures 16 feet long by 8 feet wide by 5 feet tall and holds about six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and in Somerset a typical 20-yard rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises added after the fact.
+The 20-yard measures 16 feet long by 8 feet wide by 5 feet tall and holds about six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and in Somerset a 20-yard **starts at $620 for construction debris (other materials are priced separately), including delivery, pickup, and a 14-day rental with that 2-ton allowance**. Pricing is per material rather than a single price for any load: extra weight over the allowance is billed at $105 per additional ton, additional rental days are $5/day, and pickup is on request when you call to schedule.
 
 This is the container people in the trade call the "whole-house cleanout" size, and it earns the name in a neighborhood like this one. Somerset's original Levitt Cape Cods (which sold new for roughly $13,900 to $14,990 depending on bedroom count) and ranchers (around $15,500) are compact, well-built houses — not sprawling new-construction homes. A 20-yard is big enough to swallow a real project without paying for space you won't fill, and at five feet tall its walls are low enough that you can still walk debris up and toss it over the side without renting a ramp. For a 65-year-old house on a 65-year-old lot, that balance is just right.
 

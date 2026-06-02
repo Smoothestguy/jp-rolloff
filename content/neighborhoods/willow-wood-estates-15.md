@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## Why the 15-yard fits a Willow Wood Estates home
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. It carries a 1.5-ton (3,000 lb) weight allowance, and a typical Willow Wood rental runs **$425 to $485, including delivery, pickup, and that tonnage** — no tipping-fee surprises added after the haul.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. It carries a 1.5-ton (3,000 lb) weight allowance, and pricing is per material — construction debris in the 15-yard **starts at $595, including delivery, pickup (on request — call to schedule), and a 14-day rental with that 1.5-ton allowance**. Other materials are priced separately, and aggregates are only available in the 10, 15, and 20. Extra time runs +$5/day, and weight over the 1.5-ton allowance is billed at $105 per additional ton.
 
 We call this the "single-room reno" size, and it is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly for most homes. That matters here. Willow Wood is a neighborhood of midsize detached homes on private, owner-occupied lots, and the 14-foot footprint of the 15 tucks onto a standard suburban driveway far more easily than a 20 or a 30 would. Because these homes are mature but modest in size — not oversized new-construction — a single kitchen, a couple of baths, or one roofline rarely generates the volume that would justify the bigger boxes. The 15 lands right in the sweet spot for the kind of one-part-at-a-time projects these houses produce.
 
@@ -33,4 +33,4 @@ Because so many of these homes share the same era, scale, and basic layouts, we 
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Willow Wood Estates address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in one of these 40-plus-year-old homes — and where you want the container staged on your driveway. We will confirm the 15-yard is the right size and quote you on the spot, tonnage and delivery included.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Willow Wood Estates address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in one of these 40-plus-year-old homes — and where you want the container staged on your driveway. We will confirm the 15-yard is the right size and quote you on the spot — construction debris starts at $595 (other materials priced separately), with delivery, pickup on request, and a 14-day rental plus a 1.5-ton allowance included; extra weight is $105 per ton.

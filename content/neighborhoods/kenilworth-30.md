@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 30-yard dumpster
 
-The 30-yard measures 22 ft long by 8 ft wide by 6 ft tall and holds roughly nine pickup-truck loads of debris. It comes with a 3-ton (6,000 lb) weight allowance, and a typical Kenilworth rental runs **$595 to $725, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the fact.
+The 30-yard measures 22 ft long by 8 ft wide by 6 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material: a 30-yard for construction debris **starts at $665** (other materials are priced separately), and the price **includes delivery, pickup, and a 14-day rental with a 3-ton (6,000 lb) weight allowance**. Extra rental days run $5 a day, and any weight over the 3-ton allowance is $105 per additional ton. Pickup is by request — just call to schedule it.
 
 This is our maximum-capacity roll-off, the one people in the trade call the "commercial and demo" size. Those six feet of wall are taller than the 20-yard's five, and the extra six feet of length is what lets the box swallow the volume of a job that would otherwise mean a second haul. The reason to choose a 30 is simple: it is for the work where a smaller bin would fill up halfway through and leave you waiting on another drop. If your project is big enough that you are doing the math on hauls, the 30 usually pays for itself by being one container instead of two.
 

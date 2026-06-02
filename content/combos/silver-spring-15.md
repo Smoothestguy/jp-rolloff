@@ -2,9 +2,9 @@ When a single-room project in Silver Spring outgrows the smallest container but 
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures roughly 14 feet long, 8 feet wide, and 4 feet tall. That low 4-foot wall is the practical part: you can step up and drop debris over the side instead of fighting a tall door. It holds about four and a half pickup-truck loads, and your rental includes a 1.5-ton (3,000-pound) weight allowance, with delivery, pickup, and that tonnage built into the price. For most Silver Spring jobs we quote, that runs **$425 to $485**, all in.
+The 15-yard measures roughly 14 feet long, 8 feet wide, and 4 feet tall. That low 4-foot wall is the practical part: you can step up and drop debris over the side instead of fighting a tall door. It holds about four and a half pickup-truck loads. We price by material type rather than charging the same for every load, and for construction debris a 15-yard **starts at $595** (other materials are priced separately). That price includes delivery, a 14-day rental with a 1.5-ton (3,000-pound) weight allowance, and pickup on request — you call when you're ready and we come get it. Additional days run $5/day.
 
-That weight allowance is the number to watch. Fifteen cubic yards of light bulky waste — old cabinets, drywall, carpet, framing lumber — fits comfortably under the limit. Dense material like roofing shingles, plaster, or tile will hit the weight ceiling well before the box looks full, so on tear-off jobs we'd rather talk through what you're loading than surprise you with an overage. A quick phone call before delivery usually settles it.
+That weight allowance is the number to watch. Fifteen cubic yards of light bulky waste — old cabinets, drywall, carpet, framing lumber — fits comfortably under the limit. Dense material like roofing shingles, plaster, or tile will hit the weight ceiling well before the box looks full, and anything over the 1.5-ton allowance is billed at $105 per additional ton — so on tear-off jobs we'd rather talk through what you're loading up front than surprise you at the scale. A quick phone call before delivery usually settles it.
 
 ## Which Silver Spring jobs suit this size
 

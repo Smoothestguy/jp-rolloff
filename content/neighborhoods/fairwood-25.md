@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000 lb) weight allowance, and in Fairwood a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage**. No tipping-fee surprises tacked on after the haul.
+The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Fairwood a 25-yard **starts at $640 for construction debris (other materials are priced separately)**, and that price includes delivery, pickup on request, and a 14-day rental with a 2-ton weight allowance. Extra weight beyond the allowance runs $105 per additional ton, and if you need the container longer it's just $5 per extra day.
 
 The jump from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a mid-job swap — a whole-house remodel, a substantial addition, a large roof, or a full commercial clearout. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls than the mid-size containers offer.
 
@@ -16,7 +16,7 @@ Fairwood's housing stock is the story here. The single-family homes are contempo
 
 - **Home additions.** Bumping out the back of a quarter-acre lot or adding a room throws off framing lumber, old siding, and tear-out debris in the volume a 25-yard is meant to hold — more than a smaller box can take without a second haul partway through.
 - **Whole-house remodels.** When an owner modernizes a mid-2000s home top to bottom — kitchen, baths, flooring, and the full basement all at once — the debris adds up fast. Those full walk-out basements are a real driver here: finishing or re-finishing one means drywall, old carpet, framing, and flooring leaving the house in bulk, and a single large container beats two trips.
-- **Large roofing tear-offs.** A bigger roof on a substantial Fairwood Colonial runs heavy, and the 2.5-ton allowance gives more headroom for shingle weight than the smaller sizes.
+- **Large roofing tear-offs.** A bigger roof on a substantial Fairwood Colonial runs heavy, so plan for shingle weight — the rental includes a 2-ton allowance, and anything over that is $105 per additional ton.
 - **Commercial cleanouts.** When a larger property or business clearout in the area throws off material in bulk, the 25-yard handles it in one go.
 
 If your Fairwood project is on the smaller side — a single-room redo, a bathroom refresh, a routine garage or basement declutter — a 20-yard or even a 15-yard is usually the smarter spend, and we will tell you so. The 25-yard pays off when the job is genuinely big.

@@ -2,7 +2,7 @@ When a project in Tulip Grove outgrows a quick weekend cleanout, the 25-yard rol
 
 ## Why the 25-yard fits the bigger Tulip Grove jobs
 
-The 25-yard box measures roughly 20 feet long, 8 feet wide and 5 feet tall. That's about 7.5 pickup-truck loads of debris, and it comes with a 2.5-ton (5,000 lb) tonnage allowance baked into the price. We call it the "major construction" size for a reason: it's the one you reach for when a project is going to generate real volume, not a single room's worth of trash.
+The 25-yard box measures roughly 20 feet long, 8 feet wide and 5 feet tall. That's about 7.5 pickup-truck loads of debris, and it comes with a 14-day rental and a 2-ton (4,000 lb) weight allowance included, with extra weight billed at $105 per additional ton. We call it the "major construction" size for a reason: it's the one you reach for when a project is going to generate real volume, not a single room's worth of trash.
 
 In Tulip Grove specifically, that means jobs like a **home addition**, a **whole-house remodel**, a **large roofing tear-off**, or a **commercial cleanout**. The neighborhood's housing stock lends itself to this. These are original Levitt models — the kind documented in the Historic American Buildings Survey, like the Rancher example at 12100 Tulip Grove Drive after its 1962 redesign, the four-bedroom Colonial at 12500 Swirl Lane, and the Cape Cods on Stonehaven Lane. When a 60-year-old Rancher gets a full gut, or an original 1960s roof finally comes off down to the deck, the debris adds up fast. A smaller container would have you calling for a swap mid-project. The 25-yard usually carries the whole thing in one drop.
 
@@ -24,13 +24,13 @@ Because Tulip Grove's larger lots and private driveways usually let us keep the 
 
 Our yard sits about 25 minutes from Tulip Grove. We run it either down Route 197 or via the BW Parkway, depending on the morning, and we dispatch every day. Same-day delivery is common when you call early, which matters when a contractor shows up ready to start and you need the container on site now.
 
-Pricing on the 25-yard typically runs **$525 to $625**, and that number includes delivery, pickup, and the 2.5-ton tonnage allowance. No surprise line items tacked on after the fact. Because we're family-run and dispatching locally, we can also be flexible about timing — dropping the box the evening before a Saturday roofing crew arrives, or staging it so it's out of the way of the Tulip Grove Elementary traffic over on Trainor Lane during school-day hours. Just tell us how your project is laid out.
+Pricing on the 25-yard is per material — for construction debris it **starts at $640** (other materials are priced separately). That price includes delivery, a 14-day rental, and a 2-ton weight allowance; pickup is on request, so just call to schedule it. Extra time runs $5 per day, and any weight over the 2-ton allowance is $105 per additional ton. Because we're family-run and dispatching locally, we can also be flexible about timing — dropping the box the evening before a Saturday roofing crew arrives, or staging it so it's out of the way of the Tulip Grove Elementary traffic over on Trainor Lane during school-day hours. Just tell us how your project is laid out.
 
 ## A few things worth thinking through
 
-- **Heavy materials add up quickly.** Roofing shingles, plaster, and old tile are dense. A large roofing tear-off on a 60-year-old Levitt home can approach or pass the 2.5-ton allowance, so let us know what you're loading and we'll flag whether you're likely to go over.
-- **Mixed C&D from a remodel is the sweet spot.** Whole-house remodel debris — drywall, cabinetry, flooring, framing offcuts — fills the volume of a 25-yard without usually maxing out the weight. That's the ideal load for this size.
-- **Additions generate both.** A home addition produces excavation spoils, framing waste, and packaging all at once. Keep heavy soil and concrete loads modest so the container stays under its tonnage cap.
+- **Heavy materials add up quickly.** Roofing shingles, plaster, and old tile are dense. A large roofing tear-off on a 60-year-old Levitt home can approach or pass the 2-ton allowance, so let us know what you're loading and we'll flag whether you're likely to go over and owe the $105-per-ton excess weight charge.
+- **Mixed C&D from a remodel is the sweet spot.** Whole-house remodel debris — drywall, cabinetry, flooring, framing offcuts — fills the volume of a 25-yard without usually pushing past the 2-ton weight allowance. That's the ideal load for this size.
+- **Additions generate both.** A home addition produces excavation spoils, framing waste, and packaging all at once. Keep heavy soil and concrete loads modest so the container stays under its 2-ton allowance and you avoid the $105-per-ton excess weight charge.
 - **Commercial cleanouts vary.** If you're clearing out a space, the volume is easy to underestimate. When you describe the contents, we'll tell you whether the 25-yard handles it in one go or whether a swap makes more sense.
 
 ## Talk to the family that owns the trucks

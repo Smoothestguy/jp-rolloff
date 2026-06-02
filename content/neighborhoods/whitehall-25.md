@@ -2,7 +2,7 @@ When a job in Whitehall outgrows a single room and turns into a real build — a
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 feet long by 8 feet wide by 5 feet tall and holds roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000-pound) weight allowance, and in Whitehall a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage** — no tipping-fee surprises added after the haul.
+The 25-yard is our major-construction size. It measures 20 feet long by 8 feet wide by 5 feet tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Whitehall a 25-yard for construction debris **starts at $640 (other materials priced separately)**, and that price includes delivery, pickup on request, and a 14-day rental with a 2-ton weight allowance. Extra days run +$5/day, and any weight over the 2-ton allowance is $105 per additional ton.
 
 The jump up to this size is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through. The walls are still five feet, so a crew can walk debris up and pitch it over the side without a ramp, but there's meaningfully more room behind those walls than the mid-size containers offer. It's the difference between one box that lives in the driveway for the whole build and a swap mid-job that stalls the crew.
 
@@ -16,7 +16,7 @@ Levitt offered six models across Belair — two Cape Cod variations, two Rancher
 
 - **Home additions.** Bumping out a Rancher or adding square footage onto a Country Clubber throws off framing lumber, old siding, and tear-out debris in the volume a 25-yard is meant to hold — more than a smaller box can take without a mid-project swap.
 - **Whole-house remodels.** A full gut of an original 1964–1968 Levitt home — kitchen, baths, flooring, and drywall all coming out at once — is a textbook 25-yard job. When one of these houses gets modernized down to the studs, the debris adds up fast, and one large container beats two trips.
-- **Large roofing tear-offs.** After roughly six decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs on the larger models run heavy, and the 2.5-ton allowance gives more headroom for shingle weight than the smaller sizes.
+- **Large roofing tear-offs.** After roughly six decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs on the larger models run heavy — the 2-ton allowance is included, with any overage billed at $105 per additional ton, so plan for the shingle weight on these.
 - **Commercial cleanouts.** When a larger property or business clearout in the area throws off material in bulk, the 25-yard handles it in one go.
 
 If your Whitehall project is smaller — converting that original carport into finished living space, finishing an attic, or opening up a galley kitchen — you'll generate framing and drywall, but usually not enough to justify the biggest box. Those mid-century remodels are typically a 10- or 15-yard job. Tell us the work on the phone and we'll size it honestly; the 25-yard pays off when the build is genuinely big, and we'd rather not watch you rent more steel than you'll fill.
@@ -35,6 +35,6 @@ Being family-owned means the person who answers the phone is the same person who
 
 ## Get a 25-yard on your Whitehall driveway
 
-Whether it's an addition on one of the W-named streets, a whole-house gut of an original Levitt home, a large roof tear-off that's been coming for years, or a bigger cleanout, the 25-yard dumpster is the right container when the job is genuinely major. Delivery, pickup, and your 2.5-ton tonnage allowance are all included in one straightforward price, typically $525 to $625 — and we'll help you find the placement that keeps a 20-foot box clear of the golf-course boundary.
+Whether it's an addition on one of the W-named streets, a whole-house gut of an original Levitt home, a large roof tear-off that's been coming for years, or a bigger cleanout, the 25-yard dumpster is the right container when the job is genuinely major. Pricing is per material — construction debris starts at $640 (other materials priced separately) — and includes delivery, pickup on request, and a 14-day rental with a 2-ton allowance; extra days are +$5/day and weight over 2 tons is $105 per additional ton. We'll help you find the placement that keeps a 20-foot box clear of the golf-course boundary.
 
 Call the family at **(301) 252-3586** and we'll get you scheduled — often the same day. You'll talk to an owner, get honest answers about sizing and placement, and have your dumpster staged right there on your own W-section driveway.

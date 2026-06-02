@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical Tulip Grove rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises added after the fact.
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. Pricing is per material: it **starts at $620 for construction debris (other materials priced separately)**, and that price includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) weight allowance. Keep the dumpster past 14 days for $5 a day, and any weight over the 2-ton allowance is billed at $105 per additional ton. Aggregates are accepted only in the 10, 15, and 20-yard sizes.
 
 Those five feet of wall height are the part people underestimate. It is low enough to still walk debris up and toss it over the side, but tall enough to swallow the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demo. It is the size most customers end up choosing — and rarely regret. People around here call it the "whole-house cleanout" size for a reason.
 
@@ -17,7 +17,7 @@ Here are the jobs that come up again and again on the T-named streets:
 - **Whole-house cleanouts.** This is the 20-yard's best-known role. Clearing an original Tulip Grove Levitt home between owners, or after years of accumulation, fills a 20-yard about right without paying for space you will not use.
 - **Multi-room remodels.** A kitchen-and-baths gut, or a run of bedrooms getting new flooring and drywall, is the classic 20-yard job in a Levitt home on its second or third renovation. Tearing out an original kitchen and a bath or two generates exactly the debris volume a 20 was built for.
 - **Estate cleanouts.** Tulip Grove has held many of the same families since the homes were new. When one of those longtime, original-owner homes changes hands, the 20-yard handles furniture, boxes, and household debris in a single container.
-- **Mid-size roofing tear-offs.** A typical Belair-era roof tear-off on these modest-footprint Ranchers and Capes fits comfortably, with the 2-ton allowance covering most single-layer asphalt jobs.
+- **Mid-size roofing tear-offs.** A typical Belair-era roof tear-off on these modest-footprint Ranchers and Capes fits comfortably, with the 2-ton allowance covering most single-layer asphalt jobs; anything over that is $105 per additional ton.
 
 If your project is smaller — a single bathroom, a garage purge, a few rooms of flooring — a 15-yard may serve you better. If you are gutting to the studs and adding on, we will talk through whether a 30 makes more sense. Tell us the address and the scope and we will steer you straight; we would rather size it right than oversell you.
 

@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical Collington Station rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises bolted on after the fact.
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. Pricing is per material: a 20-yard for construction debris **starts at $620 (other materials are priced separately)**, and that price includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) weight allowance. Keep it longer for just $5 a day, and any weight over the 2-ton allowance is billed at $105 per additional ton.
 
 Those five feet of wall height matter more than people expect. The walls are low enough that you can still walk debris up and toss it over the side, but tall enough to hold the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that really only makes sense for ground-up construction or full structural demo. Around here it earns its nickname — the "whole-house cleanout" size — and it is the size most customers end up choosing and rarely regret.
 

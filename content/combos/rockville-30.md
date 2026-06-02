@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched from Beltsville, ab
 
 ## What fits in a 30-yard dumpster
 
-The 30-yard measures 22 ft long by 8 ft wide by 6 ft tall and holds roughly nine pickup-truck loads of debris. It carries a 3-ton (6,000 lb) weight allowance, and in Rockville a typical 30-yard rental runs **$595 to $725, including delivery, pickup, and that tonnage** — not a base rate with tipping fees added on later.
+The 30-yard measures 22 ft long by 8 ft wide by 6 ft tall and holds roughly nine pickup-truck loads of debris. It carries a 3-ton (6,000 lb) weight allowance, and in Rockville a 30-yard **starts at $665 for construction debris (other materials priced separately), including delivery, pickup, and a 14-day rental with that 3-ton allowance**. Pickup is on request — just call to schedule it. Extra days run $5/day, and weight over the 3-ton allowance is billed at $105 per additional ton.
 
 That extra foot of wall height over the mid-size bins, stretched across 22 feet of length, is what makes this the maximum-capacity option. It is built for volume — for jobs where debris comes by the truckload, not by the bag. The trade-off is footprint. A 30-yard needs a long, straight run-up to set down level, plus room for the truck to position and lift it. On an open commercial lot, a Pike District construction site, or a wide Derwood driveway, that is no problem. On a narrow Twinbrook lot or a shared King Farm alley, it is the first thing we check — and sometimes the reason we will steer you to a 25-yard instead.
 

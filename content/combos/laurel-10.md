@@ -4,7 +4,7 @@ When a Laurel project only fills one room, you shouldn't have to pay for a conta
 
 The 10-yard measures roughly 12 feet long by 8 feet wide by 3.5 feet tall. That low profile is the whole point: it tucks into a single car spot, sits cleanly on most driveways, and won't tower over a townhome's guest parking. It holds about three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance, which is the right ceiling for household and light remodel material rather than heavy concrete or dirt.
 
-Our typical 10-yard price runs $350 to $425, and that number includes delivery, pickup, and the tonnage — so you're not guessing at add-ons after the fact. Because the footprint is small and the walls are short, you can load it from the side without heaving everything over a tall rim. For a one-room project, that lower wall height saves your back more than people expect.
+Our 10-yard starts at $550 for construction debris (other materials are priced separately), and that price includes delivery, pickup, and a 14-day rental with a 1-ton weight allowance. Extra days run $5 each, and any weight over the 1-ton allowance is billed at $105 per additional ton — so you know up front how the numbers work rather than guessing. Because the footprint is small and the walls are short, you can load it from the side without heaving everything over a tall rim. For a one-room project, that lower wall height saves your back more than people expect.
 
 ## Which Laurel jobs suit this size
 
@@ -39,4 +39,4 @@ We don't issue permits for you, but after years of running this area we can tell
 
 From our yard in Beltsville, Laurel is a quick run up Route 1 — close enough that we can be flexible on timing and quick to swing back for pickup when you're done. Whether you're off Main Street near the Laurel Museum, out toward Laurel Towne Centre, in a South Laurel rancher, or in a Russett townhome, the drive is short and the dispatch is simple.
 
-If the 10-yard sounds like the right call for your garage, your bathroom remodel, your yard cleanup, or an estate downsize, call us at **(301) 252-3586**. You'll talk to one of the owners, get a straight answer on size and placement for your specific Laurel address, and a flat price that already includes delivery, pickup, and tonnage. That's how a family-owned hauler should work.
+If the 10-yard sounds like the right call for your garage, your bathroom remodel, your yard cleanup, or an estate downsize, call us at **(301) 252-3586**. You'll talk to one of the owners, get a straight answer on size and placement for your specific Laurel address, and a clear price that includes delivery, pickup, and a 14-day rental with a 1-ton allowance — with extra weight billed at $105 per ton and pickup scheduled when you call to request it. That's how a family-owned hauler should work.

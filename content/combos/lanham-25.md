@@ -2,7 +2,7 @@ When a Lanham project crosses from "weekend cleanout" into real construction ter
 
 ## What a 25-yard dumpster actually holds
 
-A 25-yard roll-off measures roughly 20 feet long, 8 feet wide, and 5 feet tall. That's about 7.5 pickup-truck loads of debris in a single container, with a weight allowance of 2.5 tons (5,000 pounds) included. Pricing typically runs $525–$625, and that number already covers delivery, pickup, and the included tonnage — no surprise line items bolted on at the end.
+A 25-yard roll-off measures roughly 20 feet long, 8 feet wide, and 5 feet tall. That's about 7.5 pickup-truck loads of debris in a single container, with a 2-ton weight allowance included. Pricing is per material — a 25-yard starts at $640 for construction debris (other materials are priced separately). That price covers delivery, pickup, and a 14-day rental with the 2-ton allowance. Pricing is per material, not a single set rate: weight over the allowance is billed at $105 per additional ton, extra days are $5/day, and pickup is on request — just call us to schedule.
 
 The extra height over the mid-size boxes is what makes this the "major construction" size. You get the long floor for framing lumber, demo drywall, and roofing tear-off, plus the wall height to actually fill it without it spilling. The trade-off is footprint: at 20 feet long, this container needs a genuine run of flat ground. In Lanham that's usually a question of which block you're on, which we'll get to below. Our honest advice on this size is simple — measure twice before you book. If you're not sure a 25 will fit your driveway, call and describe the space; we'll tell you straight whether it works or whether a smaller box serves you better.
 
@@ -13,7 +13,7 @@ Lanham's housing stock is mostly mid-century: ranch homes, Cape Cod cottages, an
 - **Home additions.** Adding a bedroom, expanding a kitchen, or bumping out the back of a 1960s ranch generates framing scrap, old siding, concrete from footings, and demo debris all at once. A 25 keeps it in one container.
 - **Whole-house remodels.** Buyers near the NASA Goddard / Glenarden border and throughout Seabrook keep these older homes in steady renovation. A gut remodel — flooring, cabinets, drywall, fixtures, multiple rooms — fills a smaller box fast. The 25 gives you room to keep going.
 - **Large roofing tear-offs.** A full-roof job on a larger Lanham home, especially anything with multiple layers of old shingle to strip, runs heavy and bulky. The long floor of a 25 takes the bundles without you playing Tetris.
-- **Commercial cleanouts.** The Greenway Center and Annapolis Road (MD 450) corridor at Beltway Exit 20A is Lanham's commercial spine — shopping centers like Enterprise Plaza and Lanham Crossing. Retail fit-outs, restaurant remodels, and tenant cleanouts along that stretch are a natural fit for this size, and commercial accounts get net-15 terms.
+- **Commercial cleanouts.** The Greenway Center and Annapolis Road (MD 450) corridor at Beltway Exit 20A is Lanham's commercial spine — shopping centers like Enterprise Plaza and Lanham Crossing. Retail fit-outs, restaurant remodels, and tenant cleanouts along that stretch are a natural fit for this size, and commercial accounts welcome — ask about billing.
 
 If your job is a single bathroom, a garage purge, or one room's flooring, you don't need this much box — ask us about a smaller size and save the difference. The 25 earns its keep when the work is sustained and the debris is heavy or high-volume.
 
@@ -35,6 +35,6 @@ We run this out of Beltsville, and Lanham is a quick 15 minutes for us via Route
 
 ## Book your 25-yard in Lanham
 
-We're a family business, and when you call, you reach the owners — not a call center, not a phone tree. We'll talk through your job, tell you honestly whether the 25-yard is the right box or whether a smaller one fits your driveway and your budget, and flag any permit question before it becomes a problem. Pricing on this size runs $525–$625 with delivery, pickup, and tonnage included, and commercial accounts along the Greenway Center corridor get net-15 terms.
+We're a family business, and when you call, you reach the owners — not a call center, not a phone tree. We'll talk through your job, tell you honestly whether the 25-yard is the right box or whether a smaller one fits your driveway and your budget, and flag any permit question before it becomes a problem. Pricing on this size starts at $640 for construction debris (other materials priced separately), with delivery, pickup, and a 14-day rental and 2-ton allowance included — extra weight runs $105/ton, additional days are $5/day, and pickup is by request. Commercial accounts along the Greenway Center corridor welcome — ask about billing.
 
 Ready to get the big box on your Lanham project, or just want a straight answer on placement? Call JP Roll-Off Service at (301) 252-3586 and we'll get you set up.

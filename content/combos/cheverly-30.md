@@ -2,7 +2,7 @@ When a Cheverly project means tearing a house down to the studs, clearing out a 
 
 ## What fits in a 30-yard dumpster
 
-A 30-yard container measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That tall, deep box holds about nine pickup-truck loads of debris, with a weight allowance of 3 tons (6,000 pounds) built into the price. Typical pricing runs $595 to $725, and that number already includes delivery, pickup, and the included tonnage, so there are no surprise line items after the fact.
+A 30-yard container measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That tall, deep box holds about nine pickup-truck loads of debris, with a weight allowance of 3 tons (6,000 pounds) built into the price. Pricing is per material: a 30-yard starts at $665 for construction debris (other materials are priced separately). That price includes delivery, pickup, and a 14-day rental with the 3-ton allowance; additional days run $5 each, and any weight over the allowance is billed at $105 per ton. Pickup is on request, so you call us to schedule it when the box is full.
 
 This is the size people reach for when the job is genuinely big: a full house gut, a demolition, a commercial clear-out, or a property where the volume of material would overwhelm a 15- or 20-yard bin. The extra height matters most for bulky, lightweight debris that fills space fast without adding much weight, like framing lumber, cabinetry, drywall, roofing tear-off, and the contents of an over-stuffed garage or basement.
 

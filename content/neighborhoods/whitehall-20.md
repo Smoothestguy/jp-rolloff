@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical Whitehall rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the fact.
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. Pricing is per material: the 20-yard **starts at $620 for construction debris (other materials priced separately)**, and that price includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) weight allowance. Extra days run $5/day, and weight beyond the 2-ton allowance is $105 per additional ton. Aggregates like concrete, brick, and dirt are only accepted in the 10, 15, and 20-yard sizes.
 
 Those five feet of wall height are the part people underestimate. It is low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes in the W section: bigger than a quick-cleanup 10 or 15-yard, but short of the oversized 30-yard that mostly makes sense for new construction or full structural demolition. It is the size most customers end up choosing — and rarely regret. It has earned the nickname the "whole-house cleanout" size for good reason.
 
@@ -17,7 +17,7 @@ Because these are established 55-to-60-year-old homes that have been personalize
 - **Whole-house cleanouts.** This is the 20-yard's best-known role. Clearing an original Whitehall Levitt home between owners, or after decades of one family living in it, fills a 20-yard about right without paying for space you will not use.
 - **Multi-room remodels.** A common Levitt-Bowie project is opening up an original galley kitchen, finishing an attic, or converting an attached carport into living space. Those mid-century updates throw off framing, drywall, and old-finish debris across several rooms — squarely 20-yard territory in a home on its second or third renovation.
 - **Estate cleanouts.** Whitehall has held many original-owner families for decades. When one of those longtime homes finally changes hands, the 20-yard handles furniture, boxes, and household debris in a single container.
-- **Mid-size roofing tear-offs.** A typical Belair-era roof tear-off fits comfortably, with the 2-ton allowance covering most single-layer asphalt jobs on these modest mid-1960s footprints.
+- **Mid-size roofing tear-offs.** A typical Belair-era roof tear-off fits comfortably; the 2-ton allowance covers most single-layer asphalt jobs on these modest mid-1960s footprints, with any weight beyond that billed at $105 per additional ton.
 
 If your project is smaller — a single bathroom, a garage purge, a few rooms of flooring — a 15-yard may serve you better. If you are taking the house to the studs and adding on, we will talk through whether a 30 makes more sense. Tell us the address and the scope and we will steer you straight; we would rather size it right than oversell you.
 

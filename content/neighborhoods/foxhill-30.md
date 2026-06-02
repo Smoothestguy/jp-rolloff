@@ -2,7 +2,7 @@ When a job in Foxhill gets big enough that a smaller bin would only mean a secon
 
 ## What the 30-yard holds
 
-The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That long, tall box swallows about nine pickup-truck loads of material, which is why it is the go-to when a job throws off a steady wall of debris rather than a few bags. It comes with a 3-ton (6,000 lb) weight allowance, and our typical pricing runs $595 to $725 — a number that already includes delivery, pickup, and the included tonnage, so there is no surprise line item waiting at the end.
+The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That long, tall box swallows about nine pickup-truck loads of material, which is why it is the go-to when a job throws off a steady wall of debris rather than a few bags. Pricing is per material: a 30-yard for construction debris starts at $665, with other materials priced separately. That price includes delivery, pickup on request (call to schedule), and a 14-day rental with a 3-ton (6,000 lb) weight allowance. Extra days run $5/day, and any weight over the 3-ton allowance is billed at $105 per additional ton.
 
 One honest word on that weight allowance before you book. The 30-yard's volume fills up best with bulky, lighter material — framing lumber, drywall, old cabinetry, roofing tear-off, lath and plaster, furniture, and general construction debris. If your load runs heavy with concrete, brick, dirt, or tile, the cube fills slowly while the tonnage climbs fast, and a smaller bin or a dedicated heavy-debris container is usually the smarter call. Tell us what is going in when you call and we will steer you to the right size rather than the biggest one.
 
@@ -31,6 +31,6 @@ One small bonus for our driver: because Belair's streets are arranged by section
 
 ## Talk to the family before you book
 
-Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script. You can describe your Foxhill project — a full Levitt gut job, a contractor tear-out, a bulk haul, or a multi-unit cleanout — and get a straight answer on whether the 30-yard is the right size, what it will cost all-in, and exactly how we will fit it onto an original slab-era driveway off one of the F streets.
+Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script. You can describe your Foxhill project — a full Levitt gut job, a contractor tear-out, a bulk haul, or a multi-unit cleanout — and get a straight answer on whether the 30-yard is the right size, what it will cost for your material — the 14-day rental and 3-ton allowance are included, with extra weight at $105 per ton and pickup scheduled on request — and exactly how we will fit it onto an original slab-era driveway off one of the F streets.
 
 If you have a big job in Foxhill and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We will get a 30-yard scheduled, dispatched from the Beltsville yard in the morning, and on your site about 25 minutes later.

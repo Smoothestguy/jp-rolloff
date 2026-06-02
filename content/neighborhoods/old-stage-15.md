@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## Why the 15-yard fits an Old Stage home
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. It carries a 1.5-ton (3,000 lb) weight allowance, and a typical Old Stage rental runs **$425 to $485, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the haul.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. Pricing is per material — for construction debris the 15-yard **starts at $595** (other materials are priced separately, and aggregates are only accepted in the 10, 15, and 20). That price **includes delivery, a 14-day rental, and a 1.5-ton (3,000 lb) weight allowance**, with pickup on request. Keep the box past 14 days and it is just $5 a day extra, and if you go over the tonnage, additional weight runs $105 per ton.
 
 We call this the "single-room reno" size, and it is the one we drop most often on a mature home like the ones out here. The 15 is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly. That balance matters in Old Stage. These split-levels and Colonials are now 20 to 45 years old and squarely in renovation territory, but they are also big enough that a single project — one kitchen, one roof, a pair of baths — is a real container's worth of debris on its own. The 15 swallows that defined scope without making you pay for a 20- or 30-yard box you would only half-fill on a one-room job.
 
@@ -35,4 +35,4 @@ If you are not sure whether your project is a 15 or a 20, tell us the room and t
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Old Stage address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in one of these 1980s-2000s homes — and where you want to stage the container. We will confirm the 15-yard is the right size and quote you on the spot, tonnage and delivery included.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Old Stage address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in one of these 1980s-2000s homes — and where you want to stage the container. We will confirm the 15-yard is the right size and quote you on the spot — construction debris starts at $595 (other materials priced separately), with delivery, a 14-day rental, and a 1.5-ton allowance included, pickup on request, and any extra weight at $105 per ton.

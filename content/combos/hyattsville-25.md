@@ -1,6 +1,6 @@
-When a Hyattsville project crosses from "weekend cleanup" into "major construction," the 25-yard roll-off is usually the right call. At 20 feet long, 8 feet wide, and 5 feet tall, it swallows roughly 7.5 pickup-truck loads of debris and comes with a 2.5-ton (5,000 lb) weight allowance. We're JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, and we run this size to additions, gut renovations, big roofs, and full commercial cleanouts all over Hyattsville. When you call, you reach one of the owners directly, not a call center reading from a script.
+When a Hyattsville project crosses from "weekend cleanup" into "major construction," the 25-yard roll-off is usually the right call. At 20 feet long, 8 feet wide, and 5 feet tall, it swallows roughly 7.5 pickup-truck loads of debris and comes with a 2-ton (4,000 lb) weight allowance. We're JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, and we run this size to additions, gut renovations, big roofs, and full commercial cleanouts all over Hyattsville. When you call, you reach one of the owners directly, not a call center reading from a script.
 
-Typical pricing runs **$525-$625, and that includes delivery, pickup, and your tonnage** so you're not chasing surprise line items after the fact. Commercial accounts can set up net-15 terms.
+Pricing is per material: a 25-yard **starts at $640 for construction debris** (other materials are priced separately). That rate **includes delivery, pickup, and a 14-day rental with a 2-ton weight allowance**. Extra days run $5/day, and weight over the allowance is billed at $105 per additional ton; pickup is on request, so you call when you're ready. Commercial accounts welcome — ask about billing.
 
 ## What fits in a 25-yard dumpster
 
@@ -8,7 +8,7 @@ This is the second-largest container we carry, and it's built for sustained, hig
 
 A few things to keep in mind on a box this size:
 
-- The 2.5-ton allowance is generous for mixed construction and demolition debris, but dense material adds up fast. Old plaster, masonry, layered roofing, and wet material can hit the weight limit well before the box looks full.
+- The 2-ton allowance covers a lot of mixed construction and demolition debris, but dense material adds up fast. Old plaster, masonry, layered roofing, and wet material can push you past the allowance well before the box looks full, and overage is $105 per additional ton.
 - For a big tear-out, it's smarter to fill toward the weight than to mound it past the rails. We need the load to sit below the top edge so it's legal and safe to haul.
 - If you're unsure whether 25 yards is right, measure your debris pile and your access path twice before booking. On Hyattsville's older lots, the size that fits the *job* isn't always the size that fits the *spot* it has to sit in.
 
@@ -18,7 +18,7 @@ Hyattsville's housing stock is what makes this size so useful here. The city gre
 
 - **Home additions** — Bumping out a kitchen or adding a bedroom suite on a Castle Manor or University Hills home throws off framing, old siding, footings, and demolition debris in volume.
 - **Whole-house remodels** — A gut renovation of a century-old Hyattsville Hills Victorian fills a box fast: lath and plaster, old flooring, cabinetry, fixtures, and trim all at once.
-- **Large roofing tear-offs** — Steep, multi-layer roofs on the older homes near Downtown shed heavy shingle weight, which is exactly why the 2.5-ton allowance matters here.
+- **Large roofing tear-offs** — Steep, multi-layer roofs on the older homes near Downtown shed heavy shingle weight, which is exactly why the 2-ton allowance matters here.
 - **Commercial cleanouts** — Along the U.S. Route 1 corridor, the Arts District Hyattsville redevelopment keeps storefront fit-outs, tenant build-outs, and townhome-scale projects moving. A 25-yard handles a restaurant or retail clear-out without constant swaps.
 
 If your project is smaller, like a single bath remodel or a garage purge, one of our smaller boxes will likely serve you better and cost less. The 25-yard earns its keep when the debris is genuinely high-volume.

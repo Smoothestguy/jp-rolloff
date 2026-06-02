@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000 lb) weight allowance, and in Buckingham a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage**. No tipping-fee surprises tacked on after the haul.
+The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material, and in Buckingham a 25-yard **starts at $640 for construction debris (other materials priced separately)**, including delivery, pickup on request, and a 14-day rental with a 2-ton allowance. Extra days run +$5/day, and any weight beyond the 2-ton allowance is billed at $105 per additional ton.
 
 The jump from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through — a whole-house remodel, a substantial addition, a large roof, or a full cleanout. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls than the mid-size containers offer.
 
@@ -16,7 +16,7 @@ Buckingham's housing stock is the story here. Belair homes were sold in five mai
 
 - **Home additions.** Bumping out a Rancher or adding onto a four-bedroom Colonial throws off framing lumber, old siding, and tear-out debris in the volume a 25-yard is meant to hold — more than a smaller box can take without a mid-project swap.
 - **Whole-house remodels.** A full gut of an original Levitt home — kitchen, baths, flooring, and drywall all coming out at once — is a textbook 25-yard job. When a 1960s house gets modernized down to the studs, the debris adds up fast, and one large container beats two trips.
-- **Large roofing tear-offs.** After six decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs run heavy, and the 2.5-ton allowance gives more headroom for shingle weight than the smaller sizes.
+- **Large roofing tear-offs.** After six decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs run heavy, so plan for shingle weight — the rental includes a 2-ton allowance, with anything over that billed at $105 per additional ton.
 - **Commercial cleanouts.** When a larger property or business clearout in the area throws off material in bulk, the 25-yard handles it in one go.
 
 If your Buckingham project is on the smaller side — a single-room redo, a bathroom refresh, a routine garage cleanout — a 20-yard or even a 15-yard is usually the smarter spend, and we will tell you so. The 25-yard pays off when the job is genuinely big.

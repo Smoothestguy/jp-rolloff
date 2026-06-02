@@ -33,7 +33,7 @@ That familiarity is part of why same-day service is common here. We dispatch eve
 
 ## Straightforward pricing
 
-A 20-yard in Meadowbrook typically runs **$450 to $525**, and that price includes delivery, pickup, and the 2-ton tonnage allowance. There's no separate trip fee and no fine print on the haul — the number we quote is the number you pay, as long as you stay within the weight allowance and keep to general household and renovation debris. If you're not sure whether your project fits the 20-yard or whether a different size would save you money, just ask. We'd rather steer you to the right container than sell you too much.
+A 20-yard in Meadowbrook **starts at $620 for construction debris (other materials priced separately)** — pricing is per material — and that price includes delivery, a 14-day rental, and a 2-ton weight allowance. Pickup is on request, so just call to schedule it when you're done. If you go past 14 days it's $5 a day, and any weight over the 2-ton allowance is $105 per additional ton. Aggregates like concrete and dirt are only accepted in the 10-, 15-, and 20-yard containers. If you're not sure whether your project fits the 20-yard or whether a different size would save you money, just ask. We'd rather steer you to the right container than sell you too much.
 
 ## Talk to the family that owns the trucks
 

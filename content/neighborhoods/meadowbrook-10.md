@@ -31,9 +31,9 @@ If your project is bigger than a room — a full kitchen, a roof, a whole-house 
 
 ## What it costs and what's included
 
-A 10-yard in the Meadowbrook area typically runs $350 to $425. That price includes delivery, pickup, and a 1-ton (2,000-pound) tonnage allowance. No surprise line items bolted on after the fact — what we quote on the phone is what you pay.
+A 10-yard in the Meadowbrook area starts at $550 for construction debris (other materials are priced separately). That price includes delivery, pickup, and a 14-day rental with a 1-ton (2,000-pound) weight allowance. Need it longer? It's just $5 a day after that. Aggregates like concrete, stone, and brick are only available in the 10, 15, and 20-yard sizes.
 
-The weight allowance is worth a quick word, especially given the yard-waste and remodel jobs the 10-yard handles. One ton covers a lot of household clutter and general debris. Where it gets heavy is dense material — wet soil, concrete, stone, brick, or a load of soaked tree wood. If your job leans that way, mention it when you call and we'll set the right expectation up front so there's no guesswork.
+The weight allowance is worth a quick word, especially given the yard-waste and remodel jobs the 10-yard handles. One ton covers a lot of household clutter and general debris. Where it gets heavy is dense material — wet soil, concrete, stone, brick, or a load of soaked tree wood. If you go over the 1-ton allowance, additional weight runs $105 per extra ton. If your job leans that way, mention it when you call and we'll set the right expectation up front so there's no guesswork.
 
 For driveway protection, we set the container down carefully and we're happy to lay boards under the wheels if you're worried about the surface — just ask. These are everyday driveways doing everyday duty, and we treat them that way.
 

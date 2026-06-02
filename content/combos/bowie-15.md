@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville. 
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds roughly four and a half pickup-truck loads of debris. It comes with a 1.5-ton (3,000 lb) weight allowance, and in Bowie a typical 15-yard rental runs **$425 to $485, including delivery, pickup, and that tonnage**. No tipping-fee surprises added after the haul.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds roughly four and a half pickup-truck loads of debris. It comes with a 1.5-ton (3,000 lb) weight allowance, and in Bowie a 15-yard **starts at $595 for construction debris (other materials are priced separately)**. That price includes delivery, a 14-day rental, and pickup on request — you call when you're ready and we come get it. The 1.5-ton allowance is included; if you go over, additional tonnage is billed at $105 per ton, and extra rental days are $5 each.
 
 Four feet of wall height is the part people appreciate once the work starts. It is low enough to walk debris up and toss it over the side without a ramp, which matters on a one-room remodel where you are carrying material out by hand all day. The 15-yard is best known as the "single-room reno" size for exactly that reason: bigger than the 10-yard you would grab for a quick declutter, but not the 20- or 30-yard you would only want for a multi-room gut or full structural demo. For a single project that generates real volume but stays contained, it is the right call.
 

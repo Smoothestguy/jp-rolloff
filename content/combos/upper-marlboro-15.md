@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler that dispatches out of Beltsvi
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall, and it holds roughly four-and-a-half pickup-truck loads of debris. It comes with a 1.5-ton (3,000 lb) weight allowance, and around Upper Marlboro a typical 15-yard rental runs **$425 to $485, including delivery, pickup, and that tonnage**. No tipping-fee surprise after the fact.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall, and it holds roughly four-and-a-half pickup-truck loads of debris. Pricing is per material — for construction debris a 15-yard **starts at $595 (other materials priced separately)**, and that includes delivery, pickup on request, and a **14-day rental with a 1.5-ton (3,000 lb) weight allowance**. Extra days run $5/day, and weight over the allowance is billed at $105 per additional ton.
 
 The four-foot wall height is the quiet advantage of this size. The sides sit low enough that you can pitch debris over the rail without a ramp, which matters when you are hauling load after load out of a kitchen or up from a basement. But there is still real volume — enough to swallow a full single-room job from demo to last load. That is why we call the 15 the "single-room reno" size. It is the one to reach for when a 10-yard feels a touch tight but a 20 would leave you paying for air.
 

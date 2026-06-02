@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched from nearby Beltsvi
 
 ## What fits in a 30-yard dumpster
 
-The 30-yard measures 22 ft long by 8 ft wide by 6 ft tall and holds roughly nine pickup-truck loads of debris. It comes with a 3-ton (6,000 lb) weight allowance, and in Hyattsville a typical 30-yard rental runs **$595 to $725, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on afterward.
+The 30-yard measures 22 ft long by 8 ft wide by 6 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material: in Hyattsville a 30-yard **starts at $665 for construction debris** (other materials are priced separately, and heavy aggregates like dirt, concrete, and asphalt are only offered in our 10-, 15-, and 20-yard sizes). That price **includes delivery, a 14-day rental, and a 3-ton (6,000 lb) weight allowance**, with pickup on request — just call to schedule. Additional days run $5 per day, and any weight over the 3-ton allowance is billed at $105 per additional ton.
 
 That extra foot of wall height over the mid-size bins, stretched across 22 feet of length, is what makes this the maximum-capacity option. It is built for sheer volume, not for tossing a few bags over the side. The trade-off is footprint: a 30-yard needs a long, straight run-up to set down level, plus clearance for the truck to position and lift it. On an open commercial lot or a deep driveway that is no issue. On a tight historic lot, it is the first thing we check together — and sometimes the reason we will steer you toward a 25-yard instead.
 

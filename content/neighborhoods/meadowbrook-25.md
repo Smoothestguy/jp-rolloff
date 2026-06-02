@@ -2,13 +2,13 @@ When a Meadowbrook project grows past the weekend-cleanout stage and into real c
 
 ## Why the 25-yard fits the bigger Meadowbrook jobs
 
-The 25-yard box measures about 20 feet long, 8 feet wide, and 5 feet tall — roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000 lb) tonnage allowance baked into the price, and in Meadowbrook a typical rental runs **$525 to $625, including delivery, pickup, and that tonnage**. No tipping-fee surprises tacked on after the haul.
+The 25-yard box measures about 20 feet long, 8 feet wide, and 5 feet tall — roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Meadowbrook the 25-yard **starts at $640 for construction debris (other materials priced separately)**, and that includes delivery, a 14-day rental with a 2-ton allowance, and pickup on request. Keep the box past 14 days and it's just $5 a day extra. Go over the 2-ton allowance and additional weight is billed at $105 per ton — so let us know what you're loading and we'll flag it before the haul.
 
 We call it the "major construction" size, and that's the right way to think about it. You reach for the 25-yard when a job is going to throw off real volume rather than a single room's worth of debris. In Meadowbrook specifically, that means:
 
 - **Home additions.** Bumping out the back of a 1960s Levitt house or finishing over a slab generates framing lumber, old siding, and tear-out all at once — more than a smaller box can hold without a mid-project swap.
 - **Whole-house remodels.** A full gut of an original Belair home — kitchen, baths, flooring, and drywall coming out together — is a textbook 25-yard job. When a roughly 60-year-old house gets modernized down to the studs, the debris adds up fast.
-- **Large roofing tear-offs.** After nearly six decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs run heavy, and the 2.5-ton allowance gives more headroom for shingle weight than the mid-size containers.
+- **Large roofing tear-offs.** After nearly six decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs run heavy, so plan for shingle weight — extra tonnage beyond the 2-ton allowance is billed at $105 per ton.
 - **Commercial cleanouts.** When a larger property or business clearout nearby throws off material in bulk, the 25-yard handles it in one drop.
 
 If your Meadowbrook job is smaller — a single-room redo, a bath refresh, a routine garage cleanout — a 20-yard or even a 15-yard is usually the smarter spend, and we'll tell you so. The 25-yard pays off when the project is genuinely big.
@@ -35,9 +35,9 @@ Because we're family-run and dispatching locally, we can be flexible about timin
 
 ## A few things worth thinking through
 
-- **Heavy materials add up fast.** Roofing shingles, plaster, and old tile are dense. A large tear-off on a 60-year-old Levitt roof can approach or pass the 2.5-ton allowance, so let us know what you're loading and we'll flag whether you're likely to go over.
-- **Mixed remodel debris is the sweet spot.** Whole-house remodel waste — drywall, cabinetry, flooring, framing offcuts — fills the volume of a 25-yard without usually maxing out the weight. That's the ideal load for this size.
-- **Additions generate both volume and weight.** A home addition produces excavation spoils, framing waste, and packaging all at once. Keep heavy soil and concrete loads modest so the container stays under its tonnage cap.
+- **Heavy materials add up fast.** Roofing shingles, plaster, and old tile are dense. A large tear-off on a 60-year-old Levitt roof can approach or pass the 2-ton allowance, so let us know what you're loading and we'll flag whether you're likely to go over — extra weight runs $105 per ton.
+- **Mixed remodel debris is the sweet spot.** Whole-house remodel waste — drywall, cabinetry, flooring, framing offcuts — fills the volume of a 25-yard without usually pushing past the 2-ton allowance. That's the ideal load for this size.
+- **Additions generate both volume and weight.** A home addition produces excavation spoils, framing waste, and packaging all at once. Keep heavy soil and concrete loads modest so the container stays under the 2-ton allowance and you avoid the $105-per-ton overage.
 - **Commercial cleanouts are easy to underestimate.** When you describe the contents, we'll tell you honestly whether the 25-yard handles it in one go or whether a swap makes more sense.
 
 ## Talk to the family that owns the trucks

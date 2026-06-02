@@ -2,7 +2,7 @@ When a Greenbelt project is the size of one room, one garage, or one weekend, th
 
 ## What fits in a 10-yard container
 
-Think of the 10-yard as the "garage cleanout" size. Three truckloads of debris is the honest mental picture, and the 2,000-pound allowance is built for dense-but-modest jobs rather than heavy demolition. Typical price runs $350 to $425, and that number already includes delivery, pickup, and tonnage, so there's no surprise line item waiting at the end.
+Think of the 10-yard as the "garage cleanout" size. Three truckloads of debris is the honest mental picture, and the 2,000-pound (1-ton) allowance is built for dense-but-modest jobs rather than heavy demolition. Pricing is per material: a 10-yard starts at $550 for construction debris (other materials are priced separately), and that includes delivery, pickup, and a 14-day rental with a 1-ton weight allowance. Extra days run $5/day, and any weight over the 1-ton allowance is billed at $105 per additional ton. Pickup is on request — just call to schedule it.
 
 It earns its keep on jobs like these:
 

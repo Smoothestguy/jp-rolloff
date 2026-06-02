@@ -4,7 +4,7 @@ The county seat of Montgomery County, Rockville covers about 13.4 square miles a
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard is the smallest container we offer, measuring 12 ft long by 8 ft wide by 3.5 ft tall. It holds roughly three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. A typical 10-yard rental in Rockville runs **$350 to $425, including delivery, pickup, and that tonnage** — not a teaser rate with tipping fees tacked on after the load hits the scale.
+The 10-yard is the smallest container we offer, measuring 12 ft long by 8 ft wide by 3.5 ft tall. It holds roughly three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. Pricing is per material: a 10-yard in Rockville **starts at $550 for construction debris (other materials are priced separately), and that includes delivery, pickup, and a 14-day rental with the 1-ton allowance**. Additional days run $5/day, and weight over the 1-ton allowance is billed at $105 per additional ton. Pickup is on request — just call us to schedule it.
 
 Those low 3.5-foot walls are the quiet advantage. You walk right up and drop debris over the side — no ramp, no heave — which is what you want when the material is heavy and dense, like bathroom tile, broken-up concrete, dirt, or roofing scrap. The 1-ton allowance is sized for that kind of focused job: one room, one corner, one weekend, not a whole-house demolition. Best of all, the 10 fits in a single car spot, which is the whole reason it earns its keep in this particular city. If your project is bigger than one room, we will steer you to a 15 or 20-yard — but for the jobs below, the 10 is the honest pick.
 

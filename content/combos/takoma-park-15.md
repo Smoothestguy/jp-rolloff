@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville. 
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds roughly four and a half pickup-truck loads of debris. It comes with a 1.5-ton (3,000 lb) weight allowance, and in Takoma Park a typical 15-yard rental runs **$425 to $485, including delivery, pickup, and that tonnage**. No tipping-fee surprises tacked on after the haul.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds roughly four and a half pickup-truck loads of debris. Pricing is per material: in Takoma Park a 15-yard **starts at $595 for construction debris (other materials are priced separately)**, and that price includes delivery, pickup on request, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance. Extra days run $5 each, and any weight over the allowance is billed at $105 per additional ton.
 
 Four feet of wall height is the part people appreciate once the work starts. It is low enough to walk debris up and toss it over the side without a ramp, which matters on a one-room remodel where you are carrying material out by hand all day. The 15-yard is best known as the "single-room reno" size for exactly that reason: bigger than the 10-yard you would grab for a quick declutter, but well short of the 20-, 25-, or 30-yard you would only want for a multi-room gut or a commercial tear-out. For a single project that generates real volume but still fits a tight historic-district lot, it is the right call.
 

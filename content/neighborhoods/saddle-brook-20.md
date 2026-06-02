@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical Saddle Brook rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the fact.
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. Pricing is per material, and for a Saddle Brook job it **starts at $620 for construction debris (other materials priced separately)**. That price includes delivery, pickup, and a 14-day rental with a 2-ton (4,000 lb) weight allowance; extra days run $5/day and weight beyond the 2-ton allowance is $105 per additional ton. Aggregates like concrete, brick, and dirt are accepted in the 10, 15, and 20-yard sizes. Pickup is on request — just call to schedule when you are ready.
 
 The five feet of wall height is the part people tend to underestimate. It is low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a real project. That balance is why the 20-yard is nicknamed the "whole-house cleanout" size, and it is the container most customers end up choosing — and rarely regret. It is the step up from the quick-job 10 and 15-yard, without committing to the oversized 30-yard that mostly makes sense for new construction or full structural demo.
 

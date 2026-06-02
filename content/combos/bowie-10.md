@@ -4,7 +4,7 @@ We're JP Roll-Off Service, a family-owned hauler. We dispatch out of Beltsville 
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard is the compact end of the lineup. It measures roughly 12 ft long by 8 ft wide by 3.5 ft tall and holds about three pickup-truck loads of debris. It comes with a 1-ton (2,000 lb) weight allowance, and in Bowie a typical 10-yard rental runs **$350 to $425, including delivery, pickup, and that tonnage** — no tipping fees sprung on you afterward.
+The 10-yard is the compact end of the lineup. It measures roughly 12 ft long by 8 ft wide by 3.5 ft tall and holds about three pickup-truck loads of debris. It comes with a 1-ton (2,000 lb) weight allowance, and in Bowie a 10-yard **starts at $550 for construction debris (other materials priced separately), including delivery, pickup, and a 14-day rental with that 1-ton allowance.** Pricing runs per material rather than as one price for every load. If you go over the included ton, the overage is $105 per additional ton, extra days are $5/day, and pickup is on request — you call to schedule.
 
 The thing that makes the 10-yard so easy to live with is its footprint and its low walls. At 12 feet long it fits inside a single parking space on the driveway, and the 3.5-foot sides mean you can walk right up and drop debris over the edge without a ramp or a heave. The trade-off is the weight allowance: a single ton goes fast with anything dense. That's the whole reason this size exists alongside the bigger ones — it's built for **bulky-but-light** loads from one room or one corner of the property, not for heavy demolition or whole-house gut jobs. For those, you'd want to step up. For a contained cleanout or a small remodel, the 10-yard is the size you don't overpay for.
 

@@ -4,14 +4,14 @@ Victoria Heights is one of the last "V"-section neighborhoods of Levitt & Sons' 
 
 Victoria Heights sits in the mature, tree-lined Levitt core that became the nucleus of the modern City of Bowie when it incorporated in 1963. These are conventional single-family lots — standard Levitt Belair parcels run about 8,400 square feet, roughly a quarter acre, sized uniformly to keep the original pricing equitable, with corner lots sold as premiums. That means nearly every home here has a real but modest driveway and side yard where a roll-off can be staged without ever touching the street.
 
-That's exactly why the 10-yard is worth knowing about. Its footprint is just 12 feet long, 8 feet wide and 3.5 feet tall — about a single car spot. On a quarter-acre Victoria Heights lot, that compact size is the difference between staging the container entirely on your own driveway and having to think about the road. The 10-yard holds about three pickup-truck loads and includes a 1-ton (2,000-pound) tonnage allowance, plus delivery and pickup, with typical all-in pricing of $350 to $425.
+That's exactly why the 10-yard is worth knowing about. Its footprint is just 12 feet long, 8 feet wide and 3.5 feet tall — about a single car spot. On a quarter-acre Victoria Heights lot, that compact size is the difference between staging the container entirely on your own driveway and having to think about the road. The 10-yard holds about three pickup-truck loads, and pricing starts at $550 for construction debris (other materials priced separately). Each rental includes delivery, a 14-day rental period, and a 1-ton (2,000-pound) allowance; extra weight is $105 per additional ton, days beyond 14 are $5/day, and pickup is on request — just call to schedule.
 
 ## The right jobs for a 10-yard here
 
 We call the 10-yard the "garage cleanout" size for good reason: it's the smallest footprint we offer, so you handle a one-room job without paying for cubic yards you'll never fill. On Victoria Heights homes that are now 55 to 60 years old, the projects that fit it cleanly tend to be these:
 
 - **Garage cleanout.** Decades of original-owner storage in a Levitt garage empties neatly into one 10-yard. It's the classic use, and the compact can tucks into a single driveway spot.
-- **Bathroom remodel.** Tearing out one of these original 1960s baths — tile, vanity, tub, subfloor — makes heavy debris but not high volume. That's exactly where the low 3.5-foot walls and the 1-ton allowance earn their keep.
+- **Bathroom remodel.** Tearing out one of these original 1960s baths — tile, vanity, tub, subfloor — makes heavy debris but not high volume. That's exactly where the low 3.5-foot walls and the included 1-ton allowance earn their keep, with any extra weight billed at $105 per additional ton.
 - **Yard waste and trees.** Mature trees, overgrown beds and brush on a quarter-acre lot in this tree-lined section fill a 10-yard when you're reclaiming a side or back yard.
 - **Estate downsize.** Many of these homes are still held by original owners or their families. When it's time to clear out a long-held rambler or colonial room by room, the 10-yard moves the job along without crowding the driveway.
 
@@ -31,6 +31,6 @@ Being family-owned means the person who answers the phone is the same person mak
 
 ## Get a 10-yard on your Victoria Heights driveway
 
-Whether it's a garage that's been collecting since the late 1960s, an original Levitt bathroom finally getting its remodel, a quarter-acre lot you're clearing of overgrown trees, or an estate cleanout that needs to move at a respectful pace, the 10-yard dumpster is the no-waste choice for a one-area job in Victoria Heights. Delivery, pickup, and your 1-ton tonnage allowance are all included in one straightforward price, typically $350 to $425.
+Whether it's a garage that's been collecting since the late 1960s, an original Levitt bathroom finally getting its remodel, a quarter-acre lot you're clearing of overgrown trees, or an estate cleanout that needs to move at a respectful pace, the 10-yard dumpster is the no-waste choice for a one-area job in Victoria Heights. Pricing starts at $550 for construction debris (other materials priced separately), and every rental includes delivery, a 14-day rental period, and a 1-ton allowance; extra weight runs $105 per additional ton, additional days are $5/day, and pickup is scheduled on request.
 
 Call the family at **(301) 252-3586** and we'll get you scheduled — often the same day. You'll talk to an owner, get honest answers about sizing and placement, and have your dumpster staged right there on your own Victoria Heights driveway.

@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000 lb) weight allowance, and in Woodmore North a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage**. No tipping-fee surprises tacked on after the haul.
+The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Woodmore North a 25-yard for construction debris **starts at $640 (other materials priced separately)**, and that price includes delivery, pickup on request, and a 14-day rental with a 2-ton allowance. Need to keep it longer? It is just +$5 per day. Extra weight beyond the 2-ton allowance is billed at $105 per additional ton, and pickup is scheduled on request — give us a call when you are ready.
 
 The step up from a 20-yard is genuine volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a mid-job swap — a whole-house remodel, a substantial addition, a large roof, or a full commercial clearout. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls than the mid-size containers offer.
 
@@ -16,7 +16,7 @@ The housing stock is the story here. These are higher-end homes — recent sales
 
 - **Home additions.** With lots commonly around 0.73 acre and some over a full acre, there is real room to build out here — bumping out the back, adding a wing, or extending up. That throws off framing lumber, old siding, and tear-out debris in the volume a 25-yard is meant to hold, more than a smaller box can take without a second trip.
 - **Whole-house remodels.** When an owner modernizes a 5,000-to-8,400-square-foot home top to bottom — kitchen, multiple baths, flooring, and the finished basement all at once — the debris adds up fast. Those finished basements are a real driver: re-finishing one means drywall, old carpet, framing, and flooring leaving the house in bulk, and a single large container beats two hauls.
-- **Large roofing tear-offs.** A roof on a house this size runs heavy, and the 2.5-ton allowance gives more headroom for shingle weight than the smaller sizes carry.
+- **Large roofing tear-offs.** A roof on a house this size runs heavy, so plan for shingle weight — the 2-ton allowance is included, and any tonnage over that is $105 per additional ton.
 - **Commercial and estate cleanouts.** Large homes change hands and clear out at scale, and a 25-yard handles a full estate or move-out cleanout in one go rather than forcing repeated swaps.
 
 If your Woodmore North project is on the smaller side — a single-room redo, one bathroom, or a routine basement declutter — a 20-yard or even a 15-yard is usually the smarter spend, and we will tell you so. The 25-yard pays off when the job is genuinely big.

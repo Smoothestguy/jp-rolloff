@@ -4,14 +4,14 @@ Grovehurst is a small, deliberately built enclave on the Bowie side of Prince Ge
 
 Grovehurst doesn't look like Bowie's older neighborhoods, and that matters when you're staging a dumpster. The dense 1960s-70s Levitt-built "Belair" sections were laid out with narrow lots and shared frontage, where space for a container is genuinely tight. Grovehurst is the opposite kind of place: a 1990s Colonial Revival and "New Traditional" community of four-to-five-bedroom homes, many in the 2,400-to-4,200-plus-square-foot range, sitting on quarter- to half-acre lots with attached garages and wide private driveways.
 
-That extra room is why the 10-yard is so easy to place here. Its footprint is just 12 feet long, 8 feet wide and 3.5 feet tall — about a single car spot. On a Grovehurst driveway or a graded side yard, a can that size disappears. It holds roughly three pickup-truck loads and includes a 1-ton (2,000-pound) tonnage allowance, plus delivery and pickup, with typical all-in pricing of $350 to $425. For a focused, one-area project on a home this size, it's the no-waste choice — you're not paying for cubic yards you'll never fill.
+That extra room is why the 10-yard is so easy to place here. Its footprint is just 12 feet long, 8 feet wide and 3.5 feet tall — about a single car spot. On a Grovehurst driveway or a graded side yard, a can that size disappears. It holds roughly three pickup-truck loads. Pricing is per material — construction debris in a 10-yard starts at $550, with other materials priced separately (aggregates are available only in our 10, 15 and 20-yard cans). That price includes delivery, pickup, and a 14-day rental with a 1-ton (2,000-pound) allowance; extra days run $5/day and weight over the first ton is $105 per additional ton. For a focused, one-area project on a home this size, it's the no-waste choice — you're not paying for cubic yards you'll never fill.
 
 ## The right jobs for a 10-yard here
 
 We call the 10-yard the "garage cleanout" size, and on a Grovehurst Colonial with an attached garage that name earns itself. The projects that fit this container cleanly tend to be these:
 
 - **Garage cleanout.** Thirty years of stored boxes, lawn equipment and forgotten projects out of an attached two-car garage empties neatly into one 10-yard, and the compact can tucks into a single driveway spot beside it.
-- **Bathroom remodel.** Pulling out one of these original 1990s baths — tile, vanity, tub, subfloor — makes heavy debris but not high volume. That's exactly where the low 3.5-foot walls and the 1-ton allowance earn their keep.
+- **Bathroom remodel.** Pulling out one of these original 1990s baths — tile, vanity, tub, subfloor — makes heavy debris but not high volume. That's exactly where the low 3.5-foot walls and the included 1-ton allowance earn their keep, with any weight beyond the first ton billed at $105 per additional ton.
 - **Yard waste and trees.** This is a big one in Grovehurst. The lots back up to mature hardwood forest, so storm limbs, leaf fall, brush and the occasional taken-down tree are a steady source of debris. Reclaiming a back bed or clearing a fence line fills a 10-yard fast.
 - **Estate downsize.** These homes have largely been held by their original families since the '90s. When it's time to clear a long-held Colonial room by room at a respectful pace, the 10-yard moves the job along without crowding the driveway.
 
@@ -31,6 +31,6 @@ One small detail worth flagging, because we'd rather be straight with you. You'l
 
 ## Get a 10-yard on your Grovehurst driveway
 
-Whether it's an attached garage that's been collecting since the '90s, an original Colonial bathroom finally getting its remodel, a back lot full of hardwood limbs and brush, or an estate cleanout that needs to move at a respectful pace, the 10-yard dumpster is the no-waste choice for a one-area job in Grovehurst. Delivery, pickup, and your 1-ton tonnage allowance are all included in one straightforward price, typically $350 to $425.
+Whether it's an attached garage that's been collecting since the '90s, an original Colonial bathroom finally getting its remodel, a back lot full of hardwood limbs and brush, or an estate cleanout that needs to move at a respectful pace, the 10-yard dumpster is the no-waste choice for a one-area job in Grovehurst. Construction debris in a 10-yard starts at $550 (other materials priced separately), and that includes delivery, a 14-day rental, and a 1-ton allowance — extra days are $5/day and weight over the first ton is $105 per additional ton. Pickup is by request, so just call to schedule it when you're done.
 
 Call the family at **(301) 252-3586** and we'll get you scheduled — often the same day. You'll talk to an owner, get honest answers about sizing and placement, and have your dumpster staged right there on your own Grovehurst driveway.

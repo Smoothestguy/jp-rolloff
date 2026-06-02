@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## Why the 15-yard fits a single-project job in Jericho Park
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. It carries a 1.5-ton (3,000 lb) weight allowance, and a typical Jericho Park rental runs **$425 to $485, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the haul.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. Pricing is per material — for construction debris the 15-yard **starts at $595 (other materials are priced separately)**, and that includes delivery, pickup on request, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance. Keep it past 14 days for +$5/day, and any weight over the 1.5-ton allowance runs $105 per additional ton.
 
 We call this the "single-room reno" size, and that name is the key to using it well out here. Jericho Park's big lots and older midcentury-plus-custom homes tend to drive heavier whole-house renovations, additions, and land cleanouts — the kind of work that often calls for a 25- or 30-yard box. The 15 is the opposite end of that range: the in-between container, bigger than a 10-yard quick cleanup but still short and low enough to stay driveway-friendly. It is the size you reach for when the project is one defined piece of the house rather than the whole property at once.
 
@@ -37,4 +37,4 @@ Access to the neighborhood is by turning off the main road at the traffic light 
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Jericho Park address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in a midcentury home — and where on the lot you want the container staged. We will confirm the 15-yard is the right size, or steer you up to a 20 or 25 if the scope calls for it, and quote you on the spot with tonnage and delivery included.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Jericho Park address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in a midcentury home — and where on the lot you want the container staged. We will confirm the 15-yard is the right size, or steer you up to a 20 or 25 if the scope calls for it, and quote you on the spot — delivery, pickup on request, and a 14-day rental with a 1.5-ton allowance included, with any extra weight at $105 per ton.

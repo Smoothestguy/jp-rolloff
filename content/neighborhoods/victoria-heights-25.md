@@ -1,4 +1,4 @@
-When a project in Victoria Heights gets big enough that you stop counting trips to the transfer station, you've crossed into 25-yard territory. We're JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, and the 25-yard roll-off is the box we send to the V-section when a homeowner or contractor is doing real construction — a home addition, a whole-house remodel, a large roof tear-off, or a commercial-scale cleanout. It runs about 20 feet long, 8 feet wide, and 5 feet tall, holds roughly seven and a half pickup-truck loads, and comes with a 2.5-ton (5,000 lb) tonnage allowance built into the price. Most Victoria Heights jobs land between $525 and $625, delivery, pickup, and that tonnage included.
+When a project in Victoria Heights gets big enough that you stop counting trips to the transfer station, you've crossed into 25-yard territory. We're JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, and the 25-yard roll-off is the box we send to the V-section when a homeowner or contractor is doing real construction — a home addition, a whole-house remodel, a large roof tear-off, or a commercial-scale cleanout. It runs about 20 feet long, 8 feet wide, and 5 feet tall, and holds roughly seven and a half pickup-truck loads. Pricing is per material: for a 25-yard, construction debris starts at $640, and other materials are priced separately. That includes delivery, pickup, and a 14-day rental with a 2-ton allowance; extra days run $5/day, and weight over the allowance is $105 per additional ton. Pickup is on request, so call to schedule when you're ready.
 
 ## Why the 25-yard fits Victoria Heights specifically
 
@@ -12,7 +12,7 @@ We send the 25-yard to Victoria Heights for:
 
 - **Home additions** — bumping out a family room, adding a primary suite, or extending the back of a Colonial. New construction plus the demo of whatever wall you opened up adds up fast.
 - **Whole-house remodels** — gut jobs where flooring, cabinets, drywall, fixtures, and trim all leave at once.
-- **Large roofing tear-offs** — a full re-roof on one of these larger 1960s rooflines generates a lot of weight in shingles. The 2.5-ton allowance gives you room before overage matters.
+- **Large roofing tear-offs** — a full re-roof on one of these larger 1960s rooflines generates a lot of weight in shingles. The 2-ton allowance gives you room before overage matters, and anything over runs $105 per additional ton.
 - **Commercial cleanouts** — if you're clearing out a property, an estate, or a business-scale volume, this is the size that keeps you from ordering a second box.
 
 If your project is closer to a single bathroom, a garage purge, or a smaller roof, tell us when you call — a 15- or 20-yard is usually the smarter, cheaper fit, and we'd rather right-size you than oversell you.

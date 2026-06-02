@@ -37,9 +37,9 @@ The one situation that calls for a closer look is a dumpster that would sit in a
 
 ## Straightforward pricing and an honest drop
 
-A 30-yard in Two Rivers typically runs **$595 to $725**, and that price includes delivery, pickup, and the 3-ton tonnage allowance. No separate trip fee buried in the fine print, no surprise drop charge. For the demolition, commercial, and bulk jobs the 30 is built for, that all-in number is what lets you plan the project instead of guessing at the disposal bill.
+A 30-yard in Two Rivers **starts at $665 for construction debris (other materials priced separately)**, and that price includes delivery, pickup, and a 14-day rental with a 3-ton allowance. Need it longer? It's just $5 per extra day. Pickup is on request, so call to schedule when you're ready. For the demolition, commercial, and bulk jobs the 30 is built for, knowing the rental window and allowance up front is what lets you plan the project around the disposal bill.
 
-If the load is going to be especially heavy — concrete, masonry, dirt, or other dense material — tell us up front. Heavy material can push past the 3-ton allowance quickly, and we'd rather give you an honest heads-up on overage than have it land as a surprise. Sometimes for very dense debris we'll recommend splitting the work differently, and we'll say so.
+If the load is going to be especially heavy — concrete, masonry, dirt, or other dense material — tell us up front. Heavy material can push past the 3-ton allowance quickly, and extra weight runs $105 per additional ton, so we'd rather give you an honest heads-up than have it land as a surprise. Sometimes for very dense debris we'll recommend splitting the work differently, and we'll say so.
 
 ## Talk to the family that runs the trucks
 

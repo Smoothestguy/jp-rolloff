@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## Why the 15-yard fits a Woodmore North home
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. It carries a 1.5-ton (3,000 lb) weight allowance, and a typical Woodmore North rental runs **$425 to $485, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the haul.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. Pricing is per material — construction debris in the 15-yard **starts at $595** (other materials priced separately; aggregates are available only in the 10/15/20-yard sizes). That price **includes delivery, pickup, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance**; keep it longer at $5 per extra day. Go over the allowance and extra weight is billed at $105 per additional ton, and pickup is by request — call to schedule the haul.
 
 We call this the "single-room reno" size, and it is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly. In a neighborhood like Woodmore North, that driveway question is almost always an easy one. With lots around three-quarters of an acre and frequent long private driveways, a 15-yard stages on your own pad with room to spare — no need to put it anywhere near a city street. The compact 14-foot footprint also means it leaves plenty of the driveway open for contractor trucks and daily comings and goings, which matters on a home where the renovation may run for weeks.
 
@@ -33,4 +33,4 @@ If your plan is to gut the kitchen, both upstairs baths, and finish the basement
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Woodmore North address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in one of these finished-basement homes — and where the HOA has cleared you to stage the container. We will confirm the 15-yard is the right size and quote you on the spot, tonnage and delivery included.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Woodmore North address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in one of these finished-basement homes — and where the HOA has cleared you to stage the container. We will confirm the 15-yard is the right size and quote you on the spot — construction debris starts at $595 with delivery, pickup, a 14-day rental, and a 1.5-ton allowance included, plus $105 per additional ton over that allowance.

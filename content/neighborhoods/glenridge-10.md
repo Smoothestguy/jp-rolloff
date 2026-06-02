@@ -30,7 +30,7 @@ When we drop off, we'll set the can where you want it and lay down boards undern
 
 ## What it costs
 
-For Glenridge, a 10-yard typically runs **$350–$425**, and that price already includes delivery, pickup, and the 1-ton tonnage allowance. There's no separate trip charge buried in the fine print and no surprise haul fee at the end — the number we quote is the number you plan around. If a job runs heavier than a ton (concrete, old roofing shingles, and dirt add up fast), we'll explain any overage in plain terms before you ever commit, so nothing catches you off guard.
+For Glenridge, a 10-yard **starts at $550 for construction debris (other materials priced separately)**, and that price includes delivery, pickup, and a 14-day rental with a 1-ton (2,000 lb) weight allowance. Need it longer? Extra days are just $5/day. Pickup is on request — give us a call to schedule it when you're done. If a job runs heavier than a ton (concrete, old roofing shingles, and dirt add up fast), additional weight is $105 per extra ton, and we'll explain it in plain terms before you ever commit, so nothing catches you off guard.
 
 Because we're family-run and dispatch locally, we can usually be flexible on timing — drop the can on a Friday so you've got the weekend to work, and we'll swing back to grab it when you're done.
 

@@ -4,7 +4,7 @@ Beltsville is a little different from the usual bedroom suburb, and that shapes 
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard is the smallest footprint we offer, measuring 12 ft long by 8 ft wide by 3.5 ft tall. It holds roughly three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. In Beltsville a typical 10-yard rental runs **$350 to $425, including delivery, pickup, and that tonnage** — no tipping fees sprung on you after the load is weighed.
+The 10-yard is the smallest footprint we offer, measuring 12 ft long by 8 ft wide by 3.5 ft tall. It holds roughly three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. Pricing is per material: in Beltsville a 10-yard **starts at $550 for construction debris (other materials priced separately), including delivery, pickup, and a 14-day rental with that 1-ton allowance.** Additional days are $5/day, and any weight over the allowance is billed at $105 per additional ton. Pickup is on request — you call us to schedule it.
 
 The low 3.5-foot walls are the quiet advantage. You can walk right up and drop debris over the side without a ramp or a heave, which matters when you are loading heavy, dense material like tile, dirt, or roofing scrap. The 1-ton allowance is set for that kind of work: a single-room remodel or a focused cleanout, not a whole-house demo. And because the container fits in a single car spot, it slides onto even a narrow Beltsville driveway without eating the whole thing. If your project is bigger than one room, we will point you to a 15 or 20-yard instead — but for the jobs below, the 10 is the honest pick.
 

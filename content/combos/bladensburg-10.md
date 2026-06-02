@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville �
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard is the smallest footprint in our lineup, and on a town built this densely that is a feature, not a limitation. It measures 12 ft long by 8 ft wide by 3.5 ft tall, holds roughly three pickup-truck loads of debris, and comes with a 1-ton (2,000 lb) weight allowance. In Bladensburg a typical 10-yard rental runs **$350 to $425, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on afterward.
+The 10-yard is the smallest footprint in our lineup, and on a town built this densely that is a feature, not a limitation. It measures 12 ft long by 8 ft wide by 3.5 ft tall, holds roughly three pickup-truck loads of debris, and comes with a 1-ton (2,000 lb) weight allowance. In Bladensburg a 10-yard **starts at $550 for construction debris (other materials are priced separately), and that includes delivery, pickup on request, and a 14-day rental with a 1-ton allowance**. Pricing is per material, not one price for everything — additional days run $5/day, and any weight over the 1-ton allowance is billed at $105 per additional ton.
 
 The low 3.5-foot walls are the part people appreciate once it is on the ground: you can walk debris right up and drop it over the side without a ramp, which makes it the easy choice for one-room work. It is best known as the "garage cleanout" size, and the reason is simple — it handles a single concentrated job without making you pay for cubic feet of empty space you were never going to fill. If you are gutting a whole house or tearing off a full roof, you want something larger; for the focused projects below, the 10-yard is exactly right.
 

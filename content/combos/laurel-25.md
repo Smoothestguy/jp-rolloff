@@ -1,6 +1,6 @@
 When a Laurel project moves past "weekend cleanout" and into real construction territory, the 25-yard roll-off is usually the right call. It's our biggest standard container — 20 feet long, 8 feet wide, and 5 feet tall — and it swallows roughly 7.5 pickup-truck loads of debris before it's full. We're JP Roll-Off Service, a family-owned hauler running out of Beltsville, and Laurel is a straight shot up Route 1 for us. When you call, one of the owners picks up. No call center, no phone tree, no being passed around.
 
-This is the size most contractors mean when they say they need a "major construction" dumpster. It carries a 2.5-ton (5,000-lb) weight allowance, and typical all-in pricing runs $525 to $625 — delivery, pickup, and that tonnage are all included, so the number we quote is the number you pay. If you run a commercial account, ask about net-15 terms when you call.
+This is the size most contractors mean when they say they need a "major construction" dumpster. Pricing is per material: for construction debris, a 25-yard starts at $640 (other materials are priced separately). That price includes delivery, pickup, and a 14-day rental with a 2-ton weight allowance built in. Extra days run $5/day, and any weight over the 2-ton allowance is billed at $105 per additional ton. Pickup is on request, so just call us when you're ready and we'll schedule it. Commercial accounts welcome — ask about billing when you call.
 
 ## What fits in a 25-yard dumpster
 
@@ -11,7 +11,7 @@ The 25-yard is built for volume, and at 5 feet tall it's still low enough to loa
 - **Large roofing jobs** — multiple layers of shingles add up fast, though roofing is heavy, so keep an eye on the weight line as you load.
 - **Commercial cleanouts** — office, retail, or property turnovers where you're clearing furniture, fixtures, and built-ins in bulk.
 
-A quick word on weight: the 25-yard's volume is generous, but the 2.5-ton allowance is what governs heavy material. Shingles, plaster, tile, and wet debris hit the weight cap long before the box looks full. If your job is mostly heavy demo rather than bulky light material, mention it on the phone and we'll talk through whether a different size or a swap-out makes more sense. With a container this big, it's worth measuring your space twice before booking — make sure you have a clear, level 20-foot run for placement.
+A quick word on weight: the 25-yard's volume is generous, but the 2-ton allowance is what governs heavy material before overage applies. Shingles, plaster, tile, and wet debris hit the weight allowance long before the box looks full, and anything past 2 tons is billed at $105 per additional ton. If your job is mostly heavy demo rather than bulky light material, mention it on the phone and we'll talk through whether a different size or a swap-out makes more sense. With a container this big, it's worth measuring your space twice before booking — make sure you have a clear, level 20-foot run for placement.
 
 ## Which Laurel jobs suit this size
 
@@ -44,4 +44,4 @@ If you're not sure which one governs your street — and in Laurel, plenty of pe
 
 From our base in Beltsville, Laurel is a quick run straight up Route 1, so we can keep delivery and pickup tight around your construction schedule. Whether you're framing an addition out near Maple Lawn, gutting a townhome in South Laurel, stripping a roof, or clearing out a commercial space near Laurel Towne Centre, the 25-yard gives you room to keep working without stopping to haul.
 
-We're a family business, so you'll always be dealing with the people who actually own the trucks. When you're ready to book — or if you just want to talk through what size fits your job, where it can sit, and whether your street needs a permit — call us at **(301) 252-3586**. We'll give you a straight answer and an all-in price, and we'll get a clean container to your Laurel site when you need it.
+We're a family business, so you'll always be dealing with the people who actually own the trucks. When you're ready to book — or if you just want to talk through what size fits your job, where it can sit, and whether your street needs a permit — call us at **(301) 252-3586**. We'll give you a straight answer and a clear price for your material — with the 14-day rental and 2-ton allowance included — and we'll get a clean container to your Laurel site when you need it.

@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000 lb) weight allowance, and in Pointer Ridge a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage**. No tipping-fee surprises tacked on after the haul.
+The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Pointer Ridge a 25-yard for construction debris **starts at $640 (other materials priced separately)**, and that price includes delivery, pickup on request, and a **14-day rental with a 2-ton allowance**. Need it longer? It is just +$5/day. Go over the 2 tons and extra weight is $105 per additional ton — and when you are ready, call to schedule the pickup.
 
 The jump from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps one container on site through a project that would otherwise force a second haul partway through — a whole-house remodel, a substantial addition, a big roof, or a full cleanout. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls than the mid-size containers offer.
 
@@ -16,7 +16,7 @@ The neighborhood's housing stock is the whole story here. These are 1970s and 19
 
 - **Home additions.** Bumping out a rambler or adding onto a Colonial Revival throws off framing lumber, old siding, and tear-out debris in the volume a 25-yard is meant to hold — more than a smaller box can take without a mid-project swap.
 - **Whole-house remodels.** A full gut of a 40-to-50-year-old Pointer Ridge home — kitchen, baths, flooring, and drywall all coming out at once — is a textbook 25-yard job. When a Levitt-era house gets modernized down to the studs, the debris adds up fast, and one large container beats two trips.
-- **Large roofing tear-offs.** After four or five decades, original and second-generation roofs reach the end of the line. Bigger or multi-layer tear-offs run heavy, and the 2.5-ton allowance gives more headroom for shingle weight than the smaller sizes.
+- **Large roofing tear-offs.** After four or five decades, original and second-generation roofs reach the end of the line. Bigger or multi-layer tear-offs run heavy, and the 2-ton allowance gives more headroom for shingle weight than the smaller sizes.
 - **Commercial cleanouts.** Pointer Ridge Place includes some attached and commercial addresses, and when a larger property or business clearout throws off material in bulk, the 25-yard handles it in one go.
 
 If your Pointer Ridge project is on the smaller side — a single-room redo, a bathroom refresh, a routine garage cleanout — a 20-yard or even a 15-yard is usually the smarter spend, and we will tell you so. The 25-yard pays off when the job is genuinely big.

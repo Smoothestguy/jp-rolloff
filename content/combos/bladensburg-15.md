@@ -2,7 +2,7 @@ When a single-room project in Bladensburg outgrows a pile of contractor bags but
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures roughly 14 feet long, 8 feet wide, and 4 feet tall. That holds about four and a half pickup-truck loads of debris, and it comes with a 1.5-ton (3,000-pound) weight allowance. Our typical price runs $425 to $485, and that includes delivery, pickup, and the tonnage inside that allowance, so you're not guessing at the final number.
+The 15-yard measures roughly 14 feet long, 8 feet wide, and 4 feet tall. That holds about four and a half pickup-truck loads of debris, and it comes with a 1.5-ton (3,000-pound) weight allowance. Pricing is per material — for construction debris a 15-yard starts at $595, with other materials priced separately. That rate includes delivery, pickup, and a 14-day rental with the 1.5-ton allowance; additional days run $5/day, and any weight over the allowance is billed at $105 per ton. Pickup is on request, so you call us when you're ready and we schedule the haul.
 
 The four-foot walls matter as much as the volume. You can load this size by hand or with a wheelbarrow without heaving everything over your head, which is why it's the go-to for a one-room job where a crew is moving steadily over a few days. It's the size we describe as the "single-room reno" bin: enough room for the demo from one kitchen or two baths, not so much that you're staring at half an empty box on pickup day.
 

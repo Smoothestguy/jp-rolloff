@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical Old Town Bowie rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises added after the fact.
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. Pricing is per material: a 20-yard for construction debris **starts at $620** (other materials are priced separately), and that price includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) weight allowance. Keep it longer for $5 a day, and if you go over the 2 tons, additional weight is billed at $105 per ton.
 
 Those five feet of wall height are the part people underestimate. It is low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demo. It is the size most customers end up choosing — and rarely regret.
 
@@ -17,7 +17,7 @@ Here are the jobs that come up again and again in Old Town Bowie, and they fall 
 - **Whole-house cleanouts.** This is the 20-yard's best-known role — it is even nicknamed the "whole-house cleanout" size. Clearing one of these older frame homes between owners, or after decades of accumulation, fills a 20-yard about right without paying for space you will not use.
 - **Multi-room remodels.** Tearing out original plaster, lath, trim, and dated kitchens and baths across several rooms of one of these century-old houses is the classic 20-yard job here. A gut on a Victorian I-house or Foursquare produces exactly the volume a 20 was built for.
 - **Estate cleanouts.** Old Town Bowie's small-lot, close-knit character means many of these houses have stayed in the same hands for generations. When one of those longtime homes changes hands, the 20-yard handles furniture, boxes, and a full lifetime of household belongings in a single container.
-- **Mid-size roofing and siding tear-offs.** Wood-frame homes of this era frequently need both the roof and the wood or asphalt siding pulled. A single-layer roof tear-off on one of these houses fits comfortably, with the 2-ton allowance covering most jobs of that footprint.
+- **Mid-size roofing and siding tear-offs.** Wood-frame homes of this era frequently need both the roof and the wood or asphalt siding pulled. A single-layer roof tear-off on one of these houses fits comfortably, and the 2-ton allowance covers most jobs of that footprint — heavier loads run $105 per additional ton.
 
 If your project is smaller — a single bathroom, a porch demo, a garage purge — a 10 or 15-yard may actually serve you better on these tight lots, where a smaller can is easier to tuck in. If you are taking a house down to the studs and adding on, we will talk through whether a 30 makes more sense. Tell us the address and the scope and we will steer you straight; we would rather size it right than oversell you.
 

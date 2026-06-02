@@ -2,14 +2,14 @@
 export default {
   name: "JP Roll-Off Service",
   // Bump this single value to cache-bust ALL css/js across every page.
-  assetVersion: "69",
+  assetVersion: "71",
   phone: {
     display: "(301) 252-3586",
     tel: "+13012523586",
     office: "301-879-7040"
   },
   address: "PO Box 168, Beltsville, MD 20704",
-  founded: 2005,
+  founded: 2000,
   // Primary nav — edit once, renders in nav.njk on every page.
   nav: [
     { href: "/services", label: "Dumpsters" },

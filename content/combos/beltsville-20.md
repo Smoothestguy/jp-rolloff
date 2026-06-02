@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler, and Beltsville is our home ba
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard is the workhorse of the residential lineup. It measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and in Beltsville a typical 20-yard rental runs **$450 to $525, including delivery, pickup, and that tonnage**. No tipping-fee surprises tacked on after the fact.
+The 20-yard is the workhorse of the residential lineup. It measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and in Beltsville a 20-yard **starts at $620 for construction debris (other materials are priced separately)**. That price includes delivery, pickup, and a 14-day rental with the 2-ton allowance. Extra days run $5/day, and any weight over the allowance is billed at $105 per additional ton. Pickup is on request — just call to schedule when you're done.
 
 Five feet of wall height is the part people underestimate. It is low enough that you can still walk debris up and toss it over the side without a ramp, but tall enough to swallow the volume of a real project. That balance is why it is the size most customers end up choosing — bigger than a quick-cleanup 10 or 15-yard, but short of the 30-yard that mostly makes sense for new construction or full structural demo. It also fits most two-car driveways with room to spare, which counts for a lot in this town.
 

@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## Why the 15-yard fits a Two Rivers home
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. It carries a 1.5-ton (3,000 lb) weight allowance, and a typical Two Rivers rental runs **$425 to $485, including delivery, pickup, and that tonnage** — not a base rate with tipping fees added after the haul.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. Pricing is per material, and a 15-yard for construction debris **starts at $595 (other materials are priced separately), including delivery, pickup, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance**. Extra weight beyond that allowance is $105 per additional ton, extra days run $5 each, and pickup is scheduled on request when you call.
 
 We call this the "single-room reno" size, and it is the in-between container — bigger than a 10-yard quick cleanout, but still short and low enough to stay driveway-friendly for most homes. That balance matters a lot in Two Rivers. The community runs from large single-family homes up toward 5,000-plus square feet down to clustered 55-plus villas in the active-adult sections, and the lots and driveways vary just as widely. On a full-size single-family lot in one of the family neighborhoods, the 15 leaves room to spare on the driveway. In the 55-plus villa sections, where driveways are often shorter and the layouts are clustered with shared frontage, the 15's compact 14-foot footprint is frequently the largest container that will sit cleanly on your own pad without spilling toward a neighbor's space.
 
@@ -15,7 +15,7 @@ So the 15 fits on two counts here: it swallows a contained, one-room project, an
 Two Rivers is recent construction — the final plan was approved around 2012 and builders like Classic Group, NVHomes, Ryan Homes, Brookfield, and Winchester were still putting up homes well after that. That shapes the work that comes up. You do not see many mid-century gut-rehabs out here; instead the demand skews toward owner-driven upgrades, basement and garage finishes, and finishing touches on newer homes. That is squarely 15-yard territory — larger debris from one part of the house at a time.
 
 - **Kitchen remodel.** Even on a newer Two Rivers home, the first owner-driven kitchen refresh — pulling the builder-grade cabinets, counters, and flooring, drywall and all — fills a 15-yard about right without paying for space you will not use.
-- **Roofing tear-off.** A single-layer asphalt tear-off on one of these contemporary rooflines sits comfortably inside the 1.5-ton allowance, so the load weight stays in line with the price.
+- **Roofing tear-off.** A single-layer asphalt tear-off on one of these contemporary rooflines sits comfortably inside the 1.5-ton allowance, so you typically avoid the $105-per-ton charge for extra weight.
 - **Two-bath gut.** Pulling tile, vanities, tubs, and subfloor from a pair of bathrooms is a classic 15-yard job, common as these homes hit the age for their first real refresh.
 - **Basement cleanout.** This is the signature driver in Two Rivers. Many of the single-family homes were sold with unfinished basements, and finishing one — or clearing out years of stored boxes, framing, and old carpet — lands neatly in a 15.
 
@@ -33,4 +33,4 @@ Because so many of these homes came from the same handful of builders and share 
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Two Rivers address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout — and where your HOA has cleared you to stage the container. We will confirm the 15-yard is the right size, sort out the correct staging for your section, and quote you on the spot, tonnage and delivery included.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Two Rivers address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout — and where your HOA has cleared you to stage the container. We will confirm the 15-yard is the right size, sort out the correct staging for your section, and quote you on the spot — delivery, pickup, and a 14-day rental with a 1.5-ton allowance included, with extra weight at $105 per ton and pickup scheduled on request.

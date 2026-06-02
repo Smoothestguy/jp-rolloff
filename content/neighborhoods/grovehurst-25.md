@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000 lb) weight allowance, and in Grovehurst a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage**. No tipping-fee surprises tacked on after the haul.
+The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Grovehurst a 25-yard **starts at $640 for construction debris (other materials priced separately)**, and that price includes delivery, pickup on request, and a 14-day rental with a 2-ton allowance. Keep it past two weeks and it's just $5 a day extra; go over the 2-ton allowance and additional weight is $105 per ton.
 
 The jump from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through — a whole-house remodel, a substantial addition, a large roof, or a full cleanout. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls than the mid-size containers offer.
 
@@ -16,7 +16,7 @@ Grovehurst's housing stock is the story here. These are substantial 1990s Coloni
 
 - **Home additions.** With quarter- to half-acre lots and room to build out, additions are a natural fit in Grovehurst. Bumping out the back of a four- or five-bedroom Colonial — a sunroom, a family-room expansion, a primary suite — throws off framing lumber, old siding, and tear-out debris in the volume a 25-yard is meant to hold.
 - **Whole-house remodels.** A full gut of a 1990s Colonial — kitchen, baths, flooring, and drywall all coming out at once — is a textbook 25-yard job. When a house this size gets modernized, the debris adds up fast, and one large container beats two trips.
-- **Large roofing tear-offs.** These are big roofs. After three decades, the original shingles are due, and a tear-off across a 3,000-plus-square-foot Colonial runs heavy. The 2.5-ton allowance gives more headroom for shingle weight than the smaller sizes.
+- **Large roofing tear-offs.** These are big roofs. After three decades, the original shingles are due, and a tear-off across a 3,000-plus-square-foot Colonial runs heavy, and extra weight beyond the 2-ton allowance is billed at $105 per ton — worth planning for on a big shingle job.
 - **Commercial cleanouts.** When a larger property or a business clearout nearby throws off material in bulk, the 25-yard handles it in one go.
 
 If your Grovehurst project is on the smaller side — a single bathroom, a deck swap, a routine garage or yard cleanout — a 20-yard or even a 15-yard is usually the smarter spend, and we will tell you so. The 25-yard pays off when the job is genuinely big.

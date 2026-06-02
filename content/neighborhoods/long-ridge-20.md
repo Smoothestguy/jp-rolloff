@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical Long Ridge rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises bolted on after the fact.
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. Pricing is per material: a 20-yard for construction debris **starts at $620**, with other materials priced separately (aggregates like concrete, dirt, and brick are accepted only in the 10, 15, and 20-yard sizes). That price includes delivery, pickup, and a **14-day rental with a 2-ton (4,000 lb) weight allowance**; extra days run $5/day and any weight over the allowance is $105 per additional ton. Pickup is on request, so just call to schedule the haul-away when you are ready.
 
 The five-foot walls are the part most people underestimate. They are low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for Long Ridge homes: bigger than a quick-cleanup 10 or 15-yard, but short of the 30-yard that mostly makes sense for gut-to-the-studs jobs or full structural demo. It is the size most customers here end up choosing — and rarely regret.
 

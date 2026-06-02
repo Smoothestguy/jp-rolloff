@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville. 
 
 ## What fits in a 30-yard dumpster
 
-The 30-yard is the largest box we run and the one most people know as the "commercial and demo" size. It measures 22 ft long by 8 ft wide by 6 ft tall and swallows roughly nine pickup-truck loads of debris. It carries a 3-ton (6,000 lb) weight allowance, and a typical 30-yard rental in Takoma Park runs **$595 to $725, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the fact.
+The 30-yard is the largest box we run and the one most people know as the "commercial and demo" size. It measures 22 ft long by 8 ft wide by 6 ft tall and swallows roughly nine pickup-truck loads of debris. It carries a 3-ton (6,000 lb) weight allowance, and a 30-yard in Takoma Park **starts at $665 for construction debris (other materials are priced separately)**. That price includes delivery, a 14-day rental, and the 3-ton allowance, with pickup on request when you call to schedule. Extra days run $5 each, and weight over the 3-ton allowance is billed at $105 per additional ton.
 
 The reason to reach for a 30 over a 20 or a 25 is plain arithmetic. When you are gutting an entire structure or clearing a multi-unit building, a smaller container fills before the job is half done, and a second drop-and-haul costs more than sizing up once. The 30-yard is maximum capacity in a single container — you fill it, we take it, you are done.
 

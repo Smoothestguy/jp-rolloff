@@ -33,9 +33,9 @@ If your project is bigger than a room or two — a full kitchen tear-out, a roof
 
 ## What it costs and what's included
 
-A 10-yard in the Overbrook area typically runs $350 to $425. That price includes delivery, pickup, and a 1-ton (2,000-pound) tonnage allowance. No surprise line items added after the fact — what we quote you on the phone is what you pay.
+A 10-yard in the Overbrook area starts at $550 for construction debris (other materials are priced separately). Pricing is per material, and aggregates like dirt, concrete, and stone are only available in the 10-, 15-, and 20-yard sizes. That price includes delivery, pickup, and a 14-day rental with a 1-ton (2,000-pound) weight allowance. Need it longer? It's just $5 a day after that. Pickup is on request — give us a call to schedule it when you're done.
 
-The weight allowance is worth a quick word, especially for the yard-waste and remodel jobs this size handles. One ton covers a lot of household clutter and general debris. Where it gets heavy is dense material — wet soil, concrete, stone, brick, or a load of soaked tree wood. If your job leans that way, mention it when you call and we'll set the right expectation up front so there are no surprises on the scale.
+The weight allowance is worth a quick word, especially for the yard-waste and remodel jobs this size handles. One ton covers a lot of household clutter and general debris, and any weight beyond that ton runs $105 per additional ton. Where it gets heavy is dense material — wet soil, concrete, stone, brick, or a load of soaked tree wood. If your job leans that way, mention it when you call and we'll set the right expectation up front so you know what to expect on the scale.
 
 As for the driveway itself, we set the container down carefully, and we're glad to lay boards under the wheels if you're worried about the surface — just ask. These are everyday driveways doing everyday duty, and we treat them that way.
 

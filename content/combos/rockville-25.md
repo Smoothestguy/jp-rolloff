@@ -4,7 +4,7 @@ The county seat of Montgomery County, Rockville covers about 13.4 square miles a
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard measures 20 ft long by 8 ft wide by 5 ft tall and swallows roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000 lb) weight allowance, and a typical 25-yard rental in Rockville runs **$525 to $625, including delivery, pickup, and that tonnage** — not a teaser rate with tipping fees added after the load hits the scale.
+The 25-yard measures 20 ft long by 8 ft wide by 5 ft tall and swallows roughly 7.5 pickup-truck loads of debris. Pricing is per material: a 25-yard **starts at $640 for construction debris (other materials are priced separately)**, and that includes delivery, pickup, and a **14-day rental with a 2-ton weight allowance**. Extra days run $5/day, weight over the allowance is billed at $105 per additional ton, and pickup is on request — you call us to schedule.
 
 The jump up from a 20-yard is real volume, not just a couple of extra feet. That capacity is what keeps a single container on site through a project that would otherwise need a mid-job swap — a full gut, a two-story addition, a large roof. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind them.
 
@@ -16,8 +16,8 @@ This is the size for the city's biggest residential and commercial jobs. Four la
 
 - **Home additions.** Twinbrook was launched in 1946 on 200 acres of former farmland, and its WWII-era Capes were built on purpose with unfinished upper levels so young families could expand later — about 88% of its homes date to the 1940–1969 era. Decades on, those second-story additions and big bump-outs are still happening, and the framing, old siding, and tear-out from a full addition is exactly the volume a 25-yard holds. The same goes for the larger colonials out in Derwood near Rock Creek Regional Park.
 - **Whole-house remodels.** A full gut down to the studs on a 1970s Rockville single-family home — kitchen, baths, flooring, and drywall all coming out at once — is a textbook 25-yard job, where a smaller can would mean stopping mid-project to swap containers.
-- **Large roofing tear-offs.** Bigger or multi-layer roofs run heavy fast, and the 2.5-ton allowance gives more headroom for asphalt-shingle weight than the smaller sizes do. The roomy lots and longer driveways of Derwood make staging a roof job here straightforward.
-- **Commercial cleanouts.** Around Rockville Town Center — the 12.5-acre mixed-use district rebuilt in 2007 with roughly 181,000 square feet of retail and restaurant space — and across the high-density Pike District on the North Bethesda border, tenant fit-outs and full cleanouts throw off a lot of material in a hurry. The 25-yard handles those, and **commercial accounts get net-15 terms** so the billing keeps pace with the work.
+- **Large roofing tear-offs.** Bigger or multi-layer roofs run heavy fast; the 2-ton allowance is included, and any weight beyond it is simply billed at $105 per additional ton rather than catching you by surprise. The roomy lots and longer driveways of Derwood make staging a roof job here straightforward.
+- **Commercial cleanouts.** Around Rockville Town Center — the 12.5-acre mixed-use district rebuilt in 2007 with roughly 181,000 square feet of retail and restaurant space — and across the high-density Pike District on the North Bethesda border, tenant fit-outs and full cleanouts throw off a lot of material in a hurry. The 25-yard handles those, and **commercial accounts welcome — ask about billing** so the arrangement keeps pace with the work.
 
 If your project is smaller — one room, a single bath, a routine cleanout — a 20-yard or 15-yard is the smarter spend, and we will tell you so rather than rent you empty air. The 25-yard earns its keep when the job is genuinely big.
 

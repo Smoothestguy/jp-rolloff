@@ -4,7 +4,7 @@ If your address starts with the letter W and your back fence looks out onto the 
 
 Whitehall is the last and largest run of Levitt's mid-1960s detached single-family homes in Belair at Bowie, with most of its houses realized between roughly 1964 and 1968. That puts nearly the entire neighborhood in the 55-to-60-year-old range now — original kitchens and baths, aging systems, and a lot of long-held storage. These aren't tear-down lots; over the decades Whitehall's once-uniform Levitt streetscapes have been personalized with kitchen and bath upgrades and additions, so what we see here is a steady stream of remodels and cleanouts rather than new construction.
 
-The 10-yard is what we call the "garage cleanout" size for a reason. Its footprint is just 12 feet long, 8 feet wide, and 3.5 feet tall — about the space of a single parked car — so you handle a one-room job without paying for cubic yards you'll never fill. It holds roughly three pickup-truck loads and includes a 1-ton (2,000-pound) tonnage allowance, delivery, and pickup. Typical pricing runs $350 to $425, all in. When the work is concentrated in one area, the small footprint is the whole point.
+The 10-yard is what we call the "garage cleanout" size for a reason. Its footprint is just 12 feet long, 8 feet wide, and 3.5 feet tall — about the space of a single parked car — so you handle a one-room job without paying for cubic yards you'll never fill. It holds roughly three pickup-truck loads, and the price includes delivery, pickup, and a 14-day rental with a 1-ton (2,000-pound) allowance. Pricing starts at $550 for construction debris (other materials priced separately). Extra weight beyond the 1-ton allowance is $105 per additional ton, and pickup is on request — just call to schedule. When the work is concentrated in one area, the small footprint is the whole point.
 
 ## The right jobs for a 10-yard here
 
@@ -31,6 +31,6 @@ Being family-owned means the person who answers the phone is the same person who
 
 ## Get a 10-yard on your Whitehall driveway
 
-Whether it's a garage that's been collecting since the home was built in the '60s, an original bathroom finally getting its remodel, an overgrown yard along the golf-course boundary, or an estate cleanout that needs to move at a respectful pace, the 10-yard dumpster is the no-waste choice for a one-room job in Whitehall. Delivery, pickup, and your 1-ton tonnage allowance are all included in one straightforward price, typically $350 to $425.
+Whether it's a garage that's been collecting since the home was built in the '60s, an original bathroom finally getting its remodel, an overgrown yard along the golf-course boundary, or an estate cleanout that needs to move at a respectful pace, the 10-yard dumpster is the no-waste choice for a one-room job in Whitehall. Delivery, pickup, and a 14-day rental with a 1-ton allowance are all included; pricing starts at $550 for construction debris (other materials priced separately), with extra weight at $105 per additional ton and pickup on request.
 
 Call the family at **(301) 252-3586** and we'll get you scheduled — often the same day. You'll talk to an owner, get honest answers about sizing and placement, and have your dumpster staged right there on your own W-section driveway.

@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000 lb) weight allowance, and in Mitchellville a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage**. No tipping-fee surprises tacked on after the haul.
+The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Mitchellville a 25-yard for construction debris **starts at $640 (other materials priced separately)**, and that price includes delivery, pickup on request, and a 14-day rental with a 2-ton weight allowance. Extra days run $5/day, and weight over the 2-ton allowance is billed at $105 per additional ton.
 
 The jump from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through — a whole-house remodel, a substantial addition, a large roof, or a full cleanout. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls than the mid-size containers offer.
 
@@ -16,7 +16,7 @@ The age and scale of the housing stock is the story here. Because most Mitchellv
 
 - **Home additions.** Adding onto a large Colonial on a half-acre or full-acre lot throws off framing lumber, old siding, and tear-out debris in the volume a 25-yard is meant to hold — more than a smaller box can take without a mid-project swap.
 - **Whole-house remodels.** A full reworking of a 1980s-2000s-era home — kitchen, baths, flooring, and finished-basement materials all coming out at once — is a textbook 25-yard job. When a big house gets modernized room by room, the debris adds up fast, and one large container beats two trips.
-- **Large roofing tear-offs.** The bigger footprints of Mitchellville's Colonials mean bigger roofs. A large or multi-layer tear-off runs heavy, and the 2.5-ton allowance gives more headroom for shingle weight than the smaller sizes.
+- **Large roofing tear-offs.** The bigger footprints of Mitchellville's Colonials mean bigger roofs. A large or multi-layer tear-off runs heavy, and the included 2-ton allowance covers a good portion of the shingle weight, with any excess billed at $105 per additional ton.
 - **Commercial cleanouts.** When a larger property or a business in the area clears out material in bulk, the 25-yard handles it in one go.
 
 If your Mitchellville project is on the smaller side — a single-room redo, a bathroom refresh, or a routine basement declutter — a 20-yard or even a 15-yard is usually the smarter spend, and we will tell you so. The 25-yard pays off when the job is genuinely big.

@@ -4,7 +4,7 @@ Northridge sits in the 20720 corner of Bowie in Prince George's County, and it i
 
 ## Why the 25-yard is the major-construction size
 
-The 25-yard is our "major construction" container. It measures roughly 20 feet long, 8 feet wide, and 5 feet tall, holds about 7.5 pickup-truck loads, and comes with a 2.5-ton (5,000-pound) weight allowance built into the price. For most Northridge homeowners we quote it in the $525 to $625 range, and that includes delivery, pickup, and the tonnage allowance — not a teaser rate that balloons later.
+The 25-yard is our "major construction" container. It measures roughly 20 feet long, 8 feet wide, and 5 feet tall, and holds about 7.5 pickup-truck loads. Pricing is per material: construction debris in the 25-yard starts at $640, with other materials priced separately. That price includes delivery, pickup on request, and a 14-day rental with a 2-ton weight allowance. Extra days run $5/day, and weight beyond the 2-ton allowance is $105 per additional ton.
 
 That extra height compared to our mid-size boxes is the whole point. On a whole-house remodel or a home addition, the volume adds up fast: framing offcuts, drywall, old cabinetry, flooring, insulation, and trim all stack higher than people expect. The 25-yard gives you room to keep working without calling for a swap halfway through. But that same height means you want to measure twice before you book. A 20-foot box needs real room to set down and to haul away, and it is worth a two-minute look at your driveway before delivery day. If you are not sure it fits, tell us about your lot when you call and we will help you figure it out — that is the kind of thing a family shop is happy to talk through.
 
@@ -14,7 +14,7 @@ Northridge skews toward higher-value, owner-occupied homes — the kind of housi
 
 - **Home additions.** Bumping out a kitchen, adding a primary suite, or building over the garage on a contemporary 1990s home generates demolition debris plus new-construction scrap. The 25-yard handles both phases.
 - **Whole-house remodels.** Taking a 2,000-plus-square-foot Northridge home down to the studs produces a tremendous amount of material. One large box beats three small ones.
-- **Large roofing tear-offs.** Many of these roofs are now 25 to 30 years old and reaching the end of their first or second shingle life. Shingles are heavy, so the 2.5-ton allowance and the volume both come into play here — talk to us about square footage so we get the size right.
+- **Large roofing tear-offs.** Many of these roofs are now 25 to 30 years old and reaching the end of their first or second shingle life. Shingles are heavy, so the 2-ton allowance and the volume both come into play here — talk to us about square footage so we get the size right.
 - **Commercial cleanouts.** Clearing out an office, retail space, or estate generates mixed bulk that fills a 25-yard quickly.
 
 If your job is smaller — a single-room refresh, a garage purge, a small bath remodel — we will happily steer you toward a smaller, cheaper container instead. We would rather get you the right box than oversell you the big one.
@@ -29,6 +29,6 @@ One more Northridge note: the neighborhood centers on Northridge Park with its p
 
 ## How we run a Northridge delivery
 
-We dispatch out of the Beltsville yard every morning, and Northridge's 25-minute drive means same-day service is common when you catch us early. We will confirm where you want the box, lay down boards to protect your driveway if you ask, and set it square so loading is easy. When you are done, one call brings us back to haul it — and because the tonnage allowance is already in your quote, there are no mystery fees waiting at the end.
+We dispatch out of the Beltsville yard every morning, and Northridge's 25-minute drive means same-day service is common when you catch us early. We will confirm where you want the box, lay down boards to protect your driveway if you ask, and set it square so loading is easy. Your rental runs 14 days with a 2-ton allowance included; keep it longer at $5/day, and any weight over the allowance is billed at $105 per additional ton. When you are done, just give us a call to schedule pickup and we will come back to haul it.
 
 We have been doing this as a family for a long time, and the way we like to work is simple: tell us about the project, we tell you the honest size and the honest price, and we show up when we say we will. If you are planning an addition, a whole-house remodel, a big roof, or a commercial cleanout in Northridge and a 25-yard sounds about right, give us a call at **(301) 252-3586**. Ask for the owners — that is who answers — and we will get your container scheduled and on its way up Route 197.

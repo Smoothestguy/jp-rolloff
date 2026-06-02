@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville �
 
 ## What fits in a 30-yard dumpster
 
-The 30-yard measures 22 ft long by 8 ft wide by 6 ft tall and holds roughly nine pickup-truck loads of debris. It comes with a 3-ton (6,000 lb) weight allowance, and a typical Greenbelt rental runs **$595 to $725, including delivery, pickup, and that tonnage** — no tipping-fee surprises added after the fact.
+The 30-yard measures 22 ft long by 8 ft wide by 6 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material: a 30-yard **starts at $665 for construction debris (other materials priced separately)**, and that price includes delivery, pickup, and a **14-day rental with a 3-ton (6,000 lb) weight allowance**. Extra days run $5/day, weight over the allowance is billed at $105 per additional ton, and pickup is on request — you call us to schedule the haul-away.
 
 That extra foot of wall height over the mid-size bins, stretched across 22 feet of length, is what makes this the maximum-capacity option. It is built for volume, not for tossing a few bags over the side. The trade-off is footprint: a 30-yard needs a long, straight run-up to set down level, plus clearance for the truck to position and lift it. On a commercial lot or an open office-park drive that is rarely a problem. In Greenbelt's tighter residential settings — the historic court lots, a narrow Greenbelt Station apron — it is the first thing we check, and sometimes the reason we will steer you to a 25-yard instead.
 

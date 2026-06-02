@@ -4,7 +4,7 @@ We're JP Roll-Off Service, a family-owned hauler running out of Beltsville. When
 
 ## Why the 10-yard is the right call for a Belair Town townhome
 
-The 10-yard is our smallest container: about 12 feet long, 8 feet wide, and 3.5 feet tall. That's roughly three pickup-truck loads, and it comes with a 1-ton (2,000 lb) weight allowance. Most Belair Town jobs land in the $350 to $425 range, and that price already includes delivery, pickup, and your tonnage — no surprise add-ons after the fact.
+The 10-yard is our smallest container: about 12 feet long, 8 feet wide, and 3.5 feet tall. That's roughly three pickup-truck loads, and it comes with a 1-ton (2,000 lb) weight allowance. Pricing is per material — construction debris in the 10-yard starts at $550, and other materials are priced separately (aggregates are only available in the 10-, 15-, and 20-yard). That price includes delivery, pickup, and a 14-day rental with the 1-ton allowance; extra days are +$5/day, and any weight beyond the first ton runs $105 per additional ton. Pickup is on request — just call to schedule.
 
 We call this the "garage cleanout" size for a reason: its footprint is small enough to sit in a single car space, which matters a great deal here. Under the Belair Town II parking rules, each unit gets the exclusive use of just one assigned space, with anything extra limited to street parking or the spaces behind the units. There's no roomy detached-home driveway to swallow a 20- or 30-yard box. The 10-yard lets you handle a real cleanout without paying for cubic feet you'll never fill — and without tying up parking your neighbors are counting on.
 
@@ -39,7 +39,7 @@ We'd rather have that conversation up front than show up to a spot that turns ou
 
 ## What you can expect from us
 
-You'll get a straight quote on the phone, a clear delivery window, and a container dropped exactly where we agreed. We don't nickel-and-dime — delivery, pickup, and your one ton of tonnage are all in the price. When you're loaded up, one call and we're back out to haul it away, usually the next morning since we run from Beltsville daily.
+You'll get a straight quote on the phone, a clear delivery window, and a container dropped exactly where we agreed. Your price includes delivery, pickup, and a 14-day rental with a 1-ton allowance — extra days are +$5/day, and any weight over the first ton is $105 per additional ton, so you'll always know how the numbers work before we roll out. When you're loaded up, pickup is by request: one call to schedule and we're back out to haul it away, usually the next morning since we run from Beltsville daily.
 
 Because we're family-owned, the person who answers is the person who shows up. We know these streets off Annapolis Road, we know how tight the parking gets, and we know how to place a 10-yard so it does the job without crowding your neighbors.
 

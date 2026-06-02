@@ -4,7 +4,7 @@ Upper Marlboro is genuinely two places, and that matters more for a 30-yard than
 
 ## What fits in a 30-yard
 
-This is the size for volume. With about nine pickup loads of capacity, the 30-yard swallows the kind of debris that would overflow a 20- or 25-yard well before the job is done. Typical pricing runs $595–$725 and includes delivery, pickup, and tonnage up to the 3-ton allowance.
+This is the size for volume. With about nine pickup loads of capacity, the 30-yard swallows the kind of debris that would overflow a 20- or 25-yard well before the job is done. Pricing is per material — a 30-yard starts at $665 for construction debris (other materials are priced separately, and heavy aggregates like dirt, concrete, and asphalt are only offered in the 10-, 15-, and 20-yard sizes). That rate includes delivery, pickup on request, and a 14-day rental with a 3-ton weight allowance; extra days are $5/day and any weight over the allowance is billed at $105 per additional ton.
 
 Two things to keep in mind. First, the 6-foot walls are tall, which makes loading bulky, lightweight material easy but means heavy material adds up fast on weight — the 30-yard's strength is cubic volume, not density, so it's ideal when you've got a lot of *stuff* rather than a lot of dirt, concrete, or shingles (those heavy loads are better matched to a smaller box where you'll hit the weight cap before you run out of room). Second, that 22-foot length needs space. We need a straight, reasonably level approach to back the truck in and roll the container off, plus clearance overhead.
 

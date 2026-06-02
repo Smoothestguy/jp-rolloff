@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched right here in Belts
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and swallows roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000 lb) weight allowance, and in Beltsville a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage**. No tipping-fee surprises added after the fact.
+The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and swallows roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Beltsville a 25-yard **starts at $640 for construction debris (other materials are priced separately)**, and that rate includes delivery, pickup, and a **14-day rental with a 2-ton weight allowance**. Extra days run $5/day, and weight over the 2-ton allowance is billed at $105 per additional ton. Pickup is on request — just call us to schedule when you are ready.
 
 The jump from a 20-yard is real volume, not just a few extra feet. That extra capacity is what keeps a single container on site through a project that would otherwise need a second haul — a whole-house remodel, a home addition, a large roof, or a full commercial cleanout. The walls are still five feet, so you can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls.
 
@@ -16,8 +16,8 @@ Beltsville's housing stock is heavily mid-20th-century. Intensive build-out came
 
 - **Home additions.** Bumping out a 1960s rancher in Calverton or adding a second story to a Cherry Hill split-level produces framing, old siding, and tear-out debris in the volume a 25-yard is meant to hold.
 - **Whole-house remodels.** A full gut down to the studs across a Powder Mill or Sellman home — kitchen, baths, flooring, and drywall all at once — is a classic 25-yard job, where a smaller container would mean a mid-project swap.
-- **Large roofing tear-offs.** Bigger or multi-layer roofs run heavy, and the 2.5-ton allowance gives more headroom than the smaller sizes for asphalt shingle weight.
-- **Commercial cleanouts.** Out in the Beltsville Industrial Park along Ammendale Road and over toward Konterra, warehouse cleanouts and tenant fit-outs throw off a lot of material fast. The 25-yard handles those, and **commercial accounts get net-15 terms** so the billing keeps pace with the work.
+- **Large roofing tear-offs.** Bigger or multi-layer roofs run heavy; just keep in mind that weight over the 2-ton allowance is billed at $105 per additional ton, so the 25-yard's volume is best matched to bulkier, lighter tear-out.
+- **Commercial cleanouts.** Out in the Beltsville Industrial Park along Ammendale Road and over toward Konterra, warehouse cleanouts and tenant fit-outs throw off a lot of material fast. The 25-yard handles those, and **commercial accounts welcome — ask about billing** so the billing keeps pace with the work.
 
 If your project is smaller — a single-room redo or a routine cleanout — a 20-yard or 15-yard is usually the smarter spend, and we will tell you so. The 25-yard earns its keep when the job is genuinely big.
 

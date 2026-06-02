@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville. 
 
 ## What fits in a 30-yard dumpster
 
-The 30-yard is the largest box we run and the one most people know as the "commercial and demo" size. It measures 22 ft long by 8 ft wide by 6 ft tall and swallows roughly nine pickup-truck loads of debris. It carries a 3-ton (6,000 lb) weight allowance, and a typical 30-yard rental in College Park runs **$595 to $725, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the fact.
+The 30-yard is the largest box we run and the one most people know as the "commercial and demo" size. It measures 22 ft long by 8 ft wide by 6 ft tall and swallows roughly nine pickup-truck loads of debris. Pricing is per material: in College Park a 30-yard **starts at $665 for construction debris** (other materials are priced separately), and that price **includes delivery, pickup, and a 14-day rental with a 3-ton (6,000 lb) weight allowance**. Pricing is per material, not one figure for every load — extra days run $5/day, weight over the 3-ton allowance is billed at $105 per additional ton, and pickup is on request when you call to schedule.
 
 The reason to reach for a 30 over a 20 or a 25 is plain arithmetic. When you are gutting an entire structure or clearing a multi-unit building, a smaller container fills before the job is half done, and a second drop-and-haul costs more than sizing up once. The 30-yard is maximum capacity in a single container — you fill it, we take it, you are done.
 

@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## Why the 15-yard fits a Fairwood home
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. It carries a 1.5-ton (3,000 lb) weight allowance, and a typical Fairwood rental runs **$425 to $485, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the haul.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. Pricing is per material: a Fairwood 15-yard **starts at $595 for construction debris (other materials priced separately)**, and that includes delivery, pickup, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance. Extra days run $5/day, and weight over the allowance is $105 per additional ton. Pickup is on request — just call to schedule it.
 
 We call this the "single-room reno" size, and it is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly for most homes. That matters in Fairwood. Many of these single-family homes sit on cul-de-sac or wooded corner lots with tree-lined driveways, and the townhomes in the Retreat and Sanctuary sections have short, shared, or single-width driveways. The 14-foot footprint of the 15 tucks onto a quarter-acre pad or a single-width townhome driveway far more easily than a 20 or 30 would, and on a tighter wooded lot that compact length is often the difference between staging on your own property and not.
 
@@ -15,7 +15,7 @@ So the 15 fits on two counts: it swallows a contained, one-room project in a Fai
 Because Fairwood is a mid-2000s community rather than one of Bowie's older Levitt-era tracts, the housing stock is still relatively young — these are gourmet-kitchen, full-basement, deck-and-Colonial-Revival homes now hitting the age where the first round of updates and finishing projects comes due. That is exactly what a 15-yard is built for: larger renovation debris from one part of the house at a time.
 
 - **Kitchen remodel.** Tearing out the original mid-2000s cabinets, counters, and flooring from a Fairwood gourmet kitchen — drywall and all — fills a 15-yard about right, without paying for space you will not use.
-- **Roofing tear-off.** A single-layer asphalt tear-off over one of these contemporary rooflines sits comfortably inside the 1.5-ton allowance, so the load weight stays in line with the price.
+- **Roofing tear-off.** A single-layer asphalt tear-off over one of these contemporary rooflines sits comfortably inside the 1.5-ton allowance, so you avoid the $105-per-ton charge for weight over that line.
 - **Two-bath gut.** Pulling tile, vanities, tubs, and subfloor from a pair of bathrooms is a classic 15-yard job on a home in its first serious refresh.
 - **Basement cleanout.** This is the signature Fairwood driver. Nearly every detached home here has a full walk-out or standard basement, and finishing or clearing one — old carpet, framing, drywall, accumulated storage — lands neatly in a 15.
 
@@ -33,4 +33,4 @@ Because so many of these homes came from the same handful of builders — NVHome
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Fairwood address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in one of these full-basement homes — and where the HOA has cleared you to stage the container. We will confirm the 15-yard is the right size and quote you on the spot, tonnage and delivery included.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Fairwood address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in one of these full-basement homes — and where the HOA has cleared you to stage the container. We will confirm the 15-yard is the right size and quote you on the spot — delivery, pickup on request, and a 14-day rental with the 1.5-ton allowance included, with extra weight at $105 per additional ton.

@@ -2,7 +2,7 @@ When a Collington Station job is big enough that a smaller bin would just mean a
 
 ## What the 30-yard holds
 
-The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That long, tall box swallows about nine pickup-truck loads of material, which is why it's the go-to for jobs that throw off a steady wall of debris rather than a few bags. It comes with a 3-ton (6,000 lb) weight allowance, and our typical pricing runs $595 to $725 — a number that already includes delivery, pickup, and the included tonnage, so there are no surprise line items waiting at the end.
+The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That long, tall box swallows about nine pickup-truck loads of material, which is why it's the go-to for jobs that throw off a steady wall of debris rather than a few bags. Pricing is per material: construction debris in the 30-yard starts at $665, with other materials priced separately. That price includes delivery, pickup, and a 14-day rental with a 3-ton allowance; extra days run $5/day and any weight over the allowance is $105 per additional ton. Pickup is on request, so just call to schedule it when you're loaded out.
 
 One honest word on that weight allowance. The 30-yard's volume fills up fastest with bulky, lighter material — framing lumber, drywall, old cabinetry, roofing tear-off, carpet, furniture, and general construction debris. If your load leans heavy with concrete, brick, dirt, or tile, the cube fills slowly but the tonnage climbs fast, and a smaller bin or a dedicated heavy-debris container is usually the smarter call. When you phone in, tell us what's going in and we'll steer you to the right size before the truck rolls.
 
@@ -33,6 +33,6 @@ That short, predictable 25-minute run from the Beltsville yard is also why same-
 
 ## Talk to the family before you book
 
-Because we're family-owned, the people who answer the phone are the owners — not a call center reading from a script. That means you can describe your Collington Station project — a full colonial gut, a kitchen-and-bath demo, a 30-years-deep basement cleanout, a roof tear-off, or a multi-property turnover — and get a straight answer on whether the 30-yard is the right size, what it'll cost all-in, and exactly how we'll stage it on your driveway without crowding the garage approach.
+Because we're family-owned, the people who answer the phone are the owners — not a call center reading from a script. That means you can describe your Collington Station project — a full colonial gut, a kitchen-and-bath demo, a 30-years-deep basement cleanout, a roof tear-off, or a multi-property turnover — and get a straight answer on whether the 30-yard is the right size, what it'll cost for your material, how the 14-day rental and 3-ton allowance work, and exactly how we'll stage it on your driveway without crowding the garage approach.
 
 If you've got a big job in Collington Station and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We'll help you confirm the placement, clear it with the HOA if your spot needs it, and get a 30-yard scheduled — dispatched from the Beltsville yard in the morning and on your driveway about 25 minutes later, often the same day.

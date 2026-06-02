@@ -6,7 +6,7 @@ The 10-yard is the smallest footprint we run, and that's exactly the point. It c
 
 Because it sits low and short, it's the easiest container to place in a tight spot. It needs about the room of one parked car, so most folks set it right on the driveway beside the garage or below the back steps. That low height also means you're not heaving heavy bags up over a tall wall — you can walk debris in over the side or through the rear door.
 
-Typical all-in pricing for the 10-yard runs **$350 to $425**, and that figure already includes delivery, pickup and the tonnage inside your weight allowance. No separate trip charges, no surprise add-ons buried in fine print. When you call, you talk to the owners — not a call center reading off a script — so the price you hear is the price that shows up on the invoice.
+Pricing is per material, priced by what you're throwing away rather than one rate for everything. For construction debris, the 10-yard **starts at $550** (other materials are priced separately). That figure includes delivery, pickup and a 14-day rental with a 1-ton weight allowance, with additional days at $5 a day. Go over the allowance and extra weight is billed at $105 per additional ton, and pickup is on request — you call us to schedule it. When you call, you talk to the owners — not a call center reading off a script — so you hear the real numbers up front.
 
 ## Which Lanham jobs suit this size
 
@@ -35,4 +35,4 @@ Tell us which block you're on and what the project is, and we'll tell you straig
 
 ## Ready when you are
 
-For a garage cleanout, a bathroom remodel, a round of yard and tree work, or an estate downsize anywhere in Lanham or Seabrook, the 10-yard is usually the smart, no-overpay choice. As a family-owned outfit, we keep it simple: honest pricing that includes delivery, pickup and tonnage, a quick run down Route 450 from Beltsville, and a real person on the line who knows the difference between a driveway drop and a street placement in PG County. Call us at **(301) 252-3586** — the owners answer the phone — and we'll get a 10-yard on your driveway and the project off your list.
+For a garage cleanout, a bathroom remodel, a round of yard and tree work, or an estate downsize anywhere in Lanham or Seabrook, the 10-yard is usually the smart, no-overpay choice. As a family-owned outfit, we keep it simple: honest per-material pricing that includes delivery, pickup and a 14-day rental with a 1-ton allowance (extra weight is $105 a ton and pickup is by request), a quick run down Route 450 from Beltsville, and a real person on the line who knows the difference between a driveway drop and a street placement in PG County. Call us at **(301) 252-3586** — the owners answer the phone — and we'll get a 10-yard on your driveway and the project off your list.

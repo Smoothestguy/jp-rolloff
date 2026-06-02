@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler. When you call, the owners ans
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000 lb) weight allowance, and in Landover a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage**. No tipping-fee surprises tacked on after the haul.
+The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: for construction debris a 25-yard **starts at $640** (other materials are priced separately), and that includes delivery, a **14-day rental**, and a **2-ton weight allowance**. Pickup is on request — give us a call when you are ready and we will come get it. Extra days run $5/day, and any weight over the 2-ton allowance is billed at $105 per additional ton.
 
 The step up from a 20-yard is real volume, not just a few extra feet of steel. That added capacity is what keeps one container on site through a project that would otherwise force a second haul partway through. The walls stay at five feet, so you can still walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls for the kind of sustained output a major build produces.
 
@@ -16,8 +16,8 @@ Much of Landover's housing went up between roughly 1955 and 1975 — split-level
 
 - **Home additions.** Bumping out or building onto a 1960s rancher in Greater Landover throws off framing, old siding, and tear-out debris in the volume this size is meant to hold. For longer driveways and bigger builds, the 25-yard is the size that goes the distance.
 - **Whole-house remodels.** A full gut down to the studs — kitchen, baths, flooring, and drywall pulled at once from a 50-to-70-year-old home — is a classic 25-yard job, the kind where a smaller box would mean a mid-project swap.
-- **Large roofing tear-offs.** Bigger or multi-layer roofs run heavy, and the 2.5-ton allowance gives more weight headroom than the smaller sizes for asphalt shingle.
-- **Commercial cleanouts.** Along the Route 202 industrial strip and the Ardwick-Ardmore corridor, warehouse cleanouts, tenant build-outs, and demolition produce a lot of material fast. The 25-yard handles that pace, and **commercial accounts get net-15 terms** so the billing keeps step with the work.
+- **Large roofing tear-offs.** Bigger or multi-layer roofs run heavy; the 2-ton allowance is included, and any weight beyond it is simply billed at $105 per additional ton, so a heavy asphalt-shingle job stays straightforward.
+- **Commercial cleanouts.** Along the Route 202 industrial strip and the Ardwick-Ardmore corridor, warehouse cleanouts, tenant build-outs, and demolition produce a lot of material fast. The 25-yard handles that pace, and **commercial accounts welcome — ask about billing** so the paperwork keeps step with the work.
 
 If your project is smaller — a single-room redo or a routine cleanout — a 20-yard or 15-yard is usually the smarter spend, and we will say so. The 25-yard is the right call when the job is genuinely big.
 

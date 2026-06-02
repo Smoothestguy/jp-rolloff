@@ -2,7 +2,7 @@ Upper Marlboro is two places wearing one name, and that shapes every dumpster dr
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard is the smallest footprint we offer, measuring 12 ft long by 8 ft wide by 3.5 ft tall. It holds roughly three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. Around Upper Marlboro a typical 10-yard rental runs **$350 to $425, including delivery, pickup, and that tonnage** — no surprise tipping fee after the load hits the scale.
+The 10-yard is the smallest footprint we offer, measuring 12 ft long by 8 ft wide by 3.5 ft tall. It holds roughly three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. Around Upper Marlboro a 10-yard **starts at $550 for construction debris (other materials are priced separately), and that price includes delivery, pickup, and a 14-day rental with a 1-ton allowance**. Extra weight over that allowance is billed at $105 per additional ton, additional days run $5/day, and pickup is on request — you call us to schedule it.
 
 The low 3.5-foot walls are the quiet advantage. You can walk right up and drop debris over the side without a ramp or a heave, which matters when you are loading heavy, dense material like old tile, dirt, or shingles. The 1-ton allowance is sized for that kind of focused work — a single-room remodel or a one-room cleanout, not a whole-house demolition. And because the container fits in a single car spot, it slides onto a narrow downtown driveway without swallowing the whole thing, while still being right at home on a long rural driveway out by the horse farms. If your project is bigger than one room, we will point you toward a 15 or 20-yard instead — but for the jobs below, the 10 is the one that earns its keep.
 

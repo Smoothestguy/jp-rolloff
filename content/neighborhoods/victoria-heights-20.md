@@ -33,9 +33,9 @@ Bowie's Levitt streets are organized into those familiar alliterative letter sec
 
 From our Beltsville yard, you're about 25 minutes out via Route 197 or the BW Parkway. We dispatch every morning, so same-day delivery is common when you catch us early. When we drop the container, we'll set it where you want it, mind the driveway surface, and position it so your crew can load from the open end without fighting the placement.
 
-## Straightforward pricing, no surprises
+## Straightforward pricing
 
-A 20-yard in Victoria Heights typically runs **$450 to $525**, and that price includes delivery, pickup, and a 2-ton (4,000-pound) tonnage allowance. We quote it plainly up front. The weight allowance is generous for most household and remodel debris, and if you're working with something unusually heavy — a lot of roofing tear-off or concrete, say — just mention it when you call and we'll walk you through how that works before anything is delivered. No fine print, no games.
+A 20-yard in Victoria Heights **starts at $620 for construction debris (other materials priced separately)**, since we price by material rather than charging the same regardless of what you load. That price includes delivery, a 14-day rental, and a 2-ton (4,000-pound) weight allowance, with pickup on request — just call to schedule it. If you need the container longer, it's an extra $5 per day, and any weight over the 2-ton allowance is billed at $105 per additional ton. The weight allowance covers most household and remodel debris, and if you're working with something unusually heavy — a lot of roofing tear-off or concrete, say — just mention it when you call and we'll walk you through how that works before anything is delivered. (Aggregates like concrete and dirt are only accepted in the 10-, 15-, and 20-yard sizes.)
 
 ## Call the people who own the trucks
 

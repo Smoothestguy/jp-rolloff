@@ -7,7 +7,7 @@ export default [
     yd: 10,
     slug: "10-yard-dumpster",
     popular: false,
-    price: { low: 350, high: 425 },
+    price: { from: 550 },
     tons: 1,
     lbs: 2000,
     dims: "12 ft × 8 ft × 3.5 ft",
@@ -39,7 +39,7 @@ export default [
     yd: 15,
     slug: "15-yard-dumpster",
     popular: false,
-    price: { low: 425, high: 485 },
+    price: { from: 595 },
     tons: 1.5,
     lbs: 3000,
     dims: "14 ft × 8 ft × 4 ft",
@@ -71,7 +71,7 @@ export default [
     yd: 20,
     slug: "20-yard-dumpster",
     popular: true,
-    price: { low: 450, high: 525 },
+    price: { from: 620 },
     tons: 2,
     lbs: 4000,
     dims: "16 ft × 8 ft × 5 ft",
@@ -103,9 +103,9 @@ export default [
     yd: 25,
     slug: "25-yard-dumpster",
     popular: false,
-    price: { low: 525, high: 625 },
-    tons: 2.5,
-    lbs: 5000,
+    price: { from: 640 },
+    tons: 2,
+    lbs: 4000,
     dims: "20 ft × 8 ft × 5 ft",
     loads: 7.5,
     title: { en: "Major construction", es: "Construcción mayor" },
@@ -125,8 +125,8 @@ export default [
       { en: "Commercial cleanout", es: "Limpieza comercial" }
     ],
     why: {
-      en: "For longer driveways and bigger builds — measure twice before booking. Commercial accounts get net-15 terms.",
-      es: "Para entradas largas y proyectos grandes — mide dos veces antes de reservar. Cuentas comerciales con términos net-15."
+      en: "For longer driveways and bigger builds — measure twice before booking. Commercial accounts welcome.",
+      es: "Para entradas largas y proyectos grandes — mide dos veces antes de reservar. Cuentas comerciales bienvenidas."
     },
     servicesBlurb:
       "20 ft × 8 ft × 5 ft · ~7.5 pickup loads. The contractor's container. Home additions, whole-house remodels, large roofing jobs, commercial cleanouts. Measure your driveway twice — this one is long."
@@ -135,7 +135,7 @@ export default [
     yd: 30,
     slug: "30-yard-dumpster",
     popular: false,
-    price: { low: 595, high: 725 },
+    price: { from: 665 },
     tons: 3,
     lbs: 6000,
     dims: "22 ft × 8 ft × 6 ft",

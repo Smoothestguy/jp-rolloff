@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler that dispatches out of Beltsvi
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds roughly four-and-a-half pickup-truck loads of debris. It comes with a 1.5-ton (3,000 lb) weight allowance, and around Hyattsville a typical 15-yard rental runs **$425 to $485, including delivery, pickup, and that tonnage** — no tipping-fee surprise after the fact.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds roughly four-and-a-half pickup-truck loads of debris. Pricing is per material: around Hyattsville a 15-yard **starts at $595 for construction debris** (other materials are priced separately), and that rate **includes delivery, pickup, a 14-day rental, and a 1.5-ton (3,000 lb) weight allowance**. Additional days run $5/day, and any weight over the allowance is billed at $105 per additional ton. Pickup is on request — just call to schedule.
 
 The four-foot wall height is the quiet advantage of this size. The sides sit low enough that you can pitch debris over the rail without a ramp or a wrestling match, which matters when you are carrying load after load out of a kitchen or hauling it up from a basement. But there is still enough volume to hold a genuine single-room job from start to finish. That is why we think of the 15 as the "single-room reno" size — the one to reach for when a 10-yard feels a touch tight but a 20 would have you paying for empty air.
 

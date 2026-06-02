@@ -2,7 +2,7 @@ When a job in Somerset gets big enough that a smaller bin would just mean a seco
 
 ## What the 30-yard holds
 
-The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That long, tall box swallows about nine pickup-truck loads of material, which is why it is the go-to when a job throws off a steady wall of debris rather than a few bags. It comes with a 3-ton (6,000 lb) weight allowance, and our typical Somerset pricing runs $595 to $725 — and that number already includes delivery, pickup, and the included tonnage, so there is no surprise line item waiting at the end.
+The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That long, tall box swallows about nine pickup-truck loads of material, which is why it is the go-to when a job throws off a steady wall of debris rather than a few bags. Pricing is per material: the 30-yard starts at $665 for construction debris (other materials priced separately), and that rate already includes delivery, pickup, and a 14-day rental with a 3-ton (6,000 lb) weight allowance. Extra days run $5 each, and any weight over the 3-ton allowance is billed at $105 per additional ton. Pickup is on request — just call to schedule it when you are ready.
 
 One honest note on weight before you book. The 30-yard's volume fills up best with bulky, lighter material — framing lumber, drywall, cabinetry, roofing tear-off, old furniture, and general construction debris. If your load runs heavy with concrete, brick, dirt, or tile, the cube fills slowly while the tonnage climbs fast, and a smaller bin or a dedicated heavy-debris container is usually the smarter call. Tell us what is going in when you call and we will steer you to the right size rather than the biggest one.
 

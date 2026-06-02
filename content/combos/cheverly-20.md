@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a typical Cheverly rental runs **$450 to $525, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the fact.
+The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. For construction debris it **starts at $620** (other materials are priced separately), and that price includes delivery, pickup, and a **14-day rental with a 2-ton (4,000 lb) weight allowance**. Pickup is on request — you call when you are ready. Extra days run $5/day, and any weight over the 2-ton allowance is billed at $105 per additional ton.
 
 Those five feet of wall height are the part people underestimate. It is low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a real project. That balance is why the 20-yard sits in the sweet spot: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for a full structural gut or new construction. It is best known as the "whole-house cleanout" size — the one most customers end up choosing. On most two-car driveways it fits with room to spare.
 

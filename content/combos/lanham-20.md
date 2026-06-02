@@ -33,7 +33,7 @@ From our yard in Beltsville, we're about 15 minutes to Lanham via Route 450 or t
 
 ## Straightforward pricing
 
-A 20-yard rental in Lanham typically runs **$450 to $525**, and that price includes delivery, pickup, and your tonnage allowance. No separate trip charges or surprise add-ons baked in after the fact, the number we quote is the number built around your job. If you expect heavy material or a longer rental window, just mention it when you call and we'll factor it in honestly.
+A 20-yard rental in Lanham **starts at $620 for construction debris** (other materials are priced separately, since pricing runs per material). That price includes delivery, a 14-day rental, and a 2-ton weight allowance, with pickup on request whenever your project wraps, just give us a call to schedule it. Additional rental days run $5/day, and any weight over the 2-ton allowance is billed at $105 per additional ton. If you expect heavy material or a longer rental window, just mention it when you call and we'll factor it in honestly.
 
 ## Let's get your container scheduled
 

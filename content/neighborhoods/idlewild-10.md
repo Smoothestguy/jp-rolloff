@@ -4,7 +4,7 @@ If you live here, you already know the giveaway — every street in the section 
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard is the smallest footprint we offer, measuring 12 ft long by 8 ft wide by 3.5 ft tall. It holds roughly three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. In Idlewild a typical 10-yard rental runs **$350 to $425, including delivery, pickup, and that tonnage** — no surprise tipping fees sprung on you after the load is weighed.
+The 10-yard is the smallest footprint we offer, measuring 12 ft long by 8 ft wide by 3.5 ft tall. It holds roughly three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. Pricing is per material: in Idlewild a 10-yard **starts at $550 for construction debris (other materials priced separately), including delivery, pickup, and a 14-day rental with that 1-ton allowance**. Extra days are +$5/day, and any weight beyond the 1-ton allowance is $105 per additional ton. Pickup is on request — just call to schedule.
 
 The low 3.5-foot walls are the quiet advantage. You can walk right up and drop debris over the side without a ramp or a heave, which matters when you are loading heavy, dense material like old bathroom tile, plaster, or yard soil. The 1-ton allowance is sized for exactly that kind of work — a single-room remodel or a focused cleanout, not a whole-house gut. And because the container fits in a single car spot, it tucks neatly onto an Idlewild driveway without swallowing the whole thing. If your project turns out bigger than one room, we will point you to a 15 or 20-yard instead — but for the jobs below, the 10 is the right call.
 

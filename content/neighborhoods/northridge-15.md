@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## Why the 15-yard fits a Northridge home
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. It carries a 1.5-ton (3,000 lb) weight allowance, and a typical Northridge rental runs **$425 to $485, including delivery, pickup, and that tonnage** — no tipping-fee surprises tacked on after the haul.
+The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. A typical Northridge rental **starts at $595 for construction debris (other materials priced separately)**, and that price includes delivery, pickup on request, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance. Extra time runs $5 per day, and any weight over the allowance is $105 per additional ton.
 
 We call this the "single-room reno" size, and it is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly. That matters in Northridge in a specific way. Because these are 1990s-and-newer homes on subdivision lots with attached garages and broad driveways, you almost always have your own paved space to stage the box. The 14-foot footprint sits comfortably on a Northridge driveway with room to spare, which is exactly why most placements here never need to touch the street.
 
@@ -35,4 +35,4 @@ Because so many of these homes came out of the same early-2000s building era, we
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Northridge address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in a contemporary single-family home — and where you'd like the container staged on your driveway. We will confirm the 15-yard is the right size and quote you on the spot, tonnage and delivery included.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Northridge address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in a contemporary single-family home — and where you'd like the container staged on your driveway. We will confirm the 15-yard is the right size and quote you on the spot — construction debris starts at $595 (other materials priced separately), with delivery, a 14-day rental, and a 1.5-ton allowance included; extra weight is $105 per ton and pickup is scheduled on request.

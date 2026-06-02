@@ -4,7 +4,7 @@ Kenilworth is not a hard neighborhood to read, and that is exactly what makes th
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. It comes with a 2.5-ton (5,000 lb) weight allowance, and in Kenilworth a typical 25-yard rental runs **$525 to $625, including delivery, pickup, and that tonnage** — no tipping-fee surprises sprung on you after the load is weighed.
+The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Kenilworth a 25-yard for construction debris **starts at $640 (other materials priced separately)**, and that includes delivery, pickup on request, and a 14-day rental with a 2-ton weight allowance. Extra days are $5/day and weight over the 2-ton allowance is billed at $105 per additional ton, so just call to schedule your pickup when the load is ready.
 
 The jump up from a 20-yard is real volume, not just a couple of extra feet. That capacity is what keeps a single container on site through a project that would otherwise need a second haul — a whole-house remodel, a home addition, a large roof, or a full commercial cleanout. The walls are still five feet, so you can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls.
 
@@ -22,7 +22,7 @@ Because the housing stock is now 60-plus years old and almost identical in age a
 
 - **Home additions.** Adding a family room off the back of a Rancher or bumping out a Colonial on a "K" street throws off framing lumber, old siding, and tear-out debris in the volume a 25-yard is built to hold without a mid-project swap.
 - **Whole-house remodels.** Taking an original Levitt model down to the studs — kitchen, baths, flooring, drywall, and decades of dated finishes all at once — is the textbook 25-yard job in Kenilworth, where so many homes are due for exactly this kind of comprehensive update.
-- **Large roofing tear-offs.** Bigger or multi-layer roofs run heavy, and asphalt shingle weight adds up fast. The 2.5-ton allowance gives more headroom than the smaller sizes when an aging Levitt roof finally comes all the way off.
+- **Large roofing tear-offs.** Bigger or multi-layer roofs run heavy, and asphalt shingle weight adds up fast. The 2-ton allowance covers a lot, and any weight beyond it is just $105 per additional ton when an aging Levitt roof finally comes all the way off.
 - **Commercial cleanouts.** When a larger property changes hands or undergoes a full clear-out, the 25-yard swallows furniture, fixtures, and accumulated material in one container instead of forcing a second trip.
 
 If your project is a single-room remodel, a one-bath gut, or a focused garage cleanout, that is a smaller container's work, and we will tell you so up front rather than rent you more dumpster than the job needs. The 25-yard earns its keep on the major builds — the additions, the whole-house gut jobs, and the big roofs.
