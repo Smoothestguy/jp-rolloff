@@ -259,6 +259,15 @@ body.is-home .nav-logo-scrolled { display: block !important; }
   }
   .nav.is-open .nav-mobile { transform: translateX(0); }
 }
+/* When the mobile menu is open, remove the backdrop-filter so .nav stops being a
+   containing block for the fixed menu (which collapsed it on scroll, showing the
+   page through). Solid background keeps the bar readable. */
+.nav.is-open {
+  background: var(--color-white);
+  -webkit-backdrop-filter: none;
+  backdrop-filter: none;
+}
+.nav.is-open .nav-mobile { z-index: var(--z-nav); }
 @media (min-width: 961px) {
   .nav-mobile { display: none; }
 }

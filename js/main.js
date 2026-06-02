@@ -21,19 +21,30 @@
   const navToggle = document.querySelector('.nav-toggle');
   const navEl = document.querySelector('.nav');
   if (navToggle && navEl) {
-    navToggle.addEventListener('click', () => {
-      const isOpen = navEl.classList.toggle('is-open');
-      navToggle.setAttribute('aria-expanded', String(isOpen));
-      document.body.style.overflow = isOpen ? 'hidden' : '';
-    });
-    // Close on link click
-    document.querySelectorAll('.nav-mobile a').forEach(a => {
-      a.addEventListener('click', () => {
-        navEl.classList.remove('is-open');
-        navToggle.setAttribute('aria-expanded', 'false');
-        document.body.style.overflow = '';
-      });
-    });
+    let navScrollY = 0;
+    const setMenu = (open) => {
+      navEl.classList.toggle('is-open', open);
+      navToggle.setAttribute('aria-expanded', String(open));
+      if (open) {
+        // Robust scroll lock (position:fixed beats overflow:hidden on iOS).
+        navScrollY = window.scrollY || window.pageYOffset || 0;
+        document.body.style.position = 'fixed';
+        document.body.style.top = '-' + navScrollY + 'px';
+        document.body.style.left = '0';
+        document.body.style.right = '0';
+        document.body.style.width = '100%';
+      } else {
+        document.body.style.position = '';
+        document.body.style.top = '';
+        document.body.style.left = '';
+        document.body.style.right = '';
+        document.body.style.width = '';
+        window.scrollTo(0, navScrollY);
+      }
+    };
+    navToggle.addEventListener('click', () => setMenu(!navEl.classList.contains('is-open')));
+    document.querySelectorAll('.nav-mobile a').forEach((a) => a.addEventListener('click', () => setMenu(false)));
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && navEl.classList.contains('is-open')) setMenu(false); });
   }
 
   // ---------- LANGUAGE TOGGLE (EN / ES) ----------
