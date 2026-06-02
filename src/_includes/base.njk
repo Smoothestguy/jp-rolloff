@@ -57,13 +57,94 @@
 
   {% include "footer.njk" %}
 
+  {# ============= QUOTE WIZARD MODAL (global) ============= #}
+  <div class="qm" id="quote-modal" hidden role="dialog" aria-modal="true" aria-label="Get a free quote">
+    <div class="qm-overlay" data-qm-close></div>
+    <div class="qm-panel">
+      <button class="qm-close" type="button" data-qm-close aria-label="Close">&times;</button>
+      <div class="qm-progress"><span class="qm-progress-bar"></span></div>
+
+      {# Step 1 — language #}
+      <div class="qm-step is-active" data-qm-step="1">
+        <h2 data-en="First — your language" data-es="Primero — tu idioma">First — your language</h2>
+        <p data-en="Pick a language and we'll take it from there." data-es="Elige un idioma y seguimos desde ahí.">Pick a language and we'll take it from there.</p>
+        <div class="qm-choices">
+          <button class="qm-choice" type="button" data-qm-lang="EN">English</button>
+          <button class="qm-choice" type="button" data-qm-lang="ES">Español</button>
+        </div>
+      </div>
+
+      {# Step 2 — size #}
+      <div class="qm-step" data-qm-step="2">
+        <h2 data-en="Which dumpster do you need?" data-es="¿Qué contenedor necesitas?">Which dumpster do you need?</h2>
+        <div class="qm-sizes">
+          {% for s in sizes %}
+          <button class="qm-size" type="button" data-qm-size="{{ s.yd }}">
+            <span class="qm-size-yd">{{ s.yd }} <small data-en="yd" data-es="yd">yd</small></span>
+            <span class="qm-size-title" data-en="{{ s.title.en }}" data-es="{{ s.title.es }}">{{ s.title.en }}</span>
+            <span class="qm-size-dim">{{ s.dims }}</span>
+          </button>
+          {% endfor %}
+          <button class="qm-size qm-size-unsure" type="button" data-qm-size="not-sure">
+            <span class="qm-size-title" data-en="Not sure — help me pick" data-es="No estoy seguro — ayúdame">Not sure — help me pick</span>
+          </button>
+        </div>
+        <div class="qm-nav"><button class="qm-back" type="button" data-qm-back data-en="← Back" data-es="← Atrás">← Back</button></div>
+      </div>
+
+      {# Step 3 — address #}
+      <div class="qm-step" data-qm-step="3">
+        <h2 data-en="Where are we delivering?" data-es="¿A dónde entregamos?">Where are we delivering?</h2>
+        <div class="field">
+          <label for="qm-address" data-en="Service address" data-es="Dirección de servicio">Service address</label>
+          <input id="qm-address" type="text" autocomplete="street-address" />
+          <p class="qm-error" data-qm-error-address hidden data-en="Please enter an address." data-es="Por favor ingresa una dirección.">Please enter an address.</p>
+        </div>
+        <div class="qm-nav">
+          <button class="qm-back" type="button" data-qm-back data-en="← Back" data-es="← Atrás">← Back</button>
+          <button class="btn" type="button" data-qm-next data-en="Continue" data-es="Continuar">Continue</button>
+        </div>
+      </div>
+
+      {# Step 4 — contact #}
+      <div class="qm-step" data-qm-step="4">
+        <h2 data-en="Last step — your contact info" data-es="Último paso — tus datos">Last step — your contact info</h2>
+        <div class="field">
+          <label for="qm-name" data-en="Full name" data-es="Nombre completo">Full name</label>
+          <input id="qm-name" type="text" autocomplete="name" />
+        </div>
+        <div class="field">
+          <label for="qm-phone" data-en="Phone" data-es="Teléfono">Phone</label>
+          <input id="qm-phone" type="tel" autocomplete="tel" />
+        </div>
+        <div class="field">
+          <label for="qm-email" data-en="Email (optional)" data-es="Email (opcional)">Email (optional)</label>
+          <input id="qm-email" type="email" autocomplete="email" />
+        </div>
+        <p class="qm-error" data-qm-error-contact hidden data-en="Please add your name and phone." data-es="Agrega tu nombre y teléfono.">Please add your name and phone.</p>
+        <div class="qm-nav">
+          <button class="qm-back" type="button" data-qm-back data-en="← Back" data-es="← Atrás">← Back</button>
+          <button class="btn btn-lg" type="button" data-qm-submit data-en="Submit" data-es="Enviar">Submit</button>
+        </div>
+      </div>
+
+      {# Step 5 — thank you #}
+      <div class="qm-step qm-thanks" data-qm-step="5">
+        <div class="qm-check" aria-hidden="true">✓</div>
+        <h2 data-en="Thank you!" data-es="¡Gracias!">Thank you!</h2>
+        <p data-en="We've got your request. Someone from JP Roll-Off will reach out within the next hour during business hours." data-es="Recibimos tu solicitud. Alguien de JP Roll-Off te contactará dentro de la próxima hora en horario laboral.">We've got your request. Someone from JP Roll-Off will reach out within the next hour during business hours.</p>
+        <button class="btn" type="button" data-qm-close data-en="Done" data-es="Listo">Done</button>
+      </div>
+    </div>
+  </div>
+
   {# Mobile-only sticky bottom CTA — quick Call / Quote access while scrolling #}
   <div class="mobile-cta" role="group" aria-label="Quick contact">
     <a href="tel:{{ site.phone.tel }}" class="mobile-cta-btn mobile-cta-call" aria-label="Call {{ site.phone.display }}">
       <svg class="mobile-cta-ico" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.91.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
       <span data-en="Call Now" data-es="Llamar Ahora">Call Now</span>
     </a>
-    <a href="{{ quoteHref or '/#quote' }}" class="mobile-cta-btn mobile-cta-quote">
+    <a href="{{ quoteHref or '/#quote' }}" class="mobile-cta-btn mobile-cta-quote" data-quote-open>
       <span data-en="Free Quote" data-es="Cotización Gratis">Free Quote</span>
     </a>
   </div>

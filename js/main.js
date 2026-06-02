@@ -277,7 +277,7 @@
   });
 
   // ---------- ADDRESS AUTOCOMPLETE (Photon API, no key required) ----------
-  document.querySelectorAll('#qf-address, #cf-address').forEach(initAddressAutocomplete);
+  document.querySelectorAll('#qf-address, #cf-address, #qm-address').forEach(initAddressAutocomplete);
 
   function initAddressAutocomplete(input) {
     const wrap = document.createElement('div');
@@ -381,5 +381,93 @@
     });
 
     input.addEventListener('blur', () => setTimeout(closeDropdown, 150));
+  }
+
+  // ---------- QUOTE WIZARD MODAL ----------
+  const qm = document.getElementById('quote-modal');
+  if (qm) {
+    const steps = qm.querySelectorAll('[data-qm-step]');
+    const bar = qm.querySelector('.qm-progress-bar');
+    const FORM_STEPS = 4; // steps before the thank-you screen
+    const lead = { size: '', address: '', name: '', phone: '', email: '' };
+    let lastFocus = null;
+
+    const go = (n) => {
+      steps.forEach((s) => s.classList.toggle('is-active', s.getAttribute('data-qm-step') === String(n)));
+      if (bar) bar.style.width = (Math.min(n, FORM_STEPS) / FORM_STEPS) * 100 + '%';
+      const active = qm.querySelector('.qm-step.is-active');
+      const focusable = active && active.querySelector('input, .qm-choice, .qm-size, button');
+      if (focusable) { try { focusable.focus(); } catch (e) {} }
+    };
+    const open = () => {
+      lastFocus = document.activeElement;
+      qm.hidden = false;
+      document.body.style.overflow = 'hidden';
+      go(1);
+    };
+    const close = () => {
+      qm.hidden = true;
+      document.body.style.overflow = '';
+      if (lastFocus) { try { lastFocus.focus(); } catch (e) {} }
+    };
+
+    document.querySelectorAll('[data-quote-open]').forEach((el) => {
+      el.addEventListener('click', (e) => { e.preventDefault(); open(); });
+    });
+    qm.querySelectorAll('[data-qm-close]').forEach((el) => el.addEventListener('click', close));
+    document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && !qm.hidden) close(); });
+
+    // Step 1 — language (reuses the site-wide applyLang)
+    qm.querySelectorAll('[data-qm-lang]').forEach((b) => b.addEventListener('click', () => {
+      applyLang(b.getAttribute('data-qm-lang'));
+      go(2);
+    }));
+    // Step 2 — size
+    qm.querySelectorAll('[data-qm-size]').forEach((b) => b.addEventListener('click', () => {
+      lead.size = b.getAttribute('data-qm-size');
+      go(3);
+    }));
+    // Back buttons
+    qm.querySelectorAll('[data-qm-back]').forEach((b) => b.addEventListener('click', () => {
+      const cur = parseInt(qm.querySelector('.qm-step.is-active').getAttribute('data-qm-step'), 10);
+      go(Math.max(1, cur - 1));
+    }));
+    // Step 3 — address → continue
+    const addrInput = qm.querySelector('#qm-address');
+    const addrErr = qm.querySelector('[data-qm-error-address]');
+    qm.querySelector('[data-qm-next]').addEventListener('click', () => {
+      if (!addrInput.value.trim()) { addrErr.hidden = false; addrInput.focus(); return; }
+      addrErr.hidden = true;
+      lead.address = addrInput.value.trim();
+      go(4);
+    });
+    // Step 4 — contact → submit
+    const contactErr = qm.querySelector('[data-qm-error-contact]');
+    qm.querySelector('[data-qm-submit]').addEventListener('click', () => {
+      lead.name = qm.querySelector('#qm-name').value.trim();
+      lead.phone = qm.querySelector('#qm-phone').value.trim();
+      lead.email = qm.querySelector('#qm-email').value.trim();
+      if (!lead.name || !lead.phone) { contactErr.hidden = false; return; }
+      contactErr.hidden = true;
+
+      // Deliver the lead via email (mailto fallback until a backend endpoint is wired).
+      const sizeLabel = lead.size === 'not-sure' ? 'Not sure — needs help picking' : lead.size + ' Yard';
+      const body = encodeURIComponent(
+        'New quote request from the website:\n\n' +
+        'Dumpster: ' + sizeLabel + '\n' +
+        'Service address: ' + lead.address + '\n' +
+        'Name: ' + lead.name + '\n' +
+        'Phone: ' + lead.phone + '\n' +
+        'Email: ' + (lead.email || '—') + '\n'
+      );
+      const a = document.createElement('a');
+      a.href = 'mailto:office@jprolloff.com?subject=' + encodeURIComponent('Quote Request — ' + lead.name) + '&body=' + body;
+      a.style.display = 'none';
+      document.body.appendChild(a);
+      a.click();
+      a.remove();
+
+      go(5);
+    });
   }
 })();
