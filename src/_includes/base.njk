@@ -17,7 +17,7 @@
   <meta property="og:title" content="{{ og.title or title }}" />
   <meta property="og:description" content="{{ og.description or description }}" />
   <meta property="og:url" content="{{ canonical }}" />
-  <meta property="og:image" content="{{ og.image or 'https://jprolloff.com/images/og-default.jpg' }}" />
+  <meta property="og:image" content="{{ og.image or 'https://jprolloff.com/images/og-card.png' }}" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:locale:alternate" content="es_US" />
   <meta name="twitter:card" content="summary_large_image" />
@@ -43,7 +43,7 @@
   <link rel="stylesheet" href="/css/components.css?v={{ site.assetVersion }}" />
   <link rel="stylesheet" href="/css/pages.css?v={{ site.assetVersion }}" />
 
-  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="icon" href="/images/favicon.png?v={{ site.assetVersion }}" type="image/png" />
 
   {% block head %}{% endblock %}
 </head>

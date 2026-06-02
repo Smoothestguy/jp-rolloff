@@ -2,7 +2,7 @@
 export default {
   name: "JP Roll-Off Service",
   // Bump this single value to cache-bust ALL css/js across every page.
-  assetVersion: "72",
+  assetVersion: "73",
   phone: {
     display: "(301) 252-3586",
     tel: "+13012523586",
