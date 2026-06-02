@@ -1,0 +1,7 @@
+// POST /api/logout — clear the session cookie.
+import { COOKIE } from "./_auth.js";
+
+export default async function handler(req, res) {
+  res.setHeader("Set-Cookie", `${COOKIE}=; HttpOnly; Secure; SameSite=Lax; Path=/; Max-Age=0`);
+  return res.status(200).json({ ok: true });
+}

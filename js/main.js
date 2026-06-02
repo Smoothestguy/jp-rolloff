@@ -118,24 +118,35 @@
     form.addEventListener('submit', (e) => {
       e.preventDefault();
       const data = Object.fromEntries(new FormData(form).entries());
-      // Build mailto fallback until a backend is wired up
-      const body = encodeURIComponent(
-        `Name: ${data.name || ''}\n` +
-        `Phone: ${data.phone || ''}\n` +
-        `Email: ${data.email || ''}\n` +
-        `Service Address: ${data.address || ''}\n` +
-        `Dumpster Size: ${data.size || ''}\n` +
-        `Delivery Date: ${data.date || ''}\n` +
-        `Project Details: ${data.notes || ''}\n`
-      );
-      window.location.href = `mailto:office@jprolloff.com?subject=Quote%20Request%20-%20${encodeURIComponent(data.name || 'Web')}&body=${body}`;
-
       const btn = form.querySelector('button[type="submit"]');
-      if (btn) {
-        const original = btn.textContent;
-        btn.textContent = 'Opening your email…';
-        setTimeout(() => { btn.textContent = original; }, 4000);
-      }
+      const original = btn ? btn.textContent : '';
+      if (btn) { btn.disabled = true; btn.textContent = 'Sending…'; }
+
+      const notes = (data.notes || '') + (data.date ? ' | Requested date: ' + data.date : '');
+      fetch('/api/lead', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name: data.name, phone: data.phone, email: data.email, address: data.address, size: data.size, notes: notes, source: 'site-form' })
+      }).then((r) => {
+        if (!r.ok) throw new Error('save failed');
+        if (btn) btn.textContent = 'Request sent ✓';
+        form.reset();
+      }).catch(() => {
+        // Fallback: open a prefilled email so the lead still reaches the office.
+        const body = encodeURIComponent(
+          `Name: ${data.name || ''}\n` +
+          `Phone: ${data.phone || ''}\n` +
+          `Email: ${data.email || ''}\n` +
+          `Service Address: ${data.address || ''}\n` +
+          `Dumpster Size: ${data.size || ''}\n` +
+          `Delivery Date: ${data.date || ''}\n` +
+          `Project Details: ${data.notes || ''}\n`
+        );
+        window.location.href = `mailto:office@jprolloff.com?subject=Quote%20Request%20-%20${encodeURIComponent(data.name || 'Web')}&body=${body}`;
+        if (btn) btn.textContent = 'Opening your email…';
+      }).finally(() => {
+        setTimeout(() => { if (btn) { btn.disabled = false; btn.textContent = original; } }, 4000);
+      });
     });
   }
 
@@ -535,25 +546,31 @@
       lead.email = qm.querySelector('#qm-email').value.trim();
       if (!lead.name || !lead.phone) { contactErr.hidden = false; return; }
       contactErr.hidden = true;
-
-      // Deliver the lead via email (mailto fallback until a backend endpoint is wired).
       const sizeLabel = lead.size === 'not-sure' ? 'Not sure — needs help picking' : lead.size + ' Yard';
-      const body = encodeURIComponent(
-        'New quote request from the website:\n\n' +
-        'Dumpster: ' + sizeLabel + '\n' +
-        'Service address: ' + lead.address + '\n' +
-        'Name: ' + lead.name + '\n' +
-        'Phone: ' + lead.phone + '\n' +
-        'Email: ' + (lead.email || '—') + '\n'
-      );
-      const a = document.createElement('a');
-      a.href = 'mailto:office@jprolloff.com?subject=' + encodeURIComponent('Quote Request — ' + lead.name) + '&body=' + body;
-      a.style.display = 'none';
-      document.body.appendChild(a);
-      a.click();
-      a.remove();
 
+      // Show the thank-you immediately, save the lead to the dashboard in the
+      // background, and fall back to a prefilled email only if the save fails.
       go(5);
+      fetch('/api/lead', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ name: lead.name, phone: lead.phone, email: lead.email, address: lead.address, size: sizeLabel, source: 'quote-wizard' })
+      }).then((r) => { if (!r.ok) throw new Error('save failed'); }).catch(() => {
+        const body = encodeURIComponent(
+          'New quote request from the website:\n\n' +
+          'Dumpster: ' + sizeLabel + '\n' +
+          'Service address: ' + lead.address + '\n' +
+          'Name: ' + lead.name + '\n' +
+          'Phone: ' + lead.phone + '\n' +
+          'Email: ' + (lead.email || '—') + '\n'
+        );
+        const a = document.createElement('a');
+        a.href = 'mailto:office@jprolloff.com?subject=' + encodeURIComponent('Quote Request — ' + lead.name) + '&body=' + body;
+        a.style.display = 'none';
+        document.body.appendChild(a);
+        a.click();
+        a.remove();
+      });
     });
   }
 })();

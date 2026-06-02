@@ -1,0 +1,178 @@
+---
+permalink: /admin/
+eleventyExcludeFromCollections: true
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>Admin · JP Roll-Off</title>
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="stylesheet" href="/css/tokens.css?v={{ site.assetVersion }}" />
+  <link rel="stylesheet" href="/css/reset.css?v={{ site.assetVersion }}" />
+  <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700;800&display=swap" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700;800&display=swap" />
+  <style>
+    body { font-family: var(--font-body, Inter, system-ui, sans-serif); background: var(--color-bg-alt, #f6f4f1); color: var(--color-text, #1a1a1a); margin: 0; }
+    .ad-header { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 14px 20px; background: #fff; border-bottom: 1px solid var(--color-border, #e5e2dd); position: sticky; top: 0; z-index: 10; }
+    .ad-brand { display: flex; align-items: center; gap: 12px; }
+    .ad-brand img { height: 40px; width: auto; }
+    .ad-brand b { font-size: 14px; letter-spacing: .08em; text-transform: uppercase; color: var(--color-text-muted, #666); }
+    .ad-wrap { max-width: 1100px; margin: 0 auto; padding: 24px 20px 80px; }
+    .ad-btn { font: inherit; font-weight: 800; border: 0; border-radius: 999px; padding: 12px 22px; background: var(--color-red, #CC0000); color: #fff; cursor: pointer; }
+    .ad-btn-ghost { background: transparent; color: var(--color-text-muted, #666); border: 1px solid var(--color-border, #ddd); }
+    .ad-login { max-width: 380px; margin: 8vh auto; background: #fff; border: 1px solid var(--color-border, #e5e2dd); border-radius: 16px; padding: 32px; box-shadow: 0 10px 40px rgba(0,0,0,.06); }
+    .ad-login h1 { font-family: Anton, sans-serif; font-size: 30px; margin: 0 0 6px; }
+    .ad-login p { color: var(--color-text-muted, #666); margin: 0 0 20px; font-size: 14px; }
+    .ad-login input { width: 100%; padding: 14px; font: inherit; border: 1px solid var(--color-border, #ddd); border-radius: 10px; margin-bottom: 14px; }
+    .ad-login .ad-btn { width: 100%; }
+    .ad-err { color: var(--color-red, #CC0000); font-size: 14px; margin: 8px 0 0; min-height: 1.2em; }
+    .ad-stats { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 22px; }
+    .ad-chip { background: #fff; border: 1px solid var(--color-border, #e5e2dd); border-radius: 12px; padding: 12px 16px; min-width: 96px; }
+    .ad-chip b { display: block; font-family: Anton, sans-serif; font-size: 26px; line-height: 1; }
+    .ad-chip span { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: var(--color-text-muted, #666); }
+    .ad-chip.is-new b { color: var(--color-red, #CC0000); }
+    .ad-toolbar { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; }
+    .ad-toolbar h2 { font-family: Anton, sans-serif; font-size: 24px; margin: 0; }
+    .ad-tablewrap { background: #fff; border: 1px solid var(--color-border, #e5e2dd); border-radius: 16px; overflow: auto; }
+    table { width: 100%; border-collapse: collapse; min-width: 760px; }
+    th, td { text-align: left; padding: 12px 14px; border-bottom: 1px solid var(--color-border, #eee); font-size: 14px; vertical-align: top; }
+    th { font-size: 11px; text-transform: uppercase; letter-spacing: .06em; color: var(--color-text-muted, #666); background: #faf9f7; position: sticky; top: 0; }
+    tr:last-child td { border-bottom: 0; }
+    td a { color: var(--color-red, #CC0000); text-decoration: none; }
+    td .muted { color: var(--color-text-muted, #888); font-size: 12px; }
+    select.ad-status { font: inherit; padding: 6px 8px; border-radius: 8px; border: 1px solid var(--color-border, #ddd); }
+    .ad-empty { padding: 48px; text-align: center; color: var(--color-text-muted, #666); }
+    .ad-hidden { display: none !important; }
+  </style>
+</head>
+<body>
+  <header class="ad-header">
+    <div class="ad-brand">
+      <img src="/images/JPRolloff.png" alt="JP Roll-Off" />
+      <b>Admin</b>
+    </div>
+    <button id="ad-logout" class="ad-btn ad-btn-ghost ad-hidden" type="button">Log out</button>
+  </header>
+
+  <!-- LOGIN -->
+  <div id="ad-login" class="ad-login ad-hidden">
+    <h1>Sign in</h1>
+    <p>Enter the admin password to view leads.</p>
+    <form id="ad-login-form">
+      <input id="ad-pass" type="password" placeholder="Admin password" autocomplete="current-password" />
+      <button class="ad-btn" type="submit">Sign in</button>
+      <p class="ad-err" id="ad-login-err"></p>
+    </form>
+  </div>
+
+  <!-- DASHBOARD -->
+  <main id="ad-dash" class="ad-wrap ad-hidden">
+    <div class="ad-stats" id="ad-stats"></div>
+    <div class="ad-toolbar">
+      <h2>Leads</h2>
+      <button id="ad-refresh" class="ad-btn ad-btn-ghost" type="button">Refresh</button>
+    </div>
+    <div class="ad-tablewrap">
+      <table>
+        <thead>
+          <tr><th>Received</th><th>Name</th><th>Phone</th><th>Email</th><th>Address</th><th>Size</th><th>Status</th></tr>
+        </thead>
+        <tbody id="ad-rows"></tbody>
+      </table>
+      <div id="ad-empty" class="ad-empty ad-hidden">No leads yet. They'll appear here the moment a customer submits a quote.</div>
+    </div>
+  </main>
+
+  <script>
+    (function () {
+      var STATUSES = ["new", "contacted", "quoted", "booked", "customer", "lost"];
+      var loginEl = document.getElementById("ad-login");
+      var dashEl = document.getElementById("ad-dash");
+      var logoutBtn = document.getElementById("ad-logout");
+      var rowsEl = document.getElementById("ad-rows");
+      var statsEl = document.getElementById("ad-stats");
+      var emptyEl = document.getElementById("ad-empty");
+
+      function show(el) { el.classList.remove("ad-hidden"); }
+      function hide(el) { el.classList.add("ad-hidden"); }
+      function esc(s) { return (s == null ? "" : String(s)).replace(/[&<>"]/g, function (c) { return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]; }); }
+      function fmtDate(s) { try { var d = new Date(s); return d.toLocaleDateString() + " " + d.toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" }); } catch (e) { return s; } }
+
+      function showLogin() { show(loginEl); hide(dashEl); hide(logoutBtn); }
+      function showDash() { hide(loginEl); show(dashEl); show(logoutBtn); }
+
+      function renderStats(counts, total) {
+        var order = ["new"].concat(STATUSES.filter(function (s) { return s !== "new"; }));
+        var html = '<div class="ad-chip"><b>' + total + '</b><span>Total</span></div>';
+        order.forEach(function (s) {
+          if (!counts[s]) return;
+          html += '<div class="ad-chip ' + (s === "new" ? "is-new" : "") + '"><b>' + counts[s] + "</b><span>" + s + "</span></div>";
+        });
+        statsEl.innerHTML = html;
+      }
+
+      function statusSelect(lead) {
+        var opts = STATUSES.map(function (s) {
+          return '<option value="' + s + '"' + (s === lead.status ? " selected" : "") + ">" + s + "</option>";
+        }).join("");
+        return '<select class="ad-status" data-id="' + lead.id + '">' + opts + "</select>";
+      }
+
+      function renderRows(leads) {
+        if (!leads.length) { rowsEl.innerHTML = ""; show(emptyEl); return; }
+        hide(emptyEl);
+        rowsEl.innerHTML = leads.map(function (l) {
+          var phone = esc(l.phone);
+          var email = esc(l.email);
+          return "<tr>" +
+            "<td class='muted'>" + esc(fmtDate(l.created_at)) + "</td>" +
+            "<td><strong>" + esc(l.name) + "</strong>" + (l.notes ? "<div class='muted'>" + esc(l.notes) + "</div>" : "") + "</td>" +
+            "<td>" + (phone ? "<a href='tel:" + phone + "'>" + phone + "</a>" : "") + "</td>" +
+            "<td>" + (email ? "<a href='mailto:" + email + "'>" + email + "</a>" : "") + "</td>" +
+            "<td>" + esc(l.address) + "</td>" +
+            "<td>" + esc(l.size) + "</td>" +
+            "<td>" + statusSelect(l) + "</td>" +
+          "</tr>";
+        }).join("");
+        rowsEl.querySelectorAll(".ad-status").forEach(function (sel) {
+          sel.addEventListener("change", function () {
+            fetch("/api/leads", { method: "PATCH", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ id: sel.getAttribute("data-id"), status: sel.value }) });
+          });
+        });
+      }
+
+      function load() {
+        fetch("/api/leads", { headers: { "Accept": "application/json" } }).then(function (r) {
+          if (r.status === 401) { showLogin(); return null; }
+          return r.json();
+        }).then(function (data) {
+          if (!data) return;
+          showDash();
+          renderStats(data.counts || {}, data.total || 0);
+          renderRows(data.leads || []);
+        }).catch(function () { showLogin(); });
+      }
+
+      document.getElementById("ad-login-form").addEventListener("submit", function (e) {
+        e.preventDefault();
+        var err = document.getElementById("ad-login-err");
+        err.textContent = "";
+        fetch("/api/login", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ password: document.getElementById("ad-pass").value }) })
+          .then(function (r) { return r.json().then(function (j) { return { ok: r.ok, j: j }; }); })
+          .then(function (res) { if (res.ok) { load(); } else { err.textContent = res.j.error || "Sign in failed"; } })
+          .catch(function () { err.textContent = "Network error"; });
+      });
+
+      logoutBtn.addEventListener("click", function () {
+        fetch("/api/logout", { method: "POST" }).then(function () { showLogin(); });
+      });
+      document.getElementById("ad-refresh").addEventListener("click", load);
+
+      load();
+    })();
+  </script>
+</body>
+</html>
