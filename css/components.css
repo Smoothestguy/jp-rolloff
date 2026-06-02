@@ -548,3 +548,16 @@ body.is-home .nav-logo-scrolled { display: block !important; }
   /* Keep the fixed bar from covering the footer / last content. */
   body { padding-bottom: 84px; }
 }
+
+/* ---------- DUAL-ACTION SIZE CARD BUTTONS (See Details + Book) ---------- */
+.size-row-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-3);
+  margin-top: var(--space-2);
+}
+.size-row-actions .size-row-btn {
+  flex: 1 1 150px;        /* equal widths; wrap to full width when cramped */
+  justify-content: center;
+  text-align: center;
+}

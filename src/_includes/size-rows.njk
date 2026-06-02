@@ -12,8 +12,11 @@
         <li data-en="{{ f.en }}" data-es="{{ f.es }}">{{ f.en }}</li>
         {% endfor %}
       </ul>
-      {# On a location page (locationSlug set) link to that city's combo page; on the home page link to the generic size page. #}
-      <a href="{% if locationSlug %}/locations/{{ locationSlug }}/{{ s.yd }}-yard{% else %}/services/{{ s.slug }}{% endif %}" class="btn {% if s.popular %}btn-primary{% else %}btn-secondary{% endif %}" data-en="See {{ s.yd }}-Yard Details" data-es="Ver Detalles {{ s.yd }}-Yardas">See {{ s.yd }}-Yard Details →</a>
+      {# Two equal-width actions per size: see details (city combo on location pages, generic size page on home) + book it now. #}
+      <div class="size-row-actions">
+        <a href="{% if locationSlug %}/locations/{{ locationSlug }}/{{ s.yd }}-yard{% else %}/services/{{ s.slug }}{% endif %}" class="btn btn-secondary size-row-btn" data-en="See Details" data-es="Ver Detalles">See Details</a>
+        <a href="/book/?size={{ s.yd }}" class="btn btn-primary size-row-btn" data-en="Book Now" data-es="Reservar">Book Now</a>
+      </div>
     </div>
     <div class="feature-visual size-visual">
       <img src="/images/dumpster-{{ s.yd }}yd.png" alt="JP Roll-Off {{ s.yd }} yard dumpster" loading="lazy" onerror="this.style.display='none'" />
