@@ -250,7 +250,7 @@ body.is-home .nav-logo-scrolled { display: block !important; }
     inset: 80px 0 0 0;
     background: var(--color-white);
     transform: translateX(100%);
-    transition: transform var(--dur-slow) var(--ease-out);
+    transition: transform var(--dur-base) var(--ease-out);
     padding: var(--space-8) var(--container-px);
     display: flex;
     flex-direction: column;
