@@ -1726,6 +1726,28 @@
 .longform h2:first-child { margin-top: 0; }
 .longform a { color: var(--color-red); font-weight: 700; }
 
+/* ---------- SIZE CARD HEADING (SEO product name) ---------- */
+.size-row-title { line-height: 1; margin-bottom: var(--space-2); }
+.size-row-yd-num { color: var(--color-red); }
+.size-row-use {
+  font-size: var(--fs-14);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  color: var(--color-text-muted);
+  margin-bottom: var(--space-3);
+}
+
+/* Compact size cards on phones so the list isn't endlessly tall */
+@media (max-width: 768px) {
+  .size-rows { gap: var(--space-10); }
+  .size-row { margin-bottom: 0; }
+  .size-row .size-row-title { font-size: var(--fs-32); }
+  .size-row .size-meta { margin-bottom: var(--space-4); }
+  .size-visual { aspect-ratio: auto; }
+  .size-visual img { max-height: 180px; margin-inline: auto; }
+}
+
 /* ---------- HERO CTA: equal-width buttons on mobile ---------- */
 @media (max-width: 768px) {
   .hero-cta {
