@@ -1421,7 +1421,9 @@
 /* Responsive helpers */
 @media (max-width: 720px) {
   .hero { padding-top: 120px; min-height: auto; }
-  .hero-title { font-size: var(--fs-96); }
+  /* Two lines on phones: "Dumpsters for" / "Delivery." — sized so the longer line fits. */
+  .hero-title { font-size: clamp(2.25rem, 1rem + 5vw, 3rem); letter-spacing: -0.01em; }
+  .hero-title .word.accent { display: block; }
   .hero-trust { gap: var(--space-5); }
   .stat { padding: var(--space-6); }
   .cta-band-phone { font-size: var(--fs-32); }
