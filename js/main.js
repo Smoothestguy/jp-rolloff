@@ -391,23 +391,42 @@
     const FORM_STEPS = 4; // steps before the thank-you screen
     const lead = { size: '', address: '', name: '', phone: '', email: '' };
     let lastFocus = null;
+    let scrollLockY = 0;
 
     const go = (n) => {
       steps.forEach((s) => s.classList.toggle('is-active', s.getAttribute('data-qm-step') === String(n)));
-      if (bar) bar.style.width = (Math.min(n, FORM_STEPS) / FORM_STEPS) * 100 + '%';
+      const num = parseInt(n, 10) || 1; // "2a"/"2b" -> 2 for the progress bar
+      if (bar) bar.style.width = (Math.min(num, FORM_STEPS) / FORM_STEPS) * 100 + '%';
       const active = qm.querySelector('.qm-step.is-active');
       const focusable = active && active.querySelector('input, .qm-choice, .qm-size, button');
       if (focusable) { try { focusable.focus(); } catch (e) {} }
     };
+    // Robust scroll lock — position:fixed actually holds on iOS Safari, overflow:hidden does not.
+    const lockScroll = () => {
+      scrollLockY = window.scrollY || window.pageYOffset || 0;
+      document.body.style.position = 'fixed';
+      document.body.style.top = '-' + scrollLockY + 'px';
+      document.body.style.left = '0';
+      document.body.style.right = '0';
+      document.body.style.width = '100%';
+    };
+    const unlockScroll = () => {
+      document.body.style.position = '';
+      document.body.style.top = '';
+      document.body.style.left = '';
+      document.body.style.right = '';
+      document.body.style.width = '';
+      window.scrollTo(0, scrollLockY);
+    };
     const open = () => {
       lastFocus = document.activeElement;
       qm.hidden = false;
-      document.body.style.overflow = 'hidden';
+      lockScroll();
       go(1);
     };
     const close = () => {
       qm.hidden = true;
-      document.body.style.overflow = '';
+      unlockScroll();
       if (lastFocus) { try { lastFocus.focus(); } catch (e) {} }
     };
 
@@ -427,6 +446,32 @@
       lead.size = b.getAttribute('data-qm-size');
       go(3);
     }));
+
+    // "Not sure" → plain-English helper question → size recommendation
+    const REC = {
+      '10': { en: 'the 10-yard — just right for a garage, attic, or yard cleanout.', es: 'el de 10 yardas — ideal para limpiar un garaje, ático o jardín.' },
+      '15': { en: 'the 15-yard — sized for a one-room remodel like a kitchen or bath.', es: 'el de 15 yardas — para renovar un cuarto, como una cocina o un baño.' },
+      '20': { en: 'the 20-yard — our most popular, perfect for a whole-house cleanout or multi-room remodel.', es: 'el de 20 yardas — el más popular, perfecto para vaciar una casa o remodelar varios cuartos.' },
+      '25': { en: 'the 25-yard — built for big remodels, additions, and new builds.', es: 'el de 25 yardas — para remodelaciones grandes, ampliaciones y construcción nueva.' },
+      '30': { en: 'the 30-yard — our biggest, for major demolition and commercial jobs.', es: 'el de 30 yardas — el más grande, para demolición mayor y trabajos comerciales.' }
+    };
+    const helpBtn = qm.querySelector('[data-qm-help]');
+    if (helpBtn) helpBtn.addEventListener('click', () => go('2a'));
+    qm.querySelectorAll('[data-qm-rec]').forEach((b) => b.addEventListener('click', () => {
+      const yd = b.getAttribute('data-qm-rec');
+      lead.size = yd;
+      const sizeEl = qm.querySelector('[data-qm-rec-size]');
+      if (sizeEl) sizeEl.textContent = yd + ' yd';
+      const txt = qm.querySelector('[data-qm-rec-text]');
+      if (txt) {
+        txt.setAttribute('data-en', 'We recommend ' + REC[yd].en);
+        txt.setAttribute('data-es', 'Recomendamos ' + REC[yd].es);
+      }
+      applyLang(localStorage.getItem('jp-lang') || 'EN');
+      go('2b');
+    }));
+    // Explicit step jumps (helper back / recommendation buttons)
+    qm.querySelectorAll('[data-qm-goto]').forEach((b) => b.addEventListener('click', () => go(b.getAttribute('data-qm-goto'))));
     // Back buttons
     qm.querySelectorAll('[data-qm-back]').forEach((b) => b.addEventListener('click', () => {
       const cur = parseInt(qm.querySelector('.qm-step.is-active').getAttribute('data-qm-step'), 10);

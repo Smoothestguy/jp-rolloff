@@ -85,11 +85,38 @@
             <span class="qm-size-dim">{{ s.dims }}</span>
           </button>
           {% endfor %}
-          <button class="qm-size qm-size-unsure" type="button" data-qm-size="not-sure">
+          <button class="qm-size qm-size-unsure" type="button" data-qm-help>
             <span class="qm-size-title" data-en="Not sure — help me pick" data-es="No estoy seguro — ayúdame">Not sure — help me pick</span>
           </button>
         </div>
         <div class="qm-nav"><button class="qm-back" type="button" data-qm-back data-en="← Back" data-es="← Atrás">← Back</button></div>
+      </div>
+
+      {# Step 2a — size helper (plain-English question) #}
+      <div class="qm-step" data-qm-step="2a">
+        <h2 data-en="No problem — let's figure it out" data-es="Sin problema — lo resolvemos">No problem — let's figure it out</h2>
+        <p data-en="What are you working on?" data-es="¿En qué estás trabajando?">What are you working on?</p>
+        <div class="qm-choices">
+          <button class="qm-choice qm-choice-sm" type="button" data-qm-rec="10" data-en="Cleaning out a garage, shed, or yard" data-es="Limpiando un garaje, cobertizo o jardín">Cleaning out a garage, shed, or yard</button>
+          <button class="qm-choice qm-choice-sm" type="button" data-qm-rec="15" data-en="Redoing one room — a kitchen or bathroom" data-es="Renovando un cuarto — cocina o baño">Redoing one room — a kitchen or bathroom</button>
+          <button class="qm-choice qm-choice-sm" type="button" data-qm-rec="20" data-en="Clearing out a whole house or several rooms" data-es="Vaciando una casa entera o varios cuartos">Clearing out a whole house or several rooms</button>
+          <button class="qm-choice qm-choice-sm" type="button" data-qm-rec="25" data-en="A big remodel, addition, or new build" data-es="Una remodelación grande, ampliación o construcción nueva">A big remodel, addition, or new build</button>
+          <button class="qm-choice qm-choice-sm" type="button" data-qm-rec="30" data-en="Major demolition or a commercial job" data-es="Demolición mayor o trabajo comercial">Major demolition or a commercial job</button>
+        </div>
+        <div class="qm-nav"><button class="qm-back" type="button" data-qm-goto="2" data-en="← Back to sizes" data-es="← Volver a tamaños">← Back to sizes</button></div>
+      </div>
+
+      {# Step 2b — recommendation #}
+      <div class="qm-step" data-qm-step="2b">
+        <h2 data-en="Here's our pick for you" data-es="Esta es nuestra recomendación">Here's our pick for you</h2>
+        <div class="qm-rec-card">
+          <span class="qm-rec-size" data-qm-rec-size>20 yd</span>
+          <p class="qm-rec-text" data-qm-rec-text data-en="We recommend the 20-yard." data-es="Recomendamos el de 20 yardas.">We recommend the 20-yard.</p>
+        </div>
+        <div class="qm-nav">
+          <button class="qm-back" type="button" data-qm-goto="2" data-en="Pick another size" data-es="Elegir otro tamaño">Pick another size</button>
+          <button class="btn" type="button" data-qm-goto="3" data-en="Use this size →" data-es="Usar este tamaño →">Use this size →</button>
+        </div>
       </div>
 
       {# Step 3 — address #}
