@@ -502,3 +502,49 @@ body.is-home .nav-logo-scrolled { display: block !important; }
 .addr-autocomplete-item.is-active {
   background: var(--color-bg-alt);
 }
+
+/* ---------- MOBILE STICKY CTA (Call / Quote) ---------- */
+/* Hidden on desktop; fixed to the bottom on phones for one-tap contact. */
+.mobile-cta { display: none; }
+
+@media (max-width: 768px) {
+  .mobile-cta {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-3);
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: var(--z-sticky); /* above content, below the open mobile menu (z-nav) */
+    padding: var(--space-3) var(--space-4);
+    padding-bottom: calc(var(--space-3) + env(safe-area-inset-bottom, 0px));
+    background: rgba(255, 255, 255, 0.92);
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    border-top: 1px solid var(--color-border);
+    box-shadow: 0 -6px 24px rgba(0, 0, 0, 0.12);
+  }
+  .mobile-cta-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    min-height: 52px;
+    border-radius: var(--radius-md);
+    font-weight: 800;
+    font-size: var(--fs-16);
+    line-height: 1;
+    text-decoration: none;
+  }
+  .mobile-cta-call { background: var(--color-red); color: #fff; }
+  .mobile-cta-quote {
+    background: var(--color-black);
+    color: #fff;
+    border: 2px solid var(--color-red);
+  }
+  .mobile-cta-ico { flex-shrink: 0; }
+
+  /* Keep the fixed bar from covering the footer / last content. */
+  body { padding-bottom: 84px; }
+}
