@@ -573,4 +573,60 @@
       });
     });
   }
+
+  // ---------- IMMERSIVE FLEET (#sizes) sticky-scroll parallax ----------
+  // Progressive enhancement: only on >=768px and when motion is allowed.
+  // Drives slide crossfade + layered parallax from a single scroll-progress value.
+  const fleet = document.querySelector('.fleet');
+  if (fleet) {
+    const track = fleet.querySelector('.fleet-track');
+    const slides = Array.from(fleet.querySelectorAll('.fleet-slide'));
+    const pills = Array.from(fleet.querySelectorAll('.fleet-pill'));
+    const count = slides.length;
+    const clampF = (n, lo, hi) => Math.min(Math.max(n, lo), hi);
+    const reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+    const enhanced = count > 1 && window.innerWidth >= 768 && !reduced;
+
+    if (enhanced) {
+      fleet.classList.add('is-enhanced');
+
+      let ticking = false;
+      const update = () => {
+        ticking = false;
+        const rect = track.getBoundingClientRect();
+        const scrollable = rect.height - window.innerHeight;
+        const progress = clampF(-rect.top / (scrollable || 1), 0, 1);
+        const slideFloat = progress * (count - 1);
+        const active = Math.round(slideFloat);
+        for (let i = 0; i < slides.length; i++) {
+          const sl = slides[i];
+          const d = i - slideFloat;                       // signed distance from the active position
+          sl.style.opacity = String(clampF(1.35 - Math.abs(d) * 2.3, 0, 1)); // plateau near center, crossfade at edges
+          sl.classList.toggle('is-active', i === active);
+          const img = sl.querySelector('[data-fleet-img]');
+          const bg = sl.querySelector('[data-fleet-bg]');
+          if (img) img.style.transform = 'translate3d(0,' + (d * -26).toFixed(1) + 'px,0)';      // foreground rises faster
+          if (bg) bg.style.transform = 'translate(-50%, calc(-50% + ' + (d * 72).toFixed(1) + 'px))'; // bg number drifts deeper
+        }
+        for (let i = 0; i < pills.length; i++) pills[i].classList.toggle('is-active', i === active);
+      };
+      const onScroll = () => { if (!ticking) { ticking = true; requestAnimationFrame(update); } };
+      window.addEventListener('scroll', onScroll, { passive: true });
+      window.addEventListener('resize', onScroll, { passive: true });
+
+      pills.forEach((p, i) => p.addEventListener('click', () => {
+        const rect = track.getBoundingClientRect();
+        const trackTop = window.scrollY + rect.top;
+        const scrollable = rect.height - window.innerHeight;
+        window.scrollTo({ top: trackTop + (i / (count - 1)) * scrollable, behavior: 'smooth' });
+      }));
+
+      update();
+    } else {
+      // Static layout: jump pills scroll to the matching slide.
+      pills.forEach((p, i) => p.addEventListener('click', () => {
+        if (slides[i]) slides[i].scrollIntoView({ behavior: 'smooth', block: 'center' });
+      }));
+    }
+  }
 })();

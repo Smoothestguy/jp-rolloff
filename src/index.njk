@@ -141,25 +141,51 @@ og:
       </div>
     </section>
 
-    <!-- ============= DUMPSTER SIZES ============= -->
-    <section class="section section-alt" id="sizes">
-      <div class="container">
-        <div class="section-head reveal">
-          <div>
-            <span class="eyebrow" data-en="Our Fleet" data-es="Nuestra Flota">Our Fleet</span>
-            <h2 data-en="Five sizes. One straight price." data-es="Cinco tamaños. Un precio claro.">Five sizes. One straight price.</h2>
+    <!-- ============= DUMPSTER SIZES — immersive sticky-scroll fleet ============= -->
+    <!-- Progressive enhancement: static stacked layout by default / mobile / reduced-motion;
+         JS adds .is-enhanced on >=768px for the sticky parallax stage. -->
+    <section class="fleet section-alt" id="sizes" aria-label="Our dumpster fleet" style="--fleet-count: {{ sizes | length }};">
+      <div class="fleet-track">
+        <div class="fleet-stage">
+
+          <div class="fleet-head container">
+            <div>
+              <span class="eyebrow" data-en="Our Fleet" data-es="Nuestra Flota">Our Fleet</span>
+              <h2 class="fleet-h2" data-en="Five sizes for every job." data-es="Cinco tamaños para cada trabajo.">Five sizes for every job.</h2>
+            </div>
+            <nav class="fleet-nav" aria-label="Jump to size">
+              {% for s in sizes %}
+              <button type="button" class="fleet-pill{% if s.popular %} is-popular{% endif %}" data-fleet-jump="{{ loop.index0 }}" aria-label="{{ s.yd }} yard dumpster">{{ s.yd }}<small data-en="yd" data-es="yd">yd</small></button>
+              {% endfor %}
+            </nav>
           </div>
-          <p class="lead" data-en="From kitchen remodels to full tear-downs, we have a dumpster sized right. All rentals include drop-off, pickup, and disposal — no surprise fees." data-es="Desde remodelaciones de cocina hasta demoliciones completas, tenemos el contenedor del tamaño justo. Toda renta incluye entrega, recogida y disposición — sin cargos sorpresa.">From kitchen remodels to full tear-downs, we have a dumpster sized right. All rentals include drop-off, pickup, and disposal — no surprise fees.</p>
-        </div>
 
-        <nav class="size-jump reveal" aria-label="Jump to size">
-          <span class="size-jump-label" data-en="Jump to:" data-es="Ir a:">Jump to:</span>
           {% for s in sizes %}
-          <a href="#size-{{ s.yd }}" class="size-jump-pill{% if s.popular %} is-popular{% endif %}">{{ s.yd }} <small data-en="Yard" data-es="Yarda">Yard</small></a>
+          <article class="fleet-slide{% if loop.first %} is-active{% endif %}" id="size-{{ s.yd }}" data-fleet-slide="{{ loop.index0 }}">
+            <span class="fleet-bgnum" data-fleet-bg aria-hidden="true">{{ s.yd }}</span>
+            <div class="fleet-inner container">
+              <div class="fleet-text">
+                {% if s.popular %}<span class="fleet-tag" data-en="Most Popular" data-es="Más Popular">Most Popular</span>{% endif %}
+                <span class="fleet-yd">{{ s.yd }} <small data-en="Yard" data-es="Yarda">Yard</small></span>
+                <h3 class="fleet-title" data-en="{{ s.yd }} Yard Dumpster" data-es="Contenedor de {{ s.yd }} Yardas">{{ s.yd }} Yard Dumpster</h3>
+                <p class="fleet-meta" data-en="{{ s.homeMeta.en }}" data-es="{{ s.homeMeta.es }}">{{ s.homeMeta.en }}</p>
+                <ul class="fleet-features">
+                  {% for f in s.features %}<li data-en="{{ f.en }}" data-es="{{ f.es }}">{{ f.en }}</li>{% endfor %}
+                </ul>
+                <p class="fleet-price"><span data-en="From" data-es="Desde">From</span> ${{ s.price.from }} <small data-en="· construction debris" data-es="· escombros">· construction debris</small></p>
+                <div class="fleet-actions">
+                  <a href="/services/{{ s.slug }}" class="btn btn-secondary" data-en="See Details" data-es="Ver Detalles">See Details</a>
+                  <a href="/book/?size={{ s.yd }}" class="btn btn-primary" data-en="Book Now" data-es="Reservar">Book Now</a>
+                </div>
+              </div>
+              <div class="fleet-visual">
+                <img data-fleet-img src="/images/dumpster-{{ s.yd }}yd.png" alt="JP Roll-Off {{ s.yd }} yard dumpster" loading="lazy" onerror="this.style.display='none'" />
+              </div>
+            </div>
+          </article>
           {% endfor %}
-        </nav>
 
-        {% include "size-rows.njk" %}
+        </div>
       </div>
     </section>
 
