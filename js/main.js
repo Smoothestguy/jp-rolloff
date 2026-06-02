@@ -418,14 +418,55 @@
       document.body.style.width = '';
       window.scrollTo(0, scrollLockY);
     };
+
+    // Keep the modal pinned to the VISIBLE area when the mobile keyboard opens.
+    // visualViewport shrinks as the keyboard rises; without this a fixed/centered
+    // panel sits behind the keyboard. We size the modal to the visible area and,
+    // as a bottom-sheet on mobile, that parks it right above the keyboard.
+    const panel = qm.querySelector('.qm-panel');
+    const vv = window.visualViewport;
+    const fitViewport = () => {
+      if (!vv) return;
+      qm.style.top = vv.offsetTop + 'px';
+      qm.style.bottom = 'auto';
+      qm.style.height = vv.height + 'px';
+      if (panel) panel.style.maxHeight = (vv.height - 16) + 'px';
+    };
+    let vvBound = false;
+    const bindViewport = () => {
+      if (vv && !vvBound) {
+        vv.addEventListener('resize', fitViewport);
+        vv.addEventListener('scroll', fitViewport);
+        vvBound = true;
+      }
+      fitViewport();
+    };
+    const unbindViewport = () => {
+      if (vv && vvBound) {
+        vv.removeEventListener('resize', fitViewport);
+        vv.removeEventListener('scroll', fitViewport);
+        vvBound = false;
+      }
+      qm.style.top = '';
+      qm.style.bottom = '';
+      qm.style.height = '';
+      if (panel) panel.style.maxHeight = '';
+    };
+    // When a field is focused, ease it into the middle of the visible panel.
+    qm.querySelectorAll('input').forEach((inp) => inp.addEventListener('focus', () => {
+      setTimeout(() => { try { inp.scrollIntoView({ block: 'center', behavior: 'smooth' }); } catch (e) {} }, 250);
+    }));
+
     const open = () => {
       lastFocus = document.activeElement;
       qm.hidden = false;
       lockScroll();
+      bindViewport();
       go(1);
     };
     const close = () => {
       qm.hidden = true;
+      unbindViewport();
       unlockScroll();
       if (lastFocus) { try { lastFocus.focus(); } catch (e) {} }
     };

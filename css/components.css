@@ -651,3 +651,17 @@ body.is-home .nav-logo-scrolled { display: block !important; }
 .qm-rec-card { text-align: center; padding: var(--space-6); border: 2px solid var(--color-red); border-radius: var(--radius-md); }
 .qm-rec-size { display: block; font-size: var(--fs-40); font-weight: 800; color: var(--color-red); line-height: 1; }
 .qm-rec-text { margin-top: var(--space-3); color: var(--color-text); }
+
+/* On phones the wizard is a bottom sheet — combined with the visualViewport
+   binding in main.js, the panel parks directly above the keyboard. */
+@media (max-width: 768px) {
+  .qm { align-items: flex-end; padding: 0; }
+  .qm-panel {
+    width: 100%;
+    max-width: none;
+    max-height: 92vh;
+    border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+    padding: var(--space-6);
+    padding-bottom: calc(var(--space-6) + env(safe-area-inset-bottom, 0px));
+  }
+}
