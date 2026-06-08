@@ -4,11 +4,11 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Pointer Ridge a 25-yard for construction debris **starts at $640 (other materials priced separately)**, and that price includes delivery, pickup on request, and a **14-day rental with a 2-ton allowance**. Need it longer? It is just +$5/day. Go over the 2 tons and extra weight is $105 per additional ton — and when you are ready, call to schedule the pickup.
+The 25-yard is our major-construction size. It measures 18 ft long by 8 ft wide by 6 ft tall and holds roughly 10.5 pickup-truck loads of debris. Pricing is per material: in Pointer Ridge a 25-yard for construction debris **includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) weight allowance — priced by material, so call for a quote (other materials priced separately)**. Need it longer? It is just +$5/day. Go over the 2 tons and extra weight is $105 per additional ton — and when you are ready, call to schedule the pickup.
 
-The jump from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps one container on site through a project that would otherwise force a second haul partway through — a whole-house remodel, a substantial addition, a big roof, or a full cleanout. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls than the mid-size containers offer.
+The jump from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps one container on site through a project that would otherwise force a second haul partway through — a whole-house remodel, a substantial addition, a big roof, or a full cleanout. The six-foot walls give meaningfully more room than the mid-size containers offer, so one drop carries a major job from start to finish.
 
-One piece of advice we give every customer on this size: **measure twice before booking.** Twenty feet of straight container, plus clearance for the truck and the rear swing door, is a long footprint. The good news in Pointer Ridge is that the lots and driveways were laid out for it — but it is still worth confirming the spot before delivery day rather than after.
+One piece of advice we give every customer on this size: **measure twice before booking.** Eighteen feet of straight container, plus clearance for the truck and the rear swing door, is a long footprint. The good news in Pointer Ridge is that the lots and driveways were laid out for it — but it is still worth confirming the spot before delivery day rather than after.
 
 ## Which Pointer Ridge jobs suit the 25-yard
 
@@ -23,7 +23,7 @@ If your Pointer Ridge project is on the smaller side — a single-room redo, a b
 
 ## Local logistics: placement, permits, and drive time
 
-**Driveway placement, and Pointer Ridge is built for it.** This is one of the real advantages of working a southern Bowie section like this one. Lots here run about a third of an acre — individual listings show right around 0.29 acre — with grassy front lawns, stone walkways, and private driveways. Those generous detached lots give nearly every single-family project room to stage a 20-foot container on-property rather than in the street. We will scout the spot with you and lay boards under the wheels on request to protect the driveway surface.
+**Driveway placement, and Pointer Ridge is built for it.** This is one of the real advantages of working a southern Bowie section like this one. Lots here run about a third of an acre — individual listings show right around 0.29 acre — with grassy front lawns, stone walkways, and private driveways. Those generous detached lots give nearly every single-family project room to stage an 18-foot container on-property rather than in the street. We will scout the spot with you and lay boards under the wheels on request to protect the driveway surface.
 
 **The permit rule is in your favor.** The City of Bowie requires a right-of-way permit only when a dumpster has to sit in a city street. A container placed entirely on your private driveway does **not** need one. Given that most Pointer Ridge homes have their own driveway with room to spare, the vast majority of jobs here stage on-property with no permit at all. If your particular address forces the container into the street, we will flag the permit requirement up front rather than letting it surprise you on delivery day.
 
@@ -31,8 +31,8 @@ If your Pointer Ridge project is on the smaller side — a single-room redo, a b
 
 **A word on the school.** Pointer Ridge Elementary sits right inside the neighborhood at 1110 Parkington Lane, within walking distance of many homes. If your project is nearby, we will set the container to keep sidewalks and the school walking route clear for the kids.
 
-**Drive time.** From our Beltsville yard, Pointer Ridge is about a 25-minute run via Route 197 or the BW Parkway. We dispatch every morning, and same-day delivery is common — so when you are running a build on a deadline, the container shows up when the crew needs it.
+**Drive time.** From our Beltsville yard, Pointer Ridge is about a 25-minute run via Route 197 or the BW Parkway. We dispatch every morning, and most addresses here are scheduled within 24 hours — an early call may still make a same-day run — so when you are running a build on a deadline, the container shows up when the crew needs it.
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Pointer Ridge address and what you are tackling — an addition on one of the P-named streets, a whole-house gut of a 1970s rambler, a large roof tear-off, or a bigger cleanout — and we will confirm whether the 25-yard is the right size and quote you on the spot. Reach us at **(301) 252-3586**.
+When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Pointer Ridge address and what you are tackling — an addition on one of the P-named streets, a whole-house gut of a 1970s rambler, a large roof tear-off, or a bigger cleanout — and we will confirm whether the 25-yard is the right size and quote you on the spot. Reach us at **(301) 879-7040**.

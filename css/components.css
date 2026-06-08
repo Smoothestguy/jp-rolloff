@@ -650,6 +650,8 @@ body.is-home .nav-logo-scrolled { display: block !important; }
 .qm-size-title { font-weight: 700; }
 .qm-size-dim { font-size: var(--fs-12); color: var(--color-text-muted); }
 .qm-size-unsure { grid-column: 1 / -1; text-align: center; }
+.qm-size-aggregate { grid-column: 1 / -1; text-align: center; }
+.qm-warning { grid-column: 1 / -1; margin-top: var(--space-4); padding: var(--space-4); border-left: 4px solid var(--color-red); background: var(--color-gray-100, #f4f4f5); border-radius: var(--radius-sm); font-size: var(--fs-13); line-height: var(--lh-normal); color: var(--color-text-muted); }
 .qm-nav { display: flex; justify-content: space-between; align-items: center; gap: var(--space-3); margin-top: var(--space-6); }
 .qm-nav .btn { margin-left: auto; }
 .qm-back { background: none; border: none; color: var(--color-text-muted); font-weight: 700; cursor: pointer; padding: var(--space-2) 0; }

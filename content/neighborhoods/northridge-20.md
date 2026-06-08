@@ -4,9 +4,9 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. Pricing is per material: a 20-yard **starts at $620 for construction debris (other materials priced separately)**, and includes delivery, pickup on request, and a **14-day rental with a 2-ton (4,000 lb) weight allowance**. Need it longer? It's just +$5 a day. Go over the 2-ton allowance and extra weight runs $105 per additional ton, so heavy loads are billed by what they actually weigh.
+The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material: a 20-yard is **priced by what you're throwing away, so call for a quote**, and includes delivery, pickup on request, and a **14-day rental with a 2-ton (4,000 lb) weight allowance**. Need it longer? It's just +$5 a day. Go over the 2-ton allowance and extra weight runs $105 per additional ton, so heavy loads are billed by what they actually weigh.
 
-Those five feet of wall height are the part people underestimate. The wall is low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a real project. That balance is why the 20-yard sits in the sweet spot for so many Northridge homes: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural teardown. It is the size most customers end up choosing — and rarely regret.
+That long 22-foot footprint is the part people underestimate. The walls stay low at 4 feet, so you can still walk debris up and toss it over the side, but the length swallows the volume of a real project. That balance is why the 20-yard sits in the sweet spot for so many Northridge homes: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural teardown. It is the size most customers end up choosing — and rarely regret.
 
 ## Why the 20-yard fits Northridge specifically
 
@@ -23,7 +23,7 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 ## Placement, permits, and the HOA in Northridge
 
-**Driveway placement is the norm here.** This is where Northridge's newer layout works in your favor. Because the neighborhood was built in the 1990s and early 2000s with larger lots, wide private driveways, and attached garages, most homes have room to stage a 20-yard right on their own driveway. It needs roughly 16 feet of straight length plus a few feet of clearance and an open swing for the rear door — and a typical Northridge two-car driveway fits that with room to spare. We will lay boards under the wheels on request to protect the surface.
+**Driveway placement is the norm here.** This is where Northridge's newer layout works in your favor. Because the neighborhood was built in the 1990s and early 2000s with larger lots, wide private driveways, and attached garages, most homes have room to stage a 20-yard right on their own driveway. It needs roughly 22 feet of straight length plus a few feet of clearance and an open swing for the rear door — and a typical Northridge two-car driveway fits that with room to spare. We will lay boards under the wheels on request to protect the surface.
 
 **The street permit you probably won't need.** The City of Bowie only requires a right-of-way permit when the dumpster sits in a city street — driveways and HOA-approved staging do not need one. Because nearly every Northridge home can stage on its own private driveway, a city street permit is the exception here, not the rule. If your only practical spot does turn out to be the street, that permit goes through Bowie's Public Works Department, and we will flag it the moment we look at your address.
 
@@ -31,8 +31,8 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 **Getting the truck in.** Northridge's winding streets and cul-de-sacs are a different animal from Bowie's older straight grid, so turnarounds and approach angles matter for a loaded roll-off truck. We dispatch every morning and know these roads — the loop around Northridge Park and its pond, the cul-de-sacs off Quill Point near the Swim & Tennis Club. Tell us where on the lot you want the box and we will plan the approach so the delivery and the eventual pickup both go clean.
 
-**Drive time.** We are about 25 minutes out in Beltsville via Route 197 or the BW Parkway, so most Northridge addresses get scheduled inside 24 hours, and an early call often makes the same-day run.
+**Drive time.** We are about 25 minutes out in Beltsville via Route 197 or the BW Parkway, so most Northridge addresses get scheduled inside 24 hours, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Northridge address and what you are tackling — a basement finish on a Quill Point cul-de-sac, a kitchen-and-baths gut in a 1990s contemporary, a mid-size roof tear-off, or a whole-house cleanout between owners — and we will confirm the 20-yard is the right size, talk through your driveway placement and HOA staging, and quote you on the spot.
+Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Northridge address and what you are tackling — a basement finish on a Quill Point cul-de-sac, a kitchen-and-baths gut in a 1990s contemporary, a mid-size roof tear-off, or a whole-house cleanout between owners — and we will confirm the 20-yard is the right size, talk through your driveway placement and HOA staging, and quote you on the spot.

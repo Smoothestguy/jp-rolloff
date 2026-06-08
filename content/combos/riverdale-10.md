@@ -2,9 +2,9 @@ When you've got a single-room project in Riverdale Park and don't want to pay fo
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard measures roughly 12 feet long by 8 feet wide by 3.5 feet tall. That low profile is the whole point: it takes up about one car's worth of space and is easy to load by hand because the walls are short enough to lean over. It holds around three pickup-truck loads of material and comes with a 1-ton (2,000-pound) weight allowance, which is plenty for a one-room job.
+The 10-yard measures roughly 12 feet long by 8 feet wide by 4 feet tall. That low profile is the whole point: it takes up about one car's worth of space and is easy to load by hand because the walls are short enough to lean over. It holds around three pickup-truck loads of material and comes with a 1-ton (2,000-pound) weight allowance, which is plenty for a one-room job.
 
-Pricing is per material. For construction debris, the 10-yard starts at $550, and other materials are priced separately. That price includes delivery, a 14-day rental, and a 1-ton weight allowance, with pickup on request when you call to schedule. Extra days run $5 each, and any weight over the 1-ton allowance is billed at $105 per additional ton. Heavy material like dirt, concrete, brick, or wet plaster adds up fast on the scale, so if your load leans heavy, mention it when you call and we'll tell you straight whether the 10-yard is the right fit or whether you'd be better off with a slightly larger bin to stay under weight.
+Pricing is per material, so call us for a quote on your specific load. The price includes delivery, a 14-day rental, and a 1-ton (2,000-pound) weight allowance, with pickup on request when you call to schedule. Extra days run $5 each, and any weight over the 1-ton allowance is billed at $105 per additional ton. Heavy material like dirt, concrete, brick, or wet plaster adds up fast on the scale, so if your load leans heavy, mention it when you call and we'll tell you straight whether the 10-yard is the right fit or whether you'd be better off with a slightly larger bin to stay under weight.
 
 ## Which Riverdale Park jobs suit this size
 
@@ -31,4 +31,4 @@ A couple of practical notes for these older blocks. We'll need a clear, level sp
 
 Whether it's a garage you've been meaning to clear for years, a bathroom you're finally redoing in one of Riverdale Park's century-old houses, a yard full of storm debris, or a basement that took on water after the last hard rain, the 10-yard roll-off is a straightforward, affordable way to get it hauled off. We'll tell you honestly whether it's the right size for your load, walk you through the permit question if you need the street, and get the bin to you fast from just up the road in Beltsville.
 
-Give us a call at (301) 252-3586. You'll reach the family that runs the trucks, not an answering service, and we'll get your Riverdale Park 10-yard scheduled.
+Give us a call at (301) 879-7040. You'll reach the family that runs the trucks, not an answering service, and we'll get your Riverdale Park 10-yard scheduled.

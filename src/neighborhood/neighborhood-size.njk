@@ -13,7 +13,7 @@ permalink: "/locations/{{ np.city.slug }}/{{ np.neighborhood.slug }}/{{ np.size.
 
 {% block head %}
 <script type="application/ld+json">
-  { "@context": "https://schema.org", "@type": "Service", "serviceType": "{{ s.yd }}-yard roll-off dumpster rental", "provider": { "@type": "LocalBusiness", "name": "JP Roll-Off Service", "telephone": "+1-301-252-3586", "priceRange": "$$" }, "areaServed": { "@type": "Place", "name": "{{ hood.name }}, {{ city.name }}, MD" }, "offers": { "@type": "Offer", "priceCurrency": "USD", "price": "{{ s.price.from }}", "priceSpecification": { "@type": "PriceSpecification", "minPrice": "{{ s.price.from }}", "maxPrice": "{{ s.price.from }}", "priceCurrency": "USD" } } }
+  { "@context": "https://schema.org", "@type": "Service", "serviceType": "{{ s.yd }}-yard roll-off dumpster rental", "provider": { "@type": "LocalBusiness", "name": "JP Roll-Off Service", "telephone": "+1-301-879-7040", "priceRange": "$$" }, "areaServed": { "@type": "Place", "name": "{{ hood.name }}, {{ city.name }}, MD" } }
   </script>
 <script type="application/ld+json">
   { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
@@ -34,32 +34,39 @@ permalink: "/locations/{{ np.city.slug }}/{{ np.neighborhood.slug }}/{{ np.size.
           <span style="color:rgba(255,255,255,.45);"> / </span>
           <a href="/locations/{{ city.slug }}/{{ s.yd }}-yard" style="color:rgba(255,255,255,.75);">{{ s.yd }}-Yard</a>
           <span style="color:rgba(255,255,255,.45);"> / </span>
-          <span style="color:#fff;">{{ hood.name }}</span>
+          <span style="color:#fff;" data-en="{{ hood.name }}" data-es="{{ hood.name }}">{{ hood.name }}</span>
         </nav>
-        <span class="eyebrow" style="color:#fff;">{{ s.yd }}-Yard · {{ hood.name }}, {{ city.name }} MD</span>
-        <h1>{{ s.yd }}-yard dumpster rental in {{ hood.name }}, {{ city.name }} MD.</h1>
-        <p>{{ s.dims }} · holds about {{ s.loads }} pickup-truck loads · {{ s.tons }}-ton ({{ s.lbs | thousands }} lb) allowance. Serving {{ hood.name }} — {{ hood.oneLine }}.</p>
+        <span class="eyebrow" style="color:#fff;" data-en="{{ s.yd }}-Yard · {{ hood.name }}, {{ city.name }} MD" data-es="{{ s.yd }} Yardas · {{ hood.name }}, {{ city.name }} MD">{{ s.yd }}-Yard · {{ hood.name }}, {{ city.name }} MD</span>
+        <h1 data-en="{{ s.yd }}-yard dumpster rental in {{ hood.name }}, {{ city.name }} MD." data-es="Renta de contenedor de {{ s.yd }} yardas en {{ hood.name }}, {{ city.name }} MD.">{{ s.yd }}-yard dumpster rental in {{ hood.name }}, {{ city.name }} MD.</h1>
+        <p data-en="{{ s.dims }} · holds about {{ s.loads }} pickup-truck loads · {{ s.tons }}-ton ({{ s.lbs | thousands }} lb) allowance. Serving {{ hood.name }} — {{ hood.oneLine.en }}." data-es="{{ s.dims }} · cabe alrededor de {{ s.loads }} cargas de camioneta · límite de {{ s.tons }} toneladas ({{ s.lbs | thousands }} lb). Servicio en {{ hood.name }} — {{ hood.oneLine.es }}.">{{ s.dims }} · holds about {{ s.loads }} pickup-truck loads · {{ s.tons }}-ton ({{ s.lbs | thousands }} lb) allowance. Serving {{ hood.name }} — {{ hood.oneLine.en }}.</p>
       </div>
     </section>
 
     <section class="section">
       <div class="container container-narrow">
+        {% if np.bodyEs %}
+        <div class="longform" data-has-es>
+          <div data-lang-block="en">{{ np.body | markdown | safe }}</div>
+          <div data-lang-block="es">{{ np.bodyEs | markdown | safe }}</div>
+        </div>
+        {% else %}
         <div class="longform">
           {{ np.body | markdown | safe }}
         </div>
-        <p style="margin-top: var(--space-8);"><a href="/#quote" class="btn btn-primary">Get a {{ hood.name }} Quote →</a></p>
+        {% endif %}
+        <p style="margin-top: var(--space-8);"><a href="/#quote" class="btn btn-primary" data-en="Get a {{ hood.name }} Quote →" data-es="Pide tu Cotización para {{ hood.name }} →">Get a {{ hood.name }} Quote →</a></p>
       </div>
     </section>
 
     <section class="section section-alt">
       <div class="container">
-        <div class="section-head"><div><span class="eyebrow">Other sizes in {{ hood.name }}</span><h2>Need a different size?</h2></div></div>
+        <div class="section-head"><div><span class="eyebrow" data-en="Other sizes in {{ hood.name }}" data-es="Otros tamaños en {{ hood.name }}">Other sizes in {{ hood.name }}</span><h2 data-en="Need a different size?" data-es="¿Necesitas otro tamaño?">Need a different size?</h2></div></div>
         <div class="area-list" style="grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));">
           {% for o in sizes %}{% if o.yd != s.yd %}
-          <a href="/locations/{{ city.slug }}/{{ hood.slug }}/{{ o.yd }}-yard">{{ o.yd }}-yard in {{ hood.name }}</a>
+          <a href="/locations/{{ city.slug }}/{{ hood.slug }}/{{ o.yd }}-yard" data-en="{{ o.yd }}-yard in {{ hood.name }}" data-es="{{ o.yd }} yardas en {{ hood.name }}">{{ o.yd }}-yard in {{ hood.name }}</a>
           {% endif %}{% endfor %}
-          <a href="/locations/{{ city.slug }}/{{ s.yd }}-yard">All of {{ city.name }} →</a>
-          <a href="/locations/{{ city.slug }}">{{ city.name }} info →</a>
+          <a href="/locations/{{ city.slug }}/{{ s.yd }}-yard" data-en="All of {{ city.name }} →" data-es="Todo {{ city.name }} →">All of {{ city.name }} →</a>
+          <a href="/locations/{{ city.slug }}" data-en="{{ city.name }} info →" data-es="Info de {{ city.name }} →">{{ city.name }} info →</a>
         </div>
       </div>
     </section>
@@ -67,8 +74,8 @@ permalink: "/locations/{{ np.city.slug }}/{{ np.neighborhood.slug }}/{{ np.size.
     <section class="section">
       <div class="container">
         <div class="cta-band">
-          <div><h2>{{ s.yd }}-yard to {{ hood.name }}.</h2><p>Call dispatch direct, or send your address and we'll quote on the spot.</p></div>
-          <div class="cta-band-actions"><a href="tel:+13012523586" class="cta-band-phone">(301) 252-3586</a><a href="/#quote" class="btn btn-lg">Get a Free Quote →</a></div>
+          <div><h2 data-en="{{ s.yd }}-yard to {{ hood.name }}." data-es="{{ s.yd }} yardas a {{ hood.name }}.">{{ s.yd }}-yard to {{ hood.name }}.</h2><p data-en="Call dispatch direct, or send your address and we'll quote on the spot." data-es="Llama directo a despacho, o envía tu dirección y te cotizamos al instante.">Call dispatch direct, or send your address and we'll quote on the spot.</p></div>
+          <div class="cta-band-actions"><a href="tel:+13018797040" class="cta-band-phone">(301) 879-7040</a><a href="/#quote" class="btn btn-lg" data-en="Get a Free Quote →" data-es="Solicita tu Cotización Gratis →">Get a Free Quote →</a></div>
         </div>
       </div>
     </section>

@@ -2,7 +2,7 @@ Old Stage isn't the Bowie most people picture. While much of the city is filled 
 
 ## Why the 20-yard fits Old Stage homes
 
-The 20-yard is our "whole-house cleanout" size, and it's the one most customers pick without ever regretting it. It measures roughly 16 feet long, 8 feet wide, and 5 feet tall, holds about six pickup-truck loads, and comes with a 2-ton (4,000 lb) weight allowance built into the price. For a neighborhood of mature split-levels and Colonials, that's the sweet spot. A 10 or 15-yard can feel cramped once a finished basement or a couple of bedrooms start emptying out, and a 30-yard is more steel than most of these projects ever fill. The 20 lands right in the middle: enough room for a serious job, low enough at five feet that you're not heaving debris over your head, and short enough that it tucks neatly into a two-car driveway with space to spare.
+The 20-yard is our "whole-house cleanout" size, and it's the one most customers pick without ever regretting it. It measures roughly 22 feet long, 8 feet wide, and 4 feet tall, holds about nine pickup-truck loads, and comes with a 2-ton (4,000 lb) weight allowance built into the price. For a neighborhood of mature split-levels and Colonials, that's the sweet spot. A 10 or 15-yard can feel cramped once a finished basement or a couple of bedrooms start emptying out, and a 30-yard is more steel than most of these projects ever fill. The 20 lands right in the middle: enough room for a serious job, low enough at four feet that you're not heaving debris over your head, and easy to tuck alongside a two-car driveway with space to spare.
 
 Because Old Stage homes have been standing for a few decades now, the projects here are usually mature-home work rather than new construction. That's exactly what this size was made for. The most common jobs we deliver the 20 for around Old Stage are:
 
@@ -19,7 +19,7 @@ That's worth knowing because of how Bowie's rules work. The City of Bowie only r
 
 ## What it costs
 
-Pricing is per material, so the rate depends on what you're throwing away. For the 20-yard in Old Stage, construction debris **starts at $620** (other materials are priced separately, and aggregates like concrete, dirt, and brick are only accepted in the 10, 15, and 20-yard sizes). That price includes delivery, pickup, and a 14-day rental with a 2-ton (4,000 lb) weight allowance; if you need the container longer, it's just $5 per additional day. Pickup is on request — give us a call when you're ready and we'll schedule it. The 2-ton allowance covers most jobs of this size, but if you go over, additional weight is billed at $105 per ton, so if you're loading something unusually heavy, like a lot of tile, plaster, or wet roofing, we'll talk it through up front.
+Pricing is per material, so the rate depends on what you're throwing away — call for a quote and we'll give you a straight number for your job. For the 20-yard in Old Stage, other materials are priced separately, and aggregates like concrete, dirt, and brick are only accepted in the 10, 15, and 20-yard sizes. Every rental includes delivery, pickup, and a 14-day rental with a 2-ton (4,000 lb) weight allowance; if you need the container longer, it's just $5 per additional day. Pickup is on request — give us a call when you're ready and we'll schedule it. The 2-ton allowance covers most jobs of this size, but if you go over, additional weight is billed at $105 per ton, so if you're loading something unusually heavy, like a lot of tile, plaster, or wet roofing, we'll talk it through up front.
 
 ## Loading tips for a remodel or cleanout
 
@@ -27,8 +27,8 @@ A few things make a 20-yard go further on a mature-home project. Break down bulk
 
 For estate cleanouts especially, give yourself a little more time than you think you'll need. Going through a family home is rarely quick, and the nice thing about having the 20 on the driveway is that it's there when you're ready to keep going — no scrambling, no second guessing whether everything will fit.
 
-## Same-day service from Beltsville
+## Next-day service from Beltsville
 
-We dispatch every morning out of our Beltsville yard, and Old Stage is an easy run — about 25 minutes via Route 197 or the BW Parkway. Same-day delivery is common when you call early, and because we're family-owned, the person who answers the phone is one of the owners, not a call center reading from a script. We'll help you figure out whether the 20-yard is right for your whole-house cleanout, your multi-room remodel, your estate project, or your roof — and if a different size makes more sense, we'll tell you that too.
+We dispatch every morning out of our Beltsville yard, and Old Stage is an easy run — about 25 minutes via Route 197 or the BW Parkway. Most addresses here are scheduled within 24 hours, and an early call may still make a same-day run. Because we're family-owned, the person who answers the phone is one of the owners, not a call center reading from a script. We'll help you figure out whether the 20-yard is right for your whole-house cleanout, your multi-room remodel, your estate project, or your roof — and if a different size makes more sense, we'll tell you that too.
 
-When you're ready to get a 20-yard dumpster on your Old Stage driveway, call us at **(301) 252-3586**. We'll give you a straight price, a clear delivery window, and a container that's actually sized for the job.
+When you're ready to get a 20-yard dumpster on your Old Stage driveway, call us at **(301) 879-7040**. We'll give you a straight price, a clear delivery window, and a container that's actually sized for the job.

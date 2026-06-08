@@ -5,7 +5,7 @@
   "description": "JP Roll-Off Service — dumpster rental site (Eleventy static build)",
   "type": "module",
   "scripts": {
-    "dev": "eleventy --serve",
+    "dev": "eleventy --serve --port=${PORT:-8181}",
     "build": "eleventy",
     "clean": "rm -rf _site"
   },

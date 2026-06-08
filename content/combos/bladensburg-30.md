@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville. 
 
 ## What fits in a 30-yard dumpster
 
-The 30-yard is the largest box we run and the one most people know as the "commercial and demo" size. It measures 22 ft long by 8 ft wide by 6 ft tall and swallows roughly nine pickup-truck loads of debris. Pricing is per material: a 30-yard **starts at $665 for construction debris** (other materials are priced separately, and heavy aggregates like dirt, concrete, and asphalt are only offered in our 10-, 15-, and 20-yard boxes). That price **includes delivery, pickup, and a 14-day rental with a 3-ton (6,000 lb) weight allowance**. Extra days run $5/day, and any weight over the allowance is billed at $105 per additional ton — so you only pay for what you actually throw away. Pickup is on request; just call to schedule it when you are done.
+The 30-yard is the largest box we run and the one most people know as the "commercial and demo" size. It measures 22 ft long by 8 ft wide by 6 ft tall and swallows roughly 14 pickup-truck loads of debris. Pricing is per material, so call for a quote — heavy aggregates like dirt, concrete, and asphalt are only offered in our 10-, 15-, and 20-yard boxes. Every 30-yard **includes delivery, pickup on request, and a 14-day rental with a 3-ton (6,000 lb) weight allowance**. Extra days run $5 a day, and any weight over the allowance is billed at $105 per additional ton — so you only pay for what you actually throw away. Pickup is on request; just call to schedule it when you are done.
 
 The reason to reach for a 30 over a 20 is simple math. When you are gutting an entire structure or clearing a multi-unit building, a smaller container fills before the job is half done, and a second drop-and-haul costs more than sizing up once. The 30-yard is maximum capacity in a single container — you fill it, we take it, you are done.
 
@@ -14,7 +14,7 @@ The one thing the 30 asks for in return is room. At 22 feet of box plus the truc
 
 Bladensburg's housing stock skews mid-century — ZIP 20710 holds around 3,800 housing units with a median build year near 1969 and a heavy share put up in the 1950s and 1960s. Layered on top of that are the older Decatur Heights blocks, platted in 1914 and 1917 along Annapolis Road with their early-1900s bungalows, and the 1947 Sunnybrook single-family homes. Aging stock like this is what drives the big-ticket work, and these are the jobs where the 30-yard earns its keep:
 
-- **Full demolition.** Tearing a structure down to the slab produces framing, roofing, plaster, and masonry all at once. The 3-ton allowance and nine-load capacity are built for that volume, where a smaller box would mean hauling mid-job.
+- **Full demolition.** Tearing a structure down to the slab produces framing, roofing, plaster, and masonry all at once. The 3-ton allowance and roughly 14-load capacity are built for that volume, where a smaller box would mean hauling mid-job.
 - **Commercial site work.** Annapolis Road (MD 450) is Bladensburg's main commercial corridor, and a buildout, gut, or fixture-clearing on that stretch generates the kind of mixed debris a 30-yard handles in one container.
 - **Bulk waste hauls.** When a single property has accumulated more than a cleanout-sized load, the 30 takes it in one pass.
 - **Multi-family cleanouts.** Clearing several units at once — between tenants, after a sale, or on a turnaround — fills a 30-yard about right and keeps the whole job on one container instead of staging multiple smaller ones.
@@ -31,8 +31,8 @@ Placement is the central question on nearly every Bladensburg job, more so than 
 
 **Neighborhood reference points.** If you are working near the Port Towns cluster, along the Anacostia tributary corridor, or out toward the Edmonston border on the town's western and southern edge, those are exactly the areas where floodplain ground and placement room need a closer look. Tell us the cross street or a landmark — the Bostwick House, the George Washington House on Annapolis Road, or Bladensburg Waterfront Park — and we will picture the approach.
 
-**Drive time.** Bladensburg is a short run from our Beltsville yard, so scheduling is quick. We dispatch every morning and can usually have a 30-yard placed inside a day on driveway jobs, with that same-week turnaround when a right-of-way permit is in play.
+**Drive time.** Bladensburg is a short run from our Beltsville yard, so scheduling is quick. We dispatch every morning and most driveway jobs are scheduled within 24 hours, with that same-week turnaround when a right-of-way permit is in play. An early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Bladensburg address and what you are tackling, whether it is a full demo near the Port Towns, a commercial gut on Annapolis Road, or a multi-family cleanout off the Edmonston border, and we will confirm the 30-yard is the right call, check the placement and the ground, and quote you on the spot. Reach us at **(301) 252-3586**.
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Bladensburg address and what you are tackling, whether it is a full demo near the Port Towns, a commercial gut on Annapolis Road, or a multi-family cleanout off the Edmonston border, and we will confirm the 30-yard is the right call, check the placement and the ground, and quote you on the spot. Reach us at **(301) 879-7040**.

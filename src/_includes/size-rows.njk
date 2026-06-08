@@ -3,7 +3,7 @@
   {% for s in sizes %}
   <div id="size-{{ s.yd }}" class="feature-row size-row{% if loop.index0 % 2 == 1 %} reverse{% endif %} reveal">
     <div class="feature-text">
-      {% if s.popular %}<span class="popular-tag">Most Popular</span>{% endif %}
+      {% if s.popular %}<span class="popular-tag" data-en="Most Popular" data-es="Más Popular">Most Popular</span>{% endif %}
       <h3 class="size-row-title"><span class="size-row-yd-num">{{ s.yd }}</span> <span data-en="Yard Dumpster" data-es="Yardas">Yard Dumpster</span></h3>
       <p class="size-row-use" data-en="{{ s.title.en }}" data-es="{{ s.title.es }}">{{ s.title.en }}</p>
       <p class="size-meta" data-en="{{ s.homeMeta.en }}" data-es="{{ s.homeMeta.es }}">{{ s.homeMeta.en }}</p>

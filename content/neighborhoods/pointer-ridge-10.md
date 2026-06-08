@@ -4,9 +4,9 @@ If you live here, you already know the giveaway — every street starts with the
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard is the smallest footprint we offer, measuring 12 ft long by 8 ft wide by 3.5 ft tall. It holds roughly three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. In Pointer Ridge a 10-yard **starts at $550 for construction debris (other materials priced separately)**, with delivery, pickup on request, and a 14-day rental with a 1-ton allowance included; extra days run +$5/day, and weight over the 1-ton allowance is billed at $105 per additional ton.
+The 10-yard is the smallest footprint we offer, measuring 12 ft long by 8 ft wide by 4 ft tall. It holds roughly three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. In Pointer Ridge a 10-yard **includes delivery, pickup on request, and a 14-day rental with a 1-ton allowance — priced by material, so call for a quote**; extra days run +$5/day, and weight over the 1-ton allowance is billed at $105 per additional ton.
 
-The low 3.5-foot walls are the quiet advantage. You can walk right up and drop debris over the side without a ramp or a heave, which matters when you are loading heavy, dense material like old bathroom tile, plaster, or yard soil. The 1-ton allowance is sized for exactly that kind of work — a single-room remodel or a focused cleanout, not a whole-house gut. And because the container fits in a single car spot, it tucks neatly onto a Pointer Ridge driveway without swallowing the whole thing. If your project turns out bigger than one room, we will point you to a 15- or 20-yard instead — but for the jobs below, the 10 is the right call.
+The low 4-foot walls are the quiet advantage. You can walk right up and drop debris over the side without a ramp or a heave, which matters when you are loading heavy, dense material like old bathroom tile, plaster, or yard soil. The 1-ton allowance is sized for exactly that kind of work — a single-room remodel or a focused cleanout, not a whole-house gut. And because the container fits in a single car spot, it tucks neatly onto a Pointer Ridge driveway without swallowing the whole thing. If your project turns out bigger than one room, we will point you to a 15- or 20-yard instead — but for the jobs below, the 10 is the right call.
 
 ## Which Pointer Ridge jobs suit the 10-yard
 
@@ -27,8 +27,8 @@ If you are gut-renovating a dated kitchen, finishing a basement, tearing off a r
 
 One neighborly note: Pointer Ridge Elementary sits right inside the subdivision at 1110 Parkington Lane, and many homes are within walking distance of it. If your project is near the school, we will set the container so it keeps the sidewalks and the kids' walking route clear.
 
-**Drive time.** Pointer Ridge is about 25 minutes from our Beltsville yard, an easy run down Route 197 or the BW Parkway. We dispatch every morning, so same-day delivery is common when you call early, and the rest of the schedule fills inside 24 hours. You are close enough that getting a truck to a P-section address is never the holdup.
+**Drive time.** Pointer Ridge is about 25 minutes from our Beltsville yard, an easy run down Route 197 or the BW Parkway. We dispatch every morning, so most Pointer Ridge addresses are scheduled within 24 hours, and an early call may still make a same-day run. You are close enough that getting a truck to a P-section address is never the holdup.
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off — not a call center, not a dispatch service three states away. Tell us your Pointer Ridge address and what you are tackling, whether it is a garage clear-out on Pointer Ridge Drive, a bathroom gut in a 1970s rambler, or a yard full of brush off Parkington Lane, and we will confirm the 10-yard is the right size and quote you on the spot. Reach us at **(301) 252-3586** — same family, same trucks, dispatched fresh every morning out of Beltsville.
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center, not a dispatch service three states away. Tell us your Pointer Ridge address and what you are tackling, whether it is a garage clear-out on Pointer Ridge Drive, a bathroom gut in a 1970s rambler, or a yard full of brush off Parkington Lane, and we will confirm the 10-yard is the right size and quote you on the spot. Reach us at **(301) 879-7040** — same family, same trucks, dispatched fresh every morning out of Beltsville.

@@ -4,9 +4,9 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. Pricing is per material: the 20-yard **starts at $620 for construction debris (other materials priced separately)**, and that price includes delivery, pickup, and a 14-day rental with a 2-ton (4,000 lb) weight allowance. Need more time? It is just $5 a day after that. Go over the 2-ton allowance and extra weight is billed at $105 per additional ton, and pickup is on request — give us a call to schedule it.
+The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material: the 20-yard **includes delivery, pickup, and a 14-day rental with a 2-ton (4,000 lb) weight allowance, priced by what you are throwing out, so call for a quote**. Need more time? It is just $5 a day after that. Go over the 2-ton allowance and extra weight is billed at $105 per additional ton, and pickup is on request — give us a call to schedule it.
 
-Those five feet of wall height are the part people underestimate. It is low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a real project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demo. It is the size most customers end up choosing — and rarely regret.
+Those low 4-foot walls are part of what makes it easy to live with. They are low enough that you can still walk debris up and toss it over the side, while the long 22-foot box swallows the volume of a real project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demo. It is the size most customers end up choosing — and rarely regret.
 
 ## Why the 20-yard fits Pointer Ridge specifically
 
@@ -23,7 +23,7 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 ## Placement, permits, and the Pointer Ridge advantage
 
-**Driveway placement.** This is where Pointer Ridge has a built-in advantage over Bowie's newer, tightly planned subdivisions. The detached homes here sit on generous lots — individual listings show right around 0.29 acre — with grassy front lawns, stone walkways, mature trees, and private driveways. That space means most single-family projects can stage the roll-off on their own property rather than in the street, and a 20-yard fits most of these driveways with room to spare. It needs roughly 16 feet of straight length plus a few feet of clearance and an open swing for the rear door. We will lay boards under the wheels on request to protect the surface.
+**Driveway placement.** This is where Pointer Ridge has a built-in advantage over Bowie's newer, tightly planned subdivisions. The detached homes here sit on generous lots — individual listings show right around 0.29 acre — with grassy front lawns, stone walkways, mature trees, and private driveways. That space means most single-family projects can stage the roll-off on their own property rather than in the street, and a 20-yard fits most of these driveways with room to spare. It needs roughly 22 feet of straight length plus a few feet of clearance and an open swing for the rear door. We will lay boards under the wheels on request to protect the surface.
 
 **The Bowie permit rule.** The City of Bowie requires a right-of-way permit only if the dumpster sits in a city street. Driveways and HOA-approved staging do not. Because nearly every detached Pointer Ridge home has its own driveway and a third of an acre to work with, a city street permit is the exception here, not the rule — most projects on the P streets stage entirely on private property with no permit at all. If the only practical spot turns out to be the street, that permit runs through Bowie's Public Works Department, and we will flag it the moment we look at your address.
 
@@ -31,8 +31,8 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 **A word on the school.** Pointer Ridge Elementary sits right inside the neighborhood at 1110 Parkington Lane, K through 5, and it is within walking distance of many homes. If your project is near the school, we will set the container so it keeps sidewalks and the walking route clear — placement that respects the morning and afternoon foot traffic.
 
-**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway, so we know exactly where these P streets are. Most Pointer Ridge addresses are scheduled inside 24 hours, and an early call often makes the same-day run. The section is in ZIP 20716.
+**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway, so we know exactly where these P streets are. Most Pointer Ridge addresses are scheduled within 24 hours, and an early call may still make a same-day run. The section is in ZIP 20716.
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Pointer Ridge address and what you are tackling — a dated kitchen gut on Pointer Ridge Drive, a whole-house cleanout off Parkington, an estate clear-out, or a roof tear-off on one of the ranches — and we will confirm the 20-yard is the right size and quote you on the spot.
+Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Pointer Ridge address and what you are tackling — a dated kitchen gut on Pointer Ridge Drive, a whole-house cleanout off Parkington, an estate clear-out, or a roof tear-off on one of the ranches — and we will confirm the 20-yard is the right size and quote you on the spot.

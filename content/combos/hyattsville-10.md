@@ -2,9 +2,9 @@ If you're clearing out one room, one garage, or one stubborn corner of the yard 
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard measures roughly 12 feet long, 8 feet wide, and 3.5 feet tall. That low profile is the whole point: it holds about three pickup-truck loads of debris and comes with a 1-ton (2,000-pound) weight allowance built into the price. Pricing is per material — for construction debris, a 10-yard starts at $550 (other materials are priced separately), and that rate includes delivery, pickup, and a 14-day rental with the 1-ton allowance. Go over that weight and extra tonnage is billed at $105 per additional ton; extra days run $5 a day, and pickup is on request when you call to schedule.
+The 10-yard measures roughly 12 feet long, 8 feet wide, and 4 feet tall. That low profile is the whole point: it holds about three pickup-truck loads of debris and comes with a 1-ton (2,000-pound) weight allowance built into the price. Pricing is per material — priced by what you're putting in it, so call for a quote — and that rate includes delivery, pickup on request, and a 14-day rental with the 1-ton allowance. Go over that weight and extra tonnage is billed at $105 per additional ton; extra days run $5 a day, and pickup is on request when you call to schedule.
 
-Because the walls are only about waist-high, you can walk heavy items right up to the side and tip them in instead of hoisting everything over your head. That makes the 10-yard the favorite for dense, heavy loads like dirt, brick, tile, and old roofing, where you'll hit the weight limit long before you fill the box. For a one-room project, that's exactly the trade-off you want.
+Because the walls sit low, you can walk heavy items right up to the side and tip them in instead of hoisting everything over your head. That makes the 10-yard the favorite for dense, heavy loads like dirt, brick, tile, and old roofing, where you'll hit the weight limit long before you fill the box. For a one-room project, that's exactly the trade-off you want.
 
 This is the size people mean when they say the "garage cleanout" dumpster. It takes up about the same footprint as a single car, which matters more in Hyattsville than in most places — more on that below.
 
@@ -34,8 +34,8 @@ One thing worth checking: the Hyattsville ZIP codes (20781, 20782, 20783, 20784)
 
 A few neighborhood notes we keep in mind: West Hyattsville borders the Northwest Branch of the Anacostia River, and lots near that stream valley and the Anacostia Tributary Trail corridor can have soft ground or limited access, so we'll talk through where a loaded box can safely rest. University Hills sits up against the University of Maryland in College Park. Downtown's Arts District — the roughly 25-acre EYA redevelopment along the Route 1 corridor — mixes restored storefronts with newer townhomes, which means tenant fit-outs and townhome-scale projects right alongside single-family work. And the Riverdale border blends right into the same older grid. Wherever you are, we'll figure out the cleanest spot to drop the box.
 
-Drive time is on your side. Hyattsville is a short run from our yard in Beltsville, so same-day delivery is common when you catch us early. We'll confirm a window, place the box where it works for your property, and come back to haul it the moment you're done.
+Drive time is on your side. Hyattsville is a short run from our yard in Beltsville, so most addresses here are scheduled within 24 hours, and an early call may still make a same-day run. We'll confirm a window, place the box where it works for your property, and come back to haul it the moment you're done.
 
 ## Ready when you are
 
-For a garage cleanout, a bathroom remodel, a round of yard and tree work, or an estate downsize anywhere in Hyattsville, the 10-yard is the right-sized, no-overpaying choice — and you'll be working with the family that owns the trucks, not a dispatcher reading a script. Call JP Roll-Off Service at (301) 252-3586 and we'll get a 10-yard headed your way, often the same day.
+For a garage cleanout, a bathroom remodel, a round of yard and tree work, or an estate downsize anywhere in Hyattsville, the 10-yard is the right-sized, no-overpaying choice — and you'll be working with the family that owns the trucks, not a dispatcher reading a script. Call JP Roll-Off Service at (301) 879-7040 and we'll get a 10-yard headed your way, usually the next day.

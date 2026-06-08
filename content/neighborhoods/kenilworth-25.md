@@ -4,17 +4,17 @@ Kenilworth is not a hard neighborhood to read, and that is exactly what makes th
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Kenilworth a 25-yard for construction debris **starts at $640 (other materials priced separately)**, and that includes delivery, pickup on request, and a 14-day rental with a 2-ton weight allowance. Extra days are $5/day and weight over the 2-ton allowance is billed at $105 per additional ton, so just call to schedule your pickup when the load is ready.
+The 25-yard is our major-construction size. It measures 18 ft long by 8 ft wide by 6 ft tall and holds roughly 10.5 pickup-truck loads of debris. Pricing is per material: in Kenilworth a 25-yard for construction debris includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) weight allowance — priced by material, so call for a quote. Extra days are $5/day and weight over the 2-ton allowance is billed at $105 per additional ton, so just call to schedule your pickup when the load is ready.
 
-The jump up from a 20-yard is real volume, not just a couple of extra feet. That capacity is what keeps a single container on site through a project that would otherwise need a second haul — a whole-house remodel, a home addition, a large roof, or a full commercial cleanout. The walls are still five feet, so you can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls.
+The jump up from a 20-yard is real volume. That capacity is what keeps a single container on site through a project that would otherwise need a second haul — a whole-house remodel, a home addition, a large roof, or a full commercial cleanout. The six-foot walls are tall, so plan to load through the rear swing door rather than tossing everything over the side, but there is meaningfully more room behind those walls.
 
-The one piece of advice we give every customer on this size: **measure twice before booking.** Twenty feet of straight container, plus clearance for the truck and the rear swing door, is a long footprint. The good news in Kenilworth is that the neighborhood was built for it.
+The one piece of advice we give every customer on this size: **measure twice before booking.** Eighteen feet of straight container, plus clearance for the truck and the rear swing door, is a long footprint. The good news in Kenilworth is that the neighborhood was built for it.
 
 ## Why Kenilworth driveways are made for this size
 
 Here is what sets Kenilworth apart from a lot of the addresses we serve: the housing is remarkably uniform, and that uniformity works in your favor on a 25-yard. NeighborhoodScout reports that about 96% of homes in the Kenilworth at Belair area were built between 1940 and 1969, with more single-family detached houses than nearly 99% of U.S. neighborhoods. There is no mix of townhomes, condos, or tight zero-lot-line builds to wrestle with. It is Levitt model after Levitt model — Cape Cods, three- and four-bedroom Colonials, the Rancher, the Country Clubber, and the Manor House — and every one of them came standard with an integral garage and a private driveway.
 
-That standard private driveway is the whole game for a container this long. A 25-yard is the size where placement goes wrong most often, but in Kenilworth you have an honest shot at staging the full 20 feet on your own property. We still ask you to walk the driveway with a tape measure before delivery day — confirm the straight run, the overhead clearance, and that the truck has room to swing the rear door — but the bones are here in a way they simply are not in denser parts of the county.
+That standard private driveway is the whole game for a container this long. A 25-yard is the size where placement goes wrong most often, but in Kenilworth you have an honest shot at staging the full 18 feet on your own property. We still ask you to walk the driveway with a tape measure before delivery day — confirm the straight run, the overhead clearance, and that the truck has room to swing the rear door — but the bones are here in a way they simply are not in denser parts of the county.
 
 ## Which Kenilworth jobs suit the 25-yard
 
@@ -33,6 +33,6 @@ If your project is a single-room remodel, a one-bath gut, or a focused garage cl
 
 A quick note on associations: Bowie's original Levitt sections, Kenilworth included, are generally served by voluntary civic associations rather than dues-mandatory HOAs with architectural gatekeeping. Even so, it is worth confirming your specific association's rules before staging a dumpster, just to be sure.
 
-**Drive time.** Kenilworth sits about 25 minutes from our Beltsville yard by way of Route 197 or the BW Parkway. We dispatch every morning, and same-day runs are common here. Tell us the job and the "K" street, and we will get a container moving.
+**Drive time.** Kenilworth sits about 25 minutes from our Beltsville yard by way of Route 197 or the BW Parkway. We dispatch every morning, and most addresses here are scheduled within 24 hours, with an early call sometimes still making a same-day run. Tell us the job and the "K" street, and we will get a container moving.
 
-When the major work on your Levitt home is finally happening — the addition you have planned for years, the gut remodel, or the roof that has waited a decade too long — call the family that runs the trucks at **(301) 252-3586**. Same family, same trucks, and a short run up the Parkway to your Kenilworth driveway.
+When the major work on your Levitt home is finally happening — the addition you have planned for years, the gut remodel, or the roof that has waited a decade too long — call the family that runs the trucks at **(301) 879-7040**. Same family, same trucks, and a short run up the Parkway to your Kenilworth driveway.

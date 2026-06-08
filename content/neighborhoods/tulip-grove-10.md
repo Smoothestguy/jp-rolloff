@@ -2,16 +2,16 @@ When you live on a street that starts with the letter T in Bowie, you're in Tuli
 
 ## Why the 10-yard fits Tulip Grove homes
 
-Tulip Grove and neighboring Long Ridge were the eastward extension of Levitt's Belair at Bowie development, built in the early-to-mid 1960s with slightly larger homes and lots than the company's earlier Bowie sections. Recent listings along Tulip Grove Drive show lots running roughly 9,100 to 10,600 square feet, with bigger corner parcels — about a fifth of an acre and up. That matters for a dumpster. The 10-yard footprint is just 12 feet long, 8 feet wide and 3.5 feet tall, so it occupies about a single car's worth of space. On a Tulip Grove driveway with that extra side- and rear-yard room, we can almost always stage the container entirely on your property, out of the street.
+Tulip Grove and neighboring Long Ridge were the eastward extension of Levitt's Belair at Bowie development, built in the early-to-mid 1960s with slightly larger homes and lots than the company's earlier Bowie sections. Recent listings along Tulip Grove Drive show lots running roughly 9,100 to 10,600 square feet, with bigger corner parcels — about a fifth of an acre and up. That matters for a dumpster. The 10-yard footprint is just 12 feet long, 8 feet wide and 4 feet tall, so it occupies about a single car's worth of space. On a Tulip Grove driveway with that extra side- and rear-yard room, we can almost always stage the container entirely on your property, out of the street.
 
-The 10-yard is what we call the "garage cleanout" size for a reason: it's the smallest footprint we offer, so you handle a one-room job without paying for cubic yards you'll never fill. It holds about three pickup-truck loads. Pricing is per material — construction debris in a 10-yard starts at $550, with other materials priced separately — and includes delivery, pickup on request, and a 14-day rental with a 1-ton (2,000-pound) weight allowance. Extra days are $5/day, and weight over the 1-ton allowance is $105 per additional ton.
+The 10-yard is what we call the "garage cleanout" size for a reason: it's the smallest footprint we offer, so you handle a one-room job without paying for cubic yards you'll never fill. It holds about three pickup-truck loads. Pricing is per material — priced by what you are throwing away, so call for a quote — and includes delivery, pickup on request, and a 14-day rental with a 1-ton (2,000-pound) weight allowance. Extra days are $5/day, and weight over the 1-ton allowance is $105 per additional ton.
 
 ## The right jobs for a 10-yard here
 
 These are detached single-family Levitt models — Ranchers, Cape Cods and Colonials — and they're now 60-plus years old, so they're frequently due for the kind of focused project this size is built for:
 
 - **Garage cleanout.** Decades of original-owner storage in a Levitt garage clears out neatly into one 10-yard. It's the classic use.
-- **Bathroom remodel.** Tearing out one of these original 1960s baths — tile, vanity, tub, subfloor — produces heavy debris but not high volume, which is exactly where the low, 3.5-foot walls and the 1-ton allowance earn their keep.
+- **Bathroom remodel.** Tearing out one of these original 1960s baths — tile, vanity, tub, subfloor — produces heavy debris but not high volume, which is exactly where the low, 4-foot walls and the 1-ton allowance earn their keep.
 - **Yard waste and trees.** Mature trees and overgrown beds on those deeper eastward lots fill a 10-yard with branches, brush and stumps when you're reclaiming a side or back yard.
 - **Estate downsize.** Many Tulip Grove homes are still held by original owners or their families. When it's time to clear out a long-held Rancher or Cape, a 10-yard handles a room-by-room downsize without crowding the driveway.
 
@@ -25,12 +25,12 @@ A couple of practical notes. Some Levitt sections fall under civic or homeowners
 
 ## Why neighbors call the family
 
-We dispatch every morning from our Beltsville yard, and Tulip Grove is about 25 minutes out via Route 197 or the BW Parkway. That short, predictable run is why same-day delivery is common here — if you call early on a project that's ready to go, there's a good chance we can have a can on your driveway that day. Tulip Grove Elementary on Trainor Lane sits right in the heart of the neighborhood, and we know these T-named streets well enough to find your address without a fuss.
+We dispatch every morning from our Beltsville yard, and Tulip Grove is about 25 minutes out via Route 197 or the BW Parkway. That short, predictable run is why most Tulip Grove addresses are scheduled within 24 hours — and if you call early on a project that's ready to go, an early call may still make a same-day run. Tulip Grove Elementary on Trainor Lane sits right in the heart of the neighborhood, and we know these T-named streets well enough to find your address without a fuss.
 
 Being family-owned means the person who answers the phone is the same person who'll make sure the truck shows up. No layers, no runaround. We'll talk through your job honestly — if a 10-yard is right, we'll send it; if you'd be better served by a bigger container, we'll tell you that too rather than watch you overfill the small one.
 
 ## Get a 10-yard on your Tulip Grove driveway
 
-Whether it's a garage that's been collecting since the home was built, an original bathroom finally getting its remodel, a yard you're clearing of overgrown trees, or an estate cleanout that needs to move at a respectful pace, the 10-yard dumpster is the no-waste choice for a one-room job in Tulip Grove. Pricing is per material — construction debris starts at $550, with other materials priced separately — and includes delivery, a 14-day rental with a 1-ton weight allowance, and pickup on request. Extra days run $5/day, and weight beyond the 1-ton allowance is $105 per additional ton.
+Whether it's a garage that's been collecting since the home was built, an original bathroom finally getting its remodel, a yard you're clearing of overgrown trees, or an estate cleanout that needs to move at a respectful pace, the 10-yard dumpster is the no-waste choice for a one-room job in Tulip Grove. Pricing is per material — priced by what you are throwing away, so call for a quote — and includes delivery, a 14-day rental with a 1-ton weight allowance, and pickup on request. Extra days run $5/day, and weight beyond the 1-ton allowance is $105 per additional ton.
 
-Call the family at **(301) 252-3586** and we'll get you scheduled — often the same day. You'll talk to an owner, get honest answers about sizing and placement, and have your dumpster staged right there on your own T-section driveway.
+Call the family at **(301) 879-7040** and we'll get you scheduled — most addresses here are booked within 24 hours, and an early call may still make a same-day run. You'll talk to an owner, get honest answers about sizing and placement, and have your dumpster staged right there on your own T-section driveway.

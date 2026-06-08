@@ -4,11 +4,11 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material, and in Buckingham a 25-yard **starts at $640 for construction debris (other materials priced separately)**, including delivery, pickup on request, and a 14-day rental with a 2-ton allowance. Extra days run +$5/day, and any weight beyond the 2-ton allowance is billed at $105 per additional ton.
+The 25-yard is our major-construction size. It measures 18 ft long by 8 ft wide by 6 ft tall and holds roughly 10.5 pickup-truck loads of debris. Pricing is per material — in Buckingham a 25-yard for construction debris is **priced by material, so call for a quote (other materials priced separately)**. Every rental includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) allowance. Extra days run +$5/day, and any weight beyond the 2-ton allowance is billed at $105 per additional ton.
 
-The jump from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through — a whole-house remodel, a substantial addition, a large roof, or a full cleanout. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls than the mid-size containers offer.
+The jump from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through — a whole-house remodel, a substantial addition, a large roof, or a full cleanout. The six-foot walls hold meaningfully more behind them than the mid-size containers offer, so one box carries a big job from start to finish.
 
-One piece of advice we give every customer on this size: **measure twice before booking.** Twenty feet of straight container, plus clearance for the truck and the rear swing door, is a long footprint. The good news in Buckingham is that the lots were laid out for it — but it is still worth confirming the spot before delivery day rather than after.
+One piece of advice we give every customer on this size: **measure twice before booking.** Eighteen feet of straight container, plus clearance for the truck and the rear swing door, is a long footprint. The good news in Buckingham is that the lots were laid out for it — but it is still worth confirming the spot before delivery day rather than after.
 
 ## Which Buckingham jobs suit the 25-yard
 
@@ -29,8 +29,8 @@ If your Buckingham project is on the smaller side — a single-room redo, a bath
 
 **A note on the neighborhood.** Buckingham is generally organized as a civic association rather than a dues-and-architectural-control HOA, so staging a dumpster on your own driveway typically does not require separate HOA sign-off. If your block has any specific guidelines, it is always worth a quick check, but most B-section homeowners can simply book and go.
 
-**Drive time.** Buckingham sits at the north end of the section, right by 182-acre Whitemarsh Park. From our Beltsville yard, that is about a 25-minute run via Route 197 or the BW Parkway. We dispatch every morning, and same-day delivery is common — so when you are running a build on a deadline, the container shows up when the crew needs it.
+**Drive time.** Buckingham sits at the north end of the section, right by 182-acre Whitemarsh Park. From our Beltsville yard, that is about a 25-minute run via Route 197 or the BW Parkway. We dispatch every morning, most addresses here are scheduled within 24 hours, and an early call may still make a same-day run — so when you are running a build on a deadline, the container shows up when the crew needs it.
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Buckingham address and what you are tackling — an addition on one of the B-named streets, a whole-house gut of an original Levitt home, a large roof tear-off, or a bigger cleanout — and we will confirm whether the 25-yard is the right size and quote you on the spot. Reach us at **(301) 252-3586**.
+When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Buckingham address and what you are tackling — an addition on one of the B-named streets, a whole-house gut of an original Levitt home, a large roof tear-off, or a bigger cleanout — and we will confirm whether the 25-yard is the right size and quote you on the spot. Reach us at **(301) 879-7040**.

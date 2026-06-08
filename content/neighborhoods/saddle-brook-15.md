@@ -4,9 +4,9 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## Why the 15-yard fits a Saddle Brook project
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. Pricing is per material: a 15-yard **starts at $595 for construction debris (other materials priced separately)**, and that includes delivery, pickup on request, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance. Extra weight beyond the allowance is $105 per additional ton, and days past the 14-day window run $5 per day.
+The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds about seven pickup-truck loads of debris. Pricing is per material — **priced by what you are throwing away, so call for a quote**. Every rental includes delivery, pickup on request, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance. Extra weight beyond the allowance is $105 per additional ton, and days past the 14-day window run $5 per day.
 
-We call this the "single-room reno" size, and that name is the key to using it well in a neighborhood of big colonials. The 15 is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly. On these 2,000-to-5,000-square-foot homes, it would be easy to over-order; a whole-house gut or a full-property estate cleanout in a six-bedroom colonial genuinely wants a 20 or a 30. The 15 is the right call when the scope is contained: one room, one system, one level. Its 14-foot length sits comfortably on the wide private driveways that are standard in Saddle Brook and Saddlebrook West, which is exactly where most of these homes have room to stage a box.
+We call this the "single-room reno" size, and that name is the key to using it well in a neighborhood of big colonials. The 15 is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly. On these 2,000-to-5,000-square-foot homes, it would be easy to over-order; a whole-house gut or a full-property estate cleanout in a six-bedroom colonial genuinely wants a 20 or a 30. The 15 is the right call when the scope is contained: one room, one system, one level. Its 16-foot length sits comfortably on the wide private driveways that are standard in Saddle Brook and Saddlebrook West, which is exactly where most of these homes have room to stage a box.
 
 So the 15 fits on two counts: it swallows a single defined project inside a full-size Bowie colonial, and its short footprint stages cleanly on a driveway without crowding the street. If your project touches the whole house at once, step up. For one room or one job, the 15 is the one we drop most often here.
 
@@ -23,7 +23,7 @@ Because the whole neighborhood came out of the same late-1990s-to-early-2000s bu
 
 ## Placement, parking, and HOA coordination
 
-**Driveway staging is the norm here.** This is what sets Saddle Brook apart from Bowie's older Levitt tracts: the homes sit on uniform private lots with wide driveways, so there is almost always room to set a 14-foot container on your own property rather than in the street. The 15-yard's short footprint makes that easy. We square the box to your driveway and lay boards under the wheels on request to protect the surface.
+**Driveway staging is the norm here.** This is what sets Saddle Brook apart from Bowie's older Levitt tracts: the homes sit on uniform private lots with wide driveways, so there is almost always room to set a 16-foot container on your own property rather than in the street. The 15-yard's short footprint makes that easy. We square the box to your driveway and lay boards under the wheels on request to protect the surface.
 
 **Coordinate with the HOA before you schedule.** Saddle Brook and Saddlebrook West are run by active homeowners associations — Saddlebrook West manages common amenities including a pool, two tennis courts, and a playground, and association dues in the area run roughly $129 to $280 per quarter. For a container set on your own driveway, that is usually straightforward, but if your only workable placement is on a shared drive or near a common area, clear the spot with the HOA first. Give us the location and any constraints, and we will work around whatever the association approves.
 
@@ -31,8 +31,8 @@ Because the whole neighborhood came out of the same late-1990s-to-early-2000s bu
 
 **Finding your door.** The neighborhood's main spine is Race Track Road, which runs past Saddlebrook East Park at 8311 Race Track Road and along the former Bowie Race Track — the old thoroughbred track that gave the area its equestrian identity and street names like Running Horse Place and Race Horse Lane. Our trucks work in off Race Track Road to reach your home, so a clear address and a known cross-street keep the delivery moving.
 
-**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway. Most Saddle Brook addresses are scheduled inside 24 hours, and an early call often makes the same-day run.
+**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway. Most Saddle Brook addresses are scheduled within 24 hours, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Saddle Brook address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in one of these full-size colonials — and where on the driveway you want the box. We will confirm the 15-yard is the right size for the scope and quote you on the spot, tonnage and delivery included.
+Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Saddle Brook address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in one of these full-size colonials — and where on the driveway you want the box. We will confirm the 15-yard is the right size for the scope and quote you on the spot, tonnage and delivery included.

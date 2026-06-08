@@ -4,11 +4,11 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Grovehurst a 25-yard **starts at $640 for construction debris (other materials priced separately)**, and that price includes delivery, pickup on request, and a 14-day rental with a 2-ton allowance. Keep it past two weeks and it's just $5 a day extra; go over the 2-ton allowance and additional weight is $105 per ton.
+The 25-yard is our major-construction size. It measures 18 ft long by 8 ft wide by 6 ft tall and holds roughly 10.5 pickup-truck loads of debris. Pricing is per material: in Grovehurst a 25-yard **includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) allowance — priced by material, so call for a quote.** Keep it past two weeks and it's just $5 a day extra; go over the 2-ton allowance and additional weight is $105 per ton.
 
-The jump from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through — a whole-house remodel, a substantial addition, a large roof, or a full cleanout. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls than the mid-size containers offer.
+The jump from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through — a whole-house remodel, a substantial addition, a large roof, or a full cleanout. The six-foot walls hold meaningfully more behind them than the mid-size containers offer, so for the heaviest tear-outs a crew may want a ramp or to load from the rear door rather than pitching everything over the top.
 
-One piece of advice we give every customer on this size: **measure twice before booking.** Twenty feet of straight container, plus clearance for the truck and the rear swing door, is a long footprint. The good news in Grovehurst is that the driveways were built for it — these are big homes on big lots — but it is still worth confirming the spot before delivery day rather than after.
+One piece of advice we give every customer on this size: **measure twice before booking.** Eighteen feet of straight container, plus clearance for the truck and the rear swing door, is a long footprint. The good news in Grovehurst is that the driveways were built for it — these are big homes on big lots — but it is still worth confirming the spot before delivery day rather than after.
 
 ## Which Grovehurst jobs suit the 25-yard
 
@@ -29,8 +29,8 @@ If your Grovehurst project is on the smaller side — a single bathroom, a deck 
 
 **A note on the HOA.** Grovehurst has an active Homeowners Association that maintains the common areas and sets community standards for this brick-and-vinyl enclave. Staging a roll-off on your own driveway is generally between you and your project, but on a container this size and a job this visible, it is worth a quick check of your HOA guidelines on placement and duration before delivery. We are happy to work around whatever timeline keeps you in good standing with the association.
 
-**Drive time.** Grovehurst sits on the Mitchellville/Enterprise Road side of Bowie, near Enterprise Golf Course and the surrounding parks and shopping. From our Beltsville yard, that is about a 25-minute run via Route 197 or the BW Parkway. We dispatch every morning, and same-day delivery is common — so when you are running a build on a deadline, the container shows up when the crew needs it.
+**Drive time.** Grovehurst sits on the Mitchellville/Enterprise Road side of Bowie, near Enterprise Golf Course and the surrounding parks and shopping. From our Beltsville yard, that is about a 25-minute run via Route 197 or the BW Parkway. We dispatch every morning, and most addresses here are scheduled within 24 hours — an early call may still make a same-day run — so when you are running a build on a deadline, the container shows up when the crew needs it.
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Grovehurst address and what you are tackling — an addition on Danbury Drive, a whole-house gut of a 1990s Colonial, a large roof tear-off, or a bigger cleanout — and we will confirm whether the 25-yard is the right size and quote you on the spot. Reach us at **(301) 252-3586**.
+When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Grovehurst address and what you are tackling — an addition on Danbury Drive, a whole-house gut of a 1990s Colonial, a large roof tear-off, or a bigger cleanout — and we will confirm whether the 25-yard is the right size and quote you on the spot. Reach us at **(301) 879-7040**.

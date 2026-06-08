@@ -4,9 +4,9 @@ Beltsville is a little different from the usual bedroom suburb, and that shapes 
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard is the smallest footprint we offer, measuring 12 ft long by 8 ft wide by 3.5 ft tall. It holds roughly three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. Pricing is per material: in Beltsville a 10-yard **starts at $550 for construction debris (other materials priced separately), including delivery, pickup, and a 14-day rental with that 1-ton allowance.** Additional days are $5/day, and any weight over the allowance is billed at $105 per additional ton. Pickup is on request — you call us to schedule it.
+The 10-yard is the smallest footprint we offer, measuring 12 ft long by 8 ft wide by 4 ft tall. It holds roughly three pickup-truck loads of debris and comes with a 1-ton (2,000 lb) weight allowance. Pricing is per material: in Beltsville a 10-yard **includes delivery, pickup on request, and a 14-day rental with that 1-ton (2,000 lb) allowance — priced by material, so call for a quote.** Additional days are $5/day, and any weight over the allowance is billed at $105 per additional ton. Pickup is on request — you call us to schedule it.
 
-The low 3.5-foot walls are the quiet advantage. You can walk right up and drop debris over the side without a ramp or a heave, which matters when you are loading heavy, dense material like tile, dirt, or roofing scrap. The 1-ton allowance is set for that kind of work: a single-room remodel or a focused cleanout, not a whole-house demo. And because the container fits in a single car spot, it slides onto even a narrow Beltsville driveway without eating the whole thing. If your project is bigger than one room, we will point you to a 15 or 20-yard instead — but for the jobs below, the 10 is the honest pick.
+The low 4-foot walls are the quiet advantage. You can walk right up and drop debris over the side without a ramp or a heave, which matters when you are loading heavy, dense material like tile, dirt, or roofing scrap. The 1-ton allowance is set for that kind of work: a single-room remodel or a focused cleanout, not a whole-house demo. And because the container fits in a single car spot, it slides onto even a narrow Beltsville driveway without eating the whole thing. If your project is bigger than one room, we will point you to a 15 or 20-yard instead — but for the jobs below, the 10 is the honest pick.
 
 ## Which Beltsville jobs suit the 10-yard
 
@@ -27,8 +27,8 @@ If you are remodeling a kitchen, tearing off a roof, or clearing a whole house a
 
 **A note on the bigger jobs.** Beltsville also carries a real commercial pipeline — the Beltsville Business and Industrial Park along Ammendale Road and the Konterra campus near I-95 — with warehouse fit-outs, tenant turnovers, and demolition. Those usually outgrow a 10-yard fast, but they are still our backyard, and we will match you to the right container if a small office or break-room cleanout is all you have.
 
-**Drive time.** This is our home base, which means Beltsville addresses are first out the gate every morning. Early calls regularly make the same-day run, and the rest are typically scheduled inside 24 hours. No other town we serve gets the truck quicker.
+**Drive time.** This is our home base, which means Beltsville addresses are first out the gate every morning. Most addresses here are scheduled within 24 hours, and an early call may still make a same-day run. No other town we serve gets the truck quicker.
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off — not a call center, not a dispatch service three states away. Tell us your Beltsville address and what you are tackling, whether it is a garage clear-out off Sellman, a bathroom gut in a Cherry Hill rancher, or a yard full of brush near Powder Mill, and we will confirm the 10-yard is the right size and quote you on the spot. Reach us at **(301) 252-3586** — same family, same trucks, right down the road.
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center, not a dispatch service three states away. Tell us your Beltsville address and what you are tackling, whether it is a garage clear-out off Sellman, a bathroom gut in a Cherry Hill rancher, or a yard full of brush near Powder Mill, and we will confirm the 10-yard is the right size and quote you on the spot. Reach us at **(301) 879-7040** — same family, same trucks, right down the road.

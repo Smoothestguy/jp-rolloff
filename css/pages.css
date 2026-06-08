@@ -1726,6 +1726,14 @@
 .longform h2:first-child { margin-top: 0; }
 .longform a { color: var(--color-red); font-weight: 700; }
 
+/* ---------- LONG-FORM LANGUAGE TOGGLE ----------
+   Articles with a translation render an EN block + an ES block. Show the active one
+   based on <html lang> (set by js/main.js applyLang). Pages without a translation have
+   no [data-has-es] wrapper and no ES block, so the EN body always shows. */
+[data-lang-block="es"] { display: none; }
+html[lang="es"] [data-has-es] [data-lang-block="en"] { display: none; }
+html[lang="es"] [data-has-es] [data-lang-block="es"] { display: block; }
+
 /* ---------- SIZE CARD HEADING (SEO product name) ---------- */
 .size-row-title { line-height: 1; margin-bottom: var(--space-2); }
 .size-row-yd-num { color: var(--color-red); }

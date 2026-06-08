@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 30-yard dumpster
 
-The 30-yard measures 22 ft long by 8 ft wide by 6 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material: a 30-yard for construction debris **starts at $665** (other materials are priced separately), and the price **includes delivery, pickup, and a 14-day rental with a 3-ton (6,000 lb) weight allowance**. Extra rental days run $5 a day, and any weight over the 3-ton allowance is $105 per additional ton. Pickup is by request — just call to schedule it.
+The 30-yard measures 22 ft long by 8 ft wide by 6 ft tall and holds roughly 14 pickup-truck loads of debris. Pricing is per material: a 30-yard for construction debris **includes delivery, pickup on request, and a 14-day rental with a 3-ton (6,000 lb) weight allowance — priced by material, so call for a quote**. Extra rental days run $5 a day, and any weight over the 3-ton allowance is $105 per additional ton. Pickup is by request — just call to schedule it.
 
 This is our maximum-capacity roll-off, the one people in the trade call the "commercial and demo" size. Those six feet of wall are taller than the 20-yard's five, and the extra six feet of length is what lets the box swallow the volume of a job that would otherwise mean a second haul. The reason to choose a 30 is simple: it is for the work where a smaller bin would fill up halfway through and leave you waiting on another drop. If your project is big enough that you are doing the math on hauls, the 30 usually pays for itself by being one container instead of two.
 
@@ -14,7 +14,7 @@ The trade-off is footprint. A 30-yard is 22 feet of straight steel, and it needs
 
 What sets Kenilworth apart from much of Bowie is how predictable the work is. NeighborhoodScout reports that roughly 96% of homes in the Kenilworth at Belair neighborhood were built between 1940 and 1969, and that the area has more single-family detached houses than almost 99% of U.S. neighborhoods, with a heavy share of four-, five-, and six-bedroom homes. In plain terms: nearly every property here is an owner-occupied, single-family Levitt house of the same era. So when a job goes big, it tends to go big in the same handful of ways — and those are exactly the jobs the 30-yard is built for:
 
-- **Full demolition.** When a 60-year-old Levitt house is taken down to the slab, or a large rear addition or detached structure comes off entirely, the mixed wood, drywall, roofing, and framing debris adds up fast. The 30-yard's nine-load capacity is the size that keeps a teardown to a single container instead of a rolling series of hauls.
+- **Full demolition.** When a 60-year-old Levitt house is taken down to the slab, or a large rear addition or detached structure comes off entirely, the mixed wood, drywall, roofing, and framing debris adds up fast. The 30-yard's 14-load capacity is the size that keeps a teardown to a single container instead of a rolling series of hauls.
 - **Commercial site work.** For contractors running a jobsite — a tenant build-out, a larger renovation crew, or any commercial cleanup along the Belair corridor — the 30 is the standard staging bin. It holds enough that the crew is not stopping work to wait on a swap.
 - **Bulk waste hauls.** A heavy, high-volume clear-out — accumulated material from a long-occupied home, a garage and basement emptied at once, or a property cleared before a major change of hands — is what the 30's volume is made for.
 - **Multi-family cleanouts.** Most of Kenilworth is single-family, but when a larger turnover or a multi-unit clear-out comes up, the 30-yard handles the combined furniture, fixtures, and household debris in one box rather than several.
@@ -31,8 +31,8 @@ Because the homes here are so alike in age and original construction, the heavy 
 
 **A neighborhood with a record.** Belair at Bowie is documented in the Library of Congress Historic American Buildings Survey, with individual models recorded separately, which speaks to the recognized historic character of the Levitt stock Kenilworth shares. That does not add red tape to a private driveway dumpster, but on a demolition it is worth knowing what these houses are. We treat your property and the surface under the container accordingly.
 
-**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway. Kenilworth sits in the 20715 ZIP, and most addresses are scheduled inside 24 hours, with early calls often making the same-day run.
+**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway. Kenilworth sits in the 20715 ZIP, and most addresses are scheduled inside 24 hours, with an early call sometimes still making a same-day run.
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Kenilworth address and what you are tackling — a full teardown on a "K"-street lot, a commercial site cleanup, a gut-and-basement haul-out of a Levitt Colonial, or a heavy bulk clear-out — and we will confirm the 30-yard is the right size, check the run-up for the truck, and quote you on the spot.
+Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Kenilworth address and what you are tackling — a full teardown on a "K"-street lot, a commercial site cleanup, a gut-and-basement haul-out of a Levitt Colonial, or a heavy bulk clear-out — and we will confirm the 30-yard is the right size, check the run-up for the truck, and quote you on the spot.

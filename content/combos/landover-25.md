@@ -4,11 +4,11 @@ We are JP Roll-Off Service, a family-owned hauler. When you call, the owners ans
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: for construction debris a 25-yard **starts at $640** (other materials are priced separately), and that includes delivery, a **14-day rental**, and a **2-ton weight allowance**. Pickup is on request — give us a call when you are ready and we will come get it. Extra days run $5/day, and any weight over the 2-ton allowance is billed at $105 per additional ton.
+The 25-yard is our major-construction size. It measures 18 ft long by 8 ft wide by 6 ft tall and holds roughly 10.5 pickup-truck loads of debris. Pricing is per material: for construction debris a 25-yard is **quoted separately from other materials, so call for a quote**, and every rental includes delivery, a **14-day rental**, and a **2-ton (4,000 lb) weight allowance**. Pickup is on request — give us a call when you are ready and we will come get it. Extra days run $5/day, and any weight over the 2-ton allowance is billed at $105 per additional ton.
 
-The step up from a 20-yard is real volume, not just a few extra feet of steel. That added capacity is what keeps one container on site through a project that would otherwise force a second haul partway through. The walls stay at five feet, so you can still walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls for the kind of sustained output a major build produces.
+The step up from a 20-yard is real volume, not just a few extra feet of steel. That added capacity is what keeps one container on site through a project that would otherwise force a second haul partway through. The walls stand a full six feet tall, so there is meaningfully more room to build up a load and the kind of sustained output a major build produces — tall enough that for heavier debris you may want to load from the rear door rather than tip everything over the side.
 
-One piece of advice we give every customer eyeing this size: **measure twice before booking.** Twenty feet of straight container, plus clearance for the truck to set it and for the rear swing door to open, is a long footprint. On the wider lots common in unincorporated Landover that is rarely an issue, but it is worth confirming the run of the driveway before delivery day rather than after.
+One piece of advice we give every customer eyeing this size: **measure twice before booking.** Eighteen feet of straight container, plus clearance for the truck to set it and for the rear swing door to open, is still a substantial footprint. On the wider lots common in unincorporated Landover that is rarely an issue, but it is worth confirming the run of the driveway before delivery day rather than after.
 
 ## Which Landover jobs suit the 25-yard
 
@@ -29,8 +29,8 @@ The wrinkle is **Landover Hills**, the small incorporated town tucked along Anna
 
 Whenever we can, we set the container on a private driveway. It sidesteps the permit question entirely on unincorporated parcels, and on the larger lots common across Greater Landover there is usually room to do it cleanly. We will scout the spot with you and lay boards under the wheels on request to protect the surface.
 
-**Drive time.** Landover is a short hop from our Beltsville yard, straight down the Capital Beltway. That proximity means early calls routinely make the same-day run, and most others are scheduled inside 24 hours — the kind of turnaround that keeps an addition or a commercial build on schedule.
+**Drive time.** Landover is a short hop from our Beltsville yard, straight down the Capital Beltway. That proximity means most jobs are scheduled within 24 hours, and an early call may still make a same-day run — the kind of turnaround that keeps an addition or a commercial build on schedule.
 
 ## Talk to the family that runs the trucks
 
-Call us and you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Landover address and what you are tackling — an addition near the FedExField corridor, a whole-house remodel in Kentland or Dodge Park, a large roofing tear-off, or a cleanout along the Route 202 strip — and we will confirm the 25-yard is the right size, sort out the placement and any permit, and quote you on the spot. Reach us at **(301) 252-3586**.
+Call us and you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Landover address and what you are tackling — an addition near the FedExField corridor, a whole-house remodel in Kentland or Dodge Park, a large roofing tear-off, or a cleanout along the Route 202 strip — and we will confirm the 25-yard is the right size, sort out the placement and any permit, and quote you on the spot. Reach us at **(301) 879-7040**.

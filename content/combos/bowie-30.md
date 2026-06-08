@@ -2,7 +2,7 @@ When a job in Bowie is big enough that a smaller bin would mean a second haul, t
 
 ## What the 30-yard holds
 
-The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That tall, long box swallows about nine pickup-truck loads of material, which is why it is the go-to for jobs that produce a steady wall of debris rather than a few bags. It comes with a 3-ton (6,000 lb) weight allowance, and in Bowie a 30-yard starts at $665 for construction debris (other materials are priced separately). That price includes delivery, pickup, and a 14-day rental with the 3-ton allowance built in. Extra days run $5/day, and any weight over the allowance is billed at $105 per additional ton, so heavy loads can add to the base price.
+The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That tall, long box swallows about fourteen pickup-truck loads of material, which is why it is the go-to for jobs that produce a steady wall of debris rather than a few bags. It comes with a 3-ton (6,000 lb) weight allowance, and in Bowie a 30-yard is priced by material, so call for a quote. Every 30-yard includes delivery, pickup, and a 14-day rental with the 3-ton allowance built in. Extra days run $5/day, and any weight over the allowance is billed at $105 per additional ton, so heavy loads can add to the cost.
 
 A quick word on the weight allowance: 30-yard volume fills up with bulky, lighter material — framing lumber, drywall, cabinetry, roofing tear-off, furniture, and general construction debris. If your load leans heavy (think a lot of concrete, brick, dirt, or tile), the cube fills slowly but the tonnage climbs fast, and a smaller bin or a dedicated heavy-debris container is often the smarter call. When you call, tell us what is going in and we will steer you to the right size.
 
@@ -12,7 +12,7 @@ Bowie is the largest municipality in Prince George's County, spread across rough
 
 - **Full demolition.** Gutting a house down to the studs, taking out an addition, or clearing a detached garage or large outbuilding generates more debris than most people expect. The 30-yard keeps a demo crew moving without stopping to swap containers.
 - **Commercial site work.** Tenant build-outs, store turnovers, and renovations along the Bowie Town Center retail corridor off US 50 produce a continuous stream of fixtures, ceiling grid, flooring, and packaging. One large box keeps the dumpster off the critical path.
-- **Bulk waste hauls.** Estate clear-outs, hoarding cleanups, and whole-property junk removal pile up fast. Nine truck-loads of capacity means you load once and we haul once.
+- **Bulk waste hauls.** Estate clear-outs, hoarding cleanups, and whole-property junk removal pile up fast. Fourteen truck-loads of capacity means you load once and we haul once.
 - **Multi-family cleanouts.** Turning over units in a townhome row, an apartment building, or a condo cluster — old appliances, carpet, mattresses, and accumulated tenant debris — is exactly the volume the 30-yard is built for.
 
 For most single-room remodels or a routine garage cleanout, a smaller container is usually the better fit. The 30-yard shines when capacity, not budget, is the thing that would otherwise cost you a second trip.
@@ -35,4 +35,4 @@ A few neighborhood notes worth raising when you call:
 
 We serve Bowie and the surrounding Prince George's ZIPs — 20715, 20716, 20720, and 20721 — and because we are family-owned, the people who answer the phone are the owners, not a call center. That means you can describe your demo, your site, or your cleanout and get a straight answer on whether the 30-yard is the right size, what it will cost, and how we will place it on your driveway in Belair, Mitchellville, Pointer Ridge, Fairwood, or Old Town. When the box is full, just give us a call to schedule the pickup — we haul it on request.
 
-If you have a big job in Bowie and a smaller bin would just mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We will get a 30-yard scheduled and dispatched from Beltsville, and have it on your site about 25 minutes later.
+If you have a big job in Bowie and a smaller bin would just mean a second haul, call JP Roll-Off Service at **(301) 879-7040**. We will get a 30-yard scheduled and dispatched from Beltsville, and have it on your site about 25 minutes later.

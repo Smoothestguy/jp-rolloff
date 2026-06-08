@@ -2,7 +2,7 @@ When a Cheverly project means tearing a house down to the studs, clearing out a 
 
 ## What fits in a 30-yard dumpster
 
-A 30-yard container measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That tall, deep box holds about nine pickup-truck loads of debris, with a weight allowance of 3 tons (6,000 pounds) built into the price. Pricing is per material: a 30-yard starts at $665 for construction debris (other materials are priced separately). That price includes delivery, pickup, and a 14-day rental with the 3-ton allowance; additional days run $5 each, and any weight over the allowance is billed at $105 per ton. Pickup is on request, so you call us to schedule it when the box is full.
+A 30-yard container measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That tall, deep box holds about fourteen pickup-truck loads of debris, with a weight allowance of 3 tons (6,000 pounds) built into the price. Pricing is per material: a 30-yard is priced by material, so call for a quote on construction debris (other materials are priced separately). That price includes delivery, pickup on request, and a 14-day rental with the 3-ton allowance; additional days run $5 each, and any weight over the allowance is billed at $105 per ton. Pickup is on request, so you call us to schedule it when the box is full.
 
 This is the size people reach for when the job is genuinely big: a full house gut, a demolition, a commercial clear-out, or a property where the volume of material would overwhelm a 15- or 20-yard bin. The extra height matters most for bulky, lightweight debris that fills space fast without adding much weight, like framing lumber, cabinetry, drywall, roofing tear-off, and the contents of an over-stuffed garage or basement.
 
@@ -15,7 +15,7 @@ Cheverly's housing stock is dominated by detached single-family homes, much of i
 - **Full demolition.** Taking a house, garage, or large addition down to the slab generates a tremendous volume of mixed debris. The 30-yard absorbs framing, sheathing, roofing, and interior materials without forcing you to stage piles and wait on a swap.
 - **Whole-house gut or estate cleanout.** When an entire home is being emptied or stripped to the studs, a single 30-yard often does in one drop what would take several rounds with a 10- or 15-yard. Cheverly's many longtime, multi-decade family homes are exactly the kind of property that fills a big box quickly.
 - **Commercial and institutional site work.** Cheverly mixes residential streets with light-commercial and institutional properties, and large local sites such as the former hospital campus on Hospital Drive are the kind of context that drives commercial cleanout and demolition debris. For a contractor or property manager, the 30-yard is the workhorse on these jobs.
-- **Bulk waste and multi-family cleanouts.** Clearing out a multi-unit property, a large rental turnover, or a property loaded with years of accumulated bulk is where the capacity pays off. Nine truckloads of furniture, fixtures, and general debris go into one container.
+- **Bulk waste and multi-family cleanouts.** Clearing out a multi-unit property, a large rental turnover, or a property loaded with years of accumulated bulk is where the capacity pays off. Fourteen truckloads of furniture, fixtures, and general debris go into one container.
 
 If your job is a single bathroom, one room, or a tight kit-house renovation dealing with plaster and lath, a 15- or 20-yard is usually the smarter fit. The 30-yard earns its keep when a smaller bin would mean a second trip.
 
@@ -35,4 +35,4 @@ On the paperwork side, the Town of Cheverly keeps it straightforward. A permit i
 
 A 30-yard is a commitment of space and a real piece of equipment to maneuver, so the best results start with a short conversation about your job, your driveway, and the tree and street access at your address. Because JP Roll-Off Service is family-owned, you are talking directly to the people who run the trucks, not a dispatcher reading from a script. We will help you confirm that 30 yards is the right call rather than upselling you into a box you do not need.
 
-When you are ready to schedule your 30-yard dumpster in Cheverly, or you just want a straight answer on size, pricing, or placement, call us at (301) 252-3586. We will get you set up and out of the way of your project.
+When you are ready to schedule your 30-yard dumpster in Cheverly, or you just want a straight answer on size, pricing, or placement, call us at (301) 879-7040. We will get you set up and out of the way of your project.

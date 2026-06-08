@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## Why the 15-yard fits a Grovehurst Colonial
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. Pricing is per material — for construction debris, the 15-yard **starts at $595, with other materials priced separately**. That price includes delivery, pickup on request, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance built in. Keep it past 14 days for $5 a day, and if you go over the allowance, additional weight runs $105 per ton.
+The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds about seven pickup-truck loads of debris. Pricing is per material — construction debris in the 15-yard **is priced separately from other materials, so call for a quote on your load**. Every rental includes delivery, pickup on request, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance built in. Keep it past 14 days for $5 a day, and if you go over the allowance, additional weight runs $105 per ton.
 
 We call this the "single-room reno" size, and it earns that name in a home like the ones here. The 15 is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly. In Grovehurst, where driveways are wide and lots run a quarter to a half acre, that low 4-foot profile is easy to tuck onto the asphalt or a side yard without crowding the house, the garage, or the tree line at the back of the lot.
 
@@ -23,7 +23,7 @@ Because these homes came out of a tight 1990s build and share a similar footprin
 
 ## Placement, parking, and HOA coordination
 
-**Wide private driveways are the advantage here.** This is what sets Grovehurst apart from Bowie's older, tighter sections. On a quarter- to half-acre lot, there is almost always room to set a 14-foot container entirely on your own driveway or a side-yard staging spot — which means the box stays on private property and the City of Bowie's right-of-way permit almost never comes into play. We will lay boards under the wheels on request to protect the driveway surface, and we square the container to leave you room to work and park.
+**Wide private driveways are the advantage here.** This is what sets Grovehurst apart from Bowie's older, tighter sections. On a quarter- to half-acre lot, there is almost always room to set a 16-foot container entirely on your own driveway or a side-yard staging spot — which means the box stays on private property and the City of Bowie's right-of-way permit almost never comes into play. We will lay boards under the wheels on request to protect the driveway surface, and we square the container to leave you room to work and park.
 
 **Coordinate with the HOA on the details.** Grovehurst has an active homeowners association that maintains common areas and sets community standards, with a modest monthly fee. The association cares about the look of the neighborhood, so it is worth a quick check on where and how long a container can sit, especially if your only workable spot is near a common area or visible from the street. Give us any constraints the HOA hands you and we will work around them — placement, orientation, and timing.
 
@@ -31,8 +31,8 @@ Because these homes came out of a tight 1990s build and share a similar footprin
 
 **The Bowie permit rule.** The City of Bowie's Public Works Department handles permitting for work within city-maintained rights-of-way, and a permit is required only when a dumpster sits in a city street. Driveways and HOA-approved staging do not need one. In Grovehurst, with the driveways these homes have, the container almost always stays on your property — but if your only option truly puts it in a city street, we will flag the right-of-way permit the moment we look at your address so there are no surprises.
 
-**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway. Most Grovehurst addresses are scheduled inside 24 hours, and an early call often makes the same-day run.
+**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway. Most Grovehurst addresses are scheduled inside 24 hours, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Grovehurst address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in one of these 1990s Colonials — and where on the driveway or lot you want the container staged. We will confirm the 15-yard is the right size and quote you on the spot — construction debris starts at $595, with delivery, pickup on request, and a 14-day rental with a 1.5-ton allowance included.
+Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Grovehurst address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in one of these 1990s Colonials — and where on the driveway or lot you want the container staged. We will confirm the 15-yard is the right size and quote you on the spot — construction debris is priced by material, with delivery, pickup on request, and a 14-day rental with a 1.5-ton allowance included.

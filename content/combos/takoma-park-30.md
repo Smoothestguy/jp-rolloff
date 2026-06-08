@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville. 
 
 ## What fits in a 30-yard dumpster
 
-The 30-yard is the largest box we run and the one most people know as the "commercial and demo" size. It measures 22 ft long by 8 ft wide by 6 ft tall and swallows roughly nine pickup-truck loads of debris. It carries a 3-ton (6,000 lb) weight allowance, and a 30-yard in Takoma Park **starts at $665 for construction debris (other materials are priced separately)**. That price includes delivery, a 14-day rental, and the 3-ton allowance, with pickup on request when you call to schedule. Extra days run $5 each, and weight over the 3-ton allowance is billed at $105 per additional ton.
+The 30-yard is the largest box we run and the one most people know as the "commercial and demo" size. It measures 22 ft long by 8 ft wide by 6 ft tall and swallows roughly 14 pickup-truck loads of debris. It carries a 3-ton (6,000 lb) weight allowance, and a 30-yard in Takoma Park is **quoted by material — call for a quote**. That quote includes delivery, a 14-day rental, and the 3-ton allowance, with pickup on request when you call to schedule. Extra days run $5 each, and weight over the 3-ton allowance is billed at $105 per additional ton.
 
 The reason to reach for a 30 over a 20 or a 25 is plain arithmetic. When you are gutting an entire structure or clearing a multi-unit building, a smaller container fills before the job is half done, and a second drop-and-haul costs more than sizing up once. The 30-yard is maximum capacity in a single container — you fill it, we take it, you are done.
 
@@ -14,7 +14,7 @@ The one thing the 30 asks for in return is room. At 22 feet of box plus the truc
 
 Takoma Park's housing stock is overwhelmingly late-Victorian and early-20th-century: Queen Anne and Stick/Shingle Victorians with ornate woodwork and front porches, Colonial Revival Foursquares, and Craftsman bungalows, most of them built in the 1920s or earlier. That old building stock keeps remodels and tear-offs common. But the 30-yard is not the single-room-remodel box. It is the box for the jobs where capacity is the whole point:
 
-- **Full demolition.** Taking a structure down — or gutting one of these century-old homes to the studs — produces framing, plaster, knob-and-tube, and masonry all at once. The 3-ton allowance and nine-load capacity are built for that volume, where a smaller box would mean hauling in the middle of the job. On the historic-district lots of Old Takoma and North Takoma, a full interior gut moves a lot of plaster and lath fast.
+- **Full demolition.** Taking a structure down — or gutting one of these century-old homes to the studs — produces framing, plaster, knob-and-tube, and masonry all at once. The 3-ton allowance and roughly 14-load capacity are built for that volume, where a smaller box would mean hauling in the middle of the job. On the historic-district lots of Old Takoma and North Takoma, a full interior gut moves a lot of plaster and lath fast.
 - **Commercial site work.** Along the Old Takoma commercial heart on Carroll Avenue and Laurel Avenue, build-outs and tenant turnovers generate the heavy, mixed debris a 30-yard handles in one container.
 - **Bulk waste hauls.** When a single property has piled up more than a cleanout-sized load, the 30 takes it in one pass instead of two.
 - **Multi-family cleanouts.** The Maple Avenue corridor is the city's multi-family pocket, with mid-century apartment buildings and condos. Clearing several units at once — between tenants, after a sale, or on an HOA project — fills a 30-yard about right and keeps the whole job on one container.
@@ -39,4 +39,4 @@ Placement is harder in Takoma Park than almost anywhere else we serve, and on a 
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Takoma Park address and what you are tackling, whether it is a full demo in Old Takoma, a commercial build-out on Carroll Avenue, or a multi-family turnover along Maple Avenue, and we will confirm the 30-yard is the right call, walk through the canopy, the street, and the permit before we schedule, and quote you on the spot. Reach us at **(301) 252-3586**.
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Takoma Park address and what you are tackling, whether it is a full demo in Old Takoma, a commercial build-out on Carroll Avenue, or a multi-family turnover along Maple Avenue, and we will confirm the 30-yard is the right call, walk through the canopy, the street, and the permit before we schedule, and quote you on the spot. Reach us at **(301) 879-7040**.

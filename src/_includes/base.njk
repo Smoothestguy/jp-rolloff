@@ -88,8 +88,24 @@
           <button class="qm-size qm-size-unsure" type="button" data-qm-help>
             <span class="qm-size-title" data-en="Not sure — help me pick" data-es="No estoy seguro — ayúdame">Not sure — help me pick</span>
           </button>
+          <button class="qm-size qm-size-aggregate" type="button" data-qm-aggregate>
+            <span class="qm-size-title" data-en="Aggregates (dirt, concrete, brick, asphalt, granite)" data-es="Agregados (tierra, concreto, ladrillo, asfalto, granito)">Aggregates (dirt, concrete, brick, asphalt, granite)</span>
+          </button>
         </div>
         <div class="qm-nav"><button class="qm-back" type="button" data-qm-back data-en="← Back" data-es="← Atrás">← Back</button></div>
+      </div>
+
+      {# Step 2c — aggregates (heavy material: dirt, concrete, brick, asphalt, granite) #}
+      <div class="qm-step" data-qm-step="2c">
+        <h2 data-en="Hauling heavy aggregates?" data-es="¿Vas a desechar agregados pesados?">Hauling heavy aggregates?</h2>
+        <p data-en="Aggregates go in a 10, 15, or 20-yard container. Pick the scope that fits your job:" data-es="Los agregados van en un contenedor de 10, 15 o 20 yardas. Elige el alcance que se ajusta a tu trabajo:">Aggregates go in a 10, 15, or 20-yard container. Pick the scope that fits your job:</p>
+        <div class="qm-choices">
+          <button class="qm-choice qm-choice-sm" type="button" data-qm-aggsize="10" data-en="Small — patio &amp; sidewalk" data-es="Pequeño — patio y acera">Small — patio &amp; sidewalk</button>
+          <button class="qm-choice qm-choice-sm" type="button" data-qm-aggsize="15" data-en="Medium — patio &amp; driveway" data-es="Mediano — patio y entrada">Medium — patio &amp; driveway</button>
+          <button class="qm-choice qm-choice-sm" type="button" data-qm-aggsize="20" data-en="Large — excavation (Most Popular Aggregate)" data-es="Grande — excavación (Agregado Más Popular)">Large — excavation (Most Popular Aggregate)</button>
+        </div>
+        <p class="qm-warning" data-en="Aggregate dumpsters are for concrete, dirt, asphalt, brick, and masonry materials only. Mixed trash, household junk, wood, drywall, and other construction debris are not permitted. For safety and transportation requirements, material must remain at least 1 foot below the top edge of the container. Overfilled containers cannot be legally transported and will not be picked up until the material level is reduced." data-es="Los contenedores para agregados son solo para concreto, tierra, asfalto, ladrillo y materiales de mampostería. No se permiten basura mixta, desechos del hogar, madera, tablaroca ni otros escombros de construcción. Por seguridad y requisitos de transporte, el material debe permanecer al menos un pie por debajo del borde superior del contenedor. Los contenedores sobrellenados no pueden transportarse legalmente y no se recogerán hasta que se reduzca el nivel del material.">Aggregate dumpsters are for concrete, dirt, asphalt, brick, and masonry materials only. Mixed trash, household junk, wood, drywall, and other construction debris are not permitted. For safety and transportation requirements, material must remain at least 1 foot below the top edge of the container. Overfilled containers cannot be legally transported and will not be picked up until the material level is reduced.</p>
+        <div class="qm-nav"><button class="qm-back" type="button" data-qm-goto="2" data-en="← Back to sizes" data-es="← Volver a tamaños">← Back to sizes</button></div>
       </div>
 
       {# Step 2a — size helper (plain-English question) #}

@@ -4,9 +4,9 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. Pricing is per material, and a typical Grovehurst rental **starts at $620 for construction debris (other materials priced separately)** — that includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) weight allowance. Keep it longer at just $5 a day, and any weight over the 2-ton allowance is $105 per additional ton.
+The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material, and a typical Grovehurst rental **is quoted by material for construction debris (other materials priced separately), so call for a quote on your load** — that includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) weight allowance. Keep it longer at just $5 a day, and any weight over the 2-ton allowance is $105 per additional ton.
 
-Those five feet of wall height matter more than people expect. The walls are low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for these homes: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that really only makes sense for ground-up construction or full structural demo. It has earned its nickname — the "whole-house cleanout" size — and it is the size most customers end up choosing and rarely regret.
+Those four feet of wall height matter more than people expect. The walls are low enough that you can still walk debris up and toss it over the side, but the box is long enough to swallow the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for these homes: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that really only makes sense for ground-up construction or full structural demo. It has earned its nickname — the "whole-house cleanout" size — and it is the size most customers end up choosing and rarely regret.
 
 ## Why the 20-yard fits Grovehurst specifically
 
@@ -23,7 +23,7 @@ If your project is smaller — a single bathroom, a closet purge, a few rooms of
 
 ## Placement, permits, and the easy part of Grovehurst
 
-**Here is the good news: placement in Grovehurst is rarely a headache.** Unlike Bowie's older Belair sections — the dense 1960s and '70s Levitt-built blocks with narrow lots and shared frontage — Grovehurst was laid out in the 1990s on quarter- to half-acre lots with wide private driveways and real side-yard room. A 20-yard needs about 16 feet of straight length plus a few feet of clearance and an open swing for the rear door, and most homes here on streets like Danbury Drive and Dartford Lane have driveway space to stage it entirely on private property, with room to spare in a two-car drive.
+**Here is the good news: placement in Grovehurst is rarely a headache.** Unlike Bowie's older Belair sections — the dense 1960s and '70s Levitt-built blocks with narrow lots and shared frontage — Grovehurst was laid out in the 1990s on quarter- to half-acre lots with wide private driveways and real side-yard room. A 20-yard needs about 22 feet of straight length plus a few feet of clearance and an open swing for the rear door, and most homes here on streets like Danbury Drive and Dartford Lane have driveway space to stage it entirely on private property, with room to spare in a two-car drive.
 
 **That means you almost never need a city permit.** The City of Bowie requires a right-of-way permit only if the dumpster sits in a city street — driveways and HOA-approved private staging do not. Because Grovehurst homes have the room to keep the container on the driveway, a street permit through Bowie's Public Works Department typically never enters the picture. In the rare case the only workable spot is the street itself, we will flag that the moment we look at your address.
 
@@ -31,8 +31,8 @@ If your project is smaller — a single bathroom, a closet purge, a few rooms of
 
 **Getting the truck in.** Grovehurst's interior streets are quiet residential roads, not arterials, so we route in carefully and place the container precisely rather than improvise on arrival. Tell us where you picture it sitting when you call and we will confirm the spot works before we roll.
 
-**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning. Most Grovehurst addresses are scheduled inside 24 hours, and an early call often makes the same-day run.
+**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning. Most Grovehurst addresses are scheduled inside 24 hours, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Grovehurst address and what you are tackling — a kitchen-and-bath gut on a 1990s Colonial, a whole-house cleanout off Danbury Drive, an estate clear-out, or a roof tear-off on one of those brick-and-vinyl homes — and where you are hoping to stage the container. We will confirm the driveway spot, make sure the 20-yard is the right size, and quote you on the spot.
+Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Grovehurst address and what you are tackling — a kitchen-and-bath gut on a 1990s Colonial, a whole-house cleanout off Danbury Drive, an estate clear-out, or a roof tear-off on one of those brick-and-vinyl homes — and where you are hoping to stage the container. We will confirm the driveway spot, make sure the 20-yard is the right size, and quote you on the spot.

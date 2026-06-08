@@ -4,9 +4,9 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. Pricing is per material — construction debris in the 20-yard **starts at $620, with other materials priced separately** (aggregates are accepted only in the 10, 15, and 20-yard sizes). That price includes delivery, pickup, and a **14-day rental with a 2-ton (4,000 lb) weight allowance**; keep it longer for an extra $5 a day, and any weight over the 2-ton allowance is $105 per additional ton. Pickup is on request, so just call to schedule it when you are done.
+The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material, so the 20-yard is quote-based — call and tell us what is going in and we will price it for your material (aggregates are accepted only in the 10, 15, and 20-yard sizes). **Every 20-yard includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) weight allowance**; keep it longer for an extra $5 a day, and any weight over the 2-ton allowance is $105 per additional ton.
 
-Those five feet of wall height are the part people underestimate. It is low enough that you can still walk debris up and toss it over the side, but tall enough to swallow the volume of a real project. That balance is why the 20-yard sits in the sweet spot: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demolition. It is the size most customers end up choosing — and rarely regret. On a standard Kenilworth driveway, it fits with room to spare.
+Those four feet of wall height are the part people underestimate. They are low enough that you can still walk debris up and toss it over the side, while the long 22-foot footprint swallows the volume of a real project. That balance is why the 20-yard sits in the sweet spot: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demolition. It is the size most customers end up choosing — and rarely regret. On a standard Kenilworth driveway, it fits with room to spare.
 
 ## Which Kenilworth jobs suit the 20-yard
 
@@ -21,7 +21,7 @@ Because the homes are so alike, sizing is rarely a guessing game in Kenilworth. 
 
 ## Local logistics: placement, permits, and drive time
 
-**Driveway placement.** This is where Kenilworth has a built-in advantage. Belair Levitt homes were sold in a handful of models — the Cape Cod, the three- and four-bedroom Colonials, the Rancher, the Country Clubber, the Manor House — and every one of them came standard with an integral garage and a private driveway. That means virtually every Kenilworth home has its own driveway suitable for on-property staging, so the dumpster can almost always sit on your property rather than in the street. A 20-yard needs roughly 16 feet of straight length plus a few feet of clearance and an open swing for the rear door, and the driveways here handle that comfortably. We will lay boards under the wheels on request to protect the surface.
+**Driveway placement.** This is where Kenilworth has a built-in advantage. Belair Levitt homes were sold in a handful of models — the Cape Cod, the three- and four-bedroom Colonials, the Rancher, the Country Clubber, the Manor House — and every one of them came standard with an integral garage and a private driveway. That means virtually every Kenilworth home has its own driveway suitable for on-property staging, so the dumpster can almost always sit on your property rather than in the street. A 20-yard needs roughly 22 feet of straight length plus a few feet of clearance and an open swing for the rear door, and the driveways here handle that comfortably. We will lay boards under the wheels on request to protect the surface.
 
 **The Bowie permit rule.** The City of Bowie requires a right-of-way permit only if the dumpster sits in a city street. Driveways and HOA-approved staging do not. Because nearly every Kenilworth job stages on the homeowner's own driveway, a city street permit is the rare exception here, not the rule. If the only practical spot turns out to be the street, that permit goes through Bowie's Public Works Department (301-809-2344), and we will flag it the moment we look at your address.
 
@@ -29,8 +29,8 @@ Because the homes are so alike, sizing is rarely a guessing game in Kenilworth. 
 
 **A neighborhood with a record.** Belair at Bowie is documented in the Library of Congress Historic American Buildings Survey, with individual models recorded separately, which speaks to the recognized historic character of the Levitt stock Kenilworth shares. None of that adds red tape to a private driveway dumpster — it is simply a reminder of what these homes are. We treat your property and the surface under the container accordingly.
 
-**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway. Kenilworth sits in the 20715 ZIP, and most addresses are scheduled inside 24 hours, with early calls often making the same-day run.
+**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway. Kenilworth sits in the 20715 ZIP, and most addresses are scheduled within 24 hours, with an early call sometimes still making a same-day run.
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Kenilworth address and what you are tackling — a kitchen-and-baths gut in a "K"-street Colonial, a roof tear-off on a Rancher, an estate cleanout, or a whole-house clear-out between owners — and we will confirm the 20-yard is the right size and quote you on the spot.
+Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Kenilworth address and what you are tackling — a kitchen-and-baths gut in a "K"-street Colonial, a roof tear-off on a Rancher, an estate cleanout, or a whole-house clear-out between owners — and we will confirm the 20-yard is the right size and quote you on the spot.

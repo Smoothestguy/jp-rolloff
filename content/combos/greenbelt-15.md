@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville. 
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds roughly four and a half pickup-truck loads of debris. In Greenbelt a 15-yard **starts at $595 for construction debris (other materials are priced separately)**, and that price includes delivery, pickup on request, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance. Pricing is per material rather than a single flat price: extra weight over the allowance is billed at $105 per additional ton, and additional rental days are $5/day.
+The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds roughly seven pickup-truck loads of debris. Pricing is per material — priced by what you're throwing away, so call for a quote. Every 15-yard includes delivery, pickup on request, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance. Extra weight over the allowance is billed at $105 per additional ton, and additional rental days are $5/day.
 
 Four feet of wall height is the part people appreciate once the work starts. It is low enough to walk debris up and toss it over the side without a ramp, which matters on a one-room remodel where you are carrying material out by hand all day. The 15-yard is best known as the "single-room reno" size for exactly that reason: bigger than the 10-yard you would grab for a quick declutter, but well short of the 20-, 25-, or 30-yard you would only want for a multi-room gut or a commercial tear-out. For a single project that generates real volume but stays contained, it is the right call.
 
@@ -27,12 +27,12 @@ In **Old Greenbelt**, the National Historic Landmark core, the housing is someth
 
 **The Greenbelt permit rule.** The City of Greenbelt requires a permit for placement in a city street or right-of-way, which includes most Old Greenbelt court parking. Driveways and HOA-approved staging typically do not. So a 15-yard on a Greenbelt East condo's approved lot or a Greenbelt Station driveway apron is usually clear, while a container that has to sit in a public court lot needs the city permit. We will flag which applies once we see your address.
 
-**Driveway and lot placement.** A 15-yard needs roughly 14 feet of straight length plus a few feet of clearance and an open swing for the rear door. On the newer townhomes and single-family lots that is a driveway drop; in the historic core and the 1970s-90s condo communities it is more often a coordinated spot in a shared lot. We lay boards under the wheels on request to protect the surface either way.
+**Driveway and lot placement.** A 15-yard needs roughly 16 feet of straight length plus a few feet of clearance and an open swing for the rear door. On the newer townhomes and single-family lots that is a driveway drop; in the historic core and the 1970s-90s condo communities it is more often a coordinated spot in a shared lot. We lay boards under the wheels on request to protect the surface either way.
 
 **ZIP note.** Greenbelt uses three ZIP codes, and they matter when you book. 20770 covers residential and business street addresses in the city; 20768 is P.O.-box only, so a 20768 customer's actual jobsite is still a 20770 street address; and 20771 is reserved for NASA's Goddard Space Flight Center. Give us the physical street address, not the box.
 
-**Drive time.** Beltsville is about ten minutes from most Greenbelt addresses, and Greenbelt Park borders the research-center land near our dispatch base, so this is a very short haul for us. We dispatch every morning — early calls usually make the same-day run, and most other addresses are scheduled inside 24 hours.
+**Drive time.** Beltsville is about ten minutes from most Greenbelt addresses, and Greenbelt Park borders the research-center land near our dispatch base, so this is a very short haul for us. We dispatch every morning — most addresses are scheduled within 24 hours, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Greenbelt address and what you are tackling, whether it is a GHI kitchen in an Old Greenbelt court, a roof tear-off, a two-bath gut in Greenbriar, or a basement cleanout over at Greenbelt Station, and we will confirm the 15-yard is the right size, sort out the permit and staging, and quote you on the spot. Reach us at **(301) 252-3586**.
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Greenbelt address and what you are tackling, whether it is a GHI kitchen in an Old Greenbelt court, a roof tear-off, a two-bath gut in Greenbriar, or a basement cleanout over at Greenbelt Station, and we will confirm the 15-yard is the right size, sort out the permit and staging, and quote you on the spot. Reach us at **(301) 879-7040**.

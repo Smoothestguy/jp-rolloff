@@ -1,10 +1,10 @@
-When a Hyattsville project crosses from "weekend cleanup" into "major construction," the 25-yard roll-off is usually the right call. At 20 feet long, 8 feet wide, and 5 feet tall, it swallows roughly 7.5 pickup-truck loads of debris and comes with a 2-ton (4,000 lb) weight allowance. We're JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, and we run this size to additions, gut renovations, big roofs, and full commercial cleanouts all over Hyattsville. When you call, you reach one of the owners directly, not a call center reading from a script.
+When a Hyattsville project crosses from "weekend cleanup" into "major construction," the 25-yard roll-off is usually the right call. At 18 feet long, 8 feet wide, and 6 feet tall, it swallows roughly 10.5 pickup-truck loads of debris and comes with a 2-ton (4,000 lb) weight allowance. We're JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, and we run this size to additions, gut renovations, big roofs, and full commercial cleanouts all over Hyattsville. When you call, you reach one of the owners directly, not a call center reading from a script.
 
-Pricing is per material: a 25-yard **starts at $640 for construction debris** (other materials are priced separately). That rate **includes delivery, pickup, and a 14-day rental with a 2-ton weight allowance**. Extra days run $5/day, and weight over the allowance is billed at $105 per additional ton; pickup is on request, so you call when you're ready. Commercial accounts welcome — ask about billing.
+Pricing is per material and priced by the load, so call for a quote. Every drop **includes delivery, pickup on request, and a 14-day rental with a 2-ton weight allowance**. Extra days run $5/day, and weight over the allowance is billed at $105 per additional ton; pickup is on request, so you call when you're ready. Commercial accounts welcome — ask about billing.
 
 ## What fits in a 25-yard dumpster
 
-This is the second-largest container we carry, and it's built for sustained, high-volume jobs rather than a single-room clear-out. The 5-foot walls are still low enough to load by hand or wheelbarrow, but the 20-foot floor gives you room to spread out bulky construction debris instead of stacking it into a wall.
+This is the second-largest container we carry, and it's built for sustained, high-volume jobs rather than a single-room clear-out. The 6-foot walls give you serious vertical capacity, and the 18-foot floor gives you room to spread out bulky construction debris instead of stacking it into a wall.
 
 A few things to keep in mind on a box this size:
 
@@ -25,7 +25,7 @@ If your project is smaller, like a single bath remodel or a garage purge, one of
 
 ## Local logistics, placement, and permits
 
-Here's where Hyattsville is genuinely different from the auto-era subdivisions elsewhere in the DMV. Because it was platted before cars, the older neighborhoods sit on a tight gridiron plan with narrow lots, rear alleys, and very few front-yard driveways. Many homes rely on rear-alley access and detached garages instead of a wide driveway you can simply drop a box onto. On a 20-foot container, that matters: we need to think about where a 25-yard can actually land and still leave the alley passable.
+Here's where Hyattsville is genuinely different from the auto-era subdivisions elsewhere in the DMV. Because it was platted before cars, the older neighborhoods sit on a tight gridiron plan with narrow lots, rear alleys, and very few front-yard driveways. Many homes rely on rear-alley access and detached garages instead of a wide driveway you can simply drop a box onto. On an 18-foot container, that matters: we need to think about where a 25-yard can actually land and still leave the alley passable.
 
 So before we roll out, it helps to know:
 
@@ -35,8 +35,8 @@ So before we roll out, it helps to know:
 
 A couple of placement realities worth flagging: in the Historic District (Hyattsville Hills, Downtown, Castle Manor), tight alleys and detached-garage layouts can limit where a loaded box sits. And near the Northwest Branch of the Anacostia, which borders West Hyattsville and feeds the Anacostia Tributary Trail corridor, soft ground and limited access near the stream valley can affect where we can safely set a heavy container. Tell us what you're working with and we'll plan the drop accordingly.
 
-Drive time is rarely an issue. Hyattsville is a short run straight down from our Beltsville yard, so **same-day delivery is common** when you call early enough.
+Drive time is rarely an issue. Hyattsville is a short run straight down from our Beltsville yard, so most addresses here are scheduled within 24 hours, and **an early call may still make a same-day run**.
 
 ## Ready when you are
 
-If you're planning an addition, a whole-house remodel, a big roof, or a commercial clear-out anywhere from the Arts District to University Hills, the 25-yard is built for it. Tell us about the job, your access, and whether the box lands on your driveway or the street, and we'll handle the rest, permit guidance included. Call JP Roll-Off Service at **(301) 252-3586** and one of the owners will pick up, give you a straight price, and get a container on its way.
+If you're planning an addition, a whole-house remodel, a big roof, or a commercial clear-out anywhere from the Arts District to University Hills, the 25-yard is built for it. Tell us about the job, your access, and whether the box lands on your driveway or the street, and we'll handle the rest, permit guidance included. Call JP Roll-Off Service at **(301) 879-7040** and one of the owners will pick up, give you a straight price, and get a container on its way.

@@ -2,13 +2,13 @@ When a project in Tulip Grove outgrows a quick weekend cleanout, the 25-yard rol
 
 ## Why the 25-yard fits the bigger Tulip Grove jobs
 
-The 25-yard box measures roughly 20 feet long, 8 feet wide and 5 feet tall. That's about 7.5 pickup-truck loads of debris, and it comes with a 14-day rental and a 2-ton (4,000 lb) weight allowance included, with extra weight billed at $105 per additional ton. We call it the "major construction" size for a reason: it's the one you reach for when a project is going to generate real volume, not a single room's worth of trash.
+The 25-yard box measures roughly 18 feet long, 8 feet wide and 6 feet tall. That's about 10.5 pickup-truck loads of debris, and it comes with a 14-day rental and a 2-ton (4,000 lb) weight allowance included, with extra weight billed at $105 per additional ton. We call it the "major construction" size for a reason: it's the one you reach for when a project is going to generate real volume, not a single room's worth of trash.
 
 In Tulip Grove specifically, that means jobs like a **home addition**, a **whole-house remodel**, a **large roofing tear-off**, or a **commercial cleanout**. The neighborhood's housing stock lends itself to this. These are original Levitt models — the kind documented in the Historic American Buildings Survey, like the Rancher example at 12100 Tulip Grove Drive after its 1962 redesign, the four-bedroom Colonial at 12500 Swirl Lane, and the Cape Cods on Stonehaven Lane. When a 60-year-old Rancher gets a full gut, or an original 1960s roof finally comes off down to the deck, the debris adds up fast. A smaller container would have you calling for a swap mid-project. The 25-yard usually carries the whole thing in one drop.
 
 ## Measure twice before you book
 
-The 25-yard is a long box, and that length matters more than people expect. Twenty feet of steel plus room for our truck to set it down and pick it back up needs a clear, reasonably straight run. The good news for Tulip Grove is that you've got more room to work with than most Bowie neighborhoods.
+The 25-yard is a tall, deep box, and its footprint matters more than people expect. Eighteen feet of steel plus room for our truck to set it down and pick it back up needs a clear, reasonably straight run. The good news for Tulip Grove is that you've got more room to work with than most Bowie neighborhoods.
 
 Tulip Grove, along with neighboring Long Ridge, was Levitt's eastward expansion of the Belair community, and the company built it with slightly larger homes and lots than its earlier Bowie sections to match changing buyer tastes. Lots here generally run around a fifth of an acre — roughly 8,700 square feet — and recent listings along Tulip Grove Drive have come in closer to the 9,100 to 10,600 square foot range, with bigger corner lots on top of that. On detached single-family homes with private driveways, that extra side- and rear-yard space usually means a 25-yard container can sit entirely on your own driveway.
 
@@ -22,9 +22,9 @@ Because Tulip Grove's larger lots and private driveways usually let us keep the 
 
 ## Fast dispatch from Beltsville
 
-Our yard sits about 25 minutes from Tulip Grove. We run it either down Route 197 or via the BW Parkway, depending on the morning, and we dispatch every day. Same-day delivery is common when you call early, which matters when a contractor shows up ready to start and you need the container on site now.
+Our yard sits about 25 minutes from Tulip Grove. We run it either down Route 197 or via the BW Parkway, depending on the morning, and we dispatch every day. Most addresses here are scheduled within 24 hours, and an early call may still make a same-day run, which matters when a contractor shows up ready to start and you need the container on site now.
 
-Pricing on the 25-yard is per material — for construction debris it **starts at $640** (other materials are priced separately). That price includes delivery, a 14-day rental, and a 2-ton weight allowance; pickup is on request, so just call to schedule it. Extra time runs $5 per day, and any weight over the 2-ton allowance is $105 per additional ton. Because we're family-run and dispatching locally, we can also be flexible about timing — dropping the box the evening before a Saturday roofing crew arrives, or staging it so it's out of the way of the Tulip Grove Elementary traffic over on Trainor Lane during school-day hours. Just tell us how your project is laid out.
+Pricing on the 25-yard is per material — priced by what you're loading, so call for a quote (other materials are priced separately). The quote includes delivery, a 14-day rental, and a 2-ton weight allowance; pickup is on request, so just call to schedule it. Extra time runs $5 per day, and any weight over the 2-ton allowance is $105 per additional ton. Because we're family-run and dispatching locally, we can also be flexible about timing — dropping the box the evening before a Saturday roofing crew arrives, or staging it so it's out of the way of the Tulip Grove Elementary traffic over on Trainor Lane during school-day hours. Just tell us how your project is laid out.
 
 ## A few things worth thinking through
 
@@ -35,6 +35,6 @@ Pricing on the 25-yard is per material — for construction debris it **starts a
 
 ## Talk to the family that owns the trucks
 
-When you call JP Roll-Off Service, you're not working through a call center. You're talking to the people who own the company, dispatch the trucks, and know the difference between Tulip Grove's T-named streets and the rest of Bowie. We'll help you confirm the 25-yard is the right size for your addition, remodel, roofing job, or cleanout, sort out placement so you likely skip the street permit, and get a container to your driveway — often the same day.
+When you call JP Roll-Off Service, you're not working through a call center. You're talking to the people who own the company, dispatch the trucks, and know the difference between Tulip Grove's T-named streets and the rest of Bowie. We'll help you confirm the 25-yard is the right size for your addition, remodel, roofing job, or cleanout, sort out placement so you likely skip the street permit, and get a container to your driveway — usually within 24 hours.
 
-Ready to book, or just want a straight answer on whether the 25 fits your driveway? Call us at **(301) 252-3586** and we'll take care of you.
+Ready to book, or just want a straight answer on whether the 25 fits your driveway? Call us at **(301) 879-7040** and we'll take care of you.

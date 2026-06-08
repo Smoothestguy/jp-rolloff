@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## Why the 15-yard fits a single-project job in Jericho Park
 
-The 15-yard measures 14 ft long by 8 ft wide by 4 ft tall and holds about four and a half pickup-truck loads of debris. Pricing is per material — for construction debris the 15-yard **starts at $595 (other materials are priced separately)**, and that includes delivery, pickup on request, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance. Keep it past 14 days for +$5/day, and any weight over the 1.5-ton allowance runs $105 per additional ton.
+The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds about seven pickup-truck loads of debris. Pricing is per material — construction debris and other materials are quoted separately, so call for a quote; every drop includes delivery, pickup on request, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance. Keep it past 14 days for +$5/day, and any weight over the 1.5-ton allowance runs $105 per additional ton.
 
 We call this the "single-room reno" size, and that name is the key to using it well out here. Jericho Park's big lots and older midcentury-plus-custom homes tend to drive heavier whole-house renovations, additions, and land cleanouts — the kind of work that often calls for a 25- or 30-yard box. The 15 is the opposite end of that range: the in-between container, bigger than a 10-yard quick cleanup but still short and low enough to stay driveway-friendly. It is the size you reach for when the project is one defined piece of the house rather than the whole property at once.
 
@@ -23,7 +23,7 @@ If your project starts edging toward whole-house scope — gutting multiple room
 
 ## Placement on Jericho Park's big lots
 
-**Room to stage is the advantage here.** This is what sets Jericho Park apart from Bowie's denser planned tracts like Belair. With half-acre to multi-acre parcels and long private driveways, most homes have ample on-property space to set a 14-foot container well clear of the road. The 15-yard's short, low footprint barely registers on a driveway that already runs a hundred feet to the house, so placement is usually the easy part of the job out here.
+**Room to stage is the advantage here.** This is what sets Jericho Park apart from Bowie's denser planned tracts like Belair. With half-acre to multi-acre parcels and long private driveways, most homes have ample on-property space to set a 16-foot container well clear of the road. The 15-yard's short, low footprint barely registers on a driveway that already runs a hundred feet to the house, so placement is usually the easy part of the job out here.
 
 **The Bowie permit rule works in your favor.** The City of Bowie requires a right-of-way permit only if the dumpster sits in a city street. Driveways and HOA-approved staging do not. Because Jericho Park lots are large enough to stage the container entirely on your own property, the great majority of our drops here need no city permit at all — the box goes on the driveway or the yard, and that is the end of it. If your only workable spot truly puts the container in a city street, we will flag the right-of-way permit the moment we look at your address so there are no surprises.
 
@@ -33,8 +33,8 @@ If your project starts edging toward whole-house scope — gutting multiple room
 
 Access to the neighborhood is by turning off the main road at the traffic light onto Jericho Park Road, the same way you reach Bowie State University at 14000 Jericho Park Road. Streets in the area carry Bowie's old equestrian and horse-racing names — Running Horse Place, Race Horse Lane — a nod to the farm called Jericho that gave the neighborhood and the university their name. That setting, on the rural edge near the Patuxent open space, means our trucks work residential roads off Jericho Park Road rather than wide arterials to reach you, so a clear address and a known cross-street keep the delivery moving.
 
-**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway. Most Jericho Park addresses are scheduled inside 24 hours, and an early call often makes the same-day run.
+**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway. Most Jericho Park addresses are scheduled within 24 hours, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Jericho Park address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in a midcentury home — and where on the lot you want the container staged. We will confirm the 15-yard is the right size, or steer you up to a 20 or 25 if the scope calls for it, and quote you on the spot — delivery, pickup on request, and a 14-day rental with a 1.5-ton allowance included, with any extra weight at $105 per ton.
+Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Jericho Park address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in a midcentury home — and where on the lot you want the container staged. We will confirm the 15-yard is the right size, or steer you up to a 20 or 25 if the scope calls for it, and quote you on the spot — delivery, pickup on request, and a 14-day rental with a 1.5-ton allowance included, with any extra weight at $105 per ton.

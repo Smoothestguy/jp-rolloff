@@ -4,9 +4,9 @@ We're JP Roll-Off Service, a family-owned hauler. We dispatch out of Beltsville 
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard is the compact end of the lineup. It measures roughly 12 ft long by 8 ft wide by 3.5 ft tall and holds about three pickup-truck loads of debris. It comes with a 1-ton (2,000 lb) weight allowance, and in Bowie a 10-yard **starts at $550 for construction debris (other materials priced separately), including delivery, pickup, and a 14-day rental with that 1-ton allowance.** Pricing runs per material rather than as one price for every load. If you go over the included ton, the overage is $105 per additional ton, extra days are $5/day, and pickup is on request — you call to schedule.
+The 10-yard is the compact end of the lineup. It measures roughly 12 ft long by 8 ft wide by 4 ft tall and holds about three pickup-truck loads of debris. It comes with a 1-ton (2,000 lb) weight allowance, and in Bowie a 10-yard **includes delivery, pickup on request, and a 14-day rental with that 1-ton allowance — priced per material, so call for a quote.** Pricing runs per material rather than as one price for every load. If you go over the included ton, the overage is $105 per additional ton, extra days are $5 a day, and pickup is on request — you call to schedule.
 
-The thing that makes the 10-yard so easy to live with is its footprint and its low walls. At 12 feet long it fits inside a single parking space on the driveway, and the 3.5-foot sides mean you can walk right up and drop debris over the edge without a ramp or a heave. The trade-off is the weight allowance: a single ton goes fast with anything dense. That's the whole reason this size exists alongside the bigger ones — it's built for **bulky-but-light** loads from one room or one corner of the property, not for heavy demolition or whole-house gut jobs. For those, you'd want to step up. For a contained cleanout or a small remodel, the 10-yard is the size you don't overpay for.
+The thing that makes the 10-yard so easy to live with is its footprint and its low walls. At 12 feet long it fits inside a single parking space on the driveway, and the 4-foot sides mean you can walk right up and drop debris over the edge without a ramp or a heave. The trade-off is the weight allowance: a single ton goes fast with anything dense. That's the whole reason this size exists alongside the bigger ones — it's built for **bulky-but-light** loads from one room or one corner of the property, not for heavy demolition or whole-house gut jobs. For those, you'd want to step up. For a contained cleanout or a small remodel, the 10-yard is the size you don't overpay for.
 
 ## Which Bowie jobs suit the 10-yard
 
@@ -27,8 +27,8 @@ Where Bowie's housing differs is worth a quick word, because it changes what siz
 
 **HOAs.** Newer communities like Fairwood are HOA-governed, and placement there often needs HOA-approved positioning, especially in the townhome sections with shared driveways. A heads-up to your board usually clears it, and we can provide a service confirmation to forward along.
 
-**Drive time.** We're about 25 minutes out in Beltsville, running Route 197 or the BW Parkway, and we dispatch every morning. Early calls often make the same-day run; most other Bowie addresses get scheduled inside 24 hours.
+**Drive time.** We're about 25 minutes out in Beltsville, running Route 197 or the BW Parkway, and we dispatch every morning. Most Bowie addresses are scheduled within 24 hours, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Bowie address and what you're tackling, whether it's a Somerset garage cleanout, a Tulip Grove bathroom gut, a yard full of storm debris, or an estate downsize in one of the early sections, and we'll confirm the 10-yard is the right call and quote you on the spot. Reach us at **(301) 252-3586.**
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Bowie address and what you're tackling, whether it's a Somerset garage cleanout, a Tulip Grove bathroom gut, a yard full of storm debris, or an estate downsize in one of the early sections, and we'll confirm the 10-yard is the right call and quote you on the spot. Reach us at **(301) 879-7040.**

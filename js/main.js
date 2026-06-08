@@ -234,7 +234,15 @@
       { name: 'Cheverly',        coords: [38.9279, -76.9156] },
       { name: 'Bladensburg',     coords: [38.9387, -76.9314] },
       { name: 'Rockville',       coords: [39.0840, -77.1528] },
-      { name: 'Upper Marlboro',  coords: [38.8157, -76.7494] }
+      { name: 'Upper Marlboro',  coords: [38.8157, -76.7494] },
+      { name: 'Washington, DC',  coords: [38.9072, -77.0369] },
+      { name: 'Bethesda',        coords: [38.9847, -77.0947] },
+      { name: 'Wheaton',         coords: [39.0398, -77.0553] },
+      { name: 'Gaithersburg',    coords: [39.1434, -77.2014] },
+      { name: 'Columbia',        coords: [39.2037, -76.8610] },
+      { name: 'Glen Burnie',     coords: [39.1626, -76.6247] },
+      { name: 'Arlington, VA',   coords: [38.8816, -77.0910] },
+      { name: 'Alexandria, VA',  coords: [38.8048, -77.0469] }
     ];
 
     const map = L.map(mapEl, {
@@ -508,6 +516,14 @@
     };
     const helpBtn = qm.querySelector('[data-qm-help]');
     if (helpBtn) helpBtn.addEventListener('click', () => go('2a'));
+    // Aggregates path → dedicated step (heavy material is 10/15/20-yard only)
+    const aggBtn = qm.querySelector('[data-qm-aggregate]');
+    if (aggBtn) aggBtn.addEventListener('click', () => go('2c'));
+    qm.querySelectorAll('[data-qm-aggsize]').forEach((b) => b.addEventListener('click', () => {
+      lead.size = b.getAttribute('data-qm-aggsize');
+      lead.material = 'aggregate';
+      go(3);
+    }));
     qm.querySelectorAll('[data-qm-rec]').forEach((b) => b.addEventListener('click', () => {
       const yd = b.getAttribute('data-qm-rec');
       lead.size = yd;
@@ -545,7 +561,8 @@
       lead.email = qm.querySelector('#qm-email').value.trim();
       if (!lead.name || !lead.phone) { contactErr.hidden = false; return; }
       contactErr.hidden = true;
-      const sizeLabel = lead.size === 'not-sure' ? 'Not sure — needs help picking' : lead.size + ' Yard';
+      const sizeLabel = (lead.size === 'not-sure' ? 'Not sure — needs help picking' : lead.size + ' Yard')
+        + (lead.material === 'aggregate' ? ' (Aggregate)' : '');
 
       // Show the thank-you immediately, save the lead to the dashboard in the
       // background, and fall back to a prefilled email only if the save fails.

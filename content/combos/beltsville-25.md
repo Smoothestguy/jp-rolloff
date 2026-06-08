@@ -4,11 +4,11 @@ We are JP Roll-Off Service, a family-owned hauler dispatched right here in Belts
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and swallows roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Beltsville a 25-yard **starts at $640 for construction debris (other materials are priced separately)**, and that rate includes delivery, pickup, and a **14-day rental with a 2-ton weight allowance**. Extra days run $5/day, and weight over the 2-ton allowance is billed at $105 per additional ton. Pickup is on request — just call us to schedule when you are ready.
+The 25-yard is our major-construction size. It measures 18 ft long by 8 ft wide by 6 ft tall and swallows roughly 10.5 pickup-truck loads of debris. Pricing is per material: in Beltsville a 25-yard is **priced by material, so call for a quote**, and that rate includes delivery, pickup on request, and a **14-day rental with a 2-ton (4,000 lb) weight allowance**. Extra days run $5/day, and weight over the 2-ton allowance is billed at $105 per additional ton. Pickup is on request — just call us to schedule when you are ready.
 
-The jump from a 20-yard is real volume, not just a few extra feet. That extra capacity is what keeps a single container on site through a project that would otherwise need a second haul — a whole-house remodel, a home addition, a large roof, or a full commercial cleanout. The walls are still five feet, so you can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls.
+The jump from a 20-yard is real volume, not just a little extra room. That extra capacity is what keeps a single container on site through a project that would otherwise need a second haul — a whole-house remodel, a home addition, a large roof, or a full commercial cleanout. The six-foot walls are taller than our other sizes, so you get meaningfully more depth behind them — a ramp or a little extra reach helps for the heaviest pieces.
 
-A word of advice we give every customer on this size: **measure twice before booking.** Twenty feet of straight container plus clearance for the truck and the rear swing door is a long footprint. On a generous Beltsville driveway it is no problem, but it is worth confirming before delivery day rather than after.
+A word of advice we give every customer on this size: **measure twice before booking.** Eighteen feet of straight container plus clearance for the truck and the rear swing door is a long footprint. On a generous Beltsville driveway it is no problem, but it is worth confirming before delivery day rather than after.
 
 ## Which Beltsville jobs suit the 25-yard
 
@@ -27,8 +27,8 @@ If your project is smaller — a single-room redo or a routine cleanout — a 20
 
 **The permit rule.** Beltsville is unincorporated, so permitting falls under Prince George's County. A dumpster placed entirely on your private driveway or yard does **not** need a permit. A container that has to sit in the public right-of-way — the street — requires a county Use and Occupancy permit. Given how many local homes sit on through-roads, this is a real consideration, and it is another reason driveway placement is the path of least resistance. If the street is the only workable spot at your address, we will flag the permit requirement up front rather than letting it surprise you.
 
-**Drive time.** This is our home base. Beltsville addresses are first out the gate every morning, which means early calls routinely make the same-day run and most others are scheduled inside 24 hours. When you are running a build on a deadline, having the hauler dispatched from your own town is the kind of edge that keeps a job moving.
+**Drive time.** This is our home base. Beltsville addresses are first out the gate every morning, which means most jobs are scheduled inside 24 hours and an early call may still make a same-day run. When you are running a build on a deadline, having the hauler dispatched from your own town is the kind of edge that keeps a job moving.
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Beltsville address and what you are tackling — a Powder Mill addition, a whole-house gut in Calverton, a large roofing tear-off, or a warehouse cleanout in the industrial park — and we will confirm whether the 25-yard is the right call and quote you on the spot. Reach us at **(301) 252-3586**.
+When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Beltsville address and what you are tackling — a Powder Mill addition, a whole-house gut in Calverton, a large roofing tear-off, or a warehouse cleanout in the industrial park — and we will confirm whether the 25-yard is the right call and quote you on the spot. Reach us at **(301) 879-7040**.

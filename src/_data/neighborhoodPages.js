@@ -17,9 +17,16 @@ const titleCase = (slug) =>
   slug.split("-").map((w) => w.charAt(0).toUpperCase() + w.slice(1)).join(" ");
 
 let bodies = {};
+let bodiesEs = {};
 try {
   for (const f of fs.readdirSync(dir)) {
-    if (f.endsWith(".md")) bodies[f.replace(/\.md$/, "")] = fs.readFileSync(path.join(dir, f), "utf8");
+    // ES siblings (<slug>-<yd>.es.md) must be checked BEFORE the generic .md test,
+    // since ".es.md" also ends with ".md". EN body gates the page; ES is optional.
+    if (f.endsWith(".es.md")) {
+      bodiesEs[f.replace(/\.es\.md$/, "")] = fs.readFileSync(path.join(dir, f), "utf8");
+    } else if (f.endsWith(".md")) {
+      bodies[f.replace(/\.md$/, "")] = fs.readFileSync(path.join(dir, f), "utf8");
+    }
   }
 } catch {
   /* folder not created yet → no neighborhood pages */
@@ -29,10 +36,12 @@ export default neighborhoods.flatMap((n) => {
   const city = cityBySlug[n.city];
   if (!city) return [];
   return sizes
+    .filter((size) => size.combo !== false)
     .map((size) => {
       const body = bodies[`${n.slug}-${size.yd}`];
       if (!body) return null; // content-gated: no body → no page
-      return { city, neighborhood: { ...n, name: titleCase(n.slug) }, size, body };
+      const bodyEs = bodiesEs[`${n.slug}-${size.yd}`] || null; // optional ES translation
+      return { city, neighborhood: { ...n, name: titleCase(n.slug) }, size, body, bodyEs };
     })
     .filter(Boolean);
 });

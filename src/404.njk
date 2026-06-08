@@ -58,13 +58,14 @@ eleventyExcludeFromCollections: true
   <main class="err">
     <div>
       <div class="err-num">404</div>
-      <h1>This load got lost.</h1>
-      <p>The page you're looking for isn't here. But we can still drop a dumpster in your driveway today.</p>
+      <h1 data-en="This load got lost." data-es="Esta carga se perdió.">This load got lost.</h1>
+      <p data-en="The page you're looking for isn't here. But we can still get a dumpster to your driveway." data-es="La página que buscas no está aquí. Pero aún podemos llevar un contenedor a tu entrada.">The page you're looking for isn't here. But we can still get a dumpster to your driveway.</p>
       <div class="err-actions">
-        <a href="/" class="btn btn-lg">Back to Home →</a>
-        <a href="tel:{{ site.phone.tel }}" class="btn btn-lg btn-outline-light">Call {{ site.phone.display }}</a>
+        <a href="/" class="btn btn-lg" data-en="Back to Home →" data-es="Volver al Inicio →">Back to Home →</a>
+        <a href="tel:{{ site.phone.tel }}" class="btn btn-lg btn-outline-light" data-en="Call {{ site.phone.display }}" data-es="Llamar {{ site.phone.display }}">Call {{ site.phone.display }}</a>
       </div>
     </div>
   </main>
+  <script src="/js/main.js?v={{ site.assetVersion }}" defer></script>
 </body>
 </html>

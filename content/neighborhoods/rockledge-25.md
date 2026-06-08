@@ -4,11 +4,11 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 20 ft long by 8 ft wide by 5 ft tall and holds roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Rockledge a 25-yard **starts at $640 for construction debris (other materials priced separately)**, and that price includes delivery, a 14-day rental with a 2-ton weight allowance, and pickup on request. Need the container longer? It is just **$5 per extra day**. Go over the 2-ton allowance and additional weight runs **$105 per ton** — so the bill tracks the actual job, priced per material rather than as a single fixed charge.
+The 25-yard is our major-construction size. It measures 18 ft long by 8 ft wide by 6 ft tall and holds roughly 10.5 pickup-truck loads of debris. Pricing is per material, so call for a quote — other materials are priced separately, and every rental includes delivery, a 14-day rental with a 2-ton weight allowance, and pickup on request. Need the container longer? It is just **$5 per extra day**. Go over the 2-ton allowance and additional weight runs **$105 per ton** — so the bill tracks the actual job, priced per material rather than as a single fixed charge.
 
-The jump up from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through — a whole-house remodel, a substantial addition, a large roof, or a full cleanout. The walls are still five feet, so a crew can walk debris up and toss it over the side without a ramp, but there is meaningfully more room behind those walls than the mid-size containers give you.
+The jump up from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps a single container on site through a project that would otherwise force a second haul partway through — a whole-house remodel, a substantial addition, a large roof, or a full cleanout. The walls stand six feet, so the extra height stacks a lot more behind them than the mid-size containers give you — just plan to load heavier debris up and over, or work it in with the rear door.
 
-One piece of advice we give every customer on this size: **measure twice before booking.** Twenty feet of straight container, plus clearance for the truck and the rear swing door, is a long footprint. The good news in Rockledge is that the Levitt lots and driveways were laid out with room to spare — but it is still worth confirming the spot before delivery day rather than after.
+One piece of advice we give every customer on this size: **measure twice before booking.** Eighteen feet of straight container, plus clearance for the truck and the rear swing door, is still a long footprint. The good news in Rockledge is that the Levitt lots and driveways were laid out with room to spare — but it is still worth confirming the spot before delivery day rather than after.
 
 ## Which Rockledge jobs suit the 25-yard
 
@@ -29,8 +29,8 @@ If your Rockledge project is on the smaller side — a single-room redo, one bat
 
 **Wayfinding the R-section.** Every street here begins with R, which is how residents identify the neighborhood and how our drivers confirm they are in the right place — Rockledge Drive, Reston Lane, and the rest. Tell us the cross street and we will not miss it. Rockledge Park, the 8.5-acre neighborhood park with its ball fields and tennis courts over on Reston Lane, anchors the section if you need a landmark, and the WB&A rail-trail runs nearby.
 
-**Drive time.** From our Beltsville yard, Rockledge is about a 25-minute run via Route 197 or the BW Parkway. We dispatch every morning, and same-day delivery is common — so when you are running a build on a deadline, the container shows up when the crew needs it.
+**Drive time.** From our Beltsville yard, Rockledge is about a 25-minute run via Route 197 or the BW Parkway. We dispatch every morning, and most addresses here are scheduled within 24 hours — an early call may still make a same-day run, so when you are running a build on a deadline, the container shows up when the crew needs it.
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Rockledge address and what you are tackling — an addition on one of the R-named streets, a whole-house gut of an aging Levitt home, a large roof tear-off, or a bigger cleanout — and we will confirm whether the 25-yard is the right size and quote you on the spot. Reach us at **(301) 252-3586**.
+When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Rockledge address and what you are tackling — an addition on one of the R-named streets, a whole-house gut of an aging Levitt home, a large roof tear-off, or a bigger cleanout — and we will confirm whether the 25-yard is the right size and quote you on the spot. Reach us at **(301) 879-7040**.

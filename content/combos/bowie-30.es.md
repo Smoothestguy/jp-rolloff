@@ -1,0 +1,38 @@
+Cuando un trabajo en Bowie es lo bastante grande como para que un contenedor más pequeño signifique un segundo acarreo, el contenedor roll-off de 30 yardas es el que quieres en el sitio. Es el contenedor más grande que manejamos, y por aquí se gana su lugar como el contenedor "comercial y de demolición" — el que maneja demoliciones completas, escombros de obra de contratistas, basura voluminosa y limpiezas multifamiliares en una sola entrega y una sola recogida. JP Roll-Off Service es una empresa familiar de acarreo despachada desde Beltsville, y Bowie queda a unos 25 minutos por la Route 197 o el BW Parkway, así que está bien dentro de nuestra ruta habitual.
+
+## Qué aguanta el de 30 yardas
+
+El de 30 yardas mide aproximadamente 22 pies de largo, 8 pies de ancho y 6 pies de alto. Ese contenedor alto y largo se traga unas catorce cargas de camioneta de material, por lo que es la opción ideal para trabajos que producen una pared constante de escombros en lugar de unas cuantas bolsas. Viene con un límite de peso de 3 toneladas (6,000 lb), y en Bowie un de 30 yardas se cotiza según el material, así que llámanos para una cotización. Cada de 30 yardas incluye la entrega, la recogida y un periodo de renta de 14 días con el límite de 3 toneladas incluido. Los días adicionales cuestan $5 al día, y cualquier peso por encima del límite se cobra a $105 por tonelada adicional, así que las cargas pesadas pueden sumar al costo.
+
+Una palabra rápida sobre el límite de peso: el volumen de 30 yardas se llena con material voluminoso y más ligero — madera de armazón, tablaroca, gabinetería, remoción de techo, muebles y escombros generales de construcción. Si tu carga se inclina a lo pesado (piensa en mucho concreto, ladrillo, tierra o azulejo), el cubo se llena despacio pero el tonelaje sube rápido, y un contenedor más pequeño o un contenedor dedicado a escombros pesados suele ser la opción más inteligente. Cuando llames, dinos qué va a entrar y te guiaremos al tamaño correcto.
+
+## Qué trabajos de Bowie le quedan a este tamaño
+
+Bowie es el municipio más grande del condado de Prince George's, extendido por aproximadamente 18.8 millas cuadradas en el cruce de las Routes 3/301 y la US 50, así que el trabajo aquí va desde demolición residencial completa hasta limpieza de sitios comerciales. El de 30 yardas encaja en el extremo más pesado de ese rango.
+
+- **Demolición completa.** Demoler una casa hasta los montantes, quitar una ampliación o despejar un garaje independiente o una construcción anexa grande genera más escombros de los que la mayoría de la gente espera. El de 30 yardas mantiene a una cuadrilla de demolición en movimiento sin parar a cambiar contenedores.
+- **Obra comercial de sitio.** Adecuaciones de locales para inquilinos, cambios de tienda y renovaciones a lo largo del corredor comercial de Bowie Town Center junto a la US 50 producen un flujo continuo de accesorios, rejilla de plafón, pisos y empaques. Un contenedor grande mantiene el contenedor fuera de la ruta crítica.
+- **Acarreos de basura voluminosa.** Las limpiezas de patrimonio, las limpiezas por acumulación y la remoción de basura de una propiedad completa se acumulan rápido. Catorce cargas de camión de capacidad significan que cargas una vez y nosotros acarreamos una vez.
+- **Limpiezas multifamiliares.** Desocupar unidades en una hilera de townhomes, un edificio de apartamentos o un grupo de condos — electrodomésticos viejos, alfombra, colchones y escombros acumulados de inquilinos — es exactamente el volumen para el que se hizo el de 30 yardas.
+
+Para la mayoría de las remodelaciones de una sola habitación o una limpieza de garaje de rutina, un contenedor más pequeño suele ser la mejor opción. El de 30 yardas brilla cuando la capacidad, no el presupuesto, es lo que de otro modo te costaría un segundo viaje.
+
+## Colocación y permisos en Bowie
+
+Aquí es donde Bowie es genuinamente fácil comparado con la mayoría de los pueblos del DMV. El corazón residencial de Bowie es Belair at Bowie, las aproximadamente 7,500 casas de mediados de siglo que Levitt & Sons construyeron entre cerca de 1960 y 1965 sobre el antiguo Belair Estate. Esas casas están en lotes uniformes de un cuarto de acre, y cada una se construyó con una entrada de verdad y un garaje cerrado. La conclusión práctica para un roll-off: en las secciones construidas por Levitt — Somerset, Buckingham, Kenilworth, Foxhill y Tulip Grove — casi siempre podemos colocar un contenedor en la propia entrada del propietario en lugar de en la calle.
+
+Eso importa por cómo la ciudad maneja los permisos. **La Ciudad de Bowie exige un permiso de derecho de paso solo si el contenedor se coloca en una calle de la ciudad; las entradas y la colocación aprobada por la HOA no lo requieren.** Así que en la mayor parte de Belair, un permiso de calle es la excepción, no la regla. Un pequeño bono del trazado de Levitt: cada calle de una sección empieza con la primera letra de esa sección, lo que hace sencillo encontrar tu dirección cuando estamos enrutando un camión y un remolque largo.
+
+Un de 30 yardas sí necesita un acceso más largo y despejado que los tamaños más pequeños — es un contenedor grande sobre un chasis largo — así que una entrada plana y abierta con espacio para meterlo en reversa es ideal. Cuando reserves, avísanos si el acceso es estrecho o tiene pendiente y planearemos la entrega en consecuencia. Si el único lugar viable es la calle pública, el Public Works Department de la ciudad maneja la revisión de derecho de paso desde las oficinas de la ciudad en 16500 Annapolis Road, y con gusto repasamos contigo lo que eso implica antes de que llegue tu contenedor.
+
+Unas cuantas notas de vecindario que vale la pena mencionar cuando llames:
+
+- **Belair (Somerset, Buckingham, Kenilworth, Foxhill, Tulip Grove) y Mitchellville y Pointer Ridge.** Entradas suburbanas estándar, colocación fácil. Estas casas de más de 60 años están ahora bien metidas en su segunda y tercera ronda de renovación — ampliaciones, acabados de sótano, reemplazos de techo, demoliciones totales — que es exactamente donde pertenece un de 30 yardas.
+- **Fairwood.** La comunidad planeada más nueva de Bowie, construida por fases desde alrededor de 2004, está gobernada por una HOA, así que un de 30 yardas a menudo necesita colocación aprobada por la HOA, y las secciones de townhomes tienen entradas compartidas y estacionamiento más estrechos que los ranchers viejos de Belair. Trabajaremos contigo en un lugar que mantenga contenta a la HOA.
+- **Old Town Bowie.** La parte más antigua de la ciudad, un pueblo ferroviario que data de la década de 1870, tiene lotes más viejos y calles más estrechas que la cuadrícula suburbana de Belair. Un de 30 yardas es viable aquí, pero la colocación requiere más planeación — cuéntanos sobre el acceso desde el principio.
+
+## Habla con la familia antes de reservar
+
+Damos servicio a Bowie y a los ZIP circundantes de Prince George's — 20715, 20716, 20720 y 20721 — y como somos una empresa familiar, las personas que contestan el teléfono son los dueños, no un centro de llamadas. Eso significa que puedes describir tu demolición, tu sitio o tu limpieza y obtener una respuesta directa sobre si el de 30 yardas es el tamaño correcto, cuánto costará y cómo lo colocaremos en tu entrada en Belair, Mitchellville, Pointer Ridge, Fairwood u Old Town. Cuando el contenedor esté lleno, solo llámanos para programar la recogida — lo acarreamos a solicitud.
+
+Si tienes un trabajo grande en Bowie y un contenedor más pequeño solo significaría un segundo acarreo, llama a JP Roll-Off Service al **(301) 879-7040**. Programaremos y despacharemos un de 30 yardas desde Beltsville, y lo tendremos en tu sitio unos 25 minutos después.

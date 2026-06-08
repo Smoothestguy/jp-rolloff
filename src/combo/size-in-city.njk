@@ -12,10 +12,11 @@ permalink: "/locations/{{ combo.city.slug }}/{{ combo.size.yd }}-yard/"
 {% set city = combo.city %}
 {% set s = combo.size %}
 {% set comboBody = comboContent[city.slug + "-" + s.yd] %}
+{% set comboBodyEs = comboContentEs[city.slug + "-" + s.yd] %}
 
 {% block head %}
 <script type="application/ld+json">
-  { "@context": "https://schema.org", "@type": "Service", "serviceType": "{{ s.yd }}-yard roll-off dumpster rental", "provider": { "@type": "LocalBusiness", "name": "JP Roll-Off Service", "telephone": "+1-301-252-3586", "priceRange": "$$" }, "areaServed": { "@type": "City", "name": "{{ city.name }}", "address": { "@type": "PostalAddress", "addressLocality": "{{ city.name }}", "addressRegion": "MD", "addressCountry": "US" } }, "offers": { "@type": "Offer", "priceCurrency": "USD", "price": "{{ s.price.from }}", "priceSpecification": { "@type": "PriceSpecification", "minPrice": "{{ s.price.from }}", "maxPrice": "{{ s.price.from }}", "priceCurrency": "USD" } } }
+  { "@context": "https://schema.org", "@type": "Service", "serviceType": "{{ s.yd }}-yard roll-off dumpster rental", "provider": { "@type": "LocalBusiness", "name": "JP Roll-Off Service", "telephone": "+1-301-879-7040", "priceRange": "$$" }, "areaServed": { "@type": "City", "name": "{{ city.name }}", "address": { "@type": "PostalAddress", "addressLocality": "{{ city.name }}", "addressRegion": "MD", "addressCountry": "US" } } }
   </script>
 <script type="application/ld+json">
   { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
@@ -32,25 +33,32 @@ permalink: "/locations/{{ combo.city.slug }}/{{ combo.size.yd }}-yard/"
     <section class="page-header">
       <div class="container">
         <nav class="breadcrumb" aria-label="Breadcrumb" style="margin-bottom: var(--space-4); font-size: var(--fs-14);">
-          <a href="/service-areas" style="color:rgba(255,255,255,.75);">Service Areas</a>
+          <a href="/service-areas" style="color:rgba(255,255,255,.75);" data-en="Service Areas" data-es="Áreas de Servicio">Service Areas</a>
           <span style="color:rgba(255,255,255,.45);"> / </span>
           <a href="/locations/{{ city.slug }}" style="color:rgba(255,255,255,.75);">{{ city.name }}</a>
           <span style="color:rgba(255,255,255,.45);"> / </span>
-          <span style="color:#fff;">{{ s.yd }}-Yard</span>
+          <span style="color:#fff;" data-en="{{ s.yd }}-Yard" data-es="{{ s.yd }} Yardas">{{ s.yd }}-Yard</span>
         </nav>
-        <span class="eyebrow" style="color:#fff;">{{ s.yd }}-Yard Dumpster · {{ city.name }}, MD</span>
-        <h1>{{ s.yd }}-yard dumpster rental in {{ city.name }}, MD.</h1>
-        <p>{{ s.dims }} · holds about {{ s.loads }} pickup-truck loads · {{ s.tons }}-ton ({{ s.lbs | thousands }} lb) weight allowance. {{ city.positioning }}</p>
+        <span class="eyebrow" style="color:#fff;" data-en="{{ s.yd }}-Yard Dumpster · {{ city.name }}, MD" data-es="Contenedor de {{ s.yd }} Yardas · {{ city.name }}, MD">{{ s.yd }}-Yard Dumpster · {{ city.name }}, MD</span>
+        <h1 data-en="{{ s.yd }}-yard dumpster rental in {{ city.name }}, MD." data-es="Renta de contenedor de {{ s.yd }} yardas en {{ city.name }}, MD.">{{ s.yd }}-yard dumpster rental in {{ city.name }}, MD.</h1>
+        <p data-en="{{ s.dims }} · holds about {{ s.loads }} pickup-truck loads · {{ s.tons }}-ton ({{ s.lbs | thousands }} lb) weight allowance. {{ city.positioning.en }}" data-es="{{ s.dims }} · cabe alrededor de {{ s.loads }} cargas de camioneta · límite de peso de {{ s.tons }} toneladas ({{ s.lbs | thousands }} lb). {{ city.positioning.es }}">{{ s.dims }} · holds about {{ s.loads }} pickup-truck loads · {{ s.tons }}-ton ({{ s.lbs | thousands }} lb) weight allowance. {{ city.positioning.en }}</p>
       </div>
     </section>
 
     {% if comboBody %}
     <section class="section">
       <div class="container container-narrow">
+        {% if comboBodyEs %}
+        <div class="longform" data-has-es>
+          <div data-lang-block="en">{{ comboBody | markdown | safe }}</div>
+          <div data-lang-block="es">{{ comboBodyEs | markdown | safe }}</div>
+        </div>
+        {% else %}
         <div class="longform">
           {{ comboBody | markdown | safe }}
         </div>
-        <p style="margin-top: var(--space-8);"><a href="/#quote" class="btn btn-primary">Get a {{ city.name }} Quote →</a></p>
+        {% endif %}
+        <p style="margin-top: var(--space-8);"><a href="/#quote" class="btn btn-primary" data-en="Get a {{ city.name }} Quote →" data-es="Cotización Gratis en {{ city.name }} →">Get a {{ city.name }} Quote →</a></p>
       </div>
     </section>
     {% endif %}
@@ -60,16 +68,16 @@ permalink: "/locations/{{ combo.city.slug }}/{{ combo.size.yd }}-yard/"
       <div class="container">
         <div class="feature-row">
           <div class="feature-text">
-            <span class="eyebrow">Is the {{ s.yd }}-yard the right size?</span>
-            <h3 style="font-size: var(--fs-40);">{{ s.title.en }} in {{ city.name }}.</h3>
-            <p>{{ s.why.en }}</p>
-            <p>In {{ city.name }} we drop the {{ s.yd }}-yard for jobs like these:</p>
+            <span class="eyebrow" data-en="Is the {{ s.yd }}-yard the right size?" data-es="¿Es el de {{ s.yd }} yardas el tamaño correcto?">Is the {{ s.yd }}-yard the right size?</span>
+            <h3 style="font-size: var(--fs-40);" data-en="{{ s.title.en }} in {{ city.name }}." data-es="{{ s.title.es }} en {{ city.name }}.">{{ s.title.en }} in {{ city.name }}.</h3>
+            <p data-en="{{ s.why.en }}" data-es="{{ s.why.es }}">{{ s.why.en }}</p>
+            <p data-en="In {{ city.name }} we drop the {{ s.yd }}-yard for jobs like these:" data-es="En {{ city.name }} dejamos el de {{ s.yd }} yardas para trabajos como estos:">In {{ city.name }} we drop the {{ s.yd }}-yard for jobs like these:</p>
             <ul class="feature-list">
               {% for b in s.bestFor %}
-              <li>{{ b.en }}</li>
+              <li data-en="{{ b.en }}" data-es="{{ b.es }}">{{ b.en }}</li>
               {% endfor %}
             </ul>
-            <a href="/#quote" class="btn btn-primary">Get a {{ city.name }} Quote →</a>
+            <a href="/#quote" class="btn btn-primary" data-en="Get a {{ city.name }} Quote →" data-es="Cotización Gratis en {{ city.name }} →">Get a {{ city.name }} Quote →</a>
           </div>
           <div class="feature-visual size-visual">
             <img src="/images/dumpster-{{ s.yd }}yd.png" alt="JP Roll-Off {{ s.yd }} yard dumpster in {{ city.name }}, MD" loading="lazy" onerror="this.style.display='none'" />
@@ -80,16 +88,16 @@ permalink: "/locations/{{ combo.city.slug }}/{{ combo.size.yd }}-yard/"
 
     <section class="section section-alt">
       <div class="container container-narrow">
-        <div class="section-head" style="grid-template-columns: 1fr;"><div><span class="eyebrow">{{ city.name }} specifics</span><h2>What to know before it's delivered.</h2></div></div>
+        <div class="section-head" style="grid-template-columns: 1fr;"><div><span class="eyebrow" data-en="{{ city.name }} specifics" data-es="Detalles de {{ city.name }}">{{ city.name }} specifics</span><h2 data-en="What to know before it's delivered." data-es="Lo que debes saber antes de la entrega.">What to know before it's delivered.</h2></div></div>
         <div class="faq-list">
-          <details class="faq-item" open><summary>Do I need a permit in {{ city.name }}?</summary><div class="faq-answer">{{ city.permitRule }}</div></details>
+          <details class="faq-item" open><summary data-en="Do I need a permit in {{ city.name }}?" data-es="¿Necesito un permiso en {{ city.name }}?">Do I need a permit in {{ city.name }}?</summary><div class="faq-answer" data-en="{{ city.permitRule.en }}" data-es="{{ city.permitRule.es }}">{{ city.permitRule.en }}</div></details>
           {% if city.driveTimeText %}
-          <details class="faq-item"><summary>How fast can you get the {{ s.yd }}-yard to {{ city.name }}?</summary><div class="faq-answer">{{ city.driveTimeText }} We dispatch out of Beltsville every morning, so early calls usually make the same-day run.</div></details>
+          <details class="faq-item"><summary data-en="How fast can you get the {{ s.yd }}-yard to {{ city.name }}?" data-es="¿Qué tan rápido pueden llevar el de {{ s.yd }} yardas a {{ city.name }}?">How fast can you get the {{ s.yd }}-yard to {{ city.name }}?</summary><div class="faq-answer" data-en="{{ city.driveTimeText.en }} We dispatch out of Beltsville every morning, so next-day is the default — same-day may be available depending on schedule." data-es="{{ city.driveTimeText.es }} Despachamos desde Beltsville cada mañana, así que la entrega al día siguiente es lo habitual — el mismo día puede estar disponible según el horario.">{{ city.driveTimeText.en }} We dispatch out of Beltsville every morning, so next-day is the default — same-day may be available depending on schedule.</div></details>
           {% endif %}
           {% if city.neighborhoods.length %}
-          <details class="faq-item"><summary>Which parts of {{ city.name }} do you cover?</summary><div class="faq-answer">All of it — including {{ city.neighborhoods | join(", ") }}. We serve ZIP{% if city.zips.length > 1 %}s{% endif %} {{ city.zips | join(", ") }}.</div></details>
+          <details class="faq-item"><summary data-en="Which parts of {{ city.name }} do you cover?" data-es="¿Qué partes de {{ city.name }} cubren?">Which parts of {{ city.name }} do you cover?</summary><div class="faq-answer" data-en="All of it — including {{ city.neighborhoods | join(', ') }}. We serve ZIP{% if city.zips.length > 1 %}s{% endif %} {{ city.zips | join(', ') }}." data-es="Toda la ciudad — incluyendo {{ city.neighborhoods | join(', ') }}. Servimos el ZIP{% if city.zips.length > 1 %}s{% endif %} {{ city.zips | join(', ') }}.">All of it — including {{ city.neighborhoods | join(", ") }}. We serve ZIP{% if city.zips.length > 1 %}s{% endif %} {{ city.zips | join(", ") }}.</div></details>
           {% endif %}
-          <details class="faq-item"><summary>How much does a {{ s.yd }}-yard cost here?</summary><div class="faq-answer">A {{ s.yd }}-yard in {{ city.name }} starts at ${{ s.price.from }} for construction debris (price varies by material). That includes delivery, pickup, a 14-day rental, and a {{ s.tons }}-ton weight allowance — extra weight is $105/ton. Call for an exact quote on your material and address.</div></details>
+          <details class="faq-item"><summary data-en="How much does a {{ s.yd }}-yard cost here?" data-es="¿Cuánto cuesta un contenedor de {{ s.yd }} yardas aquí?">How much does a {{ s.yd }}-yard cost here?</summary><div class="faq-answer" data-en="A {{ s.yd }}-yard in {{ city.name }} is priced to your material — call or request a free quote. It includes delivery, pickup, a 14-day rental, and a {{ s.tons }}-ton weight allowance — extra weight is $105/ton." data-es="Un contenedor de {{ s.yd }} yardas en {{ city.name }} se cotiza según tu material — llama o solicita una cotización gratis. Incluye entrega, recogida, una renta de 14 días y un límite de peso de {{ s.tons }} toneladas — el peso excedente cuesta $105/tonelada.">A {{ s.yd }}-yard in {{ city.name }} is priced to your material — call or request a free quote. It includes delivery, pickup, a 14-day rental, and a {{ s.tons }}-ton weight allowance — extra weight is $105/ton.</div></details>
         </div>
       </div>
     </section>
@@ -98,12 +106,12 @@ permalink: "/locations/{{ combo.city.slug }}/{{ combo.size.yd }}-yard/"
 
     <section class="section">
       <div class="container">
-        <div class="section-head"><div><span class="eyebrow">Other sizes in {{ city.name }}</span><h2>Need a different size?</h2></div></div>
+        <div class="section-head"><div><span class="eyebrow" data-en="Other sizes in {{ city.name }}" data-es="Otros tamaños en {{ city.name }}">Other sizes in {{ city.name }}</span><h2 data-en="Need a different size?" data-es="¿Necesitas otro tamaño?">Need a different size?</h2></div></div>
         <div class="area-list" style="grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));">
           {% for o in sizes %}{% if o.yd != s.yd %}
-          <a href="/locations/{{ city.slug }}/{{ o.yd }}-yard">{{ o.yd }}-yard dumpster</a>
+          <a href="/locations/{{ city.slug }}/{{ o.yd }}-yard" data-en="{{ o.yd }}-yard dumpster" data-es="contenedor de {{ o.yd }} yardas">{{ o.yd }}-yard dumpster</a>
           {% endif %}{% endfor %}
-          <a href="/locations/{{ city.slug }}">All {{ city.name }} info →</a>
+          <a href="/locations/{{ city.slug }}" data-en="All {{ city.name }} info →" data-es="Toda la info de {{ city.name }} →">All {{ city.name }} info →</a>
         </div>
       </div>
     </section>
@@ -111,12 +119,12 @@ permalink: "/locations/{{ combo.city.slug }}/{{ combo.size.yd }}-yard/"
     {% if combo.neighbors.length %}
     <section class="section section-alt">
       <div class="container">
-        <h2 style="font-size: var(--fs-40); margin-bottom: var(--space-8);">{{ s.yd }}-yard dumpsters in nearby areas</h2>
+        <h2 style="font-size: var(--fs-40); margin-bottom: var(--space-8);" data-en="{{ s.yd }}-yard dumpsters in nearby areas" data-es="Contenedores de {{ s.yd }} yardas en áreas cercanas">{{ s.yd }}-yard dumpsters in nearby areas</h2>
         <div class="area-list" style="grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));">
           {% for n in combo.neighbors %}
           <a href="/locations/{{ n.slug }}/{{ s.yd }}-yard">{{ n.name }}</a>
           {% endfor %}
-          <a href="/service-areas">All DMV areas →</a>
+          <a href="/service-areas" data-en="All DMV areas →" data-es="Todas las áreas del DMV →">All DMV areas →</a>
         </div>
       </div>
     </section>
@@ -125,8 +133,8 @@ permalink: "/locations/{{ combo.city.slug }}/{{ combo.size.yd }}-yard/"
     <section class="section">
       <div class="container">
         <div class="cta-band">
-          <div><h2>Get the {{ s.yd }}-yard to {{ city.name }}.</h2><p>Call dispatch direct, or send your address and we'll quote on the spot.</p></div>
-          <div class="cta-band-actions"><a href="tel:+13012523586" class="cta-band-phone">(301) 252-3586</a><a href="/#quote" class="btn btn-lg">Get a Free Quote →</a></div>
+          <div><h2 data-en="Get the {{ s.yd }}-yard to {{ city.name }}." data-es="Lleva el de {{ s.yd }} yardas a {{ city.name }}.">Get the {{ s.yd }}-yard to {{ city.name }}.</h2><p data-en="Call dispatch direct, or send your address and we'll quote on the spot." data-es="Llama directo a despacho, o envía tu dirección y te cotizamos al instante.">Call dispatch direct, or send your address and we'll quote on the spot.</p></div>
+          <div class="cta-band-actions"><a href="tel:+13018797040" class="cta-band-phone">(301) 879-7040</a><a href="/#quote" class="btn btn-lg" data-en="Get a Free Quote →" data-es="Solicita tu Cotización Gratis →">Get a Free Quote →</a></div>
         </div>
       </div>
     </section>

@@ -1,7 +1,11 @@
 // ★ SINGLE SOURCE OF TRUTH for every dumpster size on the site.
-// Prices, specs, and copy live here once. services / pricing / detail pages all read from this.
+// Specs and copy live here once. services / detail / combo / neighborhood pages all read from this.
 // Bilingual fields use { en, es } because the site's language toggle is client-side
 // (js/main.js swaps data-en / data-es). Templates emit BOTH languages as attributes.
+//
+// Dimensions & "pickup loads held" were corrected by the owner (2026-06). 40-yard added.
+// price.from is retained for any legacy reference but is NO LONGER rendered on the site
+// (visible pricing was removed at the owner's request).
 export default [
   {
     yd: 10,
@@ -10,12 +14,12 @@ export default [
     price: { from: 550 },
     tons: 1,
     lbs: 2000,
-    dims: "12 ft × 8 ft × 3.5 ft",
+    dims: "12 ft × 8 ft × 4 ft",
     loads: 3,
     title: { en: "Garage cleanout", es: "Limpieza de garaje" },
     homeMeta: {
-      en: "12 ft × 8 ft × 3.5 ft · Holds ~3 pickup loads",
-      es: "12 ft × 8 ft × 3.5 ft · Cabe ~3 cargas de pickup"
+      en: "12 ft × 8 ft × 4 ft · Holds ~3 pickup loads",
+      es: "12 ft × 8 ft × 4 ft · Cabe ~3 cargas de pickup"
     },
     features: [
       { en: "Small remodels", es: "Remodelaciones pequeñas" },
@@ -33,7 +37,7 @@ export default [
       es: "La huella más pequeña — cabe en un espacio de auto y maneja la limpieza de una habitación sin pagar de más por espacio sin usar."
     },
     servicesBlurb:
-      "12 ft × 8 ft × 3.5 ft · ~3 pickup truck loads. Fits a single car spot. Built for the garage cleanout, the single-bathroom remodel, the yard-waste haul, and the estate downsize. Our smallest container and our cheapest quote."
+      "12 ft × 8 ft × 4 ft · ~3 pickup truck loads. Fits a single car spot. Built for the garage cleanout, the single-bathroom remodel, the yard-waste haul, and the estate downsize. Our smallest container."
   },
   {
     yd: 15,
@@ -42,12 +46,12 @@ export default [
     price: { from: 595 },
     tons: 1.5,
     lbs: 3000,
-    dims: "14 ft × 8 ft × 4 ft",
-    loads: 4.5,
+    dims: "16 ft × 8 ft × 4 ft",
+    loads: 7,
     title: { en: "Single room reno", es: "Renovación de cuarto" },
     homeMeta: {
-      en: "14 ft × 8 ft × 4 ft · Holds ~4.5 pickup loads",
-      es: "14 ft × 8 ft × 4 ft · Cabe ~4.5 cargas"
+      en: "16 ft × 8 ft × 4 ft · Holds ~7 pickup loads",
+      es: "16 ft × 8 ft × 4 ft · Cabe ~7 cargas"
     },
     features: [
       { en: "Kitchen / bath", es: "Cocina / baño" },
@@ -65,7 +69,7 @@ export default [
       es: "El tamaño intermedio — más grande que 10 pero aún cabe en la mayoría de las entradas."
     },
     servicesBlurb:
-      "14 ft × 8 ft × 4 ft · ~4.5 pickup loads. The middle-ground container — bigger than a 10 but still driveway-friendly for most homes. Kitchen remodels, roofing tear-offs, two-bath gut jobs, basement cleanouts."
+      "16 ft × 8 ft × 4 ft · ~7 pickup loads. The middle-ground container — bigger than a 10 but still driveway-friendly for most homes. Kitchen remodels, roofing tear-offs, two-bath gut jobs, basement cleanouts."
   },
   {
     yd: 20,
@@ -74,12 +78,12 @@ export default [
     price: { from: 620 },
     tons: 2,
     lbs: 4000,
-    dims: "16 ft × 8 ft × 5 ft",
-    loads: 6,
+    dims: "22 ft × 8 ft × 4 ft",
+    loads: 9,
     title: { en: "Whole-house cleanout", es: "Limpieza de casa" },
     homeMeta: {
-      en: "16 ft × 8 ft × 5 ft · Holds ~6 pickup loads",
-      es: "16 ft × 8 ft × 5 ft · Cabe ~6 cargas"
+      en: "22 ft × 8 ft × 4 ft · Holds ~9 pickup loads",
+      es: "22 ft × 8 ft × 4 ft · Cabe ~9 cargas"
     },
     features: [
       { en: "Multi-room remodel", es: "Remodelación multi-cuarto" },
@@ -93,11 +97,11 @@ export default [
       { en: "Mid-size roofing", es: "Trabajo de techo mediano" }
     ],
     why: {
-      en: "The size most customers end up choosing — and rarely regret. Fits most two-car driveways with room to spare.",
-      es: "El tamaño que la mayoría termina eligiendo — y rara vez se arrepiente. Cabe en la mayoría de las entradas de dos autos."
+      en: "The size most customers end up choosing — and rarely regret. The most popular size for both general debris and aggregates.",
+      es: "El tamaño que la mayoría termina eligiendo — y rara vez se arrepiente. El más popular tanto para escombros generales como para agregados."
     },
     servicesBlurb:
-      "16 ft × 8 ft × 5 ft · ~6 pickup loads. The size we drop more than any other. Fits most two-car driveways. Whole-house cleanouts, multi-room remodels, mid-size roofing, estate cleanouts."
+      "22 ft × 8 ft × 4 ft · ~9 pickup loads. The size we drop more than any other. Whole-house cleanouts, multi-room remodels, mid-size roofing, estate cleanouts — and our most popular size for aggregates."
   },
   {
     yd: 25,
@@ -106,12 +110,12 @@ export default [
     price: { from: 640 },
     tons: 2,
     lbs: 4000,
-    dims: "20 ft × 8 ft × 5 ft",
-    loads: 7.5,
+    dims: "18 ft × 8 ft × 6 ft",
+    loads: 10.5,
     title: { en: "Major construction", es: "Construcción mayor" },
     homeMeta: {
-      en: "20 ft × 8 ft × 5 ft · Holds ~7.5 pickup loads",
-      es: "20 ft × 8 ft × 5 ft · Cabe ~7.5 cargas"
+      en: "18 ft × 8 ft × 6 ft · Holds ~10.5 pickup loads",
+      es: "18 ft × 8 ft × 6 ft · Cabe ~10.5 cargas"
     },
     features: [
       { en: "New builds", es: "Construcción nueva" },
@@ -125,11 +129,11 @@ export default [
       { en: "Commercial cleanout", es: "Limpieza comercial" }
     ],
     why: {
-      en: "For longer driveways and bigger builds — measure twice before booking. Commercial accounts welcome.",
-      es: "Para entradas largas y proyectos grandes — mide dos veces antes de reservar. Cuentas comerciales bienvenidas."
+      en: "For bigger builds and tear-outs — taller walls mean more volume in a shorter footprint. Commercial accounts welcome.",
+      es: "Para construcciones y demoliciones más grandes — paredes más altas significan más volumen en una huella más corta. Cuentas comerciales bienvenidas."
     },
     servicesBlurb:
-      "20 ft × 8 ft × 5 ft · ~7.5 pickup loads. The contractor's container. Home additions, whole-house remodels, large roofing jobs, commercial cleanouts. Measure your driveway twice — this one is long."
+      "18 ft × 8 ft × 6 ft · ~10.5 pickup loads. The contractor's container. Home additions, whole-house remodels, large roofing jobs, commercial cleanouts. Taller walls pack more volume into a shorter footprint."
   },
   {
     yd: 30,
@@ -139,11 +143,11 @@ export default [
     tons: 3,
     lbs: 6000,
     dims: "22 ft × 8 ft × 6 ft",
-    loads: 9,
+    loads: 14,
     title: { en: "Commercial & demo", es: "Comercial y demolición" },
     homeMeta: {
-      en: "22 ft × 8 ft × 6 ft · Holds ~9 pickup loads",
-      es: "22 ft × 8 ft × 6 ft · Cabe ~9 cargas"
+      en: "22 ft × 8 ft × 6 ft · Holds ~14 pickup loads",
+      es: "22 ft × 8 ft × 6 ft · Cabe ~14 cargas"
     },
     features: [
       { en: "Demolition", es: "Demolición" },
@@ -157,10 +161,45 @@ export default [
       { en: "Multi-family cleanout", es: "Limpieza multifamiliar" }
     ],
     why: {
-      en: "Maximum capacity — for jobs where a smaller bin would mean a second haul. Needs a long run-up to place.",
-      es: "Capacidad máxima — para trabajos donde un contenedor más pequeño significaría un segundo viaje. Requiere espacio largo para colocar."
+      en: "Big capacity — for jobs where a smaller bin would mean a second haul. Needs a long run-up to place.",
+      es: "Gran capacidad — para trabajos donde un contenedor más pequeño significaría un segundo viaje. Requiere espacio largo para colocar."
     },
     servicesBlurb:
-      "22 ft × 8 ft × 6 ft · ~9 pickup loads. Maximum volume. Full demolitions, commercial sites, bulk waste hauls, multi-family cleanouts. Needs a long run-up to place — call us if you're not sure it fits."
+      "22 ft × 8 ft × 6 ft · ~14 pickup loads. High volume. Full demolitions, commercial sites, bulk waste hauls, multi-family cleanouts. Needs a long run-up to place — call us if you're not sure it fits."
+  },
+  {
+    yd: 40,
+    slug: "40-yard-dumpster",
+    popular: false,
+    // Excluded from auto-generated city/neighborhood combo pages for now (avoids
+    // thin pages); still appears on the fleet, quote wizard, services index & FAQ.
+    combo: false,
+    price: { from: 0 },
+    tons: 4,
+    lbs: 8000,
+    dims: "22 ft × 8 ft × 8 ft",
+    loads: 17,
+    title: { en: "Commercial & demo", es: "Comercial y demolición" },
+    homeMeta: {
+      en: "22 ft × 8 ft × 8 ft · Holds ~17 pickup loads",
+      es: "22 ft × 8 ft × 8 ft · Cabe ~17 cargas"
+    },
+    features: [
+      { en: "Major demolition", es: "Demolición mayor" },
+      { en: "Commercial jobs", es: "Trabajos comerciales" },
+      { en: "Largest capacity", es: "Mayor capacidad" }
+    ],
+    bestFor: [
+      { en: "Major demolition", es: "Demolición mayor" },
+      { en: "Commercial site", es: "Sitio comercial" },
+      { en: "Large construction", es: "Construcción grande" },
+      { en: "Bulk waste haul", es: "Transporte de residuos a granel" }
+    ],
+    why: {
+      en: "Our largest container — the most volume we offer for major demolition and commercial jobs. Needs a long, clear run-up to place.",
+      es: "Nuestro contenedor más grande — el mayor volumen que ofrecemos para demoliciones mayores y trabajos comerciales. Requiere un espacio largo y despejado para colocarlo."
+    },
+    servicesBlurb:
+      "22 ft × 8 ft × 8 ft · ~17 pickup loads. Our largest container — maximum volume for major demolition and commercial jobs. The 8-foot walls need a long, clear run-up to place; call us to confirm it fits."
   }
 ];

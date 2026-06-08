@@ -10,14 +10,18 @@ import sizes from "./sizes.js";
 const bySlug = Object.fromEntries(locations.map((c) => [c.slug, c]));
 
 export default locations.flatMap((city) =>
-  sizes.map((size) => ({
-    city,
-    size,
-    // Resolve neighbor slugs → {slug, name} so the template can link to nearby
-    // same-size combos without a lookup. All neighbors exist in locations.js.
-    neighbors: (city.neighbors || [])
-      .map((s) => bySlug[s])
-      .filter(Boolean)
-      .map((c) => ({ slug: c.slug, name: c.name }))
-  }))
+  sizes
+    // Skip sizes flagged combo:false (e.g. the 40-yard) so we don't emit thin
+    // city pages for sizes we don't yet want a programmatic SEO surface for.
+    .filter((size) => size.combo !== false)
+    .map((size) => ({
+      city,
+      size,
+      // Resolve neighbor slugs → {slug, name} so the template can link to nearby
+      // same-size combos without a lookup. All neighbors exist in locations.js.
+      neighbors: (city.neighbors || [])
+        .map((s) => bySlug[s])
+        .filter(Boolean)
+        .map((c) => ({ slug: c.slug, name: c.name }))
+    }))
 );

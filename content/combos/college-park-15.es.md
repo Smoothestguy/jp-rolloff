@@ -1,0 +1,34 @@
+Cuando un proyecto de una sola habitación se le hace grande a una caja de 10 yardas pero no llega a necesitar una de 20, el contenedor roll-off de 15 yardas es el tamaño que llena el hueco. Es el que más usamos cuando un propietario de College Park está demoliendo una cocina, removiendo un techo, o vaciando un sótano que ha estado acumulando cosas por décadas. Somos JP Roll-Off Service, una empresa familiar de acarreo ubicada subiendo por la Route 1 en Beltsville, y al de 15 le decimos en voz baja nuestro tamaño "de reno de una habitación". Lo bastante grande para tragarse un proyecto de verdad, lo bastante pequeño para todavía caber en una entrada de un lote estrecho de Old Town.
+
+## Qué cabe en un contenedor de 15 yardas
+
+El de 15 yardas mide aproximadamente 16 pies de largo, 8 pies de ancho y 4 pies de alto, y carga unas siete cargas de camioneta de escombros. Los precios son por material: un contenedor de 15 yardas se cotiza según lo que vayas a acarrear, así que llámanos por una cotización (los escombros de construcción y otros materiales se cotizan por separado). Cada renta incluye entrega, recogida y un periodo de renta de 14 días con un límite de peso de 1.5 toneladas (3,000 libras). Si te pasas del límite, el peso excedente se cobra a $105 por tonelada adicional; si necesitas la caja por más tiempo, los días extra son $5 al día. La recogida es a solicitud — solo llámanos para programarla cuando estés listo.
+
+Esas paredes de cuatro pies importan más de lo que la gente espera. Son lo bastante bajas como para que puedas subir una carretilla por una rampa o echar las tejas por el costado sin un levantamiento agotador, pero la huella todavía carga suficiente volumen para el valor de escombros de una remodelación de verdad. Es el tamaño intermedio: más grande que un 10, pero todavía amigable con la entrada en la mayoría de las casas, que es justo por lo que es el que recomendamos cuando alguien no está seguro de si subir de tamaño.
+
+## Qué trabajos de College Park van bien con el de 15
+
+El parque de viviendas de College Park tiende a ser antiguo y variado. La mayoría de las casas aquí se levantaron entre aproximadamente 1940 y 1969, con Old Town y Berwyn albergando casas de más de un siglo. Esa mezcla de casas de marco anteriores a la Segunda Guerra Mundial, Cape Cods de mediados de siglo, ranchos y split-levels significa que los proyectos de remodelación y remoción son constantes — y una parte sorprendente de ellos cae justo en el territorio de las 15 yardas.
+
+- **Remodelación de cocina.** Gabinetes, encimeras, pisos viejos, tablaroca y uno que otro electrodoméstico muerto se acumulan rápido, pero la demolición de una sola cocina rara vez desborda un 15. Este es el caso de uso clásico.
+- **Remoción de techo.** El límite de 1.5 toneladas cubre cómodamente la remoción de una sola capa en una casa típica de College Park. Esas paredes bajas hacen que echar las tejas adentro sea de verdad más fácil que trabajar sobre una caja más alta.
+- **Demolición de dos baños.** El azulejo, los tocadores, las tinas y el backer board de un par de baños caben bien dentro del volumen y el límite de peso del de 15 yardas.
+- **Limpieza de sótano o ático.** Las casas de marco y bungalós más viejas de Berwyn — muchas construidas entre las décadas de 1920 y 1940 — tienden a producir yeso, listones y décadas de escombros guardados. Un 15 maneja el vaciado completo de un sótano o un ático sin obligarte a una caja más grande que no necesitas.
+
+Calvert Hills, allá cerca del campus de UMD, es otro lugar donde el de 15 se gana su lugar. Sus Colonial Revivals, Craftsman y casas Tudor de principios de los 1900 muchas veces se han convertido en rentas de varias unidades, y esa rotación genera trabajo constante de remodelación y limpieza — habitaciones individuales renovadas entre inquilinos en vez de demoliciones de casa completa. Y cada agosto llega el ciclo de arrendamiento de la universidad: la mayoría de las casas de estudiantes fuera del campus tienen contratos de agosto a julio, así que el final del verano trae una ola de limpiezas de mudanza y acarreo de rotación para arrendadores. Un 15 suele ser la opción correcta para despejar una casa de muebles y basura dejados atrás sin pasarse de la raya.
+
+Si tu proyecto es una demolición completa de varias habitaciones o estás alimentando escombros pesados de construcción de la franja de reurbanización de la Route 1, eso suele ser trabajo para una caja más grande — con gusto te subimos a un 20 o un 30 si esa es la respuesta honesta.
+
+## Colocación, permisos y cómo llega hasta ti
+
+Aquí es donde College Park se pone específico. Old Town se trazó en lotes profundos y estrechos — el estándar es de unos 50 por 200 pies — así que las entradas tienden a ser del ancho de un solo carro y las casas están cerca de sus vecinas. La huella compacta del de 15 yardas es una ventaja real en esos lotes; se desliza en lugares donde un 20 o un 30 obligarían a una reversa apretada o a una colocación incómoda al fondo de la entrada. Dinos cómo se ve tu acceso y planearemos la colocación según eso.
+
+Más cerca del campus y arriba en North College Park, muchas casas tienen poca o ninguna entrada y dependen del estacionamiento en la calle solo con permiso. Cuando una entrada de verdad no puede recibir una caja, la colocación en la calle se vuelve la opción práctica — y la Ciudad de College Park requiere un permiso de derecho de paso para cualquier roll-off colocado en la calle, emitido a través de Public Works. Las entradas y los lotes privados por lo general están libres de permiso, aunque sugeriríamos confirmar las reglas actuales de la Ciudad antes de la colocación, ya que el código municipal sobre contenedores residenciales sí cambia. Podemos repasar contigo en cuál situación te encuentras antes de siquiera cargar el camión.
+
+En cuanto a llevarlo hasta ti: nos despachan desde Beltsville, así que llegar a College Park es un viaje rápido directo por la Route 1. Ese salto corto significa que muchas veces podemos ser flexibles con los tiempos y rápidos para volver por la recogida — una de las ventajas de contratar a una operación familiar local en vez de a un despachador regional.
+
+## Por qué nos llaman los vecinos
+
+Somos una empresa familiar, y cuando llamas, contesta de verdad uno de los dueños — sin centro de llamadas, sin árbol telefónico, sin que le lean tu dirección a alguien a tres estados de distancia. Recibes una respuesta directa sobre precios, tamaño y colocación de las personas que estarán manejando el camión. Si estás sopesando si el 15 es el correcto para tu cocina, techo, baños o limpieza, solo pregunta; preferimos darte el tamaño correcto la primera vez que tengas que pagar por aire o quedarte sin espacio.
+
+¿Listo para reservar un roll-off de 15 yardas en College Park, o quieres una segunda opinión sobre el tamaño? Llámanos al (301) 879-7040 y te dejamos todo arreglado.

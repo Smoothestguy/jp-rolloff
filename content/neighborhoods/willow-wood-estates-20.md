@@ -4,9 +4,9 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, 
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 16 ft long by 8 ft wide by 5 ft tall and holds roughly six pickup-truck loads of debris. Pricing is per material: a construction-debris 20-yard **starts at $620 (other materials are priced separately), including delivery, pickup, and a 14-day rental with a 2-ton (4,000 lb) weight allowance**. Need it longer? It is just $5 a day after that. Go over the 2-ton allowance and extra weight runs $105 per additional ton, and pickup is on request — give us a call to schedule it. Aggregates such as concrete, brick, and dirt are accepted only in the 10, 15, and 20-yard boxes.
+The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material: a construction-debris 20-yard is **priced by what you are throwing away (other materials are quoted separately), so call for a quote — every drop includes delivery, pickup, and a 14-day rental with a 2-ton (4,000 lb) weight allowance**. Need it longer? It is just $5 a day after that. Go over the 2-ton allowance and extra weight runs $105 per additional ton, and pickup is on request — give us a call to schedule it. Aggregates such as concrete, brick, and dirt are accepted only in the 10, 15, and 20-yard boxes.
 
-Those five feet of wall height are the part people tend to underestimate. They are low enough that you can still walk debris up and toss it over the side without a ramp, but tall enough to swallow the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demolition. It is the size most customers end up choosing — and rarely regret.
+Those four feet of wall height are the part people tend to underestimate. They are low enough that you can still walk debris up and toss it over the side without a ramp, but the long box is roomy enough to swallow the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demolition. It is the size most customers end up choosing — and rarely regret.
 
 ## Why the 20-yard fits Willow Wood Estates specifically
 
@@ -25,7 +25,7 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 ## Placement, permits, and getting the truck in
 
-**Driveway placement is the key decision here.** Willow Wood Estates is a subdivision of detached homes on owner-occupied lots, and that single fact shapes nearly every placement. A uniform-age neighborhood of single-family homes almost always has private driveways, which means the box can stage on your own property rather than in the street. A 20-yard needs about 16 feet of straight length plus a few feet of clearance and an open swing for the rear door, and most driveways here take it without trouble. When you call, tell us where you picture it sitting and we will confirm it fits before we roll. We lay boards under the wheels on request to protect the surface.
+**Driveway placement is the key decision here.** Willow Wood Estates is a subdivision of detached homes on owner-occupied lots, and that single fact shapes nearly every placement. A uniform-age neighborhood of single-family homes almost always has private driveways, which means the box can stage on your own property rather than in the street. A 20-yard needs about 22 feet of straight length plus a few feet of clearance and an open swing for the rear door, and most driveways here take it without trouble. When you call, tell us where you picture it sitting and we will confirm it fits before we roll. We lay boards under the wheels on request to protect the surface.
 
 **The Bowie permit rule.** The City of Bowie requires a right-of-way permit only if the dumpster sits in a city street. Driveways and approved private staging do not. Because Willow Wood's detached homes almost all have their own driveways, a street permit is the exception here, not the rule — most projects stage entirely on private property with no permit at all. That is the practical advantage of a driveway-friendly neighborhood like this one over street-placed containers. If the only workable spot turns out to be the street, that permit goes through Bowie's Public Works Department at 16500 Annapolis Road, and we will flag it the moment we look at your address.
 
@@ -33,8 +33,8 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 **Getting the truck in.** Willow Wood Estates is a residential subdivision of loops and side streets rather than wide arterials, so we route the truck through the neighborhood and place the box carefully on your driveway. We have clean highway access from the Beltsville yard via Route 197 and the BW Parkway, which keeps the run short and predictable.
 
-**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning. Most Willow Wood addresses are scheduled inside 24 hours, and an early call often makes the same-day run.
+**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning. Most Willow Wood addresses are scheduled inside 24 hours, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Willow Wood Estates address and what you are tackling — an original late-'70s kitchen gut, a whole-house cleanout, an estate clear-out, or a roof tear-off on one of these 40-plus-year-old homes — and we will confirm the 20-yard is the right size and quote you on the spot.
+Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Willow Wood Estates address and what you are tackling — an original late-'70s kitchen gut, a whole-house cleanout, an estate clear-out, or a roof tear-off on one of these 40-plus-year-old homes — and we will confirm the 20-yard is the right size and quote you on the spot.

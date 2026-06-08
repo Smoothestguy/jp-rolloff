@@ -1,4 +1,4 @@
-If you live on one of Meadowbrook's M-named streets and you've got a single garage to clear out, a bathroom to gut, or a backyard full of branches to move, the 10-yard roll-off is almost always the right call. We're JP Roll-Off Service, a family-owned hauler running out of Beltsville, and Meadowbrook sits a quick 25 minutes from our yard up Route 197 or the BW Parkway. We load trucks every morning, so same-day drop-offs in 20716 are common. When you call, one of the owners picks up — not a call center.
+If you live on one of Meadowbrook's M-named streets and you've got a single garage to clear out, a bathroom to gut, or a backyard full of branches to move, the 10-yard roll-off is almost always the right call. We're JP Roll-Off Service, a family-owned hauler running out of Beltsville, and Meadowbrook sits a quick 25 minutes from our yard up Route 197 or the BW Parkway. We load trucks every morning, so most addresses in 20716 are scheduled within 24 hours, and an early call may still make a same-day run. When you call, one of the owners picks up — not a call center.
 
 The 10-yard is our smallest container, and in a neighborhood built the way Meadowbrook was, small is usually exactly what you want.
 
@@ -6,7 +6,7 @@ The 10-yard is our smallest container, and in a neighborhood built the way Meado
 
 Meadowbrook is one of the later sections of Levitt & Sons' "Belair at Bowie," built roughly between 1964 and 1968 — the last of Belair's detached single-family houses. That makes most homes here somewhere around 58 to 62 years old today. Those years matter, because Levitt standardized the lots: most of them came in at about 8,400 square feet, just under a quarter-acre. The yards are compact and the frontages are tight.
 
-What that means in practice: there usually isn't a sprawling side yard to park a big container on, and you don't want a roll-off chewing up a small front lawn. The 10-yard's footprint is about 12 feet long, 8 feet wide, and 3.5 feet tall — small enough to tuck into a single car spot. On a typical Meadowbrook lot, that means it stages cleanly on the home's own driveway.
+What that means in practice: there usually isn't a sprawling side yard to park a big container on, and you don't want a roll-off chewing up a small front lawn. The 10-yard's footprint is about 12 feet long, 8 feet wide, and 4 feet tall, and it holds roughly three pickup-truck loads — small enough to tuck into a single car spot. On a typical Meadowbrook lot, that means it stages cleanly on the home's own driveway.
 
 That's the real advantage of going with the smallest box here. You get a container sized to a one-room job without paying for cubic yards you'll never fill, and it fits where you actually have room to put it.
 
@@ -31,7 +31,7 @@ If your project is bigger than a room — a full kitchen, a roof, a whole-house 
 
 ## What it costs and what's included
 
-A 10-yard in the Meadowbrook area starts at $550 for construction debris (other materials are priced separately). That price includes delivery, pickup, and a 14-day rental with a 1-ton (2,000-pound) weight allowance. Need it longer? It's just $5 a day after that. Aggregates like concrete, stone, and brick are only available in the 10, 15, and 20-yard sizes.
+A 10-yard in the Meadowbrook area is priced per material — by what you're throwing away, so call for a quote (other materials are priced separately). Every rental includes delivery, pickup on request, and a 14-day rental with a 1-ton (2,000-pound) weight allowance. Need it longer? It's just $5 a day after that. Aggregates like concrete, stone, and brick are only available in the 10, 15, and 20-yard sizes.
 
 The weight allowance is worth a quick word, especially given the yard-waste and remodel jobs the 10-yard handles. One ton covers a lot of household clutter and general debris. Where it gets heavy is dense material — wet soil, concrete, stone, brick, or a load of soaked tree wood. If you go over the 1-ton allowance, additional weight runs $105 per extra ton. If your job leans that way, mention it when you call and we'll set the right expectation up front so there's no guesswork.
 
@@ -39,7 +39,7 @@ For driveway protection, we set the container down carefully and we're happy to 
 
 ## How scheduling works from our Beltsville yard
 
-Because Meadowbrook is only about 25 minutes out — straight up Route 197, or down the BW Parkway depending on the day — we can usually get a 10-yard to you fast. We dispatch every morning, and same-day service is common when you call early enough. The alliterative Levitt street naming actually helps us here: once you tell us you're on an M street north of Route 197, our drivers know exactly where they're headed.
+Because Meadowbrook is only about 25 minutes out — straight up Route 197, or down the BW Parkway depending on the day — we can usually get a 10-yard to you fast. We dispatch every morning, and most addresses are scheduled within 24 hours — an early call may still make a same-day run. The alliterative Levitt street naming actually helps us here: once you tell us you're on an M street north of Route 197, our drivers know exactly where they're headed.
 
 When the container's full, give us a call and we'll come pull it. No standing appointment to manage, no app to fight with.
 
@@ -47,4 +47,4 @@ When the container's full, give us a call and we'll come pull it. No standing ap
 
 When you ring JP Roll-Off Service, you're talking to the people who own the business and answer the phone. We'll ask about your job, where you want the box, and whether your Meadowbrook driveway has room — and most of the time it does, which keeps you off the street and out of the permit process entirely.
 
-Ready to book a 10-yard, or just want to talk through whether it's the right size for your Meadowbrook project? Call us at **(301) 252-3586** and we'll get you set up.
+Ready to book a 10-yard, or just want to talk through whether it's the right size for your Meadowbrook project? Call us at **(301) 879-7040** and we'll get you set up.

@@ -2,7 +2,7 @@ When a single-room project in Silver Spring outgrows the smallest container but 
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures roughly 14 feet long, 8 feet wide, and 4 feet tall. That low 4-foot wall is the practical part: you can step up and drop debris over the side instead of fighting a tall door. It holds about four and a half pickup-truck loads. We price by material type rather than charging the same for every load, and for construction debris a 15-yard **starts at $595** (other materials are priced separately). That price includes delivery, a 14-day rental with a 1.5-ton (3,000-pound) weight allowance, and pickup on request — you call when you're ready and we come get it. Additional days run $5/day.
+The 15-yard measures roughly 16 feet long, 8 feet wide, and 4 feet tall. That low 4-foot wall is the practical part: you can step up and drop debris over the side instead of fighting a tall door. It holds about seven pickup-truck loads. We price by material type rather than charging the same for every load, so call for a quote (materials are priced separately). The rental includes delivery, a 14-day rental with a 1.5-ton (3,000-pound) weight allowance, and pickup on request — you call when you're ready and we come get it. Additional days run $5/day.
 
 That weight allowance is the number to watch. Fifteen cubic yards of light bulky waste — old cabinets, drywall, carpet, framing lumber — fits comfortably under the limit. Dense material like roofing shingles, plaster, or tile will hit the weight ceiling well before the box looks full, and anything over the 1.5-ton allowance is billed at $105 per additional ton — so on tear-off jobs we'd rather talk through what you're loading up front than surprise you at the scale. A quick phone call before delivery usually settles it.
 
@@ -31,4 +31,4 @@ A couple of local notes we keep in mind. Downtown Silver Spring's redeveloped co
 
 We dispatch from Beltsville, a direct run straight across the top of the Beltway into Silver Spring, so drop-offs and pickups stay quick and we can usually work with you on timing. Because we're family-owned, the people who own the trucks are the ones who answer the phone — no call center, no script, just a straight conversation about your job, your driveway, and whether the 15 is really the right size or you'd be better served by something larger.
 
-If you're planning a kitchen remodel, a roofing tear-off, a two-bath gut, or a basement cleanout anywhere from Woodside to Four Corners to the Wheaton border, give us a call at **(301) 252-3586** and we'll get a 15-yard scheduled, priced, and placed without the runaround.
+If you're planning a kitchen remodel, a roofing tear-off, a two-bath gut, or a basement cleanout anywhere from Woodside to Four Corners to the Wheaton border, give us a call at **(301) 879-7040** and we'll get a 15-yard scheduled, priced, and placed without the runaround.

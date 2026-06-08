@@ -4,9 +4,9 @@ We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville �
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard is the smallest footprint in our lineup, and on a town built this densely that is a feature, not a limitation. It measures 12 ft long by 8 ft wide by 3.5 ft tall, holds roughly three pickup-truck loads of debris, and comes with a 1-ton (2,000 lb) weight allowance. In Bladensburg a 10-yard **starts at $550 for construction debris (other materials are priced separately), and that includes delivery, pickup on request, and a 14-day rental with a 1-ton allowance**. Pricing is per material, not one price for everything — additional days run $5/day, and any weight over the 1-ton allowance is billed at $105 per additional ton.
+The 10-yard is the smallest footprint in our lineup, and on a town built this densely that is a feature, not a limitation. It measures 12 ft long by 8 ft wide by 4 ft tall, holds roughly three pickup-truck loads of debris, and comes with a 1-ton (2,000 lb) weight allowance. In Bladensburg a 10-yard **includes delivery, pickup on request, and a 14-day rental with a 1-ton allowance — priced by material, so call for a quote**. Pricing is per material, not one price for everything — additional days run $5/day, and any weight over the 1-ton allowance is billed at $105 per additional ton.
 
-The low 3.5-foot walls are the part people appreciate once it is on the ground: you can walk debris right up and drop it over the side without a ramp, which makes it the easy choice for one-room work. It is best known as the "garage cleanout" size, and the reason is simple — it handles a single concentrated job without making you pay for cubic feet of empty space you were never going to fill. If you are gutting a whole house or tearing off a full roof, you want something larger; for the focused projects below, the 10-yard is exactly right.
+The low 4-foot walls are the part people appreciate once it is on the ground: you can walk debris right up and drop it over the side without a ramp, which makes it the easy choice for one-room work. It is best known as the "garage cleanout" size, and the reason is simple — it handles a single concentrated job without making you pay for cubic feet of empty space you were never going to fill. If you are gutting a whole house or tearing off a full roof, you want something larger; for the focused projects below, the 10-yard is exactly right.
 
 ## Which Bladensburg jobs suit the 10-yard
 
@@ -27,8 +27,8 @@ Because so many Bladensburg homes are modest in size and sit on small lots, the 
 
 **Tight setbacks on the older blocks.** In the Decatur Heights bungalow sections and the other early-20th-century streets, setbacks are close and driveways are narrow. The 10-yard's compact 12-foot length is the easiest container we run to fit those footprints, which is another reason it is the right pick for so much in-town work.
 
-**Drive time.** Beltsville is a short run from Bladensburg, and we dispatch every morning. Early calls often make the same-day drop; most other addresses are scheduled inside 24 hours, well within the town's same-week permit-free turnaround.
+**Drive time.** Beltsville is a short run from Bladensburg, and we dispatch every morning. Most addresses are scheduled within 24 hours, and an early call may still make a same-day drop — well within the town's same-week permit-free turnaround.
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Bladensburg address and what you are tackling, whether it is a garage cleanout near the Port Towns, a single-bath remodel in a 1960s rancher, or a tree-and-yard cleanup over by the Edmonston border, and we will confirm the 10-yard is the right size, sort out the driveway-versus-street question, and quote you on the spot. Reach us at **(301) 252-3586**.
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Bladensburg address and what you are tackling, whether it is a garage cleanout near the Port Towns, a single-bath remodel in a 1960s rancher, or a tree-and-yard cleanup over by the Edmonston border, and we will confirm the 10-yard is the right size, sort out the driveway-versus-street question, and quote you on the spot. Reach us at **(301) 879-7040**.

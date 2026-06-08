@@ -4,7 +4,7 @@ A 25-yard container is our "major construction" size, and in Old Town Bowie it e
 
 ## What the 25-yard is built for in Old Town Bowie
 
-The 25-yard measures about 20 feet long, 8 feet wide, and 5 feet tall — roughly seven and a half pickup-truck loads of space. Pricing is per material: construction debris in the 25-yard starts at $640, with other materials priced separately (aggregates are only offered in the 10-, 15-, and 20-yard sizes). That price includes delivery, pickup on request, and a 14-day rental with a 2-ton allowance; additional days run $5 each, and any weight over the 2-ton allowance is billed at $105 per additional ton.
+The 25-yard measures about 18 feet long, 8 feet wide, and 6 feet tall — roughly ten and a half pickup-truck loads of space. Pricing is per material: construction debris in the 25-yard is priced by material, so call for a quote, with other materials priced separately (aggregates are only offered in the 10-, 15-, and 20-yard sizes). Every rental includes delivery, pickup on request, and a 14-day rental with a 2-ton allowance; additional days run $5 each, and any weight over the 2-ton allowance is billed at $105 per additional ton.
 
 This size makes sense for the larger projects that the district's aging frame houses tend to generate:
 
@@ -17,7 +17,7 @@ If your job is smaller — a single room, a bathroom, a one-layer roof, or a gar
 
 ## Tight lots and narrow streets: placement here matters
 
-Here's the part that separates Old Town Bowie from the rest of the city. This is a 19th-century grid of small town lots and narrow streets, and that original Huntington layout never anticipated a 20-foot steel box. Driveways tend to be short, curbside room is limited, and the historic blocks around 9th Street — where the 1939 firehouse and the largest concentration of historic buildings sit — don't have the generous frontage you'd find in a Levitt cul-de-sac. A 25-yard is the longest container we'd consider placing here, and on some lots it simply won't fit where a smaller can would.
+Here's the part that separates Old Town Bowie from the rest of the city. This is a 19th-century grid of small town lots and narrow streets, and that original Huntington layout never anticipated an 18-foot steel box. Driveways tend to be short, curbside room is limited, and the historic blocks around 9th Street — where the 1939 firehouse and the largest concentration of historic buildings sit — don't have the generous frontage you'd find in a Levitt cul-de-sac. A 25-yard is a tall, sizable container, and on some lots it simply won't fit where a smaller can would.
 
 That's not a reason to avoid the size — it's a reason to plan the drop. When you call, tell us where you're thinking of staging it: the driveway, a side yard, or the street. We'll talk through the angles, the clearance, and whether the box can be set without blocking your neighbor or pinning in a parked car. Because these lots are tight, a few minutes on the phone beforehand saves a lot of headache on delivery day. We deliver with boards under the container to protect older driveways and aprons, which matters more on the surfaces around here than on fresh suburban concrete.
 
@@ -29,8 +29,8 @@ Second, Old Town Bowie falls under a Development District Overlay Zone administe
 
 It's also worth noting the district is on the upswing. A city-backed revitalization of Old Town Bowie, funded in 2024 with construction expected to begin in 2025, plans to bring in art galleries, a brewery, and a performing arts venue. That kind of tenant-improvement and commercial-buildout work is exactly the sort of cleanout a 25-yard handles well.
 
-## Same-day service from Beltsville
+## Next-day service from Beltsville
 
-We're about 25 minutes from Old Town Bowie, dispatching every morning out of our Beltsville yard and running up Route 197 or the BW Parkway. Because we're close, same-day delivery is common — if you call early and we have a container free, there's a good chance we can get it to you that day. We dropped the cookie-cutter approach a long time ago: every quote is for your specific lot and your specific project.
+We're about 25 minutes from Old Town Bowie, dispatching every morning out of our Beltsville yard and running up Route 197 or the BW Parkway. Because we're close, most addresses here are scheduled within 24 hours — and if you call early and we have a container free, an early call may still make a same-day run. We dropped the cookie-cutter approach a long time ago: every quote is for your specific lot and your specific project.
 
-Being family-owned means when you call, you reach the people who actually own the trucks. No call center, no runaround — just a straight answer about size, price, and where the box should go. If you're planning an addition, a whole-house remodel, a big roofing job, or a commercial cleanout in Old Town Bowie and you think the 25-yard is your size, give us a ring at **(301) 252-3586**. We'll help you confirm it fits your lot, give you the per-material price, and get it dropped — often the same day.
+Being family-owned means when you call, you reach the people who actually own the trucks. No call center, no runaround — just a straight answer about size, price, and where the box should go. If you're planning an addition, a whole-house remodel, a big roofing job, or a commercial cleanout in Old Town Bowie and you think the 25-yard is your size, give us a ring at **(301) 879-7040**. We'll help you confirm it fits your lot, give you the per-material price, and get it dropped — usually the next day.

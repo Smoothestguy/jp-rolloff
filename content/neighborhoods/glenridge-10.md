@@ -1,10 +1,10 @@
 Glenridge is one of the smallest pockets in all of Belair at Bowie — a late-phase "G-section" Levitt built in 1969, with only a couple dozen colonial homes lining quiet interior streets like Galaxy Lane and Gradys Walk. Every one of those houses is now past the 55-year mark, and that age shows up in the kind of work we get called for here: original kitchens and baths coming out, single-pane windows getting swapped, aging roofs stripped, and decades of garage and attic clutter finally hitting the curb. For a one-room project like that, the 10-yard roll-off is almost always the right call. It is our "garage cleanout" size — the smallest footprint we run — and it fits a single car spot on your driveway without making you pay for empty air you'll never fill.
 
-We're JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville. When you call, one of the owners answers — not a call center — and Glenridge is about a 25-minute run for us up Route 197 or the BW Parkway. We dispatch every morning, so same-day drop-off is common when we have the can available.
+We're JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville. When you call, one of the owners answers — not a call center — and Glenridge is about a 25-minute run for us up Route 197 or the BW Parkway. We dispatch every morning, so most addresses here are scheduled within 24 hours, and an early call may still make a same-day run when we have the can available.
 
 ## Why the 10-yard fits Glenridge homes
 
-The 10-yard measures roughly 12 feet long, 8 feet wide, and 3.5 feet tall — low walls you can step up to and toss debris over without a ladder or a wheelbarrow ramp. It holds about three pickup-truck loads and comes with a 1-ton (2,000 lb) weight allowance built into the price.
+The 10-yard measures roughly 12 feet long, 8 feet wide, and 4 feet tall — low walls you can step up to and toss debris over without a ladder or a wheelbarrow ramp. It holds about three pickup-truck loads and comes with a 1-ton (2,000 lb) weight allowance built into the price.
 
 Glenridge's Levitt colonials run modest-to-mid-size — tax records on Galaxy Lane show living areas from about 1,583 to 2,063 square feet — which means a single-room remodel or a focused cleanout rarely generates more than a 10-yard's worth of debris. A 1969 bathroom gut, an original kitchen's worth of cabinets and counters, or a packed two-car garage all land comfortably inside that footprint. If you're tearing into something bigger — a whole-house cleanout or pulling out an old rear addition — that's when we'd steer you up to a 15- or 20-yard instead. For one room at a time, though, the 10-yard keeps your bill lean.
 
@@ -30,7 +30,7 @@ When we drop off, we'll set the can where you want it and lay down boards undern
 
 ## What it costs
 
-For Glenridge, a 10-yard **starts at $550 for construction debris (other materials priced separately)**, and that price includes delivery, pickup, and a 14-day rental with a 1-ton (2,000 lb) weight allowance. Need it longer? Extra days are just $5/day. Pickup is on request — give us a call to schedule it when you're done. If a job runs heavier than a ton (concrete, old roofing shingles, and dirt add up fast), additional weight is $105 per extra ton, and we'll explain it in plain terms before you ever commit, so nothing catches you off guard.
+For Glenridge, a 10-yard **includes delivery, pickup on request, and a 14-day rental with a 1-ton (2,000 lb) weight allowance — priced by material, so call for a quote**. Need it longer? Extra days are just $5/day. Pickup is on request — give us a call to schedule it when you're done. If a job runs heavier than a ton (concrete, old roofing shingles, and dirt add up fast), additional weight is $105 per extra ton, and we'll explain it in plain terms before you ever commit, so nothing catches you off guard.
 
 Because we're family-run and dispatch locally, we can usually be flexible on timing — drop the can on a Friday so you've got the weekend to work, and we'll swing back to grab it when you're done.
 
@@ -44,4 +44,4 @@ Heavy materials are the one thing to watch with the small can. A 10-yard fills i
 
 Glenridge may be one of Bowie's smallest sections, but these 1969 colonials keep us busy — there's always another original kitchen, tired bath, or packed garage ready for a refresh. If you're tackling a one-room project on Galaxy Lane, Gradys Walk, or anywhere in the G-section, the 10-yard roll-off is the right-sized, driveway-friendly tool for the job.
 
-Call JP Roll-Off Service at **(301) 252-3586** and one of the owners will pick up, answer your questions, and get a can on your driveway — often the same day. We're your neighbors up the road in Beltsville, and we'd be glad to help you clear it out.
+Call JP Roll-Off Service at **(301) 879-7040** and one of the owners will pick up, answer your questions, and get a can on your driveway — usually the next day, with an early call sometimes making a same-day run. We're your neighbors up the road in Beltsville, and we'd be glad to help you clear it out.

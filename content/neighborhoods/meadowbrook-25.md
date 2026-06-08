@@ -2,7 +2,7 @@ When a Meadowbrook project grows past the weekend-cleanout stage and into real c
 
 ## Why the 25-yard fits the bigger Meadowbrook jobs
 
-The 25-yard box measures about 20 feet long, 8 feet wide, and 5 feet tall — roughly 7.5 pickup-truck loads of debris. Pricing is per material: in Meadowbrook the 25-yard **starts at $640 for construction debris (other materials priced separately)**, and that includes delivery, a 14-day rental with a 2-ton allowance, and pickup on request. Keep the box past 14 days and it's just $5 a day extra. Go over the 2-ton allowance and additional weight is billed at $105 per ton — so let us know what you're loading and we'll flag it before the haul.
+The 25-yard box measures about 18 feet long, 8 feet wide, and 6 feet tall — roughly 10.5 pickup-truck loads of debris. Pricing is per material: in Meadowbrook the 25-yard for construction debris **includes delivery, a 14-day rental with a 2-ton allowance, and pickup on request — priced by material, so call for a quote** (other materials priced separately). Keep the box past 14 days and it's just $5 a day extra. Go over the 2-ton allowance and additional weight is billed at $105 per ton — so let us know what you're loading and we'll flag it before the haul.
 
 We call it the "major construction" size, and that's the right way to think about it. You reach for the 25-yard when a job is going to throw off real volume rather than a single room's worth of debris. In Meadowbrook specifically, that means:
 
@@ -15,7 +15,7 @@ If your Meadowbrook job is smaller — a single-room redo, a bath refresh, a rou
 
 ## Measure twice before you book — Meadowbrook lots are compact
 
-Here's the honest constraint, and it's the thing that sets Meadowbrook apart from Bowie's later, more spread-out sections. Belair's Levitt lots were standardized at about 8,400 square feet — roughly 0.19 acre, just under a quarter-acre. The Meadowbrook section is built out across about 930 of these detached single-family homes, and the yards and frontages are modest by design. The 25-yard is a long box: 20 feet of steel plus clearance for our truck to set it down and swing the rear door. On a sub-quarter-acre lot, that footprint matters more than people expect.
+Here's the honest constraint, and it's the thing that sets Meadowbrook apart from Bowie's later, more spread-out sections. Belair's Levitt lots were standardized at about 8,400 square feet — roughly 0.19 acre, just under a quarter-acre. The Meadowbrook section is built out across about 930 of these detached single-family homes, and the yards and frontages are modest by design. The 25-yard is a tall box: 18 feet of steel with six-foot walls, plus clearance for our truck to set it down and swing the rear door. On a sub-quarter-acre lot, that footprint and the loading height matter more than people expect.
 
 The good news is that Levitt sold these homes complete with garages and driveways included, so almost every Meadowbrook house has a paved driveway available for staging. That driveway is almost always the right move for this size — the front lawns here are small enough that the driveway is both the practical spot and the considerate one. Before you book, measure your driveway run and flag any tight spots: a low branch, a gate, a second car you can't move. Tell us the length and we'll give you a straight answer on whether the 25 fits or whether you'd be better off with a 20-yard. A driveway that easily holds a smaller box can come up short for the big one.
 
@@ -29,7 +29,7 @@ One more note: we couldn't confirm whether the Meadowbrook section has its own a
 
 ## Fast dispatch from Beltsville
 
-Meadowbrook sits north of Route 197 (Collington Road) in the 20716 ZIP, with Woodmore-at-Meadowbrook Elementary at 3501 Moylan Drive as the central landmark. From our Beltsville yard that's about a 25-minute run, either down Route 197 or via the BW Parkway depending on the morning. We dispatch every day, and same-day delivery is common when you call early — which matters when a contractor shows up ready to start and you need the container on site now.
+Meadowbrook sits north of Route 197 (Collington Road) in the 20716 ZIP, with Woodmore-at-Meadowbrook Elementary at 3501 Moylan Drive as the central landmark. From our Beltsville yard that's about a 25-minute run, either down Route 197 or via the BW Parkway depending on the morning. We dispatch every day, and most addresses here are scheduled within 24 hours — an early call may still make a same-day run, which matters when a contractor shows up ready to start and you need the container on site now.
 
 Because we're family-run and dispatching locally, we can be flexible about timing: dropping the box the evening before a Saturday roofing crew arrives, or staging it so it's clear of the school-hour traffic around Moylan Drive. Just tell us how your project is laid out and we'll work with it.
 
@@ -42,4 +42,4 @@ Because we're family-run and dispatching locally, we can be flexible about timin
 
 ## Talk to the family that owns the trucks
 
-When you call JP Roll-Off Service, you're not working through a call center. You're talking to the people who own the company, dispatch the trucks, and know the difference between Meadowbrook's compact Levitt lots and the rest of Bowie. We'll help you confirm the 25-yard is right for your addition, remodel, roofing job, or cleanout, sort out driveway placement so you likely skip the street permit, and get a container to your home — often the same day. Ready to book, or just want a straight answer on whether the 25 fits your driveway? Call us at **(301) 252-3586** and we'll take care of you.
+When you call JP Roll-Off Service, you're not working through a call center. You're talking to the people who own the company, dispatch the trucks, and know the difference between Meadowbrook's compact Levitt lots and the rest of Bowie. We'll help you confirm the 25-yard is right for your addition, remodel, roofing job, or cleanout, sort out driveway placement so you likely skip the street permit, and get a container to your home — usually within 24 hours, and sometimes the same day if you call early. Ready to book, or just want a straight answer on whether the 25 fits your driveway? Call us at **(301) 879-7040** and we'll take care of you.

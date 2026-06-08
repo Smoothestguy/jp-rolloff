@@ -1,0 +1,40 @@
+Cuando un proyecto en Tulip Grove se vuelve demasiado grande para una limpieza rápida de fin de semana, el roll-off de 25 yardas suele ser la elección correcta. Somos JP Roll-Off Service, una empresa familiar despachada desde Beltsville, y cuando nos llamas son los dueños quienes contestan. Tulip Grove es una de las zonas de Bowie que conocemos bien: la "sección T" hacia el este del antiguo desarrollo Belair at Bowie, donde Levitt & Sons trazó casas Rancher, Cape Cod y Colonial individuales a principios y mediados de los años 1960. Esas casas tienen ahora más de 60 años, y muchas por fin están recibiendo el trabajo mayor que llevaban esperando. El contenedor de 25 yardas está hecho exactamente para ese tipo de trabajo.
+
+## Por qué el de 25 yardas encaja en los trabajos más grandes de Tulip Grove
+
+El contenedor de 25 yardas mide aproximadamente 18 pies de largo, 8 pies de ancho y 6 pies de alto. Eso equivale a unas 10.5 cargas de camioneta de escombros, y viene con un periodo de renta de 14 días y un límite de peso de 2 toneladas (4,000 lb) incluido, con el peso extra facturado a $105 por tonelada adicional. Lo llamamos el tamaño de "construcción mayor" por una razón: es el que eliges cuando un proyecto va a generar volumen de verdad, no la basura de una sola habitación.
+
+En Tulip Grove en concreto, eso significa trabajos como una **ampliación de casa**, una **remodelación completa**, una **remoción grande de techo**, o una **limpieza comercial**. El parque de viviendas del vecindario se presta a esto. Son modelos Levitt originales — del tipo documentado en el Historic American Buildings Survey, como el ejemplo Rancher en 12100 Tulip Grove Drive tras su rediseño de 1962, el Colonial de cuatro habitaciones en 12500 Swirl Lane, y los Cape Cod en Stonehaven Lane. Cuando una Rancher de 60 años se vacía por completo, o un techo original de los años 1960 por fin se retira hasta la cubierta, los escombros se acumulan rápido. Un contenedor más pequeño te haría llamar para un cambio a mitad del proyecto. El de 25 yardas normalmente se lleva todo en una sola entrega.
+
+## Mide dos veces antes de reservar
+
+El de 25 yardas es un contenedor alto y profundo, y su huella importa más de lo que la gente espera. Dieciocho pies de acero más el espacio para que nuestro camión lo deje y lo recoja necesitan un recorrido despejado y razonablemente recto. La buena noticia para Tulip Grove es que tienes más espacio para trabajar que la mayoría de los vecindarios de Bowie.
+
+Tulip Grove, junto con el vecino Long Ridge, fue la expansión hacia el este de Levitt de la comunidad Belair, y la compañía la construyó con casas y lotes algo más grandes que sus secciones anteriores de Bowie para adaptarse a los gustos cambiantes de los compradores. Los lotes aquí generalmente rondan una quinta parte de acre — unos 8,700 pies cuadrados — y los anuncios recientes a lo largo de Tulip Grove Drive se han acercado más al rango de 9,100 a 10,600 pies cuadrados, con lotes de esquina más grandes encima de eso. En casas unifamiliares individuales con entradas privadas, ese espacio extra a los lados y al fondo suele significar que un contenedor de 25 yardas puede colocarse por completo en tu propia entrada.
+
+Aun así, mide tu entrada antes de comprometerte. El de 25 yardas necesita más espacio lineal que los tamaños más pequeños, y una entrada que fácilmente alberga un contenedor de 15 yardas puede quedarse corta para el grande. Si nos dices el largo de tu entrada y cualquier punto estrecho — una rama baja, una reja, un segundo auto estacionado — te diremos con honestidad si el de 25 cabe o si te conviene colocarlo de otra forma.
+
+## Permisos y colocación en Tulip Grove
+
+Aquí está la parte que toma por sorpresa a mucha gente, y es buena noticia para la mayor parte de este vecindario. La Ciudad de Bowie solo exige un permiso de derecho de paso cuando el contenedor se coloca en una calle de la ciudad. Si el contenedor se queda en tu entrada o en un punto de colocación aprobado por la HOA, no se necesita permiso de calle.
+
+Como los lotes más grandes y las entradas privadas de Tulip Grove normalmente nos permiten mantener el contenedor fuera de la calle por completo, la mayoría de los propietarios de aquí se saltan el paso del permiso por completo. Esa es una diferencia real respecto a las partes más estrechas y densas de Bowie donde no hay más opción que poner el acero en la vía. Una cosa que tener en cuenta: la Ciudad de Bowie mantiene un listado oficial de Asociaciones de Propietarios y Cívicas, y algunas secciones Levitt caen bajo asociaciones cívicas o de propietarios. Si tu tramo de Tulip Grove lo hace, sigue cualquier regla de colocación de la HOA junto con la regla de derecho de paso de la ciudad. Si tienes dudas, llámanos y conversaremos sobre dónde debe ir el contenedor antes del día de entrega.
+
+## Despacho rápido desde Beltsville
+
+Nuestro patio queda a unos 25 minutos de Tulip Grove. Lo hacemos ya sea por la Route 197 o por la BW Parkway, según la mañana, y despachamos todos los días. La mayoría de las direcciones aquí se programan dentro de 24 horas, y una llamada temprana puede aún lograr una entrega el mismo día, lo cual importa cuando un contratista llega listo para empezar y necesitas el contenedor en el sitio ahora.
+
+El precio del de 25 yardas es por material — se cotiza según lo que cargues, así que llama para una cotización (otros materiales se cotizan por separado). La cotización incluye entrega, un periodo de renta de 14 días y un límite de peso de 2 toneladas; la recogida es a solicitud, así que solo llama para programarla. El tiempo extra cuesta $5 por día, y cualquier peso por encima del límite de 2 toneladas es $105 por tonelada adicional. Como somos una empresa familiar que despacha localmente, también podemos ser flexibles con los tiempos — dejando el contenedor la tarde anterior a que llegue una cuadrilla de techos un sábado, o colocándolo de modo que esté fuera del paso del tráfico de Tulip Grove Elementary en Trainor Lane durante el horario escolar. Solo dinos cómo está dispuesto tu proyecto.
+
+## Algunas cosas que vale la pena considerar
+
+- **Los materiales pesados se acumulan rápido.** Las tejas de techo, el yeso y el azulejo viejo son densos. Una remoción grande de techo en una casa Levitt de 60 años puede acercarse o pasar el límite de 2 toneladas, así que avísanos qué vas a cargar y te señalaremos si es probable que te pases y debas el recargo de peso excedente de $105 por tonelada.
+- **Los escombros mixtos de construcción y demolición de una remodelación son el punto ideal.** Los escombros de una remodelación completa — paneles de yeso, gabinetería, pisos, recortes de estructura — llenan el volumen de un de 25 yardas sin normalmente pasar el límite de peso de 2 toneladas. Esa es la carga ideal para este tamaño.
+- **Las ampliaciones generan ambos.** Una ampliación de casa produce tierra de excavación, desperdicio de estructura y empaques todo a la vez. Mantén modestas las cargas pesadas de tierra y concreto para que el contenedor se quede por debajo de su límite de 2 toneladas y evites el recargo de peso excedente de $105 por tonelada.
+- **Las limpiezas comerciales varían.** Si estás vaciando un espacio, es fácil subestimar el volumen. Cuando describas el contenido, te diremos si el de 25 yardas lo maneja de una sola vez o si tiene más sentido un cambio.
+
+## Habla con la familia que es dueña de los camiones
+
+Cuando llamas a JP Roll-Off Service, no estás tratando con un centro de llamadas. Estás hablando con las personas que son dueñas de la empresa, despachan los camiones y conocen la diferencia entre las calles con nombre de "T" de Tulip Grove y el resto de Bowie. Te ayudaremos a confirmar que el de 25 yardas es el tamaño correcto para tu ampliación, remodelación, trabajo de techo o limpieza, resolveremos la colocación para que probablemente te saltes el permiso de calle, y llevaremos un contenedor a tu entrada — normalmente dentro de 24 horas.
+
+¿Listo para reservar, o solo quieres una respuesta directa sobre si el de 25 cabe en tu entrada? Llámanos al **(301) 879-7040** y te atenderemos.
