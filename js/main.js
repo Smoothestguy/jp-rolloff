@@ -510,9 +510,9 @@
     const REC = {
       '10': { en: 'the 10-yard — just right for a garage, attic, or yard cleanout.', es: 'el de 10 yardas — ideal para limpiar un garaje, ático o jardín.' },
       '15': { en: 'the 15-yard — sized for a one-room remodel like a kitchen or bath.', es: 'el de 15 yardas — para renovar un cuarto, como una cocina o un baño.' },
-      '20': { en: 'the 20-yard — our most popular, perfect for a whole-house cleanout or multi-room remodel.', es: 'el de 20 yardas — el más popular, perfecto para vaciar una casa o remodelar varios cuartos.' },
+      '20': { en: 'the 20-yard — perfect for a whole-house cleanout or multi-room remodel.', es: 'el de 20 yardas — perfecto para vaciar una casa o remodelar varios cuartos.' },
       '25': { en: 'the 25-yard — built for big remodels, additions, and new builds.', es: 'el de 25 yardas — para remodelaciones grandes, ampliaciones y construcción nueva.' },
-      '30': { en: 'the 30-yard — our biggest, for major demolition and commercial jobs.', es: 'el de 30 yardas — el más grande, para demolición mayor y trabajos comerciales.' }
+      '30': { en: 'the 30-yard — our most popular, for major demolition and commercial jobs.', es: 'el de 30 yardas — el más popular, para demolición mayor y trabajos comerciales.' }
     };
     const helpBtn = qm.querySelector('[data-qm-help]');
     if (helpBtn) helpBtn.addEventListener('click', () => go('2a'));

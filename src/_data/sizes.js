@@ -74,7 +74,7 @@ export default [
   {
     yd: 20,
     slug: "20-yard-dumpster",
-    popular: true,
+    popular: false,
     price: { from: 620 },
     tons: 2,
     lbs: 4000,
@@ -97,11 +97,11 @@ export default [
       { en: "Mid-size roofing", es: "Trabajo de techo mediano" }
     ],
     why: {
-      en: "The size most customers end up choosing — and rarely regret. The most popular size for both general debris and aggregates.",
-      es: "El tamaño que la mayoría termina eligiendo — y rara vez se arrepiente. El más popular tanto para escombros generales como para agregados."
+      en: "A whole-house favorite — and our top pick for aggregates, since heavy material is limited to the 10/15/20-yard bins.",
+      es: "Un favorito para casas completas — y nuestra mejor opción para agregados, ya que el material pesado se limita a los contenedores de 10/15/20 yardas."
     },
     servicesBlurb:
-      "22 ft × 8 ft × 4 ft · ~9 pickup loads. The size we drop more than any other. Whole-house cleanouts, multi-room remodels, mid-size roofing, estate cleanouts — and our most popular size for aggregates."
+      "22 ft × 8 ft × 4 ft · ~9 pickup loads. A whole-house workhorse. Whole-house cleanouts, multi-room remodels, mid-size roofing, estate cleanouts — and our go-to size for aggregates."
   },
   {
     yd: 25,
@@ -138,7 +138,7 @@ export default [
   {
     yd: 30,
     slug: "30-yard-dumpster",
-    popular: false,
+    popular: true,
     price: { from: 665 },
     tons: 3,
     lbs: 6000,
@@ -161,11 +161,11 @@ export default [
       { en: "Multi-family cleanout", es: "Limpieza multifamiliar" }
     ],
     why: {
-      en: "Big capacity — for jobs where a smaller bin would mean a second haul. Needs a long run-up to place.",
-      es: "Gran capacidad — para trabajos donde un contenedor más pequeño significaría un segundo viaje. Requiere espacio largo para colocar."
+      en: "Our most popular size — big capacity for jobs where a smaller bin would mean a second haul. Needs a long run-up to place.",
+      es: "Nuestro tamaño más popular — gran capacidad para trabajos donde un contenedor más pequeño significaría un segundo viaje. Requiere espacio largo para colocar."
     },
     servicesBlurb:
-      "22 ft × 8 ft × 6 ft · ~14 pickup loads. High volume. Full demolitions, commercial sites, bulk waste hauls, multi-family cleanouts. Needs a long run-up to place — call us if you're not sure it fits."
+      "22 ft × 8 ft × 6 ft · ~14 pickup loads. Our most popular size — high volume. Full demolitions, commercial sites, bulk waste hauls, multi-family cleanouts. Needs a long run-up to place — call us if you're not sure it fits."
   },
   {
     yd: 40,

@@ -196,65 +196,7 @@ og:
     </section>
 
     <!-- ============= ALTERNATING FEATURES ============= -->
-    <section class="section">
-      <div class="container">
-        <div class="section-head reveal" style="margin-bottom: var(--space-20);">
-          <div>
-            <span class="eyebrow" data-en="Why JP" data-es="Por qué JP">Why JP</span>
-            <h2 data-en="The dumpster company that actually shows up." data-es="La empresa que sí llega a tiempo.">The dumpster company that actually shows up.</h2>
-          </div>
-          <p class="lead" data-en="Most contractors will tell you the same story: they called three dumpster companies, and we were the only ones who answered. Then showed up when we said we would. Then picked up when we said we would." data-es="La mayoría de contratistas cuentan la misma historia: llamaron a tres compañías, y nosotros fuimos los únicos que contestamos. Llegamos cuando dijimos. Recogimos cuando dijimos.">Most contractors will tell you the same story: they called three dumpster companies, and we were the only ones who answered. Then showed up when we said we would. Then picked up when we said we would.</p>
-        </div>
-
-        <div class="feature-row reveal">
-          <div class="feature-text">
-            <h3 data-en="Next-day delivery is the standard — not a favor." data-es="Entrega al día siguiente como estándar — no un favor.">Next-day delivery is the standard — not a favor.</h3>
-            <p data-en="Place your order by 12:00 PM and we'll have a dumpster at your address the next day. Same-day delivery may be available depending on your location and our schedule — just ask. Your project doesn't wait on us." data-es="Haz tu pedido antes de las 12:00 PM y tendremos un contenedor en tu dirección al día siguiente. La entrega el mismo día puede estar disponible según tu ubicación y nuestra programación — solo pregunta. Tu proyecto no espera por nosotros.">Place your order by 12:00 PM and we'll have a dumpster at your address the next day. Same-day delivery may be available depending on your location and our schedule — just ask. Your project doesn't wait on us.</p>
-            <ul class="feature-list">
-              <li data-en="Live dispatch — talk to a real human" data-es="Despacho en vivo — habla con una persona real">Live dispatch — talk to a real human</li>
-              <li data-en="Driver texts an ETA before arrival" data-es="El conductor envía un ETA antes de llegar">Driver texts an ETA before arrival</li>
-              <li data-en="Boards down to protect your driveway" data-es="Usamos tablas para proteger tu entrada">Boards down to protect your driveway</li>
-            </ul>
-            <a href="#quote" class="btn btn-secondary" data-quote-open data-en="Reserve a Drop-Off" data-es="Reservar Entrega">Reserve a Drop-Off →</a>
-          </div>
-          <div class="feature-visual feature-visual-photo">
-            <img src="/images/JPRolloffright.jpg" alt="JP Roll-Off truck delivering a dumpster" loading="lazy" />
-          </div>
-        </div>
-
-        <div class="feature-row reverse reveal">
-          <div class="feature-text">
-            <h3 data-en="Honest pricing. Written. Up front." data-es="Precios honestos. Escritos. Por adelantado.">Honest pricing. Written. Up front.</h3>
-            <p data-en="One number covers delivery, pickup, the rental period, and a generous tonnage allowance. No fuel surcharges. No environmental fees. No mystery line items on the invoice." data-es="Un solo número cubre entrega, recogida, periodo de renta y un límite de peso generoso. Sin recargos de combustible. Sin cargos ambientales. Sin sorpresas en la factura.">One number covers delivery, pickup, the rental period, and a generous tonnage allowance. No fuel surcharges. No environmental fees. No mystery line items on the invoice.</p>
-            <ul class="feature-list">
-              <li data-en="Quote is the price — period" data-es="La cotización es el precio — punto">Quote is the price — period</li>
-              <li data-en="Tonnage allowance included" data-es="Límite de peso incluido">Tonnage allowance included</li>
-              <li data-en="Card, cash, check, or invoice" data-es="Tarjeta, efectivo, cheque o factura">Card, cash, check, or invoice</li>
-            </ul>
-            <a href="#quote" class="btn btn-secondary" data-quote-open data-en="Get a Free Quote" data-es="Cotización Gratis">Get a Free Quote →</a>
-          </div>
-          <div class="feature-visual feature-visual-photo">
-            <img src="/images/JPRolloffleft.jpg" alt="JP Roll-Off dumpster on the job" loading="lazy" />
-          </div>
-        </div>
-
-        <div class="feature-row reveal">
-          <div class="feature-text">
-            <h3 data-en="Family-owned, DMV-local, 25+ years deep." data-es="Familia local, DMV, más de 25 años.">Family-owned, DMV-local, 25+ years deep.</h3>
-            <p data-en="JP Roll-Off has been operating out of Beltsville for more than 25 years. We know which streets fit a 30-yard, which counties need permits, and which alleys you can't back a truck into. That experience saves you time and money." data-es="JP Roll-Off opera desde Beltsville hace más de 25 años. Sabemos cuáles calles permiten 30 yardas, cuáles condados requieren permiso, y cuáles callejones no permiten retroceder un camión. Esa experiencia te ahorra tiempo y dinero.">JP Roll-Off has been operating out of Beltsville for more than 25 years. We know which streets fit a 30-yard, which counties need permits, and which alleys you can't back a truck into. That experience saves you time and money.</p>
-            <ul class="feature-list">
-              <li data-en="Family-run since 2000" data-es="Familia operando desde 2000">Family-run since 2000</li>
-              <li data-en="Bilingual office (EN/ES)" data-es="Oficina bilingüe (EN/ES)">Bilingual office (EN/ES)</li>
-              <li data-en="Permit help for city projects" data-es="Ayuda con permisos en proyectos">Permit help for city projects</li>
-            </ul>
-            <a href="/about" class="btn btn-secondary" data-en="Meet the Family" data-es="Conoce a la Familia">Meet the Family →</a>
-          </div>
-          <div class="feature-visual feature-visual-photo">
-            <img src="/images/Jprolloffyard.png" alt="JP Roll-Off yard in Beltsville, MD" loading="lazy" />
-          </div>
-        </div>
-      </div>
-    </section>
+    {% include "why-jp.njk" %}
 
     <!-- ============= STATS ============= -->
     <section class="section section-dark stats-section">
@@ -440,7 +382,7 @@ og:
           </details>
           <details class="faq-item">
             <summary data-en="What size dumpster do I need?" data-es="¿Qué tamaño necesito?">What size dumpster do I need?</summary>
-            <div class="faq-answer" data-en="As a rule of thumb: 10 yard for garage cleanouts, 15 for single-room remodels, 20 for whole-house cleanouts (our most popular), 25 for additions, 30 for full demolitions, and 40 for major construction. The 10, 15, and 20-yard containers also handle heavy aggregates like concrete, dirt, and brick. Call us — we'll help you pick the right one." data-es="Regla general: 10 yardas para garajes, 15 para una habitación, 20 para casas completas (el más popular), 25 para adiciones, 30 para demoliciones, y 40 para construcción grande. Los contenedores de 10, 15 y 20 yardas también sirven para agregados pesados como concreto, tierra y ladrillo. Llámanos — te ayudamos a elegir.">As a rule of thumb: 10 yard for garage cleanouts, 15 for single-room remodels, 20 for whole-house cleanouts (our most popular), 25 for additions, 30 for full demolitions, and 40 for major construction. The 10, 15, and 20-yard containers also handle heavy aggregates like concrete, dirt, and brick. Call us — we'll help you pick the right one.</div>
+            <div class="faq-answer" data-en="As a rule of thumb: 10 yard for garage cleanouts, 15 for single-room remodels, 20 for whole-house cleanouts, 25 for additions, 30 for full demolitions (our most popular), and 40 for major construction. The 10, 15, and 20-yard containers also handle heavy aggregates like concrete, dirt, and brick. Call us — we'll help you pick the right one." data-es="Regla general: 10 yardas para garajes, 15 para una habitación, 20 para casas completas, 25 para adiciones, 30 para demoliciones (el más popular), y 40 para construcción grande. Los contenedores de 10, 15 y 20 yardas también sirven para agregados pesados como concreto, tierra y ladrillo. Llámanos — te ayudamos a elegir.">As a rule of thumb: 10 yard for garage cleanouts, 15 for single-room remodels, 20 for whole-house cleanouts, 25 for additions, 30 for full demolitions (our most popular), and 40 for major construction. The 10, 15, and 20-yard containers also handle heavy aggregates like concrete, dirt, and brick. Call us — we'll help you pick the right one.</div>
           </details>
           <details class="faq-item">
             <summary data-en="How much does it cost?" data-es="¿Cuánto cuesta?">How much does it cost?</summary>
