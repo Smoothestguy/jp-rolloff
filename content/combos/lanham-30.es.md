@@ -30,4 +30,4 @@ El de 30 yardas es nuestra caja más larga, y necesita un acceso largo y despeja
 
 Lo mantenemos simple porque somos un negocio familiar, no una cadena. Dinos el trabajo, el material y la dirección, y confirmaremos el tamaño correcto, repasaremos contigo si necesitas un permiso de derecho de paso del condado, y te daremos un precio claro para tu material antes de que algo se mueva. Desde Beltsville estamos a unos quince minutos por la Route 450 o la BW Parkway, así que programar según tu calendario en Lanham, Seabrook o hacia los bordes de Goddard y Glenarden rara vez es un problema.
 
-Si tienes una demolición completa, una obra comercial, un retiro a granel o una limpieza multifamiliar próximamente, llama directamente a los dueños al (301) 879-7040. Llevaremos el de 30 yardas a donde necesita estar y mantendremos tu trabajo avanzando.
+Si tienes una demolición completa, una obra comercial, un retiro a granel o una limpieza multifamiliar próximamente, llama directamente a los dueños al (301) 252-3586. Llevaremos el de 30 yardas a donde necesita estar y mantendremos tu trabajo avanzando.

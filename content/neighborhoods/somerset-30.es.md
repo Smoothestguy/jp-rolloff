@@ -33,4 +33,4 @@ Un pequeño extra para nuestro conductor: las calles de Belair están organizada
 
 Como somos una empresa familiar, las personas que contestan el teléfono son los dueños — no un centro de llamadas. Puedes describir tu demolición, tu sitio o tu limpieza y obtener una respuesta directa sobre si el de 30 yardas es el tamaño correcto para tu trabajo en Somerset, cuánto costará y exactamente cómo lo acomodaremos en una entrada original de Levitt con una aproximación de un solo ancho.
 
-Si tienes un trabajo grande en Somerset y un contenedor más pequeño solo significaría un segundo acarreo, llama a JP Roll-Off Service al **(301) 879-7040**. Programaremos y despacharemos un de 30 yardas desde Beltsville, y lo tendremos en tu sitio en Somerset — la mayoría de las direcciones por aquí se programan dentro de las 24 horas.
+Si tienes un trabajo grande en Somerset y un contenedor más pequeño solo significaría un segundo acarreo, llama a JP Roll-Off Service al **(301) 252-3586**. Programaremos y despacharemos un de 30 yardas desde Beltsville, y lo tendremos en tu sitio en Somerset — la mayoría de las direcciones por aquí se programan dentro de las 24 horas.

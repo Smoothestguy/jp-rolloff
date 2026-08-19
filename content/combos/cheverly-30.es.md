@@ -35,4 +35,4 @@ En cuanto al papeleo, el Town of Cheverly lo mantiene sencillo. Se requiere un p
 
 Un 30 yardas es un compromiso de espacio y una pieza de equipo real para maniobrar, así que los mejores resultados empiezan con una conversación corta sobre tu trabajo, tu entrada, y el acceso de árboles y calle en tu dirección. Como JP Roll-Off Service es una empresa familiar, estás hablando directamente con las personas que manejan los camiones, no con un despachador leyendo de un guion. Te ayudaremos a confirmar que 30 yardas es la opción correcta en lugar de venderte de más una caja que no necesitas.
 
-Cuando estés listo para programar tu contenedor de 30 yardas en Cheverly, o solo quieras una respuesta directa sobre tamaño, precio o ubicación, llámanos al (301) 879-7040. Te dejaremos listo y fuera del camino de tu proyecto.
+Cuando estés listo para programar tu contenedor de 30 yardas en Cheverly, o solo quieras una respuesta directa sobre tamaño, precio o ubicación, llámanos al (301) 252-3586. Te dejaremos listo y fuera del camino de tu proyecto.

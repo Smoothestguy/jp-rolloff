@@ -33,4 +33,4 @@ A fair word, since Glenridge is a small section of modest-to-mid-size colonials:
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Glenridge address and what you are tackling — a new addition or a tear-out of an old one, a whole-house gut of a 1969 Levitt colonial, a large roof, or a bigger cleanout — and we will confirm whether the 25-yard is the right size and quote you on the spot. Reach us at **(301) 879-7040**.
+When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Glenridge address and what you are tackling — a new addition or a tear-out of an old one, a whole-house gut of a 1969 Levitt colonial, a large roof, or a bigger cleanout — and we will confirm whether the 25-yard is the right size and quote you on the spot. Reach us at **(301) 252-3586**.

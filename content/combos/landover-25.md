@@ -33,4 +33,4 @@ Whenever we can, we set the container on a private driveway. It sidesteps the pe
 
 ## Talk to the family that runs the trucks
 
-Call us and you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Landover address and what you are tackling — an addition near the FedExField corridor, a whole-house remodel in Kentland or Dodge Park, a large roofing tear-off, or a cleanout along the Route 202 strip — and we will confirm the 25-yard is the right size, sort out the placement and any permit, and quote you on the spot. Reach us at **(301) 879-7040**.
+Call us and you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Landover address and what you are tackling — an addition near the FedExField corridor, a whole-house remodel in Kentland or Dodge Park, a large roofing tear-off, or a cleanout along the Route 202 strip — and we will confirm the 25-yard is the right size, sort out the placement and any permit, and quote you on the spot. Reach us at **(301) 252-3586**.

@@ -1,0 +1,65 @@
+---
+title: "Demolition Services | JP Roll-Off Service · DMV"
+description: "JP Roll-Off Service provides demolition for residential, commercial, and construction projects across the DMV — we handle both the demolition and the debris disposal. Free estimates at office@jprolloff.net."
+canonical: "https://jprolloff.com/demolition"
+navActive: "/demolition"
+quoteHref: "/#quote"
+---
+{% extends "base.njk" %}
+
+{% block content %}
+<main id="main">
+  <section class="page-header">
+    <div class="page-header-img" aria-hidden="true">
+      <img src="/images/Jprolloffyard.png" alt="" loading="eager" onerror="this.style.display='none'" />
+    </div>
+    <div class="container">
+      <span class="eyebrow" style="color:#fff;" data-en="Demolition · DMV" data-es="Demolición · DMV">Demolition · DMV</span>
+      <h1 data-en="Demolition services — we tear it down and haul it away." data-es="Servicios de demolición — lo demolemos y nos lo llevamos.">Demolition services — we tear it down and haul it away.</h1>
+      <p data-en="In addition to dumpster rentals, JP Roll-Off Service provides demolition services for residential, commercial, and construction projects. We handle both the demolition work and the disposal of the resulting debris — one crew, one call." data-es="Además de la renta de contenedores, JP Roll-Off Service ofrece servicios de demolición para proyectos residenciales, comerciales y de construcción. Nos encargamos tanto del trabajo de demolición como de la disposición de los escombros resultantes — un solo equipo, una sola llamada.">In addition to dumpster rentals, JP Roll-Off Service provides demolition services for residential, commercial, and construction projects. We handle both the demolition work and the disposal of the resulting debris — one crew, one call.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-head reveal">
+        <div>
+          <span class="eyebrow" data-en="What We Demolish" data-es="Lo Que Demolemos">What We Demolish</span>
+          <h2 data-en="Demolition and disposal, handled together." data-es="Demolición y disposición, manejadas juntas.">Demolition and disposal, handled together.</h2>
+        </div>
+        <p class="lead" data-en="From a single interior tear-out to a full structure, we bring the crew to do the demolition and the trucks to haul the debris — so you're not juggling two vendors." data-es="Desde la demolición de un interior hasta una estructura completa, traemos el equipo para demoler y los camiones para retirar los escombros — así no tienes que coordinar dos proveedores.">From a single interior tear-out to a full structure, we bring the crew to do the demolition and the trucks to haul the debris — so you're not juggling two vendors.</p>
+      </div>
+
+      <div class="haul-grid reveal-stagger" style="margin-top: var(--space-10);">
+        <div class="haul-card">
+          <h4 data-en="Residential" data-es="Residencial">Residential</h4>
+          <p data-en="Garages, sheds, decks, interior gut-outs, kitchens and baths, and small structures — cleared and hauled." data-es="Garajes, cobertizos, terrazas, demoliciones de interiores, cocinas y baños, y estructuras pequeñas — despejados y retirados.">Garages, sheds, decks, interior gut-outs, kitchens and baths, and small structures — cleared and hauled.</p>
+        </div>
+        <div class="haul-card">
+          <h4 data-en="Commercial" data-es="Comercial">Commercial</h4>
+          <p data-en="Tenant build-outs, retail and office interiors, and property turnovers — demolished and cleaned up on schedule." data-es="Adecuaciones de locales, interiores de oficinas y comercios, y cambios de propiedad — demolidos y limpiados a tiempo.">Tenant build-outs, retail and office interiors, and property turnovers — demolished and cleaned up on schedule.</p>
+        </div>
+        <div class="haul-card">
+          <h4 data-en="Construction" data-es="Construcción">Construction</h4>
+          <p data-en="Site prep, selective demolition, and debris removal that keeps your build moving without a second contractor." data-es="Preparación del sitio, demolición selectiva y remoción de escombros que mantiene tu obra en marcha sin un segundo contratista.">Site prep, selective demolition, and debris removal that keeps your build moving without a second contractor.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="cta-band">
+        <div>
+          <h2 data-en="Planning a demolition?" data-es="¿Planeas una demolición?">Planning a demolition?</h2>
+          <p data-en="Contact us for a free demolition estimate at office@jprolloff.net, or give us a call." data-es="Contáctanos para una estimación de demolición gratis en office@jprolloff.net, o llámanos.">Contact us for a free demolition estimate at office@jprolloff.net, or give us a call.</p>
+        </div>
+        <div class="cta-band-actions">
+          <a href="mailto:office@jprolloff.net?subject=Demolition%20Estimate%20Request" class="cta-band-phone" data-en="Free Estimate" data-es="Estimación Gratis">Free Estimate</a>
+          <a href="tel:{{ site.phone.tel }}" class="btn btn-lg" data-en="Call {{ site.phone.display }}" data-es="Llamar {{ site.phone.display }}">Call {{ site.phone.display }}</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+{% endblock %}

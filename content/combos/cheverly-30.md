@@ -35,4 +35,4 @@ On the paperwork side, the Town of Cheverly keeps it straightforward. A permit i
 
 A 30-yard is a commitment of space and a real piece of equipment to maneuver, so the best results start with a short conversation about your job, your driveway, and the tree and street access at your address. Because JP Roll-Off Service is family-owned, you are talking directly to the people who run the trucks, not a dispatcher reading from a script. We will help you confirm that 30 yards is the right call rather than upselling you into a box you do not need.
 
-When you are ready to schedule your 30-yard dumpster in Cheverly, or you just want a straight answer on size, pricing, or placement, call us at (301) 879-7040. We will get you set up and out of the way of your project.
+When you are ready to schedule your 30-yard dumpster in Cheverly, or you just want a straight answer on size, pricing, or placement, call us at (301) 252-3586. We will get you set up and out of the way of your project.

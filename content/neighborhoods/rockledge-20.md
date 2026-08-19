@@ -35,4 +35,4 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Rockledge address and what you are tackling — a kitchen or bath modernization off Rockledge Drive, a whole-house cleanout, an estate clear-out, or a roof tear-off on one of these mid-1960s Levitt homes — and we will confirm the 20-yard is the right size and quote you on the spot. We will drop it on your driveway, skip the permit when we can, and pick it up when you are done.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Rockledge address and what you are tackling — a kitchen or bath modernization off Rockledge Drive, a whole-house cleanout, an estate clear-out, or a roof tear-off on one of these mid-1960s Levitt homes — and we will confirm the 20-yard is the right size and quote you on the spot. We will drop it on your driveway, skip the permit when we can, and pick it up when you are done.

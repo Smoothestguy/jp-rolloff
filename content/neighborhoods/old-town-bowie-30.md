@@ -31,4 +31,4 @@ One more note specific to this district: Old Town Bowie falls under a Developmen
 
 Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script. That means you can describe your Old Town Bowie project — a full gut of a century-old frame house, a 9th Street tenant tear-out, an estate clear-out, or a multi-unit cleanout — and get a straight answer on whether the 30-yard is the right size, what it will cost for your material, and exactly how we will thread it onto a short driveway or stage it curbside on a narrow street.
 
-If you have a big job in Old Town Bowie and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 879-7040**. We will figure out the placement together, get a 30-yard scheduled, dispatched from the Beltsville yard in the morning, and on your site about 25 minutes later.
+If you have a big job in Old Town Bowie and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We will figure out the placement together, get a 30-yard scheduled, dispatched from the Beltsville yard in the morning, and on your site about 25 minutes later.

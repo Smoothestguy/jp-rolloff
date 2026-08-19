@@ -31,4 +31,4 @@ Un par de cosas distinguen a Cheverly de los suburbios planos y de cuadrícula a
 
 ## Habla con la familia que maneja los camiones
 
-Cuando llames, hablarás con las personas que de verdad son dueñas y operan JP Roll-Off — no con un centro de llamadas. Dinos tu dirección en Cheverly y qué vas a enfrentar, ya sea una limpieza de garaje, una remodelación de un solo baño, un jardín lleno de ramas del dosel o una reducción de patrimonio en una de las casas históricas del pueblo, y te confirmaremos que el de 10 yardas es la opción correcta y te cotizaremos al instante. Contáctanos en el **(301) 879-7040.**
+Cuando llames, hablarás con las personas que de verdad son dueñas y operan JP Roll-Off — no con un centro de llamadas. Dinos tu dirección en Cheverly y qué vas a enfrentar, ya sea una limpieza de garaje, una remodelación de un solo baño, un jardín lleno de ramas del dosel o una reducción de patrimonio en una de las casas históricas del pueblo, y te confirmaremos que el de 10 yardas es la opción correcta y te cotizaremos al instante. Contáctanos en el **(301) 252-3586.**

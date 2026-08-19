@@ -35,4 +35,4 @@ Because so many of these homes came out of the same Levitt-era expansion of Bela
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Pointer Ridge address, what you are tackling — a kitchen gut, a roof tear-off, a two-bath remodel, or a basement cleanout in a long-held home — and whether you will stage on the driveway. We will confirm the 15-yard is the right size and quote you on the spot — priced by material, with delivery, pickup on request, and a 14-day rental plus a 1.5-ton allowance included; extra weight is $105 per ton.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Pointer Ridge address, what you are tackling — a kitchen gut, a roof tear-off, a two-bath remodel, or a basement cleanout in a long-held home — and whether you will stage on the driveway. We will confirm the 15-yard is the right size and quote you on the spot — priced by material, with delivery, pickup on request, and a 14-day rental plus a 1.5-ton allowance included; extra weight is $105 per ton.

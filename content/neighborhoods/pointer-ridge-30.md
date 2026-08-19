@@ -35,4 +35,4 @@ One neighborly note for the bigger drops: Pointer Ridge Elementary sits right in
 
 Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script three states away. That means you can describe your Pointer Ridge project — a full gut on Pointer Ridge Drive, a contractor tear-out on Pointer Ridge Place, a bulk estate haul, or a multi-unit turnover off Parkington Lane — and get a straight answer on whether the 30-yard is the right size, what it will cost for your material, and exactly how we will stage that long box on your third-acre driveway without crowding a neighbor.
 
-If you have a big job in Pointer Ridge and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 879-7040**. Same family, same trucks, dispatched fresh every morning out of Beltsville and on your P street about 25 minutes later.
+If you have a big job in Pointer Ridge and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. Same family, same trucks, dispatched fresh every morning out of Beltsville and on your P street about 25 minutes later.

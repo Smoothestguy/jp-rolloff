@@ -29,4 +29,4 @@ Cheverly also holds Prince George's County's largest documented collection of 19
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Cheverly address and what you are tackling, whether it is a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in one of the town's historic homes, and we will confirm the 15-yard is the right size, talk through tree clearance and driveway grade, and quote you on the spot. Reach us at **(301) 879-7040**.
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Cheverly address and what you are tackling, whether it is a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in one of the town's historic homes, and we will confirm the 15-yard is the right size, talk through tree clearance and driveway grade, and quote you on the spot. Reach us at **(301) 252-3586**.

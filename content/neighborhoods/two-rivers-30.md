@@ -45,4 +45,4 @@ If the load is going to be especially heavy — concrete, masonry, dirt, or othe
 
 Two Rivers is a newer, well-kept community, and the people who live here notice how a job is handled. When you call JP Roll-Off Service, you reach the owners — not a call center, not a dispatcher reading a script. We'll ask about your lot, your street, your HOA situation, and the kind of material you're moving, and then we'll get a 30-yard to you, usually within 24 hours and sometimes the same day on an early call, dispatched out of Beltsville every morning.
 
-If you've got a full demolition, a commercial site, a bulk haul, or a multi-family cleanout coming up in Two Rivers, call us at **(301) 879-7040** and we'll get the right box on its way.
+If you've got a full demolition, a commercial site, a bulk haul, or a multi-family cleanout coming up in Two Rivers, call us at **(301) 252-3586** and we'll get the right box on its way.

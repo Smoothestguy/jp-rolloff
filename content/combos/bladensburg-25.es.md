@@ -31,4 +31,4 @@ Si tu proyecto es más pequeño — un solo baño, un trabajo de piso de un cuar
 
 ## Habla con la familia que maneja los camiones
 
-Cuando llamas, hablas con las personas que de verdad son dueñas y operan JP Roll-Off — no con un centro de llamadas. Dinos tu dirección en Bladensburg, qué estás construyendo o despejando y cuál es la superficie de tu entrada, y confirmaremos que el de 25 yardas es el tamaño correcto, señalaremos cualquier preocupación de permiso o de condición del terreno, y te cotizaremos en el momento. Localízanos en el **(301) 879-7040** y mandaremos un contenedor en camino.
+Cuando llamas, hablas con las personas que de verdad son dueñas y operan JP Roll-Off — no con un centro de llamadas. Dinos tu dirección en Bladensburg, qué estás construyendo o despejando y cuál es la superficie de tu entrada, y confirmaremos que el de 25 yardas es el tamaño correcto, señalaremos cualquier preocupación de permiso o de condición del terreno, y te cotizaremos en el momento. Localízanos en el **(301) 252-3586** y mandaremos un contenedor en camino.

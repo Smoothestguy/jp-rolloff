@@ -31,4 +31,4 @@ It helps to know that Upper Marlboro is not all one kind of property, because th
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Upper Marlboro address and what you are tackling — a whole-house cleanout on a county lot, a multi-room remodel in a 70s home, an estate clear-out near the historic core, or a roof tear-off in Westphalia — and we will confirm the 20-yard is the right size, sort out which permit rule applies to your side of the line, and quote you on the spot.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Upper Marlboro address and what you are tackling — a whole-house cleanout on a county lot, a multi-room remodel in a 70s home, an estate clear-out near the historic core, or a roof tear-off in Westphalia — and we will confirm the 20-yard is the right size, sort out which permit rule applies to your side of the line, and quote you on the spot.

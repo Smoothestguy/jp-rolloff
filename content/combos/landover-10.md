@@ -1,4 +1,4 @@
-If you have a single garage to clear out, a bathroom to gut, or a yard full of brush and downed limbs in Landover, the 10-yard roll-off is almost always the right call. It is the smallest container we run, and that is exactly its strength: a tight 12 ft by 8 ft by 4 ft footprint that drops into one standard car spot, handles a one-room project, and never leaves you paying for air. JP Roll-Off Service is a family-owned hauler dispatched out of Beltsville, just up the road, and when you call us at (301) 879-7040 you reach the owners, not a call center.
+If you have a single garage to clear out, a bathroom to gut, or a yard full of brush and downed limbs in Landover, the 10-yard roll-off is almost always the right call. It is the smallest container we run, and that is exactly its strength: a tight 12 ft by 8 ft by 4 ft footprint that drops into one standard car spot, handles a one-room project, and never leaves you paying for air. JP Roll-Off Service is a family-owned hauler dispatched out of Beltsville, just up the road, and when you call us at (301) 252-3586 you reach the owners, not a call center.
 
 ## What fits in a 10-yard dumpster
 
@@ -31,4 +31,4 @@ As for getting there: Landover is a short hop from our Beltsville yard, an easy 
 
 ## Ready when you are
 
-A 10-yard is the no-overpaying choice for a Landover garage cleanout, bathroom remodel, yard cleanup, or single-room estate downsize. We will confirm whether your address sits in unincorporated county territory or inside Landover Hills, help you decide between driveway and street placement, and get a clean container dropped where you need it. Call the owners directly at (301) 879-7040 — we answer the phone, we know the neighborhoods, and we will make sure you get the right size the first time.
+A 10-yard is the no-overpaying choice for a Landover garage cleanout, bathroom remodel, yard cleanup, or single-room estate downsize. We will confirm whether your address sits in unincorporated county territory or inside Landover Hills, help you decide between driveway and street placement, and get a clean container dropped where you need it. Call the owners directly at (301) 252-3586 — we answer the phone, we know the neighborhoods, and we will make sure you get the right size the first time.

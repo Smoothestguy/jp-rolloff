@@ -45,4 +45,4 @@ Si la carga va a ser especialmente pesada — concreto, mampostería, tierra u o
 
 Two Rivers es una comunidad más nueva y bien cuidada, y las personas que viven aquí notan cómo se maneja un trabajo. Cuando llamas a JP Roll-Off Service, te comunicas con los dueños — no un centro de llamadas, no un despachador leyendo un guion. Te preguntaremos por tu lote, tu calle, tu situación con el HOA y el tipo de material que estás moviendo, y luego te llevaremos un 30 yardas, normalmente dentro de las 24 horas y a veces el mismo día en una llamada temprana, despachado desde Beltsville cada mañana.
 
-Si tienes una demolición completa, un sitio comercial, un acarreo a granel o una limpieza multifamiliar próxima en Two Rivers, llámanos al **(301) 879-7040** y pondremos el contenedor correcto en camino.
+Si tienes una demolición completa, un sitio comercial, un acarreo a granel o una limpieza multifamiliar próxima en Two Rivers, llámanos al **(301) 252-3586** y pondremos el contenedor correcto en camino.

@@ -33,4 +33,4 @@ One small bonus for our driver: Belair's streets are arranged in alliterative se
 
 Because we are family-owned, the people who answer the phone are the owners — not a call center. You can describe your demo, your site, or your cleanout and get a straight answer on whether the 30-yard is the right size for your Somerset job, what it will cost, and exactly how we will fit it onto an original Levitt driveway with a single-width approach.
 
-If you have a big job in Somerset and a smaller bin would just mean a second haul, call JP Roll-Off Service at **(301) 879-7040**. We will get a 30-yard scheduled and dispatched from Beltsville, and have it on your site in Somerset — most addresses here are scheduled within 24 hours.
+If you have a big job in Somerset and a smaller bin would just mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We will get a 30-yard scheduled and dispatched from Beltsville, and have it on your site in Somerset — most addresses here are scheduled within 24 hours.

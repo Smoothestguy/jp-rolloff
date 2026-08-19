@@ -33,4 +33,4 @@ Ayuda saber que Greenbelt no es un solo tipo de vivienda, porque eso cambia qué
 
 ## Habla con la familia que maneja los camiones
 
-Llama al **(301) 879-7040** y hablas con la gente que de verdad es dueña y opera JP Roll-Off. Dinos tu dirección de Greenbelt y qué estás enfrentando — una limpieza de casa completa en Hunting Ridge, una remodelación de varias habitaciones en Greenbriar, un vaciado de patrimonio junto a un patio en Old Greenbelt, o el acabado de un sótano en Greenbelt Station — y confirmaremos que la de 20 yardas es el tamaño correcto, resolveremos contigo la cuestión del permiso de GHI o de la ciudad, y te cotizaremos al instante.
+Llama al **(301) 252-3586** y hablas con la gente que de verdad es dueña y opera JP Roll-Off. Dinos tu dirección de Greenbelt y qué estás enfrentando — una limpieza de casa completa en Hunting Ridge, una remodelación de varias habitaciones en Greenbriar, un vaciado de patrimonio junto a un patio en Old Greenbelt, o el acabado de un sótano en Greenbelt Station — y confirmaremos que la de 20 yardas es el tamaño correcto, resolveremos contigo la cuestión del permiso de GHI o de la ciudad, y te cotizaremos al instante.

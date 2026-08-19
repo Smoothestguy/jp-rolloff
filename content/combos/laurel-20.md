@@ -1,6 +1,6 @@
 When folks in Laurel call us about a dumpster and aren't quite sure what size they need, the 20-yard is the one we point to most often. It's the size most customers end up choosing, and it's the size they rarely regret. At 22 feet long, 8 feet wide, and 4 feet tall, it holds roughly nine pickup-truck loads and comes with a 2-ton (4,000 lb) weight allowance. Pricing is per material: construction debris is quoted separately from other materials, so call for a quote on your job. That quote includes delivery, a 14-day rental, and the 2-ton allowance, with pickup on request when you call to schedule. Additional days are $5/day, and any weight over the 2-ton allowance is billed at $105 per additional ton.
 
-We're JP Roll-Off Service, a family-owned hauler based just down Route 1 in Beltsville. When you call (301) 879-7040, you reach the people who own the trucks, not a call center reading from a script. That matters in a town like Laurel, where the right answer often depends on exactly which street your house sits on.
+We're JP Roll-Off Service, a family-owned hauler based just down Route 1 in Beltsville. When you call (301) 252-3586, you reach the people who own the trucks, not a call center reading from a script. That matters in a town like Laurel, where the right answer often depends on exactly which street your house sits on.
 
 ## What fits in a 20-yard dumpster
 
@@ -36,4 +36,4 @@ We run out of Beltsville, so reaching Laurel is a straight shot up Route 1, whet
 
 ## Ready when you are
 
-If a whole-house cleanout, an estate clear-out, a multi-room remodel, or a mid-size roof is on your list, the 20-yard is almost certainly the right container, and we'll tell you straight if it isn't. Call JP Roll-Off Service at (301) 879-7040. You'll talk to the family that owns the trucks, get an honest answer on size and price, and find out in one conversation whether your Laurel address needs a permit or whether your driveway has you covered.
+If a whole-house cleanout, an estate clear-out, a multi-room remodel, or a mid-size roof is on your list, the 20-yard is almost certainly the right container, and we'll tell you straight if it isn't. Call JP Roll-Off Service at (301) 252-3586. You'll talk to the family that owns the trucks, get an honest answer on size and price, and find out in one conversation whether your Laurel address needs a permit or whether your driveway has you covered.

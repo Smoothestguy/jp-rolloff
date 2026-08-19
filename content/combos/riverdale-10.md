@@ -31,4 +31,4 @@ A couple of practical notes for these older blocks. We'll need a clear, level sp
 
 Whether it's a garage you've been meaning to clear for years, a bathroom you're finally redoing in one of Riverdale Park's century-old houses, a yard full of storm debris, or a basement that took on water after the last hard rain, the 10-yard roll-off is a straightforward, affordable way to get it hauled off. We'll tell you honestly whether it's the right size for your load, walk you through the permit question if you need the street, and get the bin to you fast from just up the road in Beltsville.
 
-Give us a call at (301) 879-7040. You'll reach the family that runs the trucks, not an answering service, and we'll get your Riverdale Park 10-yard scheduled.
+Give us a call at (301) 252-3586. You'll reach the family that runs the trucks, not an answering service, and we'll get your Riverdale Park 10-yard scheduled.

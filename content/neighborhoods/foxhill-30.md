@@ -33,4 +33,4 @@ One small bonus for our driver: because Belair's streets are arranged by section
 
 Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script. You can describe your Foxhill project — a full Levitt gut job, a contractor tear-out, a bulk haul, or a multi-unit cleanout — and get a straight answer on whether the 30-yard is the right size, what it will cost for your material — the 14-day rental and 3-ton allowance are included, with extra weight at $105 per ton and pickup scheduled on request — and exactly how we will fit it onto an original slab-era driveway off one of the F streets.
 
-If you have a big job in Foxhill and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 879-7040**. We will get a 30-yard scheduled, dispatched from the Beltsville yard in the morning, and on your site about 25 minutes later.
+If you have a big job in Foxhill and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We will get a 30-yard scheduled, dispatched from the Beltsville yard in the morning, and on your site about 25 minutes later.

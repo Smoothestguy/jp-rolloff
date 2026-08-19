@@ -31,4 +31,4 @@ A couple of things set Cheverly apart from the flat, grid-platted suburbs around
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Cheverly address and what you're tackling, whether it's a garage cleanout, a single-bath remodel, a yard full of limbs off the canopy, or an estate downsize in one of the town's historic homes, and we'll confirm the 10-yard is the right call and quote you on the spot. Reach us at **(301) 879-7040.**
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Cheverly address and what you're tackling, whether it's a garage cleanout, a single-bath remodel, a yard full of limbs off the canopy, or an estate downsize in one of the town's historic homes, and we'll confirm the 10-yard is the right call and quote you on the spot. Reach us at **(301) 252-3586.**

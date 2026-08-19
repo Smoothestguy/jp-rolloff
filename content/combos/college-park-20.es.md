@@ -31,4 +31,4 @@ Ayuda saber que College Park no es todo un solo tipo de casa, porque eso cambia 
 
 ## Habla con la familia que maneja los camiones
 
-Llama al **(301) 879-7040** y te comunicas con las personas que de verdad son dueñas y operan JP Roll-Off. Dinos tu dirección de College Park y qué estás enfrentando — una limpieza de casa completa en Old Town, una remodelación de varias habitaciones en Calvert Hills, una rotación de agosto cerca del campus, o una remoción de techo en Hollywood — y confirmaremos que el de 20 yardas es el tamaño correcto y te cotizamos al instante.
+Llama al **(301) 252-3586** y te comunicas con las personas que de verdad son dueñas y operan JP Roll-Off. Dinos tu dirección de College Park y qué estás enfrentando — una limpieza de casa completa en Old Town, una remodelación de varias habitaciones en Calvert Hills, una rotación de agosto cerca del campus, o una remoción de techo en Hollywood — y confirmaremos que el de 20 yardas es el tamaño correcto y te cotizamos al instante.

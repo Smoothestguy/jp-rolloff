@@ -31,4 +31,4 @@ Si tu proyecto es más pequeño —una remodelación de una sola habitación o u
 
 ## Habla con la familia que maneja los camiones
 
-Cuando llamas, te comunicas con las personas que realmente son dueñas y operan JP Roll-Off, no con un call center. Dinos tu dirección de Beltsville y qué estás enfrentando —una ampliación en Powder Mill, una demolición de casa completa en Calverton, una remoción de techo grande o una limpieza de almacén en el parque industrial— y confirmaremos si el de 25 yardas es la elección correcta y te cotizaremos en el momento. Comunícate con nosotros al **(301) 879-7040**.
+Cuando llamas, te comunicas con las personas que realmente son dueñas y operan JP Roll-Off, no con un call center. Dinos tu dirección de Beltsville y qué estás enfrentando —una ampliación en Powder Mill, una demolición de casa completa en Calverton, una remoción de techo grande o una limpieza de almacén en el parque industrial— y confirmaremos si el de 25 yardas es la elección correcta y te cotizaremos en el momento. Comunícate con nosotros al **(301) 252-3586**.

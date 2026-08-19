@@ -31,4 +31,4 @@ If your Somerset project is a single room, a routine declutter, or a modest esta
 
 ## Talk to the family that runs the trucks
 
-Call and you reach the people who actually own and operate JP Roll-Off — the same folks who load the route and drive into Bowie. Tell us your Somerset address and what you are tackling, whether it is an addition on one of the original Levitt ranchers, a whole-house remodel down to the studs, a large roof tear-off, or a commercial cleanout. We will confirm whether the 25-yard is the right call or whether a smaller box saves you money, and we will quote you on the spot. Reach us at **(301) 879-7040**.
+Call and you reach the people who actually own and operate JP Roll-Off — the same folks who load the route and drive into Bowie. Tell us your Somerset address and what you are tackling, whether it is an addition on one of the original Levitt ranchers, a whole-house remodel down to the studs, a large roof tear-off, or a commercial cleanout. We will confirm whether the 25-yard is the right call or whether a smaller box saves you money, and we will quote you on the spot. Reach us at **(301) 252-3586**.

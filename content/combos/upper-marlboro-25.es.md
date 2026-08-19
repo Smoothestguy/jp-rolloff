@@ -32,4 +32,4 @@ Despachamos desde Beltsville, y Upper Marlboro es un trayecto de unos 35 minutos
 
 Como somos una empresa familiar, las personas que contestan el teléfono son las personas dueñas de los camiones. No hay centro de llamadas ni guion. Si no estás seguro de si el 25 yardas es el adecuado para tu remoción de techo, o de si tu colocación en el centro necesita ese permiso del pueblo, solo pregunta — preferimos acertar antes de que el contenedor toque el suelo.
 
-Cuando estés listo para reservar un contenedor de 25 yardas para tu proyecto en Upper Marlboro, llama a JP Roll-Off Service al **(301) 879-7040**. Dinos el trabajo, dinos de qué lado de la línea del pueblo estás, y nos encargamos del resto — entrega, recogida y tonelaje incluidos.
+Cuando estés listo para reservar un contenedor de 25 yardas para tu proyecto en Upper Marlboro, llama a JP Roll-Off Service al **(301) 252-3586**. Dinos el trabajo, dinos de qué lado de la línea del pueblo estás, y nos encargamos del resto — entrega, recogida y tonelaje incluidos.

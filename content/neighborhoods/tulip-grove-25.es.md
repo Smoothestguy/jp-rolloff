@@ -37,4 +37,4 @@ El precio del de 25 yardas es por material — se cotiza según lo que cargues, 
 
 Cuando llamas a JP Roll-Off Service, no estás tratando con un centro de llamadas. Estás hablando con las personas que son dueñas de la empresa, despachan los camiones y conocen la diferencia entre las calles con nombre de "T" de Tulip Grove y el resto de Bowie. Te ayudaremos a confirmar que el de 25 yardas es el tamaño correcto para tu ampliación, remodelación, trabajo de techo o limpieza, resolveremos la colocación para que probablemente te saltes el permiso de calle, y llevaremos un contenedor a tu entrada — normalmente dentro de 24 horas.
 
-¿Listo para reservar, o solo quieres una respuesta directa sobre si el de 25 cabe en tu entrada? Llámanos al **(301) 879-7040** y te atenderemos.
+¿Listo para reservar, o solo quieres una respuesta directa sobre si el de 25 cabe en tu entrada? Llámanos al **(301) 252-3586** y te atenderemos.

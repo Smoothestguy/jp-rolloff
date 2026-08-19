@@ -29,4 +29,4 @@ La zona 20785 en particular ve mucho movimiento de inquilinos y trabajo de rehab
 
 ## Habla con la familia que maneja los camiones
 
-Cuando llamas, hablas con las personas que de verdad son dueñas y operan JP Roll-Off — no con un centro de llamadas. Cuéntanos tu dirección en Landover y qué estás enfrentando, ya sea una remodelación de cocina, una remoción de techo, una remodelación total de dos baños o una limpieza de sótano, y confirmaremos que el de 15 yardas es el tamaño correcto, aclararemos si tu lugar es condado no incorporado o está dentro de Landover Hills, y te cotizaremos al instante. Contáctanos al **(301) 879-7040**.
+Cuando llamas, hablas con las personas que de verdad son dueñas y operan JP Roll-Off — no con un centro de llamadas. Cuéntanos tu dirección en Landover y qué estás enfrentando, ya sea una remodelación de cocina, una remoción de techo, una remodelación total de dos baños o una limpieza de sótano, y confirmaremos que el de 15 yardas es el tamaño correcto, aclararemos si tu lugar es condado no incorporado o está dentro de Landover Hills, y te cotizaremos al instante. Contáctanos al **(301) 252-3586**.

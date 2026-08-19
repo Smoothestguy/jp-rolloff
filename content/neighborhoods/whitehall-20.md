@@ -35,4 +35,4 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Whitehall address and what you are tackling — an original Levitt kitchen opened up on a "W" street, a carport conversion on a Country Clubber, a roof tear-off, an estate clear-out, or a whole-house cleanout between owners — and we will confirm the 20-yard is the right size, plan placement around a golf-course lot if that is you, and quote you on the spot.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Whitehall address and what you are tackling — an original Levitt kitchen opened up on a "W" street, a carport conversion on a Country Clubber, a roof tear-off, an estate clear-out, or a whole-house cleanout between owners — and we will confirm the 20-yard is the right size, plan placement around a golf-course lot if that is you, and quote you on the spot.

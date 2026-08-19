@@ -39,4 +39,4 @@ El tiempo de viaje rara vez es un problema. Hyattsville es un recorrido corto en
 
 ## Listos cuando tú lo estés
 
-Si estás planeando una ampliación, una remodelación de casa completa, un techo grande o un vaciado comercial en cualquier punto desde el Arts District hasta University Hills, el de 25 yardas está hecho para eso. Cuéntanos del trabajo, tu acceso y si la caja aterriza en tu entrada o en la calle, y nos encargamos del resto, con la guía del permiso incluida. Llama a JP Roll-Off Service al **(301) 879-7040** y uno de los dueños contestará, te dará un precio sin rodeos y pondrá un contenedor en camino.
+Si estás planeando una ampliación, una remodelación de casa completa, un techo grande o un vaciado comercial en cualquier punto desde el Arts District hasta University Hills, el de 25 yardas está hecho para eso. Cuéntanos del trabajo, tu acceso y si la caja aterriza en tu entrada o en la calle, y nos encargamos del resto, con la guía del permiso incluida. Llama a JP Roll-Off Service al **(301) 252-3586** y uno de los dueños contestará, te dará un precio sin rodeos y pondrá un contenedor en camino.

@@ -32,4 +32,4 @@ We dispatch from Beltsville, and Upper Marlboro is about a 35-minute run for us 
 
 Because we're family-owned, the people who answer the phone are the people who own the trucks. There's no call center and no script. If you're not sure whether the 25-yard is right for your roofing tear-off, or whether your downtown placement needs that town permit, just ask — we'd rather get it right before the box hits the ground.
 
-When you're ready to book a 25-yard dumpster for your Upper Marlboro project, call JP Roll-Off Service at **(301) 879-7040**. Tell us the job, tell us which side of the town line you're on, and we'll handle the rest — delivery, pickup, and tonnage included.
+When you're ready to book a 25-yard dumpster for your Upper Marlboro project, call JP Roll-Off Service at **(301) 252-3586**. Tell us the job, tell us which side of the town line you're on, and we'll handle the rest — delivery, pickup, and tonnage included.

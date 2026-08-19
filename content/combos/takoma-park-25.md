@@ -33,4 +33,4 @@ If your project is a single-room redo or a routine cleanout, a 20-yard or 15-yar
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Takoma Park address and what you are tackling — an Old Takoma addition, a whole-house gut on a Victorian, a large roof tear-off, or a Maple Avenue cleanout — and we will help you figure out where a 25-yard can actually sit on your lot, confirm whether it is the right size, and quote you on the spot. Reach us at **(301) 879-7040**.
+When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Takoma Park address and what you are tackling — an Old Takoma addition, a whole-house gut on a Victorian, a large roof tear-off, or a Maple Avenue cleanout — and we will help you figure out where a 25-yard can actually sit on your lot, confirm whether it is the right size, and quote you on the spot. Reach us at **(301) 252-3586**.

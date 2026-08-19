@@ -35,4 +35,4 @@ Si tu proyecto en Pointer Ridge es de los más pequeños — la renovación de u
 
 ## Habla con la familia que maneja los camiones
 
-Cuando llamas, hablas con las personas que de verdad son dueñas y operan JP Roll-Off, no con un call center. Dinos tu dirección en Pointer Ridge y qué vas a hacer — una ampliación en una de las calles con nombre P, un destripe completo de un rambler de los años 70, una remoción de techo grande o una limpieza más grande — y confirmaremos si el de 25 yardas es la medida correcta y te cotizaremos al momento. Comunícate con nosotros al **(301) 879-7040**.
+Cuando llamas, hablas con las personas que de verdad son dueñas y operan JP Roll-Off, no con un call center. Dinos tu dirección en Pointer Ridge y qué vas a hacer — una ampliación en una de las calles con nombre P, un destripe completo de un rambler de los años 70, una remoción de techo grande o una limpieza más grande — y confirmaremos si el de 25 yardas es la medida correcta y te cotizaremos al momento. Comunícate con nosotros al **(301) 252-3586**.

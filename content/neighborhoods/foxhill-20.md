@@ -31,4 +31,4 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Foxhill address and what you are tackling — an original Levitt kitchen gut on an "F" street, a roof tear-off on a slab-built Rancher, an estate clear-out near Foxhill Park, or a whole-house cleanout between owners — and we will confirm the 20-yard is the right size and quote you on the spot.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Foxhill address and what you are tackling — an original Levitt kitchen gut on an "F" street, a roof tear-off on a slab-built Rancher, an estate clear-out near Foxhill Park, or a whole-house cleanout between owners — and we will confirm the 20-yard is the right size and quote you on the spot.

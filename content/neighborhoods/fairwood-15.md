@@ -33,4 +33,4 @@ Because so many of these homes came from the same handful of builders — NVHome
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Fairwood address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in one of these full-basement homes — and where the HOA has cleared you to stage the container. We will confirm the 15-yard is the right size and quote you on the spot — delivery, pickup on request, and a 14-day rental with the 1.5-ton allowance included, with extra weight at $105 per additional ton.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Fairwood address, what you are tackling — a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout in one of these full-basement homes — and where the HOA has cleared you to stage the container. We will confirm the 15-yard is the right size and quote you on the spot — delivery, pickup on request, and a 14-day rental with the 1.5-ton allowance included, with extra weight at $105 per additional ton.

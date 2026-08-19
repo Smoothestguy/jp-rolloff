@@ -1,6 +1,6 @@
 When folks in Rockville call us unsure which dumpster they need, the 20-yard is the one we point to most often. It's the size most customers end up choosing, and it's the size they rarely regret. At 22 feet long, 8 feet wide, and 4 feet tall, it holds roughly nine pickup-truck loads and comes with a 2-ton (4,000 lb) weight allowance. Our 20-yard includes delivery, pickup, and a 14-day rental with a 2-ton weight allowance — priced by material, so call for a quote. Pickup is on request, so you just call us to schedule. If you go over the allowance, extra weight is billed at $105 per additional ton, and extra days run $5 each.
 
-We're JP Roll-Off Service, a family-owned hauler based in Beltsville, about 45 minutes from Rockville by way of I-495 or Route 200. When you call (301) 879-7040, you reach the people who own the trucks, not a call center reading from a script. That matters here more than in most towns, because Rockville is really two cities in one, and the right answer depends on which Rockville your address sits in.
+We're JP Roll-Off Service, a family-owned hauler based in Beltsville, about 45 minutes from Rockville by way of I-495 or Route 200. When you call (301) 252-3586, you reach the people who own the trucks, not a call center reading from a script. That matters here more than in most towns, because Rockville is really two cities in one, and the right answer depends on which Rockville your address sits in.
 
 ## What fits in a 20-yard dumpster
 
@@ -40,4 +40,4 @@ We run out of Beltsville, and Rockville is about a 45-minute drive by way of I-4
 
 ## Ready when you are
 
-If a whole-house cleanout, a multi-room remodel, an estate clear-out, or a mid-size roof is on your Rockville list, the 20-yard is almost certainly the right container, and we'll tell you straight if it isn't. Call JP Roll-Off Service at (301) 879-7040. You'll talk to the family that owns the trucks, get an honest answer on size and price, and find out in one conversation whether your driveway has you covered or whether your address needs a city right-of-way permit.
+If a whole-house cleanout, a multi-room remodel, an estate clear-out, or a mid-size roof is on your Rockville list, the 20-yard is almost certainly the right container, and we'll tell you straight if it isn't. Call JP Roll-Off Service at (301) 252-3586. You'll talk to the family that owns the trucks, get an honest answer on size and price, and find out in one conversation whether your driveway has you covered or whether your address needs a city right-of-way permit.

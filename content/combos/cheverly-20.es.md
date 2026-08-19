@@ -29,4 +29,4 @@ Ayuda saber que Cheverly no es todo un solo tipo de casa, porque eso cambia el t
 
 ## Habla con la familia que maneja los camiones
 
-Llama al **(301) 879-7040** y hablas con las personas que de verdad son dueñas y operan JP Roll-Off. Dinos tu dirección en Cheverly y lo que estás enfrentando —una renovación de casa kit en el distrito histórico, una remodelación de varios cuartos en un rambler de posguerra, una remoción de techo de tamaño medio, o una limpieza de casa completa entre dueños— y confirmaremos que el de 20 yardas es el tamaño correcto, tomaremos en cuenta los árboles y la pendiente, y te cotizaremos en el momento.
+Llama al **(301) 252-3586** y hablas con las personas que de verdad son dueñas y operan JP Roll-Off. Dinos tu dirección en Cheverly y lo que estás enfrentando —una renovación de casa kit en el distrito histórico, una remodelación de varios cuartos en un rambler de posguerra, una remoción de techo de tamaño medio, o una limpieza de casa completa entre dueños— y confirmaremos que el de 20 yardas es el tamaño correcto, tomaremos en cuenta los árboles y la pendiente, y te cotizaremos en el momento.

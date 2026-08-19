@@ -31,4 +31,4 @@ If your project is smaller — a single-room redo or a routine cleanout — a 20
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Beltsville address and what you are tackling — a Powder Mill addition, a whole-house gut in Calverton, a large roofing tear-off, or a warehouse cleanout in the industrial park — and we will confirm whether the 25-yard is the right call and quote you on the spot. Reach us at **(301) 879-7040**.
+When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Beltsville address and what you are tackling — a Powder Mill addition, a whole-house gut in Calverton, a large roofing tear-off, or a warehouse cleanout in the industrial park — and we will confirm whether the 25-yard is the right call and quote you on the spot. Reach us at **(301) 252-3586**.

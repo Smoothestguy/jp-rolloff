@@ -33,4 +33,4 @@ Lo único que hay que planear es el contenedor en sí. El de 30 yardas es un con
 
 Como somos una empresa familiar, las personas que contestan el teléfono son los dueños — no un centro de llamadas. Puedes describir tu demolición, tu obra o tu limpieza y obtener una respuesta directa sobre si el de 30 yardas es el adecuado para tu trabajo en Overbrook, cuánto costará y exactamente cómo lo acomodaremos en tu entrada de la O-section según el acceso que permita tu lote.
 
-Si tienes un trabajo grande en Overbrook y un contenedor más pequeño solo significaría un segundo viaje, llama a JP Roll-Off Service al **(301) 879-7040**. Programaremos un contenedor de 30 yardas y lo despacharemos desde Beltsville, y lo tendremos en tu calle con nombre de O unos 25 minutos después.
+Si tienes un trabajo grande en Overbrook y un contenedor más pequeño solo significaría un segundo viaje, llama a JP Roll-Off Service al **(301) 252-3586**. Programaremos un contenedor de 30 yardas y lo despacharemos desde Beltsville, y lo tendremos en tu calle con nombre de O unos 25 minutos después.

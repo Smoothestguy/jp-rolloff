@@ -31,4 +31,4 @@ If your Fairwood project is on the smaller side — a single-room redo, a bathro
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Fairwood address and what you are tackling — an addition behind a brick Colonial, a whole-house remodel with a full basement coming out, a large roof tear-off, or a bigger commercial cleanout — and we will confirm whether the 25-yard is the right size, talk through placement on a cul-de-sac or townhome driveway, and quote you on the spot. Reach us at **(301) 879-7040**.
+When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Fairwood address and what you are tackling — an addition behind a brick Colonial, a whole-house remodel with a full basement coming out, a large roof tear-off, or a bigger commercial cleanout — and we will confirm whether the 25-yard is the right size, talk through placement on a cul-de-sac or townhome driveway, and quote you on the spot. Reach us at **(301) 252-3586**.

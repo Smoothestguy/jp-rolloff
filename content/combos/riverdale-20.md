@@ -32,4 +32,4 @@ It helps to know that not every Riverdale Park project lands on the 20-yard. A s
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Riverdale Park address and what you are tackling — a whole-house cleanout near the Town Center, a multi-room remodel in the Historic District, an estate cleanout around the Riversdale Mansion, or a flood cleanout after the Northeast Branch comes up — and we will confirm the 20-yard is the right size, sort out whether you need a right-of-way permit, and quote you on the spot.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Riverdale Park address and what you are tackling — a whole-house cleanout near the Town Center, a multi-room remodel in the Historic District, an estate cleanout around the Riversdale Mansion, or a flood cleanout after the Northeast Branch comes up — and we will confirm the 20-yard is the right size, sort out whether you need a right-of-way permit, and quote you on the spot.

@@ -31,4 +31,4 @@ Because so many Bladensburg homes are modest in size and sit on small lots, the 
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Bladensburg address and what you are tackling, whether it is a garage cleanout near the Port Towns, a single-bath remodel in a 1960s rancher, or a tree-and-yard cleanup over by the Edmonston border, and we will confirm the 10-yard is the right size, sort out the driveway-versus-street question, and quote you on the spot. Reach us at **(301) 879-7040**.
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Bladensburg address and what you are tackling, whether it is a garage cleanout near the Port Towns, a single-bath remodel in a 1960s rancher, or a tree-and-yard cleanup over by the Edmonston border, and we will confirm the 10-yard is the right size, sort out the driveway-versus-street question, and quote you on the spot. Reach us at **(301) 252-3586**.

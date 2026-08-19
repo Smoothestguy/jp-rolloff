@@ -31,4 +31,4 @@ If you are taking on a kitchen tear-out, a roof, siding, or a whole interior gut
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off — not a call center, not a dispatch desk three states away. Tell us your Rockledge address and what you are tackling, whether it is a garage clear-out on one of the R-streets, a bathroom gut in an original Levitt home, a yard full of brush near Rockledge Park, or an estate downsize, and we will confirm the 10-yard is the right size and quote you on the spot. Reach us at **(301) 879-7040** — same family, same trucks, just up the Parkway.
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center, not a dispatch desk three states away. Tell us your Rockledge address and what you are tackling, whether it is a garage clear-out on one of the R-streets, a bathroom gut in an original Levitt home, a yard full of brush near Rockledge Park, or an estate downsize, and we will confirm the 10-yard is the right size and quote you on the spot. Reach us at **(301) 252-3586** — same family, same trucks, just up the Parkway.

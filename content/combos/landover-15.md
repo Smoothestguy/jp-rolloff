@@ -29,4 +29,4 @@ The 20785 area in particular sees a lot of turnover and rehab work on aging home
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Landover address and what you are tackling, whether it is a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout, and we will confirm the 15-yard is the right size, sort out whether your spot is unincorporated county or inside Landover Hills, and quote you on the spot. Reach us at **(301) 879-7040**.
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Landover address and what you are tackling, whether it is a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout, and we will confirm the 15-yard is the right size, sort out whether your spot is unincorporated county or inside Landover Hills, and quote you on the spot. Reach us at **(301) 252-3586**.

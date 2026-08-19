@@ -33,4 +33,4 @@ Como despachamos desde Beltsville, estamos a unos diez minutos, ya sea que esté
 
 Somos una empresa familiar, y cuando llamas, hablas con los dueños, no con un centro de llamadas. Eso significa que puedes hacer una pregunta real sobre peso, colocación o el permiso de vía pública y obtener una respuesta directa de alguien que estará involucrado en llevarte tu contenedor. Ya sea que estés ampliando una casa de los años veinte, removiendo un techo grande, vaciando un espacio comercial cerca de la Station, o sacando todo después de que el Anacostia se desborda, el de 25 yardas está listo cuando tú lo estés.
 
-Llámanos al (301) 879-7040 para verificar disponibilidad, hablar de tu trabajo y programar la entrega a Riverdale Park. Llevaremos el tamaño correcto al lugar correcto y haremos todo el proceso fácil.
+Llámanos al (301) 252-3586 para verificar disponibilidad, hablar de tu trabajo y programar la entrega a Riverdale Park. Llevaremos el tamaño correcto al lugar correcto y haremos todo el proceso fácil.

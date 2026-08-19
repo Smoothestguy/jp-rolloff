@@ -33,4 +33,4 @@ Si tu proyecto en Overbrook es del lado más pequeño — una renovación de una
 
 ## Habla con la familia que maneja los camiones
 
-Cuando llamas, llegas a las personas que de verdad son dueñas y operan JP Roll-Off, no a un centro de llamadas. Dinos tu dirección de Overbrook y qué vas a abordar — una ampliación en una de las calles con nombre con "O", una demolición de casa completa de una casa Levitt original, una remoción grande de techo o una limpieza mayor — y confirmaremos si el de 25 yardas es el tamaño correcto y te cotizaremos en el momento. Comunícate con nosotros al **(301) 879-7040**.
+Cuando llamas, llegas a las personas que de verdad son dueñas y operan JP Roll-Off, no a un centro de llamadas. Dinos tu dirección de Overbrook y qué vas a abordar — una ampliación en una de las calles con nombre con "O", una demolición de casa completa de una casa Levitt original, una remoción grande de techo o una limpieza mayor — y confirmaremos si el de 25 yardas es el tamaño correcto y te cotizaremos en el momento. Comunícate con nosotros al **(301) 252-3586**.

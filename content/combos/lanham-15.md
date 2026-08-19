@@ -31,4 +31,4 @@ As for getting there, we're close. From our Beltsville yard it's about a 15-minu
 
 ## Ready when you are
 
-Because we're family-owned, the person who answers the phone is one of the owners — not a call center reading off a script. We'll talk through your project, confirm the 15-yard is the right size, and sort out whether your block needs a permit or whether the driveway will do. Call us at **(301) 879-7040** to get your Lanham 15-yard scheduled, and we'll handle the rest.
+Because we're family-owned, the person who answers the phone is one of the owners — not a call center reading off a script. We'll talk through your project, confirm the 15-yard is the right size, and sort out whether your block needs a permit or whether the driveway will do. Call us at **(301) 252-3586** to get your Lanham 15-yard scheduled, and we'll handle the rest.

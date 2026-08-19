@@ -33,4 +33,4 @@ Because the homes are so alike, sizing is rarely a guessing game in Kenilworth. 
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Kenilworth address and what you are tackling — a kitchen-and-baths gut in a "K"-street Colonial, a roof tear-off on a Rancher, an estate cleanout, or a whole-house clear-out between owners — and we will confirm the 20-yard is the right size and quote you on the spot.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Kenilworth address and what you are tackling — a kitchen-and-baths gut in a "K"-street Colonial, a roof tear-off on a Rancher, an estate cleanout, or a whole-house clear-out between owners — and we will confirm the 20-yard is the right size and quote you on the spot.

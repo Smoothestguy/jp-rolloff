@@ -38,4 +38,4 @@ El tiempo de manejo está de tu lado. Hyattsville es un trayecto corto desde nue
 
 ## Listos cuando tú lo estés
 
-Para una limpieza de garaje, una remodelación de baño, una ronda de trabajo de jardín y árboles, o una reducción de patrimonio en cualquier parte de Hyattsville, el 10 yardas es la opción del tamaño correcto, sin pagar de más — y trabajarás con la familia que es dueña de los camiones, no con un despachador leyendo un guion. Llama a JP Roll-Off Service al (301) 879-7040 y pondremos un 10 yardas en camino hacia ti, usualmente al día siguiente.
+Para una limpieza de garaje, una remodelación de baño, una ronda de trabajo de jardín y árboles, o una reducción de patrimonio en cualquier parte de Hyattsville, el 10 yardas es la opción del tamaño correcto, sin pagar de más — y trabajarás con la familia que es dueña de los camiones, no con un despachador leyendo un guion. Llama a JP Roll-Off Service al (301) 252-3586 y pondremos un 10 yardas en camino hacia ti, usualmente al día siguiente.

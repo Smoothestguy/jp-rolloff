@@ -31,4 +31,4 @@ Si tu proyecto es más pequeño —un solo baño, una purga de cochera, unos cua
 
 ## Habla con la familia que maneja los camiones
 
-Llama al **(301) 879-7040** y hablas con la gente que de verdad es dueña y opera JP Roll-Off. Dinos tu dirección de Foxhill y qué vas a enfrentar —un gut de cocina Levitt original en una calle "F", una remoción de techo en un Rancher construido sobre losa, una limpieza de patrimonio cerca de Foxhill Park o una limpieza de casa completa entre dueños— y te confirmamos que el de 20 yardas es el tamaño correcto y te cotizamos al momento.
+Llama al **(301) 252-3586** y hablas con la gente que de verdad es dueña y opera JP Roll-Off. Dinos tu dirección de Foxhill y qué vas a enfrentar —un gut de cocina Levitt original en una calle "F", una remoción de techo en un Rancher construido sobre losa, una limpieza de patrimonio cerca de Foxhill Park o una limpieza de casa completa entre dueños— y te confirmamos que el de 20 yardas es el tamaño correcto y te cotizamos al momento.

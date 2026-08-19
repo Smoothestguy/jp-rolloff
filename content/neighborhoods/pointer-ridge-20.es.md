@@ -35,4 +35,4 @@ Si tu proyecto es más pequeño — un solo baño, una purga de garaje, unas poc
 
 ## Habla con la familia que maneja los camiones
 
-Llama al **(301) 879-7040** y contactas a las personas que realmente son dueñas y operan JP Roll-Off. Dinos tu dirección de Pointer Ridge y qué estás abordando — una remodelación completa de cocina anticuada en Pointer Ridge Drive, una limpieza de casa completa en Parkington, una limpieza de patrimonio o una remoción de techo en uno de los ranchos — y confirmaremos que el de 20 yardas es el tamaño correcto y te cotizaremos al instante.
+Llama al **(301) 252-3586** y contactas a las personas que realmente son dueñas y operan JP Roll-Off. Dinos tu dirección de Pointer Ridge y qué estás abordando — una remodelación completa de cocina anticuada en Pointer Ridge Drive, una limpieza de casa completa en Parkington, una limpieza de patrimonio o una remoción de techo en uno de los ranchos — y confirmaremos que el de 20 yardas es el tamaño correcto y te cotizaremos al instante.

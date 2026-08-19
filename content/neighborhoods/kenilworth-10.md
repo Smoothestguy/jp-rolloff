@@ -31,4 +31,4 @@ If you are remodeling a whole kitchen, tearing off a roof, or gutting a basement
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off — not a call center, not a dispatch service three states away. Tell us your Kenilworth address and what you are tackling, whether it is a garage clear-out on one of the K streets, a bathroom gut in an early-1960s Levitt Colonial, or a yard full of brush off a 60-year-old lot, and we will confirm the 10-yard is the right size and quote you on the spot. Reach us at **(301) 879-7040** — same family, same trucks, just up Route 197.
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center, not a dispatch service three states away. Tell us your Kenilworth address and what you are tackling, whether it is a garage clear-out on one of the K streets, a bathroom gut in an early-1960s Levitt Colonial, or a yard full of brush off a 60-year-old lot, and we will confirm the 10-yard is the right size and quote you on the spot. Reach us at **(301) 252-3586** — same family, same trucks, just up Route 197.

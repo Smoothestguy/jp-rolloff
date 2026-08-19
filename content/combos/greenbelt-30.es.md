@@ -31,4 +31,4 @@ Ayuda saber que Greenbelt es en realidad varias épocas habitacionales apiladas 
 
 ## Habla con la familia que maneja los camiones
 
-Llama al **(301) 879-7040** y llegas a la gente que realmente es dueña y opera JP Roll-Off. Cuéntanos tu dirección en Greenbelt y qué estás enfrentando — un acondicionamiento de inquilino en el corredor de Capital Office Park, una demolición completa, una rotación de varios edificios en Greenbelt East, o un despeje a granel cerca del corredor de Goddard — y confirmaremos que el 30 yardas es el tamaño correcto, resolveremos contigo la cuestión de ubicación de la ciudad o la HOA, y te cotizaremos al momento.
+Llama al **(301) 252-3586** y llegas a la gente que realmente es dueña y opera JP Roll-Off. Cuéntanos tu dirección en Greenbelt y qué estás enfrentando — un acondicionamiento de inquilino en el corredor de Capital Office Park, una demolición completa, una rotación de varios edificios en Greenbelt East, o un despeje a granel cerca del corredor de Goddard — y confirmaremos que el 30 yardas es el tamaño correcto, resolveremos contigo la cuestión de ubicación de la ciudad o la HOA, y te cotizaremos al momento.

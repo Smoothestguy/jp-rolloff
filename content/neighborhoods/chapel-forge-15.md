@@ -33,4 +33,4 @@ Because Chapel Forge came out of the same Levitt catalog, we have a good sense o
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Chapel Forge address and what you are tackling — a kitchen gut in a Chapel Forge Drive rambler, a roof tear-off, a two-bath remodel, or a basement cleanout in a long-held family home — and we will confirm the 15-yard is the right size and quote you on the spot for your material, with delivery, pickup on request, and the 14-day rental and 1.5-ton allowance included.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Chapel Forge address and what you are tackling — a kitchen gut in a Chapel Forge Drive rambler, a roof tear-off, a two-bath remodel, or a basement cleanout in a long-held family home — and we will confirm the 15-yard is the right size and quote you on the spot for your material, with delivery, pickup on request, and the 14-day rental and 1.5-ton allowance included.

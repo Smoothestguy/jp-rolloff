@@ -30,4 +30,4 @@ Silver Spring is a straightforward haul for us — a direct run across the top o
 
 ## Ready when you are
 
-If your Silver Spring project is a home addition, a whole-house remodel, a large roof, or a commercial cleanout, the 25-yard is built for it — you just want to be sure it fits and that the timing works. We're a family-owned outfit, the owners answer the phone, and we'll give you a straight answer about size and placement before anything is scheduled. Call JP Roll-Off Service at (301) 879-7040 and we'll get a 25-yard headed your way.
+If your Silver Spring project is a home addition, a whole-house remodel, a large roof, or a commercial cleanout, the 25-yard is built for it — you just want to be sure it fits and that the timing works. We're a family-owned outfit, the owners answer the phone, and we'll give you a straight answer about size and placement before anything is scheduled. Call JP Roll-Off Service at (301) 252-3586 and we'll get a 25-yard headed your way.

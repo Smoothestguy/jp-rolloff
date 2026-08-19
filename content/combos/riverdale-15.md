@@ -35,4 +35,4 @@ The good news on timing: we're close. Riverdale Park is about ten minutes from o
 
 If you've got a kitchen to remodel, a roof to tear off, a couple of bathrooms to gut, or a basement to clear out, whether from a renovation or a flood, the 15-yard is a sensible, driveway-friendly choice for a Riverdale Park home. We'll confirm the size makes sense for your job, sort out whether you need a right-of-way permit, and get a clean can dropped where you need it.
 
-When you're ready, call us at (301) 879-7040. The owners answer the phone, we know this town, and we're only ten minutes up the road. Let's get your project hauled.
+When you're ready, call us at (301) 252-3586. The owners answer the phone, we know this town, and we're only ten minutes up the road. Let's get your project hauled.

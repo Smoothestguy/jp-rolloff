@@ -29,4 +29,4 @@ It helps to know that not every Landover job needs the same size. A single-room 
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Landover address and what you are tackling — a multi-room remodel in a mid-century rambler, an estate cleanout in Kentland, a mid-size roof tear-off, or a whole-house cleanout between tenants — and we will confirm the 20-yard is the right size, tell you straight whether your spot needs a county DPIE permit, a Landover Hills town permit, or no permit at all, and quote you on the spot.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Landover address and what you are tackling — a multi-room remodel in a mid-century rambler, an estate cleanout in Kentland, a mid-size roof tear-off, or a whole-house cleanout between tenants — and we will confirm the 20-yard is the right size, tell you straight whether your spot needs a county DPIE permit, a Landover Hills town permit, or no permit at all, and quote you on the spot.

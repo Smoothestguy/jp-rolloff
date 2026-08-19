@@ -37,4 +37,4 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Woodmore address and what you are tackling — a whole-house cleanout in a Highlands estate, a kitchen-and-baths gut in a Colonial behind the gates, a lower-level remodel on a one-acre lot, or an estate cleanout between owners — and we will confirm the 20-yard is the right size, work out the gatehouse and HOA access ahead of time, and quote you on the spot.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Woodmore address and what you are tackling — a whole-house cleanout in a Highlands estate, a kitchen-and-baths gut in a Colonial behind the gates, a lower-level remodel on a one-acre lot, or an estate cleanout between owners — and we will confirm the 20-yard is the right size, work out the gatehouse and HOA access ahead of time, and quote you on the spot.

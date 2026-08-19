@@ -31,4 +31,4 @@ Conviene saber que Upper Marlboro no es todo el mismo tipo de propiedad, porque 
 
 ## Habla con la familia que maneja los camiones
 
-Llama al **(301) 879-7040** y llegas a las personas que de verdad son dueñas y operan JP Roll-Off. Dinos tu dirección de Upper Marlboro y qué vas a enfrentar — una limpieza de casa completa en un lote del condado, una remodelación de varias habitaciones en una casa de los 70, una limpieza de patrimonio cerca del núcleo histórico o una remoción de techo en Westphalia — y te confirmaremos que el 20 yardas es el tamaño correcto, resolveremos qué regla de permiso aplica a tu lado de la línea y te cotizaremos al momento.
+Llama al **(301) 252-3586** y llegas a las personas que de verdad son dueñas y operan JP Roll-Off. Dinos tu dirección de Upper Marlboro y qué vas a enfrentar — una limpieza de casa completa en un lote del condado, una remodelación de varias habitaciones en una casa de los 70, una limpieza de patrimonio cerca del núcleo histórico o una remoción de techo en Westphalia — y te confirmaremos que el 20 yardas es el tamaño correcto, resolveremos qué regla de permiso aplica a tu lado de la línea y te cotizaremos al momento.

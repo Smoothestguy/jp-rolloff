@@ -33,4 +33,4 @@ One wrinkle worth knowing: the four Hyattsville ZIP codes — 20781, 20782, 2078
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Hyattsville address and what you are tackling — a whole-house cleanout in the Historic District, a multi-room remodel on a narrow Hyattsville Hills lot, an estate cleanout in Castle Manor, or a roof tear-off near the Riverdale border — and we will confirm the 20-yard is the right size, sort out whether you need that Right-of-Way permit, and quote you on the spot.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Hyattsville address and what you are tackling — a whole-house cleanout in the Historic District, a multi-room remodel on a narrow Hyattsville Hills lot, an estate cleanout in Castle Manor, or a roof tear-off near the Riverdale border — and we will confirm the 20-yard is the right size, sort out whether you need that Right-of-Way permit, and quote you on the spot.

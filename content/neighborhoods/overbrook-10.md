@@ -49,4 +49,4 @@ When the container's full, give us a call and we'll come pull it. There's no sta
 
 When you call JP Roll-Off Service, you're talking to the people who own the business and answer the phone. We'll ask about your job, where you'd like the box, and whether your Overbrook driveway has room — and most of the time it does, which keeps you off the narrow street and out of the permit process entirely.
 
-Ready to book a 10-yard, or just want to talk through whether it's the right size for your Overbrook project? Call us at **(301) 879-7040** and we'll get you set up.
+Ready to book a 10-yard, or just want to talk through whether it's the right size for your Overbrook project? Call us at **(301) 252-3586** and we'll get you set up.

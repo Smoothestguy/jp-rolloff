@@ -31,4 +31,4 @@ Where the container goes depends on the neighborhood. In the alphabetical Belair
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Bowie address and what you are tackling, whether it is a Foxhill kitchen, a Tulip Grove roof, a two-bath gut in Mitchellville, or a basement cleanout out in Fairwood, and we will confirm the 15-yard is the right size and quote you on the spot. Reach us at **(301) 879-7040**. We serve Bowie and the surrounding Prince George's County ZIPs — 20715, 20716, 20720, and 20721.
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Bowie address and what you are tackling, whether it is a Foxhill kitchen, a Tulip Grove roof, a two-bath gut in Mitchellville, or a basement cleanout out in Fairwood, and we will confirm the 15-yard is the right size and quote you on the spot. Reach us at **(301) 252-3586**. We serve Bowie and the surrounding Prince George's County ZIPs — 20715, 20716, 20720, and 20721.

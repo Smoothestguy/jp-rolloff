@@ -33,4 +33,4 @@ Si tu proyecto es más pequeño —un solo baño, una purga de garaje, unas cuan
 
 ## Habla con la familia que maneja los camiones
 
-Llama al **(301) 879-7040** y hablas con las personas que de verdad son dueñas y operan JP Roll-Off. Dinos tu dirección de Fairwood y qué estás emprendiendo —un acabado de sótano en un lote en cul-de-sac, una demolición de cocina y baños en una colonial de los 2000, una remodelación de nivel inferior en un townhome del Retreat o el Sanctuary, o una limpieza de casa completa entre dueños— y confirmaremos que el de 20 yardas es el tamaño correcto, hablaremos de la colocación con el HOA y te cotizaremos en el acto.
+Llama al **(301) 252-3586** y hablas con las personas que de verdad son dueñas y operan JP Roll-Off. Dinos tu dirección de Fairwood y qué estás emprendiendo —un acabado de sótano en un lote en cul-de-sac, una demolición de cocina y baños en una colonial de los 2000, una remodelación de nivel inferior en un townhome del Retreat o el Sanctuary, o una limpieza de casa completa entre dueños— y confirmaremos que el de 20 yardas es el tamaño correcto, hablaremos de la colocación con el HOA y te cotizaremos en el acto.

@@ -33,4 +33,4 @@ If you are not sure whether your project is a 15 or a 20, tell us the room and t
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Somerset address and what you are tackling — a kitchen gut in a Sussex Lane Cape Cod, a roof tear-off on a rancher, a two-bath remodel, or a basement cleanout in a long-held family home — and we will confirm the 15-yard is the right size and quote you on the spot, tonnage and delivery included.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Somerset address and what you are tackling — a kitchen gut in a Sussex Lane Cape Cod, a roof tear-off on a rancher, a two-bath remodel, or a basement cleanout in a long-held family home — and we will confirm the 15-yard is the right size and quote you on the spot, tonnage and delivery included.

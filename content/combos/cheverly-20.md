@@ -29,4 +29,4 @@ It helps to know that Cheverly is not all one kind of house, because that change
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Cheverly address and what you are tackling — a kit-house renovation in the historic district, a multi-room remodel in a post-war rambler, a mid-size roof tear-off, or a whole-house cleanout between owners — and we will confirm the 20-yard is the right size, account for the trees and the grade, and quote you on the spot.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Cheverly address and what you are tackling — a kit-house renovation in the historic district, a multi-room remodel in a post-war rambler, a mid-size roof tear-off, or a whole-house cleanout between owners — and we will confirm the 20-yard is the right size, account for the trees and the grade, and quote you on the spot.

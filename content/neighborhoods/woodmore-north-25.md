@@ -31,4 +31,4 @@ If your Woodmore North project is on the smaller side — a single-room redo, on
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Woodmore North address and what you are tackling — an addition on a wide lot, a whole-house remodel with a finished basement coming out, a large roof tear-off, or a full estate or commercial cleanout — and we will confirm whether the 25-yard is the right size, talk through driveway placement and HOA staging, and quote you on the spot. Reach us at **(301) 879-7040**.
+When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Woodmore North address and what you are tackling — an addition on a wide lot, a whole-house remodel with a finished basement coming out, a large roof tear-off, or a full estate or commercial cleanout — and we will confirm whether the 25-yard is the right size, talk through driveway placement and HOA staging, and quote you on the spot. Reach us at **(301) 252-3586**.

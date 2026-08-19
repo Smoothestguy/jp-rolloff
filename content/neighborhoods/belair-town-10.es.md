@@ -43,4 +43,4 @@ Recibirás una cotización clara por teléfono, una ventana de entrega definida 
 
 Como somos una empresa familiar, la persona que contesta es la persona que llega. Conocemos estas calles cerca de Annapolis Road, sabemos lo apretado que se pone el estacionamiento, y sabemos cómo colocar un contenedor de 10 yardas para que haga el trabajo sin invadir a tus vecinos.
 
-¿Listo para vaciar ese garaje, terminar una remodelación de baño o reducir una casa adosada de Belair Town? Llama a JP Roll-Off Service al **(301) 879-7040** y programaremos tu contenedor de 10 yardas — normalmente dentro de 24 horas, y una llamada temprana puede aún lograr una entrega el mismo día.
+¿Listo para vaciar ese garaje, terminar una remodelación de baño o reducir una casa adosada de Belair Town? Llama a JP Roll-Off Service al **(301) 252-3586** y programaremos tu contenedor de 10 yardas — normalmente dentro de 24 horas, y una llamada temprana puede aún lograr una entrega el mismo día.

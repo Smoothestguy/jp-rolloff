@@ -31,4 +31,4 @@ Where Bowie's housing differs is worth a quick word, because it changes what siz
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Bowie address and what you're tackling, whether it's a Somerset garage cleanout, a Tulip Grove bathroom gut, a yard full of storm debris, or an estate downsize in one of the early sections, and we'll confirm the 10-yard is the right call and quote you on the spot. Reach us at **(301) 879-7040.**
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Bowie address and what you're tackling, whether it's a Somerset garage cleanout, a Tulip Grove bathroom gut, a yard full of storm debris, or an estate downsize in one of the early sections, and we'll confirm the 10-yard is the right call and quote you on the spot. Reach us at **(301) 252-3586.**

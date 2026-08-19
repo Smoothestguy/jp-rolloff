@@ -30,4 +30,4 @@ Silver Spring es un acarreo sencillo para nosotros — un trayecto directo cruza
 
 ## Listos cuando tú lo estés
 
-Si tu proyecto en Silver Spring es una ampliación de casa, una remodelación de casa completa, un techo grande o una limpieza comercial, el de 25 yardas está hecho para ello — solo quieres asegurarte de que cabe y de que los tiempos funcionan. Somos una empresa familiar, los dueños contestan el teléfono, y te daremos una respuesta directa sobre tamaño y colocación antes de programar nada. Llama a JP Roll-Off Service al (301) 879-7040 y pondremos un 25 yardas en camino hacia ti.
+Si tu proyecto en Silver Spring es una ampliación de casa, una remodelación de casa completa, un techo grande o una limpieza comercial, el de 25 yardas está hecho para ello — solo quieres asegurarte de que cabe y de que los tiempos funcionan. Somos una empresa familiar, los dueños contestan el teléfono, y te daremos una respuesta directa sobre tamaño y colocación antes de programar nada. Llama a JP Roll-Off Service al (301) 252-3586 y pondremos un 25 yardas en camino hacia ti.

@@ -29,4 +29,4 @@ Un contenedor de 30 yardas sí pide un acceso más largo y despejado que las med
 
 Como somos una empresa familiar, las personas que contestan el teléfono son los dueños — no un call center leyendo un guion. Eso significa que puedes describir tu proyecto en Buckingham — un vaciado total de una casa de Levitt, un desmantelamiento de contratista, un acarreo a granel o una limpieza de varias unidades — y obtener una respuesta directa sobre si el de 30 yardas es la medida correcta, cuánto costará para tu material y exactamente cómo lo colocaremos en tu entrada en una de las calles con B.
 
-Si tienes un trabajo grande en Buckingham y un contenedor más chico solo significaría un segundo acarreo, llama a JP Roll-Off Service al **(301) 879-7040**. Programaremos un contenedor de 30 yardas, despachado desde el patio de Beltsville en la mañana, y en tu sitio unos 25 minutos después.
+Si tienes un trabajo grande en Buckingham y un contenedor más chico solo significaría un segundo acarreo, llama a JP Roll-Off Service al **(301) 252-3586**. Programaremos un contenedor de 30 yardas, despachado desde el patio de Beltsville en la mañana, y en tu sitio unos 25 minutos después.

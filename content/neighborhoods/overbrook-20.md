@@ -33,4 +33,4 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Overbrook address and what you are tackling — an original Levitt kitchen gut, a whole-house cleanout on one of the O-named streets, an estate clear-out, or a mid-size roof tear-off on one of these 1960s Capes or ranchers — and we will confirm the 20-yard is the right size and quote you on the spot.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Overbrook address and what you are tackling — an original Levitt kitchen gut, a whole-house cleanout on one of the O-named streets, an estate clear-out, or a mid-size roof tear-off on one of these 1960s Capes or ranchers — and we will confirm the 20-yard is the right size and quote you on the spot.

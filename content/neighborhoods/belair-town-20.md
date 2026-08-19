@@ -35,4 +35,4 @@ If your project is smaller — a single bathroom, a closet purge, a few rooms of
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Belair Town address and what you are tackling — a kitchen-and-bath gut on a 1969 townhome, a whole-house cleanout off Morningside Lane, an estate clear-out, or a roof tear-off — and where you are hoping to stage the container. We will help you confirm the HOA-approved spot, make sure the 20-yard is the right size, and quote you on the spot.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Belair Town address and what you are tackling — a kitchen-and-bath gut on a 1969 townhome, a whole-house cleanout off Morningside Lane, an estate clear-out, or a roof tear-off — and where you are hoping to stage the container. We will help you confirm the HOA-approved spot, make sure the 20-yard is the right size, and quote you on the spot.

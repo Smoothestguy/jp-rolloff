@@ -31,4 +31,4 @@ If your project is smaller — a single bath, a one-room flooring job — we'll 
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Bladensburg address, what you're building or clearing, and what your driveway surface is, and we'll confirm the 25-yard is the right size, flag any permit or ground-condition concerns, and quote you on the spot. Reach us at **(301) 879-7040** and we'll get a container headed your way.
+When you call, you reach the people who actually own and operate JP Roll-Off — not a call center. Tell us your Bladensburg address, what you're building or clearing, and what your driveway surface is, and we'll confirm the 25-yard is the right size, flag any permit or ground-condition concerns, and quote you on the spot. Reach us at **(301) 252-3586** and we'll get a container headed your way.

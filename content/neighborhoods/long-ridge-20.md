@@ -31,4 +31,4 @@ If your project is smaller — a single bath, a garage purge, a few rooms of flo
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Long Ridge address and what you are tackling — an attic conversion in a Country Clubber, a whole-house cleanout on one of the L streets, an estate clear-out, or a roof tear-off that includes that low-slope rear dormer — and we will confirm the 20-yard is the right size and quote you on the spot.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Long Ridge address and what you are tackling — an attic conversion in a Country Clubber, a whole-house cleanout on one of the L streets, an estate clear-out, or a roof tear-off that includes that low-slope rear dormer — and we will confirm the 20-yard is the right size and quote you on the spot.

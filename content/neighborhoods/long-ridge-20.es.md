@@ -31,4 +31,4 @@ Si tu proyecto es más chico — un solo baño, una purga de garaje, unas cuanta
 
 ## Habla con la familia que maneja los camiones
 
-Llama al **(301) 879-7040** y hablas con las personas que de verdad son dueñas y operan JP Roll-Off. Dinos tu dirección en Long Ridge y qué vas a hacer — una conversión de ático en un Country Clubber, una limpieza de casa completa en una de las calles L, un vaciado de patrimonio, o una remoción de techo que incluya ese dormer trasero de baja pendiente — y confirmaremos que el de 20 yardas es el tamaño correcto y te cotizaremos en el momento.
+Llama al **(301) 252-3586** y hablas con las personas que de verdad son dueñas y operan JP Roll-Off. Dinos tu dirección en Long Ridge y qué vas a hacer — una conversión de ático en un Country Clubber, una limpieza de casa completa en una de las calles L, un vaciado de patrimonio, o una remoción de techo que incluya ese dormer trasero de baja pendiente — y confirmaremos que el de 20 yardas es el tamaño correcto y te cotizaremos en el momento.

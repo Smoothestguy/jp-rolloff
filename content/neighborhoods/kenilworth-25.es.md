@@ -35,4 +35,4 @@ Una nota rápida sobre asociaciones: las secciones Levitt originales de Bowie, K
 
 **Tiempo de viaje.** Kenilworth queda a unos 25 minutos de nuestro patio de Beltsville por la Route 197 o la BW Parkway. Despachamos cada mañana, y la mayoría de las direcciones de aquí se programan dentro de 24 horas, y una llamada temprana a veces todavía alcanza una entrega el mismo día. Dinos el trabajo y la calle "K", y pondremos un contenedor en movimiento.
 
-Cuando el trabajo grande de tu casa Levitt por fin esté pasando — la ampliación que has planeado durante años, la remodelación a fondo, o el techo que esperó una década de más — llama a la familia que maneja los camiones al **(301) 879-7040**. Misma familia, mismos camiones, y un trayecto corto subiendo la Parkway hasta tu entrada de Kenilworth.
+Cuando el trabajo grande de tu casa Levitt por fin esté pasando — la ampliación que has planeado durante años, la remodelación a fondo, o el techo que esperó una década de más — llama a la familia que maneja los camiones al **(301) 252-3586**. Misma familia, mismos camiones, y un trayecto corto subiendo la Parkway hasta tu entrada de Kenilworth.

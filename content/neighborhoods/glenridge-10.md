@@ -44,4 +44,4 @@ Heavy materials are the one thing to watch with the small can. A 10-yard fills i
 
 Glenridge may be one of Bowie's smallest sections, but these 1969 colonials keep us busy — there's always another original kitchen, tired bath, or packed garage ready for a refresh. If you're tackling a one-room project on Galaxy Lane, Gradys Walk, or anywhere in the G-section, the 10-yard roll-off is the right-sized, driveway-friendly tool for the job.
 
-Call JP Roll-Off Service at **(301) 879-7040** and one of the owners will pick up, answer your questions, and get a can on your driveway — usually the next day, with an early call sometimes making a same-day run. We're your neighbors up the road in Beltsville, and we'd be glad to help you clear it out.
+Call JP Roll-Off Service at **(301) 252-3586** and one of the owners will pick up, answer your questions, and get a can on your driveway — usually the next day, with an early call sometimes making a same-day run. We're your neighbors up the road in Beltsville, and we'd be glad to help you clear it out.

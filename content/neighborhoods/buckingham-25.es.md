@@ -33,4 +33,4 @@ Si tu proyecto en Buckingham es de los más pequeños — una sola habitación, 
 
 ## Habla con la familia que maneja los camiones
 
-Cuando llamas, hablas con las personas que de verdad son dueñas y operan JP Roll-Off, no con un call center. Dinos tu dirección en Buckingham y qué vas a emprender — una ampliación en una de las calles con nombre que empieza con B, un vaciado total de una casa original de Levitt, una gran remoción de techo o una limpieza más grande — y confirmaremos si el de 25 yardas es la medida correcta y te cotizaremos en el momento. Contáctanos al **(301) 879-7040**.
+Cuando llamas, hablas con las personas que de verdad son dueñas y operan JP Roll-Off, no con un call center. Dinos tu dirección en Buckingham y qué vas a emprender — una ampliación en una de las calles con nombre que empieza con B, un vaciado total de una casa original de Levitt, una gran remoción de techo o una limpieza más grande — y confirmaremos si el de 25 yardas es la medida correcta y te cotizaremos en el momento. Contáctanos al **(301) 252-3586**.

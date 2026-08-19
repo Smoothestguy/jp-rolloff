@@ -31,4 +31,4 @@ En cuanto a llevarlo hasta ti: nos despachan desde Beltsville, así que llegar a
 
 Somos una empresa familiar, y cuando llamas, contesta de verdad uno de los dueños — sin centro de llamadas, sin árbol telefónico, sin que le lean tu dirección a alguien a tres estados de distancia. Recibes una respuesta directa sobre precios, tamaño y colocación de las personas que estarán manejando el camión. Si estás sopesando si el 15 es el correcto para tu cocina, techo, baños o limpieza, solo pregunta; preferimos darte el tamaño correcto la primera vez que tengas que pagar por aire o quedarte sin espacio.
 
-¿Listo para reservar un roll-off de 15 yardas en College Park, o quieres una segunda opinión sobre el tamaño? Llámanos al (301) 879-7040 y te dejamos todo arreglado.
+¿Listo para reservar un roll-off de 15 yardas en College Park, o quieres una segunda opinión sobre el tamaño? Llámanos al (301) 252-3586 y te dejamos todo arreglado.

@@ -33,4 +33,4 @@ Si tu proyecto en Jericho Park es del lado más pequeño (rehacer una sola habit
 
 ## Habla con la familia que maneja los camiones
 
-Cuando llamas, te comunicas con las personas que de verdad son dueñas y operan JP Roll-Off, no con un call center. Dinos tu dirección de Jericho Park y lo que vas a enfrentar (una ampliación en una casa personalizada, un destripe de casa completa de un rancher de mediados de siglo, una gran remoción de techo o una limpieza más grande en un lote de varios acres) y confirmaremos si el de 25 yardas es el tamaño correcto y te cotizamos al momento. Contáctanos al **(301) 879-7040**.
+Cuando llamas, te comunicas con las personas que de verdad son dueñas y operan JP Roll-Off, no con un call center. Dinos tu dirección de Jericho Park y lo que vas a enfrentar (una ampliación en una casa personalizada, un destripe de casa completa de un rancher de mediados de siglo, una gran remoción de techo o una limpieza más grande en un lote de varios acres) y confirmaremos si el de 25 yardas es el tamaño correcto y te cotizamos al momento. Contáctanos al **(301) 252-3586**.

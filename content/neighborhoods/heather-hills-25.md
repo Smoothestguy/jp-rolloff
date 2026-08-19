@@ -37,4 +37,4 @@ Pricing on the 25-yard is per material — it's **priced by what you're loading,
 
 When you call JP Roll-Off Service, you're not working through a call center. You're talking to the people who own the company, dispatch the trucks, and know what makes Heather Hills different — a 1965 Levitt section sitting on its own side of US 50, with quarter-acre lots and a tight grid of "H" streets. We'll help you confirm the 25-yard is the right size for your addition, remodel, roofing job, or cleanout, sort out placement on your driveway so you likely skip the street permit, and get a container to your home — usually within 24 hours.
 
-Ready to book, or just want a straight answer on whether the 25 fits your driveway? Call us at **(301) 879-7040** and we'll take care of you.
+Ready to book, or just want a straight answer on whether the 25 fits your driveway? Call us at **(301) 252-3586** and we'll take care of you.

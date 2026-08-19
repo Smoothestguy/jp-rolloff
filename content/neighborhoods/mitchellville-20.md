@@ -33,4 +33,4 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Mitchellville address — a kitchen-and-bath remodel in Woodmore Meadows, a whole-house cleanout off Enterprise Road, an estate clear-out, or a roof tear-off — along with your gate and HOA details, and we will confirm the 20-yard is the right size, sort out access, and quote you on the spot.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Mitchellville address — a kitchen-and-bath remodel in Woodmore Meadows, a whole-house cleanout off Enterprise Road, an estate clear-out, or a roof tear-off — along with your gate and HOA details, and we will confirm the 20-yard is the right size, sort out access, and quote you on the spot.

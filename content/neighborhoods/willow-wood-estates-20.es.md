@@ -37,4 +37,4 @@ Si tu proyecto es más pequeño — un solo baño, una purga de garaje, unas poc
 
 ## Habla con la familia que maneja los camiones
 
-Llama al **(301) 879-7040** y alcanzas a las personas que realmente son dueñas y operan JP Roll-Off. Dinos tu dirección de Willow Wood Estates y qué estás atacando — un vaciado de cocina original de finales de los 70, una limpieza de casa completa, una limpieza de patrimonio o una remoción de techo en una de estas casas de más de 40 años — y confirmaremos que el de 20 yardas es la talla correcta y te cotizaremos en el momento.
+Llama al **(301) 252-3586** y alcanzas a las personas que realmente son dueñas y operan JP Roll-Off. Dinos tu dirección de Willow Wood Estates y qué estás atacando — un vaciado de cocina original de finales de los 70, una limpieza de casa completa, una limpieza de patrimonio o una remoción de techo en una de estas casas de más de 40 años — y confirmaremos que el de 20 yardas es la talla correcta y te cotizaremos en el momento.

@@ -31,4 +31,4 @@ En cuanto a llegar, estamos cerca. Desde nuestro patio de Beltsville es un traye
 
 ## Listos cuando tú lo estés
 
-Como somos una empresa familiar, la persona que contesta el teléfono es uno de los dueños, no un centro de llamadas leyendo un guion. Platicaremos sobre tu proyecto, confirmaremos que el de 15 yardas es el tamaño correcto y resolveremos si tu cuadra necesita un permiso o si la entrada será suficiente. Llámanos al **(301) 879-7040** para programar tu contenedor de 15 yardas en Lanham, y nosotros nos encargamos del resto.
+Como somos una empresa familiar, la persona que contesta el teléfono es uno de los dueños, no un centro de llamadas leyendo un guion. Platicaremos sobre tu proyecto, confirmaremos que el de 15 yardas es el tamaño correcto y resolveremos si tu cuadra necesita un permiso o si la entrada será suficiente. Llámanos al **(301) 252-3586** para programar tu contenedor de 15 yardas en Lanham, y nosotros nos encargamos del resto.

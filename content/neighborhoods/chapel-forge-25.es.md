@@ -41,4 +41,4 @@ El precio del de 25 yardas es por material, **con precio según el material para
 
 Cuando llamas a JP Roll-Off Service, no estás tratando con un centro de llamadas. Estás hablando con las personas que son dueñas de la empresa, despachan los camiones y conocen la diferencia entre los ramblers de mediados de los 1960 de Chapel Forge y el resto de Bowie. Te ayudaremos a confirmar que el de 25 yardas es el tamaño correcto para tu ampliación, remodelación, trabajo de techo o limpieza, a resolver la colocación en esos lotes Levitt modestos para que probablemente te saltes el permiso de calle, y a llevar un contenedor a tu entrada — usualmente dentro de un día, a veces el mismo día.
 
-¿Listo para reservar, o solo quieres una respuesta directa sobre si el de 25 cabe en tu entrada? Llámanos al **(301) 879-7040** y te atenderemos.
+¿Listo para reservar, o solo quieres una respuesta directa sobre si el de 25 cabe en tu entrada? Llámanos al **(301) 252-3586** y te atenderemos.

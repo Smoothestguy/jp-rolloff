@@ -37,4 +37,4 @@ Más cerca del campus y subiendo hacia North College Park, el reto cambia. Mucha
 
 ## Habla con la familia que maneja los camiones
 
-Cuando llamas, hablas con la gente que de verdad es dueña y opera JP Roll-Off — no con un centro de llamadas. Dinos tu dirección de College Park y qué estás enfrentando, ya sea una demolición completa en Old Town, un vaciado comercial en la franja de Route 1, o una rotación de varias unidades en agosto cerca del campus, y confirmaremos que la de 30 yardas es la decisión correcta, revisaremos la colocación y la situación del permiso, y te cotizaremos al instante. Búscanos en **(301) 879-7040**.
+Cuando llamas, hablas con la gente que de verdad es dueña y opera JP Roll-Off — no con un centro de llamadas. Dinos tu dirección de College Park y qué estás enfrentando, ya sea una demolición completa en Old Town, un vaciado comercial en la franja de Route 1, o una rotación de varias unidades en agosto cerca del campus, y confirmaremos que la de 30 yardas es la decisión correcta, revisaremos la colocación y la situación del permiso, y te cotizaremos al instante. Búscanos en **(301) 252-3586**.

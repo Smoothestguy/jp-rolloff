@@ -33,4 +33,4 @@ Placement also decides whether a permit even enters the picture. The City of Bow
 
 Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script. That means you can describe your Heather Hills project — a full Levitt gut job, a contractor tear-out, a bulk haul, or a multi-unit cleanout — and get a straight answer on whether the 30-yard is the right size, what it will cost for your material, how the 14-day rental and 3-ton allowance work, and exactly how we will route the truck across into the section and set the box on your driveway off one of the H streets.
 
-If you have a big job in Heather Hills and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 879-7040**. We will get a 30-yard scheduled, dispatched from the Beltsville yard in the morning, and on your site about 25 minutes later.
+If you have a big job in Heather Hills and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We will get a 30-yard scheduled, dispatched from the Beltsville yard in the morning, and on your site about 25 minutes later.

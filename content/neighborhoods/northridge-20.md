@@ -35,4 +35,4 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Northridge address and what you are tackling — a basement finish on a Quill Point cul-de-sac, a kitchen-and-baths gut in a 1990s contemporary, a mid-size roof tear-off, or a whole-house cleanout between owners — and we will confirm the 20-yard is the right size, talk through your driveway placement and HOA staging, and quote you on the spot.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Northridge address and what you are tackling — a basement finish on a Quill Point cul-de-sac, a kitchen-and-baths gut in a 1990s contemporary, a mid-size roof tear-off, or a whole-house cleanout between owners — and we will confirm the 20-yard is the right size, talk through your driveway placement and HOA staging, and quote you on the spot.

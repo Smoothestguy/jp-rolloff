@@ -37,4 +37,4 @@ El precio del de 25 yardas es por material — se **cotiza según lo que vayas a
 
 Cuando llamas a JP Roll-Off Service, no estás lidiando con un centro de llamadas. Estás hablando con las personas que son dueñas de la empresa, despachan los camiones y saben qué hace diferente a Heather Hills — una sección Levitt de 1965 que queda de su propio lado de la US 50, con lotes de un cuarto de acre y una cuadrícula apretada de calles con "H". Te ayudaremos a confirmar que el de 25 yardas es el tamaño correcto para tu ampliación, remodelación, trabajo de techo o limpieza, a resolver la colocación en tu entrada para que probablemente te saltes el permiso de calle, y a llevar un contenedor a tu casa — usualmente dentro de 24 horas.
 
-¿Listo para reservar, o solo quieres una respuesta directa sobre si el de 25 cabe en tu entrada? Llámanos al **(301) 879-7040** y te atenderemos.
+¿Listo para reservar, o solo quieres una respuesta directa sobre si el de 25 cabe en tu entrada? Llámanos al **(301) 252-3586** y te atenderemos.

@@ -33,4 +33,4 @@ Una palabra justa, ya que Glenridge es una sección pequeña de coloniales de ta
 
 ## Habla con la familia que maneja los camiones
 
-Cuando llamas, llegas a las personas que realmente son dueñas y operan JP Roll-Off, no a un centro de llamadas. Dinos tu dirección de Glenridge y lo que estás enfrentando — una nueva ampliación o el desmonte de una vieja, una demolición de casa completa de una colonial Levitt de 1969, un techo grande o una limpieza más grande — y confirmaremos si el de 25 yardas es el tamaño correcto y te cotizaremos al instante. Contáctanos al **(301) 879-7040**.
+Cuando llamas, llegas a las personas que realmente son dueñas y operan JP Roll-Off, no a un centro de llamadas. Dinos tu dirección de Glenridge y lo que estás enfrentando — una nueva ampliación o el desmonte de una vieja, una demolición de casa completa de una colonial Levitt de 1969, un techo grande o una limpieza más grande — y confirmaremos si el de 25 yardas es el tamaño correcto y te cotizaremos al instante. Contáctanos al **(301) 252-3586**.

@@ -35,4 +35,4 @@ Lo único para lo que hay que planear es la caja en sí. El de 30 yardas es un c
 
 Como somos una empresa familiar, las personas que contestan el teléfono son los dueños —no un centro de llamadas. Puedes describir tu demolición, tu obra o tu limpieza y obtener una respuesta directa sobre si el de 30 yardas es el adecuado para tu trabajo en Idlewild, cuánto costará y exactamente cómo lo acomodaremos en tu entrada de la sección I según la aproximación que permita tu lote.
 
-Si tienes un trabajo grande en Idlewild y un contenedor más pequeño solo significaría un segundo viaje, llama a JP Roll-Off Service al **(301) 879-7040**. Programaremos un 30 yardas y lo despacharemos desde Beltsville, y lo tendremos en tu calle con nombre de I unos 25 minutos después.
+Si tienes un trabajo grande en Idlewild y un contenedor más pequeño solo significaría un segundo viaje, llama a JP Roll-Off Service al **(301) 252-3586**. Programaremos un 30 yardas y lo despacharemos desde Beltsville, y lo tendremos en tu calle con nombre de I unos 25 minutos después.

@@ -33,4 +33,4 @@ The hurdle that actually matters in Northridge is the HOA, not the city. The nei
 
 Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script. That means you can describe your Northridge project — a full gut job, a lower-level tear-out, a contractor build-out, a bulk haul, or a multi-unit townhouse turnover — and get a straight answer on whether the 30-yard is the right size, what it will cost for your material, how we will route the truck through the cul-de-sacs and winding streets, and how to square the drop with your HOA.
 
-If you have a big job in Northridge and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 879-7040**. We will get a 30-yard scheduled, dispatched from the Beltsville yard in the morning, and on your site about 25 minutes later.
+If you have a big job in Northridge and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We will get a 30-yard scheduled, dispatched from the Beltsville yard in the morning, and on your site about 25 minutes later.

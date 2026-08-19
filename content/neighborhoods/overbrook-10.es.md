@@ -49,4 +49,4 @@ Cuando el contenedor esté lleno, llámanos y vendremos a recogerlo. No hay una 
 
 Cuando llamas a JP Roll-Off Service, hablas con las personas que son dueñas del negocio y contestan el teléfono. Te preguntaremos por tu trabajo, dónde quieres la caja y si tu entrada de Overbrook tiene espacio — y la mayoría de las veces lo tiene, lo que te mantiene fuera de la calle estrecha y completamente fuera del proceso de permiso.
 
-¿Listo para reservar un de 10 yardas, o solo quieres conversar si es el tamaño correcto para tu proyecto en Overbrook? Llámanos al **(301) 879-7040** y te dejamos todo listo.
+¿Listo para reservar un de 10 yardas, o solo quieres conversar si es el tamaño correcto para tu proyecto en Overbrook? Llámanos al **(301) 252-3586** y te dejamos todo listo.

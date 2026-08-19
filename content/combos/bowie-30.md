@@ -35,4 +35,4 @@ A few neighborhood notes worth raising when you call:
 
 We serve Bowie and the surrounding Prince George's ZIPs — 20715, 20716, 20720, and 20721 — and because we are family-owned, the people who answer the phone are the owners, not a call center. That means you can describe your demo, your site, or your cleanout and get a straight answer on whether the 30-yard is the right size, what it will cost, and how we will place it on your driveway in Belair, Mitchellville, Pointer Ridge, Fairwood, or Old Town. When the box is full, just give us a call to schedule the pickup — we haul it on request.
 
-If you have a big job in Bowie and a smaller bin would just mean a second haul, call JP Roll-Off Service at **(301) 879-7040**. We will get a 30-yard scheduled and dispatched from Beltsville, and have it on your site about 25 minutes later.
+If you have a big job in Bowie and a smaller bin would just mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We will get a 30-yard scheduled and dispatched from Beltsville, and have it on your site about 25 minutes later.

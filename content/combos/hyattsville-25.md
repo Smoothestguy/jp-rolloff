@@ -39,4 +39,4 @@ Drive time is rarely an issue. Hyattsville is a short run straight down from our
 
 ## Ready when you are
 
-If you're planning an addition, a whole-house remodel, a big roof, or a commercial clear-out anywhere from the Arts District to University Hills, the 25-yard is built for it. Tell us about the job, your access, and whether the box lands on your driveway or the street, and we'll handle the rest, permit guidance included. Call JP Roll-Off Service at **(301) 879-7040** and one of the owners will pick up, give you a straight price, and get a container on its way.
+If you're planning an addition, a whole-house remodel, a big roof, or a commercial clear-out anywhere from the Arts District to University Hills, the 25-yard is built for it. Tell us about the job, your access, and whether the box lands on your driveway or the street, and we'll handle the rest, permit guidance included. Call JP Roll-Off Service at **(301) 252-3586** and one of the owners will pick up, give you a straight price, and get a container on its way.

@@ -35,4 +35,4 @@ If your project is smaller — a single bathroom, a porch demo, a garage purge �
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Old Town Bowie address and what you are tackling — a plaster-and-lath gut on a Victorian frame house off Chestnut Avenue, a whole-house cleanout, an estate clear-out, or a roof and siding tear-off on one of these century-old homes — and we will confirm the 20-yard is the right size, talk through where it can sit on a tight lot, and quote you on the spot.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Old Town Bowie address and what you are tackling — a plaster-and-lath gut on a Victorian frame house off Chestnut Avenue, a whole-house cleanout, an estate clear-out, or a roof and siding tear-off on one of these century-old homes — and we will confirm the 20-yard is the right size, talk through where it can sit on a tight lot, and quote you on the spot.

@@ -35,4 +35,4 @@ Because the homes here are so alike in age and original construction, the heavy 
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Kenilworth address and what you are tackling — a full teardown on a "K"-street lot, a commercial site cleanup, a gut-and-basement haul-out of a Levitt Colonial, or a heavy bulk clear-out — and we will confirm the 30-yard is the right size, check the run-up for the truck, and quote you on the spot.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Kenilworth address and what you are tackling — a full teardown on a "K"-street lot, a commercial site cleanup, a gut-and-basement haul-out of a Levitt Colonial, or a heavy bulk clear-out — and we will confirm the 30-yard is the right size, check the run-up for the truck, and quote you on the spot.

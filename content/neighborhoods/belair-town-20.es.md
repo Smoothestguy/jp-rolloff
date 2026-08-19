@@ -35,4 +35,4 @@ Si tu proyecto es más pequeño — un solo baño, un vaciado de clóset, unas c
 
 ## Habla con la familia que maneja los camiones
 
-Llama al **(301) 879-7040** y hablarás con las personas que de verdad son dueñas y operan JP Roll-Off. Dinos tu dirección en Belair Town y qué vas a abordar — un destripado de cocina y baño en una casa adosada de 1969, una limpieza de casa completa cerca de Morningside Lane, un vaciado de patrimonio o una remoción de techo — y dónde esperas colocar el contenedor. Te ayudaremos a confirmar el lugar aprobado por la HOA, nos aseguraremos de que el de 20 yardas es el tamaño correcto y te cotizaremos en el momento.
+Llama al **(301) 252-3586** y hablarás con las personas que de verdad son dueñas y operan JP Roll-Off. Dinos tu dirección en Belair Town y qué vas a abordar — un destripado de cocina y baño en una casa adosada de 1969, una limpieza de casa completa cerca de Morningside Lane, un vaciado de patrimonio o una remoción de techo — y dónde esperas colocar el contenedor. Te ayudaremos a confirmar el lugar aprobado por la HOA, nos aseguraremos de que el de 20 yardas es el tamaño correcto y te cotizaremos en el momento.

@@ -31,4 +31,4 @@ It helps to know that College Park is not all one kind of house, because that ch
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your College Park address and what you are tackling — a whole-house cleanout in Old Town, a multi-room remodel in Calvert Hills, an August turnover near campus, or a roof tear-off in Hollywood — and we will confirm the 20-yard is the right size and quote you on the spot.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your College Park address and what you are tackling — a whole-house cleanout in Old Town, a multi-room remodel in Calvert Hills, an August turnover near campus, or a roof tear-off in Hollywood — and we will confirm the 20-yard is the right size and quote you on the spot.

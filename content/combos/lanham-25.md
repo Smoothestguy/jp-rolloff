@@ -37,4 +37,4 @@ We run this out of Beltsville, and Lanham is a quick 15 minutes for us via Route
 
 We're a family business, and when you call, you reach the owners — not a call center, not a phone tree. We'll talk through your job, tell you honestly whether the 25-yard is the right box or whether a smaller one fits your driveway and your budget, and flag any permit question before it becomes a problem. Pricing on this size runs per material rather than one flat rate, so call for a quote — delivery, pickup, and a 14-day rental with the 2-ton allowance are included, extra weight runs $105/ton, additional days are $5/day, and pickup is by request. Commercial accounts along the Greenway Center corridor welcome — ask about billing.
 
-Ready to get the big box on your Lanham project, or just want a straight answer on placement? Call JP Roll-Off Service at (301) 879-7040 and we'll get you set up.
+Ready to get the big box on your Lanham project, or just want a straight answer on placement? Call JP Roll-Off Service at (301) 252-3586 and we'll get you set up.

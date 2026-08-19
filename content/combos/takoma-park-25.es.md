@@ -33,4 +33,4 @@ Si tu proyecto es la renovación de una sola habitación o una limpieza de rutin
 
 ## Habla con la familia que maneja los camiones
 
-Cuando llamas, hablas con las personas que de verdad son dueñas y operan JP Roll-Off, no con un centro de llamadas. Dinos tu dirección en Takoma Park y qué estás emprendiendo — una ampliación en Old Takoma, un vaciado de casa completa en una victoriana, una remoción de techo grande o una limpieza en Maple Avenue — y te ayudaremos a averiguar dónde puede caber realmente un contenedor de 25 yardas en tu lote, confirmaremos si es el tamaño correcto y te cotizaremos en el momento. Llámanos al **(301) 879-7040**.
+Cuando llamas, hablas con las personas que de verdad son dueñas y operan JP Roll-Off, no con un centro de llamadas. Dinos tu dirección en Takoma Park y qué estás emprendiendo — una ampliación en Old Takoma, un vaciado de casa completa en una victoriana, una remoción de techo grande o una limpieza en Maple Avenue — y te ayudaremos a averiguar dónde puede caber realmente un contenedor de 25 yardas en tu lote, confirmaremos si es el tamaño correcto y te cotizaremos en el momento. Llámanos al **(301) 252-3586**.

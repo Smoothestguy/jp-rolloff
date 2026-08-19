@@ -38,4 +38,4 @@ Drive time is on your side. Hyattsville is a short run from our yard in Beltsvil
 
 ## Ready when you are
 
-For a garage cleanout, a bathroom remodel, a round of yard and tree work, or an estate downsize anywhere in Hyattsville, the 10-yard is the right-sized, no-overpaying choice — and you'll be working with the family that owns the trucks, not a dispatcher reading a script. Call JP Roll-Off Service at (301) 879-7040 and we'll get a 10-yard headed your way, usually the next day.
+For a garage cleanout, a bathroom remodel, a round of yard and tree work, or an estate downsize anywhere in Hyattsville, the 10-yard is the right-sized, no-overpaying choice — and you'll be working with the family that owns the trucks, not a dispatcher reading a script. Call JP Roll-Off Service at (301) 252-3586 and we'll get a 10-yard headed your way, usually the next day.

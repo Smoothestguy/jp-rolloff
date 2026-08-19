@@ -33,4 +33,4 @@ It helps to know that Greenbelt is not one kind of housing, because that changes
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Greenbelt address and what you are tackling — a whole-house cleanout in Hunting Ridge, a multi-room remodel in Greenbriar, an estate clear-out off a court in Old Greenbelt, or a basement finish in Greenbelt Station — and we will confirm the 20-yard is the right size, sort out the GHI or city permit question with you, and quote you on the spot.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Greenbelt address and what you are tackling — a whole-house cleanout in Hunting Ridge, a multi-room remodel in Greenbriar, an estate clear-out off a court in Old Greenbelt, or a basement finish in Greenbelt Station — and we will confirm the 20-yard is the right size, sort out the GHI or city permit question with you, and quote you on the spot.

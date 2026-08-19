@@ -33,4 +33,4 @@ En Takoma Park, dónde colocas físicamente el contenedor es una pregunta más d
 
 ## Habla con la familia que maneja los camiones
 
-Llama al **(301) 879-7040** y hablas con las personas que realmente son dueñas y operan JP Roll-Off. Dinos tu dirección en Takoma Park y qué estás enfrentando — un vaciado de casa completa en Old Takoma, un destripado de yeso de varias habitaciones, una limpieza de patrimonio en North Takoma, o una remoción de techo en una casa centenaria — y confirmaremos que el de 20 yardas es el tamaño correcto, planearemos la colocación alrededor de tus árboles y tu entrada, y te cotizaremos en el momento.
+Llama al **(301) 252-3586** y hablas con las personas que realmente son dueñas y operan JP Roll-Off. Dinos tu dirección en Takoma Park y qué estás enfrentando — un vaciado de casa completa en Old Takoma, un destripado de yeso de varias habitaciones, una limpieza de patrimonio en North Takoma, o una remoción de techo en una casa centenaria — y confirmaremos que el de 20 yardas es el tamaño correcto, planearemos la colocación alrededor de tus árboles y tu entrada, y te cotizaremos en el momento.

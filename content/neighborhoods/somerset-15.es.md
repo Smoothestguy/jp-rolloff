@@ -33,4 +33,4 @@ Si no estás seguro de si tu proyecto es un 15 o un 20, dinos el cuarto y el alc
 
 ## Habla con la familia que maneja los camiones
 
-Llama al **(301) 879-7040** y hablas con las personas que de verdad son dueñas y operan JP Roll-Off. Dinos tu dirección en Somerset y qué vas a encarar —la demolición de una cocina en un Cape Cod de Sussex Lane, una remoción de techo en un rancher, una remodelación de dos baños o una limpieza de sótano en una casa familiar de toda la vida— y confirmaremos que el contenedor de 15 yardas es el tamaño correcto y te cotizaremos al momento, tonelaje y entrega incluidos.
+Llama al **(301) 252-3586** y hablas con las personas que de verdad son dueñas y operan JP Roll-Off. Dinos tu dirección en Somerset y qué vas a encarar —la demolición de una cocina en un Cape Cod de Sussex Lane, una remoción de techo en un rancher, una remodelación de dos baños o una limpieza de sótano en una casa familiar de toda la vida— y confirmaremos que el contenedor de 15 yardas es el tamaño correcto y te cotizaremos al momento, tonelaje y entrega incluidos.

@@ -35,4 +35,4 @@ Como las casas de aquí son tan parecidas en edad y construcción original, los 
 
 ## Habla con la familia que maneja los camiones
 
-Llama al **(301) 879-7040** y llegas a la gente que de verdad es dueña y opera JP Roll-Off. Dinos tu dirección de Kenilworth y qué vas a enfrentar — una demolición total en un lote de calle "K", una limpieza de obra comercial, un vaciado de casa y sótano de un Colonial Levitt, o un acarreo pesado a granel — y te confirmaremos que el de 30 yardas es el tamaño correcto, revisaremos el acceso para el camión y te cotizaremos al momento.
+Llama al **(301) 252-3586** y llegas a la gente que de verdad es dueña y opera JP Roll-Off. Dinos tu dirección de Kenilworth y qué vas a enfrentar — una demolición total en un lote de calle "K", una limpieza de obra comercial, un vaciado de casa y sótano de un Colonial Levitt, o un acarreo pesado a granel — y te confirmaremos que el de 30 yardas es el tamaño correcto, revisaremos el acceso para el camión y te cotizaremos al momento.

@@ -31,4 +31,4 @@ Si tu proyecto en Willow Wood es un solo cuarto, una renovación de baño, una l
 
 ## Habla con la familia que maneja los camiones
 
-Cuando llamas, hablas con las personas que de verdad son dueñas y operan JP Roll-Off, no con un call center. Dinos tu dirección en Willow Wood Estates y qué vas a hacer — una ampliación, una remodelación total de una casa de los años 70, una gran remoción de techo o una limpieza más grande — y confirmaremos si el de 25 yardas es realmente el tamaño correcto o si uno de 20 yardas te serviría mejor, y luego te cotizamos en el momento. Comunícate con nosotros al **(301) 879-7040**.
+Cuando llamas, hablas con las personas que de verdad son dueñas y operan JP Roll-Off, no con un call center. Dinos tu dirección en Willow Wood Estates y qué vas a hacer — una ampliación, una remodelación total de una casa de los años 70, una gran remoción de techo o una limpieza más grande — y confirmaremos si el de 25 yardas es realmente el tamaño correcto o si uno de 20 yardas te serviría mejor, y luego te cotizamos en el momento. Comunícate con nosotros al **(301) 252-3586**.

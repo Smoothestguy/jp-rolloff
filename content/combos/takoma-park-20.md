@@ -33,4 +33,4 @@ In Takoma Park, where you physically set the can is a harder question than the s
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 879-7040** and you reach the people who actually own and operate JP Roll-Off. Tell us your Takoma Park address and what you are tackling — a whole-house cleanout in Old Takoma, a multi-room plaster gut, an estate clearout in North Takoma, or a roof tear-off on a century-old home — and we will confirm the 20-yard is the right size, plan the placement around your trees and driveway, and quote you on the spot.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Takoma Park address and what you are tackling — a whole-house cleanout in Old Takoma, a multi-room plaster gut, an estate clearout in North Takoma, or a roof tear-off on a century-old home — and we will confirm the 20-yard is the right size, plan the placement around your trees and driveway, and quote you on the spot.

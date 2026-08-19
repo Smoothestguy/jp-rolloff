@@ -4,12 +4,12 @@
     <div class="footer-grid">
       <div>
         <img src="/images/JPRolloff.png" alt="JP Roll-Off Service" class="footer-logo" />
-        <p class="footer-tagline" data-en="Family-owned roll-off dumpster rental serving Beltsville, MD and the entire DMV since 2000. Next-day delivery and real people on the phone." data-es="Renta de contenedores roll-off, empresa familiar sirviendo Beltsville, MD y todo el DMV desde 2000. Entrega al día siguiente y personas reales al teléfono.">Family-owned roll-off dumpster rental serving Beltsville, MD and the entire DMV since 2000. Next-day delivery and real people on the phone.</p>
+        <p class="footer-tagline" data-en="Family-owned dumpster rental serving the DMV since 2000. Next-day delivery, transparent pricing, and real people ready to help." data-es="Renta de contenedores, empresa familiar sirviendo el DMV desde el año 2000. Entrega al día siguiente, precios transparentes y personas reales listas para ayudar.">Family-owned dumpster rental serving the DMV since 2000. Next-day delivery, transparent pricing, and real people ready to help.</p>
         <div class="footer-contact">
-          <span><strong>{{ site.phone.display }}</strong> <span style="color:var(--color-gray-500)">· office</span></span>
-          <span>{{ site.phone.secondary.display }} <span style="color:var(--color-gray-500)">· secondary</span></span>
+          <span><strong>{{ site.phone.display }}</strong> <span style="color:var(--color-gray-500)" data-en="· office" data-es="· oficina">· office</span></span>
+          <span>{{ site.phone.secondary.display }} <span style="color:var(--color-gray-500)" data-en="· secondary" data-es="· secundaria">· secondary</span></span>
           <span>{{ site.address }}</span>
-          <span data-en="Mon–Fri 7a–6p · Sat 8a–2p" data-es="Lun–Vie 7a–6p · Sáb 8a–2p">Mon–Fri 7a–6p · Sat 8a–2p</span>
+          <span data-en="Mon–Fri 7a–6p · Sat 7a–12p · Sun Closed" data-es="Lun–Vie 7a–6p · Sáb 7a–12p · Dom Cerrado">Mon–Fri 7a–6p · Sat 7a–12p · Sun Closed</span>
         </div>
       </div>
 
@@ -19,6 +19,8 @@
           {% for s in sizes %}
           <li><a href="/services/{{ s.slug }}">{{ s.yd }} Yard Dumpster</a></li>
           {% endfor %}
+          <li><a href="/demolition" data-en="Demolition Services" data-es="Servicios de Demolición">Demolition Services</a></li>
+          <li><a href="/emergency" data-en="Emergency Services" data-es="Servicios de Emergencia">Emergency Services</a></li>
           <li><a href="/services" data-en="All services →" data-es="Todos →">All services →</a></li>
         </ul>
       </div>
@@ -46,7 +48,7 @@
 
     <div class="footer-bottom">
       <span>© <span data-year>2026</span> JP Roll-Off Service, Inc.</span>
-      <span data-en="Beltsville, MD · Se Habla Español" data-es="Beltsville, MD · Se Habla Español">Beltsville, MD · Se Habla Español</span>
+      <span data-en="Silver Spring, MD · Se Habla Español" data-es="Silver Spring, MD · Se Habla Español">Silver Spring, MD · Se Habla Español</span>
       <span>
         <a href="/privacy">Privacy</a> · <a href="/terms">Terms</a>
       </span>

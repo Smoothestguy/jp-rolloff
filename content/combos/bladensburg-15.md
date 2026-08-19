@@ -33,4 +33,4 @@ Because we're family-owned, the owners answer the phone. There's no call center 
 
 ## Ready when you are
 
-If you're planning a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout anywhere from Decatur Heights to the Port Towns waterfront, the 15-yard is very likely your size. Call us at **(301) 879-7040** and tell us about the job and where you'd like the dumpster to sit. We'll confirm the fit, talk through driveway placement, and get a 15 to your Bladensburg address — usually within the same week. Family-owned, straightforward pricing, and a real person on the other end of the line.
+If you're planning a kitchen remodel, a roof tear-off, a two-bath gut, or a basement cleanout anywhere from Decatur Heights to the Port Towns waterfront, the 15-yard is very likely your size. Call us at **(301) 252-3586** and tell us about the job and where you'd like the dumpster to sit. We'll confirm the fit, talk through driveway placement, and get a 15 to your Bladensburg address — usually within the same week. Family-owned, straightforward pricing, and a real person on the other end of the line.

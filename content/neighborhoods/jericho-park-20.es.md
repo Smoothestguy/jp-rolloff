@@ -33,4 +33,4 @@ Si tu proyecto es más pequeño (un solo baño, una purga de clóset, unas cuant
 
 ## Habla con la familia que maneja los camiones
 
-Llama al **(301) 879-7040** y te comunicas con las personas que de verdad son dueñas y operan JP Roll-Off. Dinos tu dirección de Jericho Park y lo que vas a enfrentar (un destripe de cocina y baño en una casa de mediados de siglo, una limpieza de casa completa, un vaciado de patrimonio o una remoción de techo) y dónde esperas colocar el contenedor. Nos aseguraremos de que el de 20 yardas es el tamaño correcto, confirmaremos el lugar en tu entrada o lote, y te cotizamos al momento.
+Llama al **(301) 252-3586** y te comunicas con las personas que de verdad son dueñas y operan JP Roll-Off. Dinos tu dirección de Jericho Park y lo que vas a enfrentar (un destripe de cocina y baño en una casa de mediados de siglo, una limpieza de casa completa, un vaciado de patrimonio o una remoción de techo) y dónde esperas colocar el contenedor. Nos aseguraremos de que el de 20 yardas es el tamaño correcto, confirmaremos el lugar en tu entrada o lote, y te cotizamos al momento.

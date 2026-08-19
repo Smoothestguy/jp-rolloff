@@ -31,4 +31,4 @@ Lo único que hay que planear es el contenedor en sí. El de 30 yardas es un con
 
 Como somos una empresa familiar, las personas que contestan el teléfono son los dueños — no un centro de llamadas. Puedes describir tu demolición, tu obra o tu limpieza y obtener una respuesta directa sobre si el de 30 yardas es el adecuado para tu trabajo en Tulip Grove, cuánto costará, y exactamente cómo lo encajaremos en tu entrada de la sección T.
 
-Si tienes un trabajo grande en Tulip Grove y un contenedor más pequeño solo significaría un segundo acarreo, llama a JP Roll-Off Service al **(301) 879-7040**. Programaremos un de 30 yardas y lo despacharemos desde Beltsville, normalmente dentro de 24 horas, y lo tendremos en tu sitio en la sección T unos 25 minutos después de que salga.
+Si tienes un trabajo grande en Tulip Grove y un contenedor más pequeño solo significaría un segundo acarreo, llama a JP Roll-Off Service al **(301) 252-3586**. Programaremos un de 30 yardas y lo despacharemos desde Beltsville, normalmente dentro de 24 horas, y lo tendremos en tu sitio en la sección T unos 25 minutos después de que salga.

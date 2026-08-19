@@ -33,4 +33,4 @@ Si tu proyecto es más pequeño —un solo baño, una purga de garaje, unas cuan
 
 ## Habla con la familia que maneja los camiones
 
-Llama al **(301) 879-7040** y te comunicas con las personas que realmente son dueñas y operan JP Roll-Off. Dinos tu dirección de Mitchellville —una remodelación de cocina y baño en Woodmore Meadows, una limpieza de casa completa junto a Enterprise Road, un vaciado de patrimonio, o una remoción de techo— junto con los detalles de tu portón y HOA, y confirmaremos que el de 20 yardas es el tamaño correcto, resolveremos el acceso, y te cotizaremos en el momento.
+Llama al **(301) 252-3586** y te comunicas con las personas que realmente son dueñas y operan JP Roll-Off. Dinos tu dirección de Mitchellville —una remodelación de cocina y baño en Woodmore Meadows, una limpieza de casa completa junto a Enterprise Road, un vaciado de patrimonio, o una remoción de techo— junto con los detalles de tu portón y HOA, y confirmaremos que el de 20 yardas es el tamaño correcto, resolveremos el acceso, y te cotizaremos en el momento.

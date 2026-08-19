@@ -33,4 +33,4 @@ Como las casas son tan parecidas, dimensionar rara vez es un juego de adivinanza
 
 ## Habla con la familia que maneja los camiones
 
-Llama al **(301) 879-7040** y contactas a las personas que de verdad son dueñas y operan JP Roll-Off. Dinos tu dirección en Kenilworth y qué estás emprendiendo —una remoción de cocina y baños en un Colonial de calle "K", una remoción de techo en un Rancher, una limpieza de patrimonio o una limpieza de casa completa entre dueños— y confirmaremos que el de 20 yardas es el tamaño correcto y te cotizaremos en el momento.
+Llama al **(301) 252-3586** y contactas a las personas que de verdad son dueñas y operan JP Roll-Off. Dinos tu dirección en Kenilworth y qué estás emprendiendo —una remoción de cocina y baños en un Colonial de calle "K", una remoción de techo en un Rancher, una limpieza de patrimonio o una limpieza de casa completa entre dueños— y confirmaremos que el de 20 yardas es el tamaño correcto y te cotizaremos en el momento.

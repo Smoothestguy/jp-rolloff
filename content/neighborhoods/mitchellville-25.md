@@ -33,4 +33,4 @@ If your Mitchellville project is on the smaller side — a single-room redo, a b
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Mitchellville address and what you are tackling — an addition on a Woodmore-area lot, a whole-house remodel of an 80s-or-90s-era Colonial, a large roof tear-off, or a bigger cleanout — and let us know if you are behind a gate so we can sort access ahead of time. We will confirm whether the 25-yard is the right size and quote you on the spot. Reach us at **(301) 879-7040**.
+When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Mitchellville address and what you are tackling — an addition on a Woodmore-area lot, a whole-house remodel of an 80s-or-90s-era Colonial, a large roof tear-off, or a bigger cleanout — and let us know if you are behind a gate so we can sort access ahead of time. We will confirm whether the 25-yard is the right size and quote you on the spot. Reach us at **(301) 252-3586**.

@@ -31,4 +31,4 @@ Si tu proyecto en Foxhill es del lado más pequeño —un solo cuarto, un baño 
 
 ## Habla con la familia que maneja los camiones
 
-Cuando llamas, hablas con la gente que de verdad es dueña y opera JP Roll-Off, no con un call center. Dinos tu dirección de Foxhill y qué vas a enfrentar —una ampliación en una de las calles con nombre de F, un gut de casa completa de una casa Levitt original construida sobre losa, una remoción grande de techo o una limpieza más grande cerca de Foxhill Park— y te confirmamos si el de 25 yardas es el tamaño correcto y te cotizamos al momento. Comunícate con la familia que maneja los camiones al **(301) 879-7040**.
+Cuando llamas, hablas con la gente que de verdad es dueña y opera JP Roll-Off, no con un call center. Dinos tu dirección de Foxhill y qué vas a enfrentar —una ampliación en una de las calles con nombre de F, un gut de casa completa de una casa Levitt original construida sobre losa, una remoción grande de techo o una limpieza más grande cerca de Foxhill Park— y te confirmamos si el de 25 yardas es el tamaño correcto y te cotizamos al momento. Comunícate con la familia que maneja los camiones al **(301) 252-3586**.

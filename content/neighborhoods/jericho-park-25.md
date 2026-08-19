@@ -33,4 +33,4 @@ If your Jericho Park project is on the smaller side — a single-room redo, a ba
 
 ## Talk to the family that runs the trucks
 
-When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Jericho Park address and what you are tackling — an addition on a custom home, a whole-house gut of a midcentury rancher, a large roof tear-off, or a bigger cleanout on a multi-acre lot — and we will confirm whether the 25-yard is the right size and quote you on the spot. Reach us at **(301) 879-7040**.
+When you call, you reach the people who actually own and operate JP Roll-Off, not a call center. Tell us your Jericho Park address and what you are tackling — an addition on a custom home, a whole-house gut of a midcentury rancher, a large roof tear-off, or a bigger cleanout on a multi-acre lot — and we will confirm whether the 25-yard is the right size and quote you on the spot. Reach us at **(301) 252-3586**.

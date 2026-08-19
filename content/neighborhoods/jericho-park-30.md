@@ -31,4 +31,4 @@ A little planning still goes a long way. Access from the main roads is by turnin
 
 Because we are family-owned, the people who answer the phone are the owners — not a call center reading from a script. That means you can describe your Jericho Park project — a full midcentury gut, a teardown ahead of a custom build, a contractor site turnover, or a bulk estate haul off a big lot — and get a straight answer on whether the 30-yard is the right size, what it will cost for your material, and exactly where it should sit on your property.
 
-If you have a big job in Jericho Park and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 879-7040**. We will help you pick the spot, get a 30-yard scheduled, dispatched from the Beltsville yard in the morning, and on your street about 25 minutes later.
+If you have a big job in Jericho Park and a smaller bin would only mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We will help you pick the spot, get a 30-yard scheduled, dispatched from the Beltsville yard in the morning, and on your street about 25 minutes later.

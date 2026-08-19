@@ -33,4 +33,4 @@ One detail worth flagging: while the task that built this page listed a 20715 ZI
 
 Whether it's an attached garage that's been filling up for two decades, an original 1990s bathroom finally getting its remodel, a wooded back lot you're clearing, or an estate cleanout that needs to move at a respectful pace, the 10-yard dumpster is the no-waste choice for a one-area job in Old Stage. Pricing is per material, so call for a quote — and that quote includes delivery, a 14-day rental and a 1-ton weight allowance. Extra days are $5 a day, weight beyond the first ton is $105 per additional ton, and pickup is on request — just call to schedule it.
 
-Call the family at **(301) 879-7040** and we'll get you scheduled — most addresses within 24 hours. You'll talk to an owner, get honest answers about sizing and HOA placement, and have your dumpster staged right there on your own Old Stage driveway.
+Call the family at **(301) 252-3586** and we'll get you scheduled — most addresses within 24 hours. You'll talk to an owner, get honest answers about sizing and HOA placement, and have your dumpster staged right there on your own Old Stage driveway.
