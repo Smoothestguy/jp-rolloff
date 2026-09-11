@@ -1,8 +1,8 @@
-Cuando un proyecto de una sola habitación en Bladensburg supera una pila de bolsas de contratista pero no llega a necesitar un contenedor de 20 yardas, el roll-off de 15 yardas es la medida que encaja. Es el contenedor intermedio: más grande que un 10 para que no pagues por un segundo viaje, pero aún lo bastante compacto para asentarse en el tipo de parqueo corto y estrecho que es la norma en un pueblo de una milla cuadrada repleto de casas de mediados de siglo. Somos JP Roll-Off Service, una empresa familiar de acarreo, y el 15 es el contenedor que más dejamos cuando un propietario de Bladensburg está destripando una habitación y quiere terminar en una semana.
+Cuando un proyecto de una sola habitación en Bladensburg supera una pila de bolsas de contratista pero no llega a necesitar un contenedor de 20 yardas, el roll-off de 15 yardas es la medida que encaja. Es el tamaño intermedio: más grande que un 10 para que no pagues por un segundo viaje, pero aún lo bastante compacto para asentarse en el tipo de parqueo corto y estrecho que es la norma en un pueblo de una milla cuadrada repleto de casas de mediados de siglo. Somos JP Roll-Off Service, una empresa familiar de acarreo, y el 15 es el contenedor que más dejamos cuando un propietario de Bladensburg está destripando una habitación y quiere terminar en una semana.
 
 ## Qué cabe en un contenedor de 15 yardas
 
-El 15 yardas mide aproximadamente 16 pies de largo, 8 pies de ancho y 4 pies de alto. Eso aguanta unas siete cargas de camioneta de escombros, y viene con un límite de peso de 1.5 toneladas (3,000 libras). El precio es por material — para escombros de construcción un 15 yardas incluye entrega, recogida a solicitud y una renta de 14 días con el límite de 1.5 toneladas, con precio por material, así que llama para una cotización. Los días adicionales cuestan $5 al día, y cualquier peso por encima del límite se cobra a $105 por tonelada. La recogida es a solicitud, así que nos llamas cuando estés listo y programamos el acarreo.
+El 15 yardas mide aproximadamente 16 pies de largo, 8 pies de ancho y 4 pies de alto. Eso aguanta unas siete cargas de camioneta de escombros. El precio es por material — para escombros de construcción un 15 yardas incluye entrega, recogida a solicitud y una renta de 14 días, con precio por material, así que llama para una cotización. Los días adicionales están disponibles a solicitud cuando reservas, y los materiales densos o pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa. La recogida es a solicitud, así que nos llamas cuando estés listo y programamos el acarreo.
 
 Las paredes de cuatro pies importan tanto como el volumen. Puedes cargar esta medida a mano o con una carretilla sin tener que levantar todo por encima de la cabeza, por eso es la favorita para un trabajo de una habitación donde una cuadrilla avanza de forma constante durante unos días. Es la medida que describimos como el contenedor de "renovación de una sola habitación": espacio suficiente para la demolición de una cocina o dos baños, sin que tanto que termines mirando medio contenedor vacío el día de la recogida.
 
@@ -10,8 +10,8 @@ Las paredes de cuatro pies importan tanto como el volumen. Puedes cargar esta me
 
 El parque de viviendas de Bladensburg es lo que impulsa la mayoría de las llamadas por el 15 yardas. La mayor parte de las casas aquí en el ZIP 20710 datan de mediados del siglo XX, con un año medio de construcción alrededor de 1969 y una fuerte concentración de los años 1950 y '60. Esas casas ahora llegan a la edad en que las cocinas y los baños originales se arrancan y se reemplazan, y eso es exactamente el trabajo para el que está hecho un 15:
 
-- **Remodelación de cocina** — gabinetes, encimeras, pisos viejos y paneles de yeso de una sola cocina suelen caber justo dentro del volumen y el límite de peso del 15.
-- **Remoción de techo** — una remoción de una sola capa en una línea de techo promedio de Bladensburg cabe bien en esta medida; las tejas son pesadas, así que el límite de 1.5 toneladas es el número al que hay que estar atento.
+- **Remodelación de cocina** — gabinetes, encimeras, pisos viejos y paneles de yeso de una sola cocina suelen caber justo dentro del volumen del 15.
+- **Remoción de techo** — una remoción de una sola capa en una línea de techo promedio de Bladensburg cabe bien en esta medida; las tejas son pesadas, así que dinos que es un trabajo de techo cuando llames y lo cotizaremos según corresponda.
 - **Destripado de dos baños** — arrancar azulejo, tinas, tocadores y subpiso de dos baños es una carga clásica de 15 yardas.
 - **Limpieza de sótano** — vaciar un sótano terminado o de almacenamiento, el tipo de acumulación de décadas común en estas casas más antiguas.
 
@@ -27,7 +27,7 @@ Dos peculiaridades locales determinan dónde puede asentarse realmente el conten
 
 ## Tiempo de viaje y cómo trabajamos
 
-Bladensburg está a un trayecto corto de nuestro patio en Beltsville, así que llevarte un 15, cambiarlo o acarrearlo el día de la recogida es sencillo. El pueblo se ubica a aproximadamente una milla de la línea de D.C., con Annapolis Road (MD Route 450) como la columna principal y las cuadras residenciales abriéndose hacia el este — una distribución compacta que conocemos bien.
+Bladensburg está a un trayecto corto para nosotros, así que llevarte un 15, cambiarlo o acarrearlo el día de la recogida es sencillo. El pueblo se ubica a aproximadamente una milla de la línea de D.C., con Annapolis Road (MD Route 450) como la columna principal y las cuadras residenciales abriéndose hacia el este — una distribución compacta que conocemos bien.
 
 Como somos una empresa familiar, los dueños contestan el teléfono. No hay un centro de llamadas entre tú y las personas que realmente conducen el camión y colocan el contenedor. Eso importa en un lote apretado de Bladensburg, donde una conversación de dos minutos sobre el ancho de tu parqueo, la superficie de tu terreno y si estás cerca de la zona inundable puede evitarte un dolor de cabeza el día de la entrega.
 

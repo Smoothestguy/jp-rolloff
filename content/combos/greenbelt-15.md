@@ -1,10 +1,10 @@
 Most home projects in Greenbelt are not whole-house gut jobs. They are one room at a time: the kitchen that finally loses its tired cabinets, a worn roof getting torn off, a two-bath gut, or a basement cleanout before a finish job. That is exactly where the 15-yard roll-off earns its keep. It is the in-between size — a step up from the small 10-yard, still compact enough to live on a driveway, and sized for the single-room renovation that defines so much of the work happening across Greenbelt right now.
 
-We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville. When you call, you reach the owners, not a call center, and Beltsville is only about ten minutes from most Greenbelt addresses — your dumpster's not far behind.
+We are JP Roll-Off Service, a family-owned hauler. When you call, you reach the owners, not a call center, and Greenbelt is a short haul for us — your dumpster's not far behind.
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds roughly seven pickup-truck loads of debris. Pricing is per material — priced by what you're throwing away, so call for a quote. Every 15-yard includes delivery, pickup on request, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance. Extra weight over the allowance is billed at $105 per additional ton, and additional rental days are $5/day.
+The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds roughly seven pickup-truck loads of debris. Pricing is per material — priced by what you're throwing away, so call for a quote. Every 15-yard includes delivery, pickup on request, and a 14-day rental. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
 
 Four feet of wall height is the part people appreciate once the work starts. It is low enough to walk debris up and toss it over the side without a ramp, which matters on a one-room remodel where you are carrying material out by hand all day. The 15-yard is best known as the "single-room reno" size for exactly that reason: bigger than the 10-yard you would grab for a quick declutter, but well short of the 20-, 25-, or 30-yard you would only want for a multi-room gut or a commercial tear-out. For a single project that generates real volume but stays contained, it is the right call.
 
@@ -13,7 +13,7 @@ Four feet of wall height is the part people appreciate once the work starts. It 
 Greenbelt's housing covers more eras than almost any other town its size, and each one feeds the kind of single-room work the 15-yard is built for.
 
 - **Kitchen remodel.** Pulling cabinets, countertops, flooring, and drywall from one kitchen fills a 15-yard about right without paying for space you won't use.
-- **Roofing tear-off.** A single-layer asphalt tear-off on a typical Greenbelt home fits comfortably, with the 1.5-ton allowance covering most jobs that size. Heavier or multi-layer tear-offs may need the next size up, and we will tell you straight.
+- **Roofing tear-off.** A single-layer asphalt tear-off on a typical Greenbelt home fits comfortably — shingles are heavy, so tell us it is a roof job when you call and we will quote it accordingly. Heavier or multi-layer tear-offs may need the next size up, and we will tell you straight.
 - **Two-bath gut.** Tile, fixtures, vanities, and subfloor from a pair of bathrooms is a textbook 15-yard load.
 - **Basement cleanout.** Clearing a storage or finished lower level before a remodel or a sale.
 
@@ -31,7 +31,7 @@ In **Old Greenbelt**, the National Historic Landmark core, the housing is someth
 
 **ZIP note.** Greenbelt uses three ZIP codes, and they matter when you book. 20770 covers residential and business street addresses in the city; 20768 is P.O.-box only, so a 20768 customer's actual jobsite is still a 20770 street address; and 20771 is reserved for NASA's Goddard Space Flight Center. Give us the physical street address, not the box.
 
-**Drive time.** Beltsville is about ten minutes from most Greenbelt addresses, and Greenbelt Park borders the research-center land near our dispatch base, so this is a very short haul for us. We dispatch every morning — most addresses are scheduled within 24 hours, and an early call may still make a same-day run.
+**Drive time.** Greenbelt is a very short haul for us. We dispatch every morning — most addresses are scheduled within 24 hours, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

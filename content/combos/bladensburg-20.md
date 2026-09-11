@@ -1,10 +1,10 @@
-If you're cleaning out a whole house, gutting a few rooms, or tearing off a mid-size roof in Bladensburg, the 20-yard roll-off is almost always the right call. It's the size most of our customers end up choosing, and it's the one they rarely regret. At JP Roll-Off Service, we're a family-owned hauler dispatched out of Beltsville, and Bladensburg is a short run from our yard. When you call, one of the owners answers the phone, not a call center.
+If you're cleaning out a whole house, gutting a few rooms, or tearing off a mid-size roof in Bladensburg, the 20-yard roll-off is almost always the right call. It's one of our most versatile sizes, and it's the one they rarely regret. At JP Roll-Off Service, we're a family-owned hauler, and Bladensburg is a short run for us. When you call, one of the owners answers the phone, not a call center.
 
 ## What the 20-yard holds
 
-The 20-yard is our "whole-house cleanout" size. It measures roughly 22 feet long, 8 feet wide, and 4 feet tall, and it swallows about nine pickup-truck loads of debris. It comes with a 2-ton (4,000 lb) weight allowance, and a 20-yard for construction debris includes delivery, pickup on request, and a 14-day rental with the 2-ton allowance built in — priced by material, so call for a quote. Pickup is on request, so you call us when you're ready. Pricing is per material, not flat: extra days run $5 each, and any weight over the 2-ton allowance is billed at $105 per additional ton.
+The 20-yard is our "whole-house cleanout" size. It measures roughly 22 feet long, 8 feet wide, and 4 feet tall, and it swallows about nine pickup-truck loads of debris. A 20-yard for construction debris includes delivery, pickup on request, and a 14-day rental — priced by material, so call for a quote. Pickup is on request, so you call us when you're ready. Pricing is per material, not flat: additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters.
 
-Those four-foot walls are low enough that you can pitch bagged trash, broken furniture, and demolition debris over the side without a struggle, while the 22-foot length gives you a real volume of material to work with. For a lot of jobs around town, it hits the sweet spot: bigger than you'll outgrow on a single room, with a lower wall and lighter allowance than the taller-walled 30-yard built for full demolition.
+Those four-foot walls are low enough that you can pitch bagged trash, broken furniture, and demolition debris over the side without a struggle, while the 22-foot length gives you a real volume of material to work with. For a lot of jobs around town, it hits the sweet spot: bigger than you'll outgrow on a single room, with a lower wall than the taller-walled 30-yard built for full demolition.
 
 ## Which Bladensburg jobs suit this size
 
@@ -13,7 +13,7 @@ Bladensburg's housing stock is what makes the 20-yard so popular here. The bulk 
 - **Whole-house cleanouts.** Whether you're clearing out a property you just bought or one that's been in the family for decades, a single 20-yard usually handles the furniture, appliances, and accumulated clutter of a full house.
 - **Multi-room remodels.** Pulling cabinets, flooring, drywall, and fixtures from a kitchen plus a bath or two generates more debris than people expect. The 20-yard keeps it all in one container.
 - **Estate cleanouts.** When you're settling an estate or prepping a home for sale, you need to move quickly and without making multiple trips. This size gives you room to work through the whole place.
-- **Mid-size roofing.** For a roof tear-off on a typical Bladensburg single-family home, the 20-yard's weight allowance and capacity are a sensible match, given how dense shingle debris is.
+- **Mid-size roofing.** For a roof tear-off on a typical Bladensburg single-family home, the 20-yard's capacity is a sensible match — and since shingle debris is dense, let us know it is a roofing job and we will quote it accordingly.
 
 The town's older neighborhoods feed a steady stream of these jobs. The Decatur Heights sections, platted in 1914 and 1917 on gridded streets north and south of Annapolis Road, are full of early-20th-century bungalows, and the Sunnybrook subdivision added single-family homes in 1947. As those homes change hands and get updated, the cleanout-and-remodel work follows.
 
@@ -29,8 +29,8 @@ On top of that, the town has invested in green stormwater infrastructure to prot
 
 If it helps to describe your spot by landmark, the Port Towns area, the Anacostia tributary corridor, and reference points like Bladensburg Waterfront Park, the George Washington House on Annapolis Road, or the Bostwick House all give us a quick read on where you are and what the access looks like.
 
-## A short run from our Beltsville yard
+## A short run for us
 
-Bladensburg sits about a mile from the D.C. line, and it's a quick trip from our Beltsville dispatch, so scheduling delivery and pickup is straightforward. We'll talk through where the 20-yard should land before the truck rolls out, so it shows up the first time in a spot that works for your project and respects your driveway and the surface underneath it.
+Bladensburg sits about a mile from the D.C. line, and it's a quick trip for us, so scheduling delivery and pickup is straightforward. We'll talk through where the 20-yard should land before the truck rolls out, so it shows up the first time in a spot that works for your project and respects your driveway and the surface underneath it.
 
-If you're staring down a whole-house cleanout, a multi-room remodel, an estate clearing, or a mid-size roof in Bladensburg, the 20-yard is very likely the size you want. Call JP Roll-Off Service at (301) 252-3586 and one of us, the actual owners, will help you size the job right, walk through placement, and get you a clear price for your material, with delivery, pickup, a 14-day rental, and the 2-ton allowance included (extra days are $5 each and weight over the allowance is $105 per ton). No call center, no runaround, just a family business that knows these Port Town streets.
+If you're staring down a whole-house cleanout, a multi-room remodel, an estate clearing, or a mid-size roof in Bladensburg, the 20-yard is very likely the size you want. Call JP Roll-Off Service at (301) 252-3586 and one of us, the actual owners, will help you size the job right, walk through placement, and get you a clear price for your material, with delivery, pickup, and a 14-day rental included. No call center, no runaround, just a family business that knows these Port Town streets.

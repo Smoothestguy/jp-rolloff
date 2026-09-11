@@ -1,10 +1,10 @@
 Bladensburg packs roughly 9,600 people onto about one square mile of land at the headwaters of the Anacostia, which makes it one of the tightest, most placement-constrained towns we serve. On a square mile that dense, lots run narrow, driveways are short, and curbside frontage is scarce. So when a homeowner here takes on something big enough to need a 25-yard roll-off — a home addition, a whole-house remodel, a major roof, or a full commercial cleanout — the very first question is not the dumpster, it's where on earth a container this size is going to sit. We're JP Roll-Off Service, a family-owned hauler, and we sort that out with you before the truck rolls.
 
-We dispatch out of our yard in Beltsville, which is a short run up to Bladensburg, so we know the Port Towns end of the county well — the gridded older blocks east of Annapolis Road, the riverside parcels along the Anacostia tributary corridor, and the stretch down toward the Edmonston border. The 25-yard is our major-construction size, and Bladensburg's aging housing stock keeps it busy.
+Bladensburg is a short run for us, so we know the Port Towns end of the county well — the gridded older blocks east of Annapolis Road, the riverside parcels along the Anacostia tributary corridor, and the stretch down toward the Edmonston border. The 25-yard is our major-construction size, and Bladensburg's aging housing stock keeps it busy.
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard measures 18 ft long by 8 ft wide by 6 ft tall and holds roughly 10.5 pickup-truck loads of debris. Pricing is per material, so call for a quote — what you'll pay depends on what you're throwing away. Every 25-yard includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) weight allowance. Pickup is on request — you call to schedule it. Extra days run $5 a day, and weight over the 2-ton allowance is billed at $105 per additional ton.
+The 25-yard measures 18 ft long by 8 ft wide by 6 ft tall and holds roughly 10.5 pickup-truck loads of debris. Pricing is per material, so call for a quote — what you'll pay depends on what you're throwing away. Every 25-yard includes delivery, pickup on request, and a 14-day rental. Pickup is on request — you call to schedule it. Additional days are available on request when you book, and heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
 
 It's the step up from our everyday residential containers. Where a 20-yard handles a kitchen-and-two-baths gut, the 25-yard is built for projects that generate debris on a larger or longer timeline — the kind where you'd otherwise be calling for a second smaller box halfway through. The taller, deeper box means real volume in a manageable footprint: at 18 feet of length plus clearance for the truck and an open rear door, it needs more straight room than the shorter sizes, and the 6-foot walls hold a lot. On a narrow Bladensburg lot that footprint is the deciding factor, so measure twice before booking, and let us look at the spot with you.
 
@@ -14,7 +14,7 @@ The bulk of Bladensburg's housing is mid-20th-century — ZIP 20710 carries a me
 
 - **Home additions.** Adding a room or bumping out the back of a 1960s house generates framing offcuts, old siding, drywall, and demo debris over weeks. The 25-yard gives you the volume to keep one container on site through the build instead of swapping boxes.
 - **Whole-house remodels.** A full gut of one of these mid-century homes — kitchen, baths, flooring, and walls all coming out — fills the 25-yard's range without paying for a 30-yard you won't top off.
-- **Large roofing tear-offs.** A bigger or multi-layer roof on an older Bladensburg home runs heavy, and the 2-ton allowance covers a good share of that asphalt weight before the $105-per-ton overage matters.
+- **Large roofing tear-offs.** A bigger or multi-layer roof on an older Bladensburg home runs heavy, and shingle weight is quoted separately because weight matters.
 - **Commercial cleanouts.** Along the Annapolis Road (MD 450) commercial corridor, a storefront or office cleanout produces a lot of mixed debris in a hurry. **Commercial accounts welcome — ask about billing**, so it fits how a business runs.
 
 If your project is smaller — a single bath, a one-room flooring job — we'll tell you straight that a 20 or even a 15-yard is the better call. The 25-yard earns its keep on the major work, not the quick stuff.
@@ -27,7 +27,7 @@ If your project is smaller — a single bath, a one-room flooring job — we'll 
 
 **Mind the floodplain near the river.** Bladensburg's geography was shaped by serious Anacostia flooding in 1933, 1942, and 1954, which led to the late-1950s flood-control project and the levees along both banks. Low-lying riverside parcels near the Anacostia tributary corridor — out toward the Edmonston border and the Port Towns junction — still sit in or near the floodplain, where soft or saturated ground can be a real concern for setting a heavy container safely. If your site is down near the water, we'll check the footing before we drop the box.
 
-**Drive time.** It's a short run from our Beltsville yard, so we dispatch early and most Bladensburg addresses are scheduled within 24 hours. An early call may still make a same-day run.
+**Drive time.** Bladensburg is a short run for us, so we dispatch early and most Bladensburg addresses are scheduled within 24 hours. An early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

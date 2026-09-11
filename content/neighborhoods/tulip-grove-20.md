@@ -1,12 +1,12 @@
 Tulip Grove is Bowie's "T-section," and the street signs give it away: Tulip Grove Drive, Trainor Lane, Tallow Lane, Tarragon Lane. Levitt & Sons gave every street here a name starting with T, the same alphabetized-section trick that produced the B, K and F sections elsewhere in Belair at Bowie. But Tulip Grove was different in one way that still matters for a project today — it was part of the eastward expansion of the community, built with slightly larger homes and lots than Levitt's earliest Bowie sections as the company adapted to what buyers wanted. The earliest sections, Tulip Grove among them, were finished roughly between 1960 and 1964, which makes the housing stock here 60-plus years old and squarely in the window for major renovation. That single fact drives most of the dumpster work we do on the T-named streets, and the 20-yard roll-off is the size most of those projects land on.
 
-We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 25 minutes from Tulip Grove by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks — not a call center.
+We are JP Roll-Off Service, a family-owned hauler, and Tulip Grove is an easy run for us by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks — not a call center.
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material — priced by what you are throwing away, so call for a quote — and that price includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) weight allowance. Keep the dumpster past 14 days for $5 a day, and any weight over the 2-ton allowance is billed at $105 per additional ton. Aggregates are accepted only in the 10, 15, and 20-yard sizes.
+The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material — priced by what you are throwing away, so call for a quote — and that price includes delivery, pickup on request, and a 14-day rental. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters. Aggregates are accepted only in the 10, 15, and 20-yard sizes.
 
-Those low, 4-foot walls are part of what makes this size so easy to load. It is low enough to still walk debris up and toss it over the side, but the long, 22-foot body swallows the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demo. It is the size most customers end up choosing — and rarely regret. People around here call it the "whole-house cleanout" size for a reason.
+Those low, 4-foot walls are part of what makes this size so easy to load. It is low enough to still walk debris up and toss it over the side, but the long, 22-foot body swallows the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demo. It is one of our most versatile sizes — and one customers rarely regret. People around here call it the "whole-house cleanout" size for a reason.
 
 ## Why the 20-yard fits Tulip Grove specifically
 
@@ -17,7 +17,7 @@ Here are the jobs that come up again and again on the T-named streets:
 - **Whole-house cleanouts.** This is the 20-yard's best-known role. Clearing an original Tulip Grove Levitt home between owners, or after years of accumulation, fills a 20-yard about right without paying for space you will not use.
 - **Multi-room remodels.** A kitchen-and-baths gut, or a run of bedrooms getting new flooring and drywall, is the classic 20-yard job in a Levitt home on its second or third renovation. Tearing out an original kitchen and a bath or two generates exactly the debris volume a 20 was built for.
 - **Estate cleanouts.** Tulip Grove has held many of the same families since the homes were new. When one of those longtime, original-owner homes changes hands, the 20-yard handles furniture, boxes, and household debris in a single container.
-- **Mid-size roofing tear-offs.** A typical Belair-era roof tear-off on these modest-footprint Ranchers and Capes fits comfortably, with the 2-ton allowance covering most single-layer asphalt jobs; anything over that is $105 per additional ton.
+- **Mid-size roofing tear-offs.** A typical Belair-era roof tear-off on these modest-footprint Ranchers and Capes fits comfortably; shingles are dense, so let us know it is a roofing job and we will quote it accordingly.
 
 If your project is smaller — a single bathroom, a garage purge, a few rooms of flooring — a 15-yard may serve you better. If you are gutting to the studs and adding on, we will talk through whether a 30 makes more sense. Tell us the address and the scope and we will steer you straight; we would rather size it right than oversell you.
 
@@ -29,7 +29,7 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 **Associations.** Some Levitt sections fall under civic or homeowners associations, and the City of Bowie keeps an official listing of them. Staging on your own driveway typically does not need anyone's sign-off, but if your block has an active association with placement rules, follow those alongside the city rule. If you would like to give them a heads-up, we are happy to provide a service confirmation to forward along.
 
-**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway. Tulip Grove Elementary School sits right in the heart of the neighborhood at 2909 Trainor Lane — a central landmark on one of the T-named streets — so we know exactly where these blocks are. Most Tulip Grove addresses are scheduled inside 24 hours, and an early call may still make a same-day run. The section is in ZIP 20715.
+**Drive time.** We dispatch every morning by Route 197 or the BW Parkway. Tulip Grove Elementary School sits right in the heart of the neighborhood at 2909 Trainor Lane — a central landmark on one of the T-named streets — so we know exactly where these blocks are. Most Tulip Grove addresses are scheduled inside 24 hours, and an early call may still make a same-day run. The section is in ZIP 20715.
 
 ## Talk to the family that runs the trucks
 

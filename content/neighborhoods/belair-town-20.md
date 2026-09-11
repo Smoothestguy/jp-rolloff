@@ -1,12 +1,12 @@
 Belair Town is one of the few dense, shared-wall enclaves inside Levitt and Sons' Belair at Bowie — the firm's fourth and final postwar planned community. While most of Belair filled in with detached ramblers and split-levels, Belair Town went up as roughly 300 townhouse units, built in two phases between 1968 and 1970 and flanking the stores on the north side of Annapolis Road (MD 450). Those townhomes are over 50 years old now, and that is exactly why the 20-yard roll-off is the size most projects here end up needing. It is the dumpster that handles a real renovation or a full cleanout without overwhelming the tight frontages and single assigned parking spaces that define this neighborhood.
 
-We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 25 minutes from Belair Town by way of Route 197 or the BW Parkway. When you call, you reach the family that owns the trucks — not a call center, not a dispatcher reading off a script.
+We are JP Roll-Off Service, a family-owned hauler, and Belair Town is an easy run for us by way of Route 197 or the BW Parkway. When you call, you reach the family that owns the trucks — not a call center, not a dispatcher reading off a script.
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material (aggregates are accepted only in the 10, 15, and 20-yard sizes). The 20-yard **includes delivery, a 14-day rental, and a 2-ton (4,000 lb) weight allowance**, with pickup on request — priced by material, so call for a quote. Extra time runs $5 per day, and any weight over the 2-ton allowance is $105 per additional ton.
+The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material (aggregates are accepted only in the 10, 15, and 20-yard sizes). The 20-yard **includes delivery and a 14-day rental**, with pickup on request — priced by material, so call for a quote. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters.
 
-Those four-foot walls matter more than people expect. The walls are low enough that you can still walk debris up and toss it over the side, but the 22-foot length swallows the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that really only makes sense for ground-up construction or full structural demo. Around here it earns its nickname — the "whole-house cleanout" size — and it is the size most customers end up choosing and rarely regret.
+Those four-foot walls matter more than people expect. The walls are low enough that you can still walk debris up and toss it over the side, but the 22-foot length swallows the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that really only makes sense for ground-up construction or full structural demo. Around here it earns its nickname — the "whole-house cleanout" size — and it is one of our most versatile sizes, and one customers rarely regret.
 
 ## Why the 20-yard fits Belair Town specifically
 
@@ -17,7 +17,7 @@ Here are the jobs that come up again and again on these blocks:
 - **Whole-house cleanouts.** This is the 20-yard's signature role. Clearing an original Belair Town townhome between owners, or after decades of accumulation, fills a 20-yard about right without paying for space you will not use. Furniture, boxes, old carpet, and household debris all go in one container.
 - **Multi-room remodels.** Modernizing a 50-plus-year-old townhome usually means hitting the kitchen and a bath or two in one push. The drywall, tile, cabinetry, and trim debris from a multi-room gut on a 1,000-to-1,500-square-foot unit is exactly the volume a 20 was built to hold.
 - **Estate cleanouts.** Belair Town has held many of the same families since the units were new around 1969 and 1970. When one of those longtime homes changes hands, the 20-yard handles a full clear-out in a single drop.
-- **Mid-size roofing tear-offs.** A single-layer asphalt tear-off on a townhome roof fits comfortably, with the 2-ton allowance covering most jobs of that footprint. Because the units share walls, we will talk through staging so the container serves your section cleanly.
+- **Mid-size roofing tear-offs.** A single-layer asphalt tear-off on a townhome roof fits comfortably; shingles are dense, so let us know it is a roofing job and we will quote it accordingly. Because the units share walls, we will talk through staging so the container serves your section cleanly.
 
 If your project is smaller — a single bathroom, a closet purge, a few rooms of flooring — a 15-yard may serve you better and save you a little. If you are combining a gut renovation with a basement clear-out and a roof, we will talk through whether a 30 makes more sense. Tell us the address and the scope and we will steer you straight. We would rather size it right than oversell you.
 
@@ -31,7 +31,7 @@ If your project is smaller — a single bathroom, a closet purge, a few rooms of
 
 **One thing you will not need the dumpster for.** Belair Town II receives municipal trash, recycling, and yard-waste pickup, so routine household garbage is already handled at the curb. A rented roll-off here is for the larger stuff — renovation debris, bulk cleanouts, and construction loads that curbside service will not take. That is precisely where the 20-yard earns its keep.
 
-**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning. Most Belair Town addresses are scheduled within 24 hours, and an early call may still make a same-day run.
+**Drive time.** We dispatch every morning. Most Belair Town addresses are scheduled within 24 hours, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

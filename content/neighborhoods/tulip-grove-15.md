@@ -1,10 +1,10 @@
 Tulip Grove is the eastward "T-section" of Belair at Bowie — the part of Levitt & Sons' big 1960s development where every street name starts with the letter T. Tulip Grove Drive, Trainor Lane, Tallow Lane, Tarragon Lane: the alphabetized layout is a Levitt quirk that locals use as a landmark, and it tells you a lot about the houses behind those signs. Built in the early-to-mid 1960s as the company pushed the community east, these are detached single-family Levitt models — Ranchers, Cape Cods and Colonials — now more than 60 years old and squarely in renovation territory. When the job is one room of one of those homes, the 15-yard roll-off is usually the size that fits.
 
-We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 25 minutes from Tulip Grove by Route 197 or the BW Parkway. When you call, you reach the family that owns the trucks — the same people who answer the phone schedule your drop and run it out to you.
+We are JP Roll-Off Service, a family-owned hauler, and Tulip Grove is an easy run by Route 197 or the BW Parkway. When you call, you reach the family that owns the trucks — the same people who answer the phone schedule your drop and run it out to you.
 
 ## Why the 15-yard fits Tulip Grove homes
 
-The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds about seven pickup-truck loads of debris. Pricing is per material — priced by what you are throwing away, so call for a quote — and that price includes delivery, pickup on request, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance. Need it longer? It is just +$5 a day. Go over the allowance and extra weight is $105 per additional ton.
+The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds about seven pickup-truck loads of debris. Pricing is per material — priced by what you are throwing away, so call for a quote — and that price includes delivery, pickup on request, and a 14-day rental. Need it longer? Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
 
 We call this the "single-room reno" size, and it earns the name on the T-streets. The 15 is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly. That matters here in a specific way. Tulip Grove (with neighboring Long Ridge) was Levitt's eastward expansion, built with slightly larger homes and lots than the company's earlier Bowie sections. Lots run roughly a fifth of an acre and up — recent Tulip Grove Drive listings show parcels in the ~9,100 to 10,600 sq ft range, with bigger corner lots. That extra side- and rear-yard space, paired with detached homes on private driveways, means a 15-yard almost always stages entirely on your own property.
 
@@ -15,7 +15,7 @@ So the 15 is a fit on two counts: it swallows a contained, one-room project in a
 Because the housing stock here is original 1960s Levitt — Ranchers, Capes and Colonials now 60-plus years old — the work that comes up is aging-home renovation and cleanout, not new-build debris. A 15-yard is sized right for the projects that hit one part of the house at a time:
 
 - **Kitchen remodel.** Tearing out the original cabinets, counters, flooring and a wall of plaster or drywall from a Levitt kitchen fills a 15-yard about right, without paying for space you will not use.
-- **Roofing tear-off.** A single-layer asphalt tear-off on a Rancher or Cape of this footprint sits comfortably inside the 1.5-ton allowance — these are modest mid-century roof spans, not sprawling new-construction rooflines.
+- **Roofing tear-off.** A single-layer asphalt tear-off on a Rancher or Cape of this footprint sits comfortably in this size — these are modest mid-century roof spans, not sprawling new-construction rooflines.
 - **Two-bath gut.** Pulling tile, vanities, tubs and subfloor from a pair of bathrooms is a classic 15-yard job in a home on its second or third round of renovation.
 - **Basement cleanout.** Many of these homes finished their basements decades ago; clearing old paneling, carpet and 60 years of accumulation lands neatly in a 15.
 
@@ -29,8 +29,8 @@ The four-bedroom Colonials on streets like Swirl Lane and the Cape Cods over on 
 
 **Finding your door.** The T-section naming is more than trivia for our drivers. The moment they turn onto a T-named street — Trainor, Tallow, Tarragon, or Tulip Grove Drive itself — they know they are in the right tract, which cuts down the wrong-address runs that slow a delivery. Tulip Grove Elementary at 2909 Trainor Lane sits right in the heart of the neighborhood and makes an easy reference point when we are lining up a drop.
 
-**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway. Most Tulip Grove addresses in the 20715 ZIP are scheduled inside 24 hours, and an early call may still make a same-day run.
+**Drive time.** We dispatch every morning by Route 197 or the BW Parkway. Most Tulip Grove addresses in the 20715 ZIP are scheduled inside 24 hours, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 
-Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Tulip Grove address and what you are tackling — a kitchen gut in a Tulip Grove Drive Rancher, a roof tear-off, a two-bath remodel in a Stonehaven Lane Cape, or a basement cleanout in a long-held family Colonial — and we will confirm the 15-yard is the right size and quote you on the spot. Pricing is per material, priced by what you are throwing away, with delivery, pickup on request, and a 14-day rental and 1.5-ton allowance included; extra weight runs $105 per ton.
+Call **(301) 252-3586** and you reach the people who actually own and operate JP Roll-Off. Tell us your Tulip Grove address and what you are tackling — a kitchen gut in a Tulip Grove Drive Rancher, a roof tear-off, a two-bath remodel in a Stonehaven Lane Cape, or a basement cleanout in a long-held family Colonial — and we will confirm the 15-yard is the right size and quote you on the spot. Pricing is per material, priced by what you are throwing away, with delivery, pickup on request, and a 14-day rental included.

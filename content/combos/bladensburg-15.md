@@ -2,7 +2,7 @@ When a single-room project in Bladensburg outgrows a pile of contractor bags but
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures roughly 16 feet long, 8 feet wide, and 4 feet tall. That holds about seven pickup-truck loads of debris, and it comes with a 1.5-ton (3,000-pound) weight allowance. Pricing is per material — for construction debris a 15-yard includes delivery, pickup on request, and a 14-day rental with the 1.5-ton allowance, priced by material, so call for a quote. Additional days run $5/day, and any weight over the allowance is billed at $105 per ton. Pickup is on request, so you call us when you're ready and we schedule the haul.
+The 15-yard measures roughly 16 feet long, 8 feet wide, and 4 feet tall. That holds about seven pickup-truck loads of debris. Pricing is per material — for construction debris a 15-yard includes delivery, pickup on request, and a 14-day rental, priced by material, so call for a quote. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request, so you call us when you're ready and we schedule the haul.
 
 The four-foot walls matter as much as the volume. You can load this size by hand or with a wheelbarrow without heaving everything over your head, which is why it's the go-to for a one-room job where a crew is moving steadily over a few days. It's the size we describe as the "single-room reno" bin: enough room for the demo from one kitchen or two baths, not so much that you're staring at half an empty box on pickup day.
 
@@ -10,8 +10,8 @@ The four-foot walls matter as much as the volume. You can load this size by hand
 
 Bladensburg's housing stock is what drives most 15-yard calls. The bulk of homes here in ZIP 20710 date to the mid-20th century, with a median build year around 1969 and a heavy concentration from the 1950s and '60s. Those houses are now hitting the age where original kitchens and bathrooms get torn out and replaced, and that's exactly the work a 15 is built for:
 
-- **Kitchen remodel** — cabinets, countertops, old flooring, and drywall from a single kitchen typically land right inside the 15's volume and weight allowance.
-- **Roofing tear-off** — a single-layer tear-off on an average Bladensburg roofline fits this size well; shingles are heavy, so the 1.5-ton allowance is the number to keep an eye on.
+- **Kitchen remodel** — cabinets, countertops, old flooring, and drywall from a single kitchen typically land right inside the 15's volume.
+- **Roofing tear-off** — a single-layer tear-off on an average Bladensburg roofline fits this size well; shingles are heavy, so tell us it is a roof job when you call and we will quote it accordingly.
 - **Two-bath gut** — pulling tile, tubs, vanities, and subfloor from two bathrooms is a classic 15-yard load.
 - **Basement cleanout** — clearing out a finished or storage basement, the kind of decades-deep accumulation common in these older homes.
 
@@ -27,7 +27,7 @@ Two local quirks shape where the bin can actually sit. First, this is flood coun
 
 ## Drive time and how we work
 
-Bladensburg is a short run from our Beltsville yard, so getting a 15 to you, swapping it, or hauling it on pickup day is straightforward. The town sits about a mile from the D.C. line, with Annapolis Road (MD Route 450) as the main spine and the residential blocks fanning out east of it — a compact layout we know well.
+Bladensburg is a short run for us, so getting a 15 to you, swapping it, or hauling it on pickup day is straightforward. The town sits about a mile from the D.C. line, with Annapolis Road (MD Route 450) as the main spine and the residential blocks fanning out east of it — a compact layout we know well.
 
 Because we're family-owned, the owners answer the phone. There's no call center between you and the people who actually drive the truck and set the box. That matters on a tight Bladensburg lot, where a two-minute conversation about your driveway width, your ground surface, and whether you're near the floodplain can save a headache on delivery day.
 

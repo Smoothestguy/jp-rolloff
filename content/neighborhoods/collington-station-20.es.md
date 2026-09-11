@@ -1,12 +1,12 @@
 Collington Station es una comunidad planificada de unas 528 casas unifamiliares en el extremo sur de Bowie, acomodada contra la línea de árboles que la separa del Oak Creek Golf Club. El desarrollo data de aproximadamente 1990, lo que significa que la mayor parte de estas casas tienen ahora entre 30 y 35 años, justo en la etapa donde techos, cocinas, baños y sótanos empiezan a vencerse todos al mismo tiempo. Por eso exactamente el roll-off de 20 yardas es el tamaño que la mayoría de los proyectos aquí terminan necesitando. Es lo bastante grande para tragarse una verdadera renovación o una limpieza completa, pero todavía cabe con holgura en los parqueos pavimentados de garaje adosado que casi toda casa de este vecindario tiene.
 
-Somos JP Roll-Off Service, una empresa familiar despachada desde Beltsville, a unos 25 minutos de Collington Station por la Ruta 197 o el BW Parkway. Cuando llamas, hablas con la familia dueña de los camiones, no con un centro de llamadas ni con un despachador leyendo un guion.
+Somos JP Roll-Off Service, una empresa familiar, y Collington Station nos queda a un trayecto fácil por la Ruta 197 o el BW Parkway. Cuando llamas, hablas con la familia dueña de los camiones, no con un centro de llamadas ni con un despachador leyendo un guion.
 
 ## Qué cabe en un contenedor de 20 yardas
 
-El de 20 yardas mide 22 pies de largo por 8 pies de ancho por 4 pies de alto y tiene capacidad para aproximadamente nueve cargas de camioneta de escombros. El precio es por material: un 20 yardas se **cotiza según lo que vas a desechar, así que llámanos para una cotización**, y ese precio incluye entrega, recogida a solicitud y un periodo de renta de 14 días con un límite de peso de 2 toneladas (4,000 lb). Consérvalo más tiempo por apenas $5 al día, y cualquier peso por encima del límite de 2 toneladas se cobra a $105 por tonelada adicional.
+El de 20 yardas mide 22 pies de largo por 8 pies de ancho por 4 pies de alto y tiene capacidad para aproximadamente nueve cargas de camioneta de escombros. El precio es por material: un 20 yardas se **cotiza según lo que vas a desechar, así que llámanos para una cotización**, y ese precio incluye entrega, recogida a solicitud y un periodo de renta de 14 días. Los días adicionales están disponibles a solicitud cuando reservas, y los materiales densos o pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa.
 
-Esas paredes bajas de cuatro pies importan más de lo que la gente espera. Son lo bastante bajas para que aún puedas caminar el escombro y lanzarlo por encima del lado, mientras el largo cajón de 22 pies sostiene el volumen de un proyecto genuino. Ese equilibrio es por lo que el de 20 yardas queda en el punto justo para tantas casas: más grande que un 10 o 15 yardas de limpieza rápida, pero no el enorme 30 yardas que de verdad solo tiene sentido para construcción desde cero o demolición estructural total. Por aquí se gana su apodo (el tamaño "limpieza de casa completa") y es el tamaño que la mayoría de los clientes terminan eligiendo y rara vez lamentan.
+Esas paredes bajas de cuatro pies importan más de lo que la gente espera. Son lo bastante bajas para que aún puedas caminar el escombro y lanzarlo por encima del lado, mientras el largo cajón de 22 pies sostiene el volumen de un proyecto genuino. Ese equilibrio es por lo que el de 20 yardas queda en el punto justo para tantas casas: más grande que un 10 o 15 yardas de limpieza rápida, pero no el enorme 30 yardas que de verdad solo tiene sentido para construcción desde cero o demolición estructural total. Por aquí se gana su apodo (el tamaño "limpieza de casa completa") y es uno de nuestros tamaños más versátiles, y uno del que los clientes rara vez se arrepienten.
 
 ## Por qué el de 20 yardas encaja específicamente en Collington Station
 
@@ -17,7 +17,7 @@ Esa distribución de sótano completo y tres niveles es la otra razón por la qu
 - **Limpiezas de casa completa.** Este es el papel estelar del 20 yardas. Despejar una de estas coloniales de arriba abajo (o prepararla para la venta tras años de acumulación) llena un 20 yardas más o menos justo sin pagar por espacio que no usarás. Muebles, cajas, alfombra vieja y basura del hogar van todos en una sola entrega.
 - **Remodelaciones de varias habitaciones.** Modernizar una colonial de 30 años suele significar atacar la cocina y uno o dos baños de una sola vez. La tablaroca, el azulejo, los gabinetes y los remates de una demolición de varias habitaciones son justo el volumen para el que se construyó un 20.
 - **Limpiezas de patrimonio.** Muchas casas de Collington Station han tenido los mismos dueños desde que el vecindario era nuevo. Cuando una de esas casas de toda la vida cambia de manos, el de 20 yardas resuelve un vaciado completo en un solo contenedor.
-- **Remociones de techo medianas.** Una remoción de asfalto de una sola capa en una de estas coloniales de tres niveles cabe cómodamente, con el límite de 2 toneladas cubriendo la mayoría de los trabajos de esa superficie.
+- **Remociones de techo medianas.** Una remoción de asfalto de una sola capa en una de estas coloniales de tres niveles cabe cómodamente; las tejas son densas, así que avísanos que es un trabajo de techo y lo cotizaremos como corresponde.
 
 Si tu proyecto es más pequeño (un solo baño, una purga de clóset, algunas habitaciones de piso), un 15 yardas puede servirte mejor y ahorrarte un poco. Si vas a combinar una renovación a fondo con un vaciado de sótano completo y un techo todo a la vez, repasaremos si un 30 tiene más sentido. Dinos la dirección y el alcance y te orientaremos directo. Preferimos dimensionarlo bien que venderte de más.
 
@@ -29,7 +29,7 @@ Si tu proyecto es más pequeño (un solo baño, una purga de clóset, algunas ha
 
 **Meter el camión.** Collington Station está trazado como un fraccionamiento suburbano de calles residenciales tipo "lane" (con nombres como Jordon Pond Lane y Johnstone Lane) en lugar de amplias calles de paso. Son tranquilas y residenciales, así que metemos el camión con cuidado y colocamos el cajón exactamente donde tiene que ir en tu parqueo. El vecindario está en el código postal 20721, cerca del Oak Creek Golf Club a lo largo del borde sur de Bowie.
 
-**Tiempo de traslado.** Estamos a unos 25 minutos en Beltsville y despachamos cada mañana. La mayoría de las direcciones de Collington Station se programan dentro de las 24 horas, y una llamada temprana puede aún alcanzar una entrega el mismo día.
+**Tiempo de traslado.** Despachamos cada mañana. La mayoría de las direcciones de Collington Station se programan dentro de las 24 horas, y una llamada temprana puede aún alcanzar una entrega el mismo día.
 
 ## Habla con la familia que maneja los camiones
 

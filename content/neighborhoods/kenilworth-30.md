@@ -1,12 +1,12 @@
 Kenilworth is the "K" section of Belair at Bowie, and once you know that, the whole neighborhood snaps into focus. Levitt and Sons laid out Belair so each section's streets shared a starting letter — Somerset with its "S" streets, Buckingham with "B," Foxhill with "F," Tulip Grove with "T," and Kenilworth with "K." It was one of the earliest sections to go up, built right after Somerset and Buckingham in the early 1960s, after Levitt threw open the Belair grand opening in October 1960 to a crowd of around 20,000 and the first families moved in a year later. The homes here date overwhelmingly to that tight 1960–1964 window, which makes Kenilworth a neighborhood of 60-plus-year-old Levitt houses, remarkably uniform in age and model. When a job here is big enough to outgrow every smaller bin — a full gut-to-studs, a teardown, a heavy bulk haul — the 30-yard is the container we bring.
 
-We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 25 minutes from Kenilworth by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks, not a call center.
+We are JP Roll-Off Service, a family-owned hauler, and Kenilworth is an easy run by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks, not a call center.
 
 ## What fits in a 30-yard dumpster
 
-The 30-yard measures 22 ft long by 8 ft wide by 6 ft tall and holds roughly 14 pickup-truck loads of debris. Pricing is per material: a 30-yard for construction debris **includes delivery, pickup on request, and a 14-day rental with a 3-ton (6,000 lb) weight allowance — priced by material, so call for a quote**. Extra rental days run $5 a day, and any weight over the 3-ton allowance is $105 per additional ton. Pickup is by request — just call to schedule it.
+The 30-yard measures 22 ft long by 8 ft wide by 6 ft tall and holds roughly 14 pickup-truck loads of debris. Pricing is per material: a 30-yard for construction debris **includes delivery, pickup on request, and a 14-day rental — priced by material, so call for a quote**. Additional days are available on request when you book, and heavy material such as concrete, dirt, brick and shingles is quoted separately because weight matters. Pickup is by request — just call to schedule it.
 
-This is our maximum-capacity roll-off, the one people in the trade call the "commercial and demo" size. Those six feet of wall are taller than the 20-yard's five, and the extra six feet of length is what lets the box swallow the volume of a job that would otherwise mean a second haul. The reason to choose a 30 is simple: it is for the work where a smaller bin would fill up halfway through and leave you waiting on another drop. If your project is big enough that you are doing the math on hauls, the 30 usually pays for itself by being one container instead of two.
+This is one of our highest-capacity roll-offs, the one people in the trade call the "commercial and demo" size. Those six feet of wall are taller than the 20-yard's five, and the extra six feet of length is what lets the box swallow the volume of a job that would otherwise mean a second haul. The reason to choose a 30 is simple: it is for the work where a smaller bin would fill up halfway through and leave you waiting on another drop. If your project is big enough that you are doing the math on hauls, the 30 usually pays for itself by being one container instead of two.
 
 The trade-off is footprint. A 30-yard is 22 feet of straight steel, and it needs a long, clear run-up to set down and pick back up — the truck has to line up squarely and slide the box off the back. That is the one thing worth confirming before we roll out.
 
@@ -31,7 +31,7 @@ Because the homes here are so alike in age and original construction, the heavy 
 
 **A neighborhood with a record.** Belair at Bowie is documented in the Library of Congress Historic American Buildings Survey, with individual models recorded separately, which speaks to the recognized historic character of the Levitt stock Kenilworth shares. That does not add red tape to a private driveway dumpster, but on a demolition it is worth knowing what these houses are. We treat your property and the surface under the container accordingly.
 
-**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway. Kenilworth sits in the 20715 ZIP, and most addresses are scheduled inside 24 hours, with an early call sometimes still making a same-day run.
+**Drive time.** We dispatch every morning by Route 197 or the BW Parkway. Kenilworth sits in the 20715 ZIP, and most addresses are scheduled inside 24 hours, with an early call sometimes still making a same-day run.
 
 ## Talk to the family that runs the trucks
 

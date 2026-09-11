@@ -1,12 +1,12 @@
 Fairwood is one of Bowie's newer neighborhoods, a master-planned community built largely between 2004 and 2010 by builders like NVHomes, Ryan Homes, and Mid-Atlantic Builders on the old Fairview land that once belonged to former Maryland Governor Oden Bowie. That history gives Fairwood a distinct identity inside Prince George's County — but for our purposes, the detail that matters most is the construction era. These are mid-2000s homes with full basements, gourmet kitchens, and decks, sitting on quarter-acre lots along sidewalk-lined, cul-de-sac streets. Twenty years on, those homes are now hitting their first big wave of basement finishes and whole-home remodels — and the 20-yard roll-off is the size most of those projects land on.
 
-We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 25 minutes from Fairwood by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks — not a call center.
+We are JP Roll-Off Service, a family-owned hauler, and Fairwood is an easy run for us by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks — not a call center.
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material, so call for a quote on your load. Whatever the material, the drop includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) weight allowance. Keep the container past 14 days and it is just $5 a day; go over the 2-ton allowance and additional weight is billed at $105 per ton.
+The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material, so call for a quote on your load. Whatever the material, the drop includes delivery, pickup on request, and a 14-day rental. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters.
 
-Those four feet of wall height are the part people underestimate. The wall is low enough that you can still walk debris up and toss it over the side, but the long 22-foot floor swallows the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many Fairwood homes: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demolition. It is the size most customers end up choosing — and rarely regret.
+Those four feet of wall height are the part people underestimate. The wall is low enough that you can still walk debris up and toss it over the side, but the long 22-foot floor swallows the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many Fairwood homes: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demolition. It is one of our most versatile sizes — and one customers rarely regret.
 
 ## Why the 20-yard fits Fairwood specifically
 
@@ -17,7 +17,7 @@ Here are the jobs that come up again and again across Fairwood:
 - **Whole-house cleanouts.** This is the 20-yard's best-known role — it is even nicknamed the "whole-house cleanout" size. Clearing out a Fairwood home between owners, or before a top-to-bottom refresh, fills a 20-yard about right without paying for space you will not use.
 - **Multi-room remodels.** A kitchen-and-baths gut, or a run of rooms getting new flooring and drywall, is the classic 20-yard job in a mid-2000s home reaching the age where finishes start to date. Pulling a builder-grade gourmet kitchen and a bath or two generates exactly the debris volume a 20 was built for.
 - **Estate cleanouts.** When a longtime Fairwood home finally changes hands, the 20-yard handles furniture, boxes, and household debris in a single container, basement included.
-- **Mid-size roofing tear-offs.** A single-layer asphalt tear-off on one of these contemporary Colonial Revival homes fits comfortably, with the 2-ton allowance covering most jobs on a typical Fairwood roofline.
+- **Mid-size roofing tear-offs.** A single-layer asphalt tear-off on one of these contemporary Colonial Revival homes fits comfortably; shingles are dense, so let us know it is a roofing job and we will quote it accordingly.
 
 If your project is smaller — a single bathroom, a garage purge, a few rooms of flooring — a 15-yard may serve you better. If you are taking the house to the studs or adding on, we will talk through whether a 30 makes more sense. Tell us the address and the scope and we will steer you straight; we would rather size it right than oversell you.
 
@@ -29,7 +29,7 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 **The real permit hurdle: the HOA.** This is where Fairwood differs from a lot of Bowie. The City of Bowie only requires a right-of-way permit if the dumpster sits in a city street — driveways and HOA-approved staging do not need one. Because nearly every Fairwood project stages on a private driveway, a city street permit is the exception here, not the rule. The gatekeeper that actually matters is the Fairwood Community Association, with its on-site general manager and professional management — and the sub-communities like the Retreat and the Sanctuary carry their own HOAs on top. Architectural or staging approval from your HOA is usually the box to check before a container lands, so it is worth a quick call to the association before your delivery date. If your only practical spot turns out to be the street, that permit goes through Bowie's Public Works Department, and we will flag it the moment we look at your address.
 
-**Drive time and getting around.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway, so we know exactly where these streets are. Fairwood sits in ZIP 20716, about five miles from Bowie Town Center, with the Sycamore Club community center anchoring the neighborhood. Most addresses here are scheduled inside 24 hours, with an early call possibly still making a same-day run.
+**Drive time and getting around.** We dispatch every morning by Route 197 or the BW Parkway, so we know exactly where these streets are. Fairwood sits in ZIP 20716, about five miles from Bowie Town Center, with the Sycamore Club community center anchoring the neighborhood. Most addresses here are scheduled inside 24 hours, with an early call possibly still making a same-day run.
 
 ## Talk to the family that runs the trucks
 

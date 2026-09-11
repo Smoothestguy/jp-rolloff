@@ -1,4 +1,4 @@
-If you live on one of Meadowbrook's M-named streets and you've got a single garage to clear out, a bathroom to gut, or a backyard full of branches to move, the 10-yard roll-off is almost always the right call. We're JP Roll-Off Service, a family-owned hauler running out of Beltsville, and Meadowbrook sits a quick 25 minutes from our yard up Route 197 or the BW Parkway. We load trucks every morning, so most addresses in 20716 are scheduled within 24 hours, and an early call may still make a same-day run. When you call, one of the owners picks up — not a call center.
+If you live on one of Meadowbrook's M-named streets and you've got a single garage to clear out, a bathroom to gut, or a backyard full of branches to move, the 10-yard roll-off is almost always the right call. We're JP Roll-Off Service, a family-owned hauler, and Meadowbrook is an easy run up Route 197 or the BW Parkway. We load trucks every morning, so most addresses in 20716 are scheduled within 24 hours, and an early call may still make a same-day run. When you call, one of the owners picks up — not a call center.
 
 The 10-yard is our smallest container, and in a neighborhood built the way Meadowbrook was, small is usually exactly what you want.
 
@@ -31,15 +31,15 @@ If your project is bigger than a room — a full kitchen, a roof, a whole-house 
 
 ## What it costs and what's included
 
-A 10-yard in the Meadowbrook area is priced per material — by what you're throwing away, so call for a quote (other materials are priced separately). Every rental includes delivery, pickup on request, and a 14-day rental with a 1-ton (2,000-pound) weight allowance. Need it longer? It's just $5 a day after that. Aggregates like concrete, stone, and brick are only available in the 10, 15, and 20-yard sizes.
+A 10-yard in the Meadowbrook area is priced per material — by what you're throwing away, so call for a quote (other materials are priced separately). Every rental includes delivery, pickup on request, and a 14-day rental. Need it longer? Additional days are available on request when you book. Aggregates like concrete, stone, and brick are only available in the 10, 15, and 20-yard sizes.
 
-The weight allowance is worth a quick word, especially given the yard-waste and remodel jobs the 10-yard handles. One ton covers a lot of household clutter and general debris. Where it gets heavy is dense material — wet soil, concrete, stone, brick, or a load of soaked tree wood. If you go over the 1-ton allowance, additional weight runs $105 per extra ton. If your job leans that way, mention it when you call and we'll set the right expectation up front so there's no guesswork.
+Weight is worth a quick word, especially given the yard-waste and remodel jobs the 10-yard handles. Household clutter and general debris are rarely a problem. Where it gets heavy is dense material — wet soil, concrete, stone, brick, or a load of soaked tree wood — and that kind of material is quoted separately because weight matters. If your job leans that way, mention it when you call and we'll set the right expectation up front so there's no guesswork.
 
 For driveway protection, we set the container down carefully and we're happy to lay boards under the wheels if you're worried about the surface — just ask. These are everyday driveways doing everyday duty, and we treat them that way.
 
-## How scheduling works from our Beltsville yard
+## How scheduling works
 
-Because Meadowbrook is only about 25 minutes out — straight up Route 197, or down the BW Parkway depending on the day — we can usually get a 10-yard to you fast. We dispatch every morning, and most addresses are scheduled within 24 hours — an early call may still make a same-day run. The alliterative Levitt street naming actually helps us here: once you tell us you're on an M street north of Route 197, our drivers know exactly where they're headed.
+Because Meadowbrook is an easy run — straight up Route 197, or down the BW Parkway depending on the day — we can usually get a 10-yard to you fast. We dispatch every morning, and most addresses are scheduled within 24 hours — an early call may still make a same-day run. The alliterative Levitt street naming actually helps us here: once you tell us you're on an M street north of Route 197, our drivers know exactly where they're headed.
 
 When the container's full, give us a call and we'll come pull it. No standing appointment to manage, no app to fight with.
 

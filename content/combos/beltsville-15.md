@@ -1,10 +1,10 @@
-Beltsville is our home base, so a 15-yard roll-off in this town is about the most natural call we get. The 15 is the in-between size — bigger than a 10 but still small enough to sit on a normal driveway without taking over the yard — and that profile fits Beltsville almost perfectly. This is an older, modest town: the housing came in hard after World War II, layering Cape Cods, ranchers (ramblers), and split-levels over an earlier railroad-suburb mix of Victorians, Colonial Revivals, and Craftsman bungalows from the 1891-to-1940s era. Houses like that get worked on one room at a time — a kitchen here, a couple of baths there, a roof when it finally gives — and that is exactly the rhythm a 15-yard is built for.
+A 15-yard roll-off in Beltsville is about the most natural call we get. The 15 is the in-between size — bigger than a 10 but still small enough to sit on a normal driveway without taking over the yard — and that profile fits Beltsville almost perfectly. This is an older, modest town: the housing came in hard after World War II, layering Cape Cods, ranchers (ramblers), and split-levels over an earlier railroad-suburb mix of Victorians, Colonial Revivals, and Craftsman bungalows from the 1891-to-1940s era. Houses like that get worked on one room at a time — a kitchen here, a couple of baths there, a roof when it finally gives — and that is exactly the rhythm a 15-yard is built for.
 
-We are JP Roll-Off Service, a family-owned hauler that dispatches right out of Beltsville. When you call, you get the people who own the trucks, not a call center. And because this is where we park every night, Beltsville addresses go out first every morning.
+We are JP Roll-Off Service, a family-owned hauler. When you call, you get the people who own the trucks, not a call center, and we dispatch every morning.
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall, and it holds roughly seven pickup-truck loads of debris. Pricing is per material: around Beltsville a 15-yard is **priced by material, so call for a quote** (heavy aggregates like dirt, concrete, and asphalt are only offered in the 10-, 15-, and 20-yard sizes). The rate includes delivery, a 14-day rental, and a 1.5-ton (3,000 lb) weight allowance, with pickup on request when you are ready. Additional days run $5/day, and any weight over the allowance is billed at $105 per additional ton.
+The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall, and it holds roughly seven pickup-truck loads of debris. Pricing is per material: around Beltsville a 15-yard is **priced by material, so call for a quote** (heavy aggregates like dirt, concrete, and asphalt are only offered in the 10-, 15-, and 20-yard sizes). The rate includes delivery, a 14-day rental, and pickup on request when you are ready. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
 
 The four-foot wall height is the quiet advantage of this size. The sides are low enough that you can pitch debris over the rail without a ramp or a struggle, which matters on a project where you are carrying load after load out of a kitchen or up from a basement. But there is still enough volume to hold a real single-room job from start to finish. That is why we think of the 15 as the "single-room reno" size — it is the one to reach for when a 10-yard feels a touch tight but a 20 would leave you paying for air.
 
@@ -13,7 +13,7 @@ The four-foot wall height is the quiet advantage of this size. The sides are low
 The 15 lands right in the sweet spot for the kind of one-room, one-system projects that Beltsville's mid-century stock generates constantly. The jobs we see it used for most:
 
 - **Kitchen remodels.** Tearing out the cabinets, countertops, and flooring from one of those 1950s-and-60s rambler or split-level kitchens fills a 15-yard about right — cabinets, drywall, old subfloor, and packaging, with room to spare.
-- **Roofing tear-offs.** A single-layer asphalt tear-off on a Cape Cod or rancher fits comfortably, with the 1.5-ton allowance covering most modest-sized roofs. Shingles are heavy, so we will talk through the square footage with you before we drop it.
+- **Roofing tear-offs.** A single-layer asphalt tear-off on a Cape Cod or rancher fits comfortably — shingles are heavy, so tell us it is a roof job when you call and we will quote it accordingly. Shingles are heavy, so we will talk through the square footage with you before we drop it.
 - **Two-bath gut jobs.** Pulling tile, tubs, vanities, and old plumbing from a pair of bathrooms is a classic 15-yard load — more debris than a 10 wants, not enough to justify a 20.
 - **Basement cleanouts.** Clearing out a finished or half-finished basement — or hauling out the debris from finishing one — works well in the 15, since the lower walls make loading from a basement stairwell easier.
 
@@ -27,7 +27,7 @@ It is worth noting that driveway reality varies by neighborhood. Out east of the
 
 **The Beltsville permit rule.** Beltsville is unincorporated, so permitting falls under Prince George's County rather than a city hall. The practical upshot is simple: a dumpster sitting entirely on your private driveway, lawn, or yard does **not** need a permit. A permit is only required when the container has to sit in the public right-of-way — the street itself — which triggers a Prince George's County Use & Occupancy permit. Given how many Beltsville homes sit on those busy through-roads, keeping the container on the driveway is the easier path on both counts, and it is what we recommend whenever the space allows. If the street is genuinely the only option, we will flag the permit when we look at your address.
 
-**Drive time.** This one is short. Beltsville is our home base, so your address is first out the gate every morning. Most Beltsville jobs are scheduled inside 24 hours, and an early call may still make a same-day run. There is no 30-minute haul tacked onto your morning — we are already here.
+**Drive time.** This one is short. We dispatch every morning, and Beltsville is an easy run for us. Most Beltsville jobs are scheduled inside 24 hours, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

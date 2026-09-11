@@ -1,4 +1,4 @@
-Si vives en una de las calles con nombre de M de Meadowbrook y tienes un solo garaje que vaciar, un baño que desmontar, o un patio trasero lleno de ramas que mover, el roll-off de 10 yardas casi siempre es la opción correcta. Somos JP Roll-Off Service, un transportista de empresa familiar que opera desde Beltsville, y Meadowbrook queda a unos rápidos 25 minutos de nuestro patio por la Route 197 o la BW Parkway. Cargamos camiones cada mañana, así que la mayoría de las direcciones en 20716 se programan dentro de 24 horas, y una llamada temprana todavía puede lograr una entrega el mismo día. Cuando llamas, contesta uno de los dueños — no un call center.
+Si vives en una de las calles con nombre de M de Meadowbrook y tienes un solo garaje que vaciar, un baño que desmontar, o un patio trasero lleno de ramas que mover, el roll-off de 10 yardas casi siempre es la opción correcta. Somos JP Roll-Off Service, un transportista de empresa familiar, y Meadowbrook es un trayecto fácil por la Route 197 o la BW Parkway. Cargamos camiones cada mañana, así que la mayoría de las direcciones en 20716 se programan dentro de 24 horas, y una llamada temprana todavía puede lograr una entrega el mismo día. Cuando llamas, contesta uno de los dueños — no un call center.
 
 El de 10 yardas es nuestro contenedor más chico, y en un vecindario construido como lo fue Meadowbrook, lo chico suele ser exactamente lo que quieres.
 
@@ -31,15 +31,15 @@ Si tu proyecto es más grande que una habitación — una cocina completa, un te
 
 ## Cuánto cuesta y qué incluye
 
-Un 10 yardas en el área de Meadowbrook se cotiza por material — según lo que estás botando, así que llama para una cotización (otros materiales se cotizan por separado). Cada renta incluye entrega, recogida a solicitud, y una renta de 14 días con un límite de peso de 1 tonelada (2,000 libras). ¿Lo necesitas más tiempo? Son solo $5 al día después de eso. Los agregados como concreto, piedra y ladrillo están disponibles solo en los tamaños de 10, 15 y 20 yardas.
+Un 10 yardas en el área de Meadowbrook se cotiza por material — según lo que estás botando, así que llama para una cotización (otros materiales se cotizan por separado). Cada renta incluye entrega, recogida a solicitud, y una renta de 14 días. ¿Lo necesitas más tiempo? Los días adicionales están disponibles a solicitud cuando reservas. Los agregados como concreto, piedra y ladrillo están disponibles solo en los tamaños de 10, 15 y 20 yardas.
 
-El límite de peso vale una palabra rápida, sobre todo dados los trabajos de residuos de jardín y de remodelación que maneja el de 10 yardas. Una tonelada cubre mucho desorden del hogar y escombros en general. Donde se pone pesado es con material denso — tierra mojada, concreto, piedra, ladrillo, o una carga de madera de árbol empapada. Si pasas del límite de 1 tonelada, el peso adicional cuesta $105 por tonelada extra. Si tu trabajo va por ese lado, menciónalo cuando llames y dejaremos la expectativa clara desde el principio para que no haya adivinanzas.
+El peso vale una palabra rápida, sobre todo dados los trabajos de residuos de jardín y de remodelación que maneja el de 10 yardas. El desorden del hogar y los escombros en general rara vez son problema. Donde se pone pesado es con material denso — tierra mojada, concreto, piedra, ladrillo, o una carga de madera de árbol empapada — y ese tipo de material se cotiza por separado porque el peso importa. Si tu trabajo va por ese lado, menciónalo cuando llames y dejaremos la expectativa clara desde el principio para que no haya adivinanzas.
 
 Para proteger el parqueo, bajamos el contenedor con cuidado y con gusto ponemos tablas bajo las ruedas si te preocupa la superficie — solo pídelo. Estas son parqueos de uso diario haciendo su labor diaria, y así las tratamos.
 
-## Cómo funciona la programación desde nuestro patio de Beltsville
+## Cómo funciona la programación
 
-Como Meadowbrook queda a solo unos 25 minutos — directo por la Route 197, o por la BW Parkway según el día — normalmente podemos llevarte un 10 yardas rápido. Despachamos cada mañana, y la mayoría de las direcciones se programan dentro de 24 horas — una llamada temprana todavía puede lograr una entrega el mismo día. La nomenclatura aliterativa de calles de Levitt de hecho nos ayuda aquí: en cuanto nos dices que estás en una calle M al norte de la Route 197, nuestros choferes saben exactamente a dónde van.
+Como Meadowbrook es un trayecto fácil — directo por la Route 197, o por la BW Parkway según el día — normalmente podemos llevarte un 10 yardas rápido. Despachamos cada mañana, y la mayoría de las direcciones se programan dentro de 24 horas — una llamada temprana todavía puede lograr una entrega el mismo día. La nomenclatura aliterativa de calles de Levitt de hecho nos ayuda aquí: en cuanto nos dices que estás en una calle M al norte de la Route 197, nuestros choferes saben exactamente a dónde van.
 
 Cuando el contenedor esté lleno, llámanos y vendremos a retirarlo. Sin cita fija que administrar, sin app contra la cual pelear.
 

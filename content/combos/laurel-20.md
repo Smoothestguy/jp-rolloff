@@ -1,12 +1,12 @@
-When folks in Laurel call us about a dumpster and aren't quite sure what size they need, the 20-yard is the one we point to most often. It's the size most customers end up choosing, and it's the size they rarely regret. At 22 feet long, 8 feet wide, and 4 feet tall, it holds roughly nine pickup-truck loads and comes with a 2-ton (4,000 lb) weight allowance. Pricing is per material: construction debris is quoted separately from other materials, so call for a quote on your job. That quote includes delivery, a 14-day rental, and the 2-ton allowance, with pickup on request when you call to schedule. Additional days are $5/day, and any weight over the 2-ton allowance is billed at $105 per additional ton.
+When folks in Laurel call us about a dumpster and aren't quite sure what size they need, the 20-yard is one of the first we point to. It's one of our most versatile sizes, and it's the one they rarely regret. At 22 feet long, 8 feet wide, and 4 feet tall, it holds roughly nine pickup-truck loads. Pricing is per material: construction debris is quoted separately from other materials, so call for a quote on your job. That quote includes delivery and a 14-day rental, with pickup on request when you call to schedule. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters.
 
-We're JP Roll-Off Service, a family-owned hauler based just down Route 1 in Beltsville. When you call (301) 252-3586, you reach the people who own the trucks, not a call center reading from a script. That matters in a town like Laurel, where the right answer often depends on exactly which street your house sits on.
+We're JP Roll-Off Service, a family-owned hauler, and Laurel is a straight shot up Route 1 for us. When you call (301) 252-3586, you reach the people who own the trucks, not a call center reading from a script. That matters in a town like Laurel, where the right answer often depends on exactly which street your house sits on.
 
 ## What fits in a 20-yard dumpster
 
 The 20-yard is the classic "whole-house cleanout" container. Picture nine full pickup loads of debris and you've got the idea. It's big enough to swallow the contents of a multi-room project without forcing you into the bulk of a taller construction-grade box, and at four feet tall it stays easy to load over the rail while the 22-foot length gives you the volume. It still fits most driveways, though that full 22 feet wants a long, straight run, so it's worth a look at your approach before drop-off.
 
-That 4,000-pound weight allowance is the part worth thinking through. The 20-yard handles a heavy mix of household goods, furniture, drywall, flooring, and bagged debris comfortably. If your job leans toward dense materials like concrete or full tear-off roofing shingles, the weight limit fills up faster than the walls do, so it's worth a quick phone call so we can size it honestly for what you're actually throwing away.
+Weight is the part worth thinking through. The 20-yard handles a heavy mix of household goods, furniture, drywall, flooring, and bagged debris comfortably. If your job leans toward dense materials like concrete or full tear-off roofing shingles, the box gets heavy faster than the walls fill, so it's worth a quick phone call so we can size it honestly for what you're actually throwing away.
 
 ## The Laurel jobs this size is built for
 
@@ -18,7 +18,7 @@ A few projects come up again and again around Laurel, and the 20-yard fits almos
 
 **Older-home gut renovations.** The Old Town and Main Street historic district still has 1840s mill-workers' homes and 1890s Victorians, going back to the days when Nicholas Snowden's grist mill grew into a cotton mill and mill president Horace Capron built housing for close to 300 workers. Interior renovations in those homes often mean plaster-and-lath demo, knob-and-tube wiring, and other old-housing debris, which is exactly the kind of mixed, awkward load a roll-off handles well.
 
-**Mid-size roofing.** For a roof tear-off, the 20-yard works for a mid-size job, but keep that 2-ton allowance in mind, since shingles are heavy. Tell us the rough square footage when you call and we'll let you know whether the 20-yard is the right call or whether you'd be better served stepping the size up or down.
+**Mid-size roofing.** For a roof tear-off, the 20-yard works for a mid-size job, but keep the weight in mind, since shingles are heavy. Tell us the rough square footage when you call and we'll let you know whether the 20-yard is the right call or whether you'd be better served stepping the size up or down.
 
 ## Where it goes, and which permit applies
 
@@ -32,7 +32,7 @@ This comes up a lot in two parts of Laurel. The Old Town historic core, with its
 
 ## Delivery and dispatch
 
-We run out of Beltsville, so reaching Laurel is a straight shot up Route 1, whether you're in North Laurel near Maple Lawn, South Laurel off the Baltimore-Washington Parkway, Russett and Maryland City near Fort Meade, or right in Old Town by Riverfront Park. The short, familiar drive is part of why we can keep pricing tight and scheduling flexible, including the move-out and PCS-related cleanouts that come up often near Fort Meade and the NSA.
+Reaching Laurel is a straight shot up Route 1 for us, whether you're in North Laurel near Maple Lawn, South Laurel off the Baltimore-Washington Parkway, Russett and Maryland City near Fort Meade, or right in Old Town by Riverfront Park. The short, familiar drive is part of why we can keep pricing tight and scheduling flexible, including the move-out and PCS-related cleanouts that come up often near Fort Meade and the NSA.
 
 ## Ready when you are
 

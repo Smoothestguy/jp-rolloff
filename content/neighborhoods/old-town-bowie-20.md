@@ -1,12 +1,12 @@
 Old Town Bowie is Bowie's original core — the rectilinear grid platted in 1870 by developer Benjamin Plumb as "Huntington City," laid out around the Baltimore & Potomac Railroad junction with tree-named streets like Chestnut Avenue running one way and numbered streets crossing them. It predates the 1960s Levitt-built sections of Bowie by roughly 90 years, and it shows: the housing stock is predominantly wood-frame, much of it dating from around 1880 onward, with Victorian-era I-houses, front-gabled homes, American Foursquares, bungalows, and Cape Cods packed onto small town lots along narrow streets. When one of those century-old frame houses finally comes due for a gut-renovation, an estate clear-out, or a roof and siding tear-off, the 20-yard roll-off is the size most of those jobs land on — and that is the work we do here most.
 
-We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 25 minutes from Old Town Bowie by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks — not a call center.
+We are JP Roll-Off Service, a family-owned hauler, and Old Town Bowie is an easy run for us by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks — not a call center.
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material: a 20-yard for construction debris includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) weight allowance (other materials are priced separately) — priced by material, so call for a quote. Keep it longer for $5 a day, and if you go over the 2 tons, additional weight is billed at $105 per ton.
+The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material: a 20-yard for construction debris includes delivery, pickup on request, and a 14-day rental (other materials are priced separately) — priced by material, so call for a quote. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters.
 
-Those four feet of wall height are the part people underestimate. It is low enough that you can still walk debris up and toss it over the side without a ramp, but the long 22-foot body still swallows the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demo. It is the size most customers end up choosing — and rarely regret.
+Those four feet of wall height are the part people underestimate. It is low enough that you can still walk debris up and toss it over the side without a ramp, but the long 22-foot body still swallows the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demo. It is one of our most versatile sizes — and one customers rarely regret.
 
 ## Why the 20-yard fits Old Town Bowie specifically
 
@@ -17,7 +17,7 @@ Here are the jobs that come up again and again in Old Town Bowie, and they fall 
 - **Whole-house cleanouts.** This is the 20-yard's best-known role — it is even nicknamed the "whole-house cleanout" size. Clearing one of these older frame homes between owners, or after decades of accumulation, fills a 20-yard about right without paying for space you will not use.
 - **Multi-room remodels.** Tearing out original plaster, lath, trim, and dated kitchens and baths across several rooms of one of these century-old houses is the classic 20-yard job here. A gut on a Victorian I-house or Foursquare produces exactly the volume a 20 was built for.
 - **Estate cleanouts.** Old Town Bowie's small-lot, close-knit character means many of these houses have stayed in the same hands for generations. When one of those longtime homes changes hands, the 20-yard handles furniture, boxes, and a full lifetime of household belongings in a single container.
-- **Mid-size roofing and siding tear-offs.** Wood-frame homes of this era frequently need both the roof and the wood or asphalt siding pulled. A single-layer roof tear-off on one of these houses fits comfortably, and the 2-ton allowance covers most jobs of that footprint — heavier loads run $105 per additional ton.
+- **Mid-size roofing and siding tear-offs.** Wood-frame homes of this era frequently need both the roof and the wood or asphalt siding pulled. A single-layer roof tear-off on one of these houses fits comfortably; shingles are dense, so let us know it is a roofing job and we will quote it accordingly.
 
 If your project is smaller — a single bathroom, a porch demo, a garage purge — a 10 or 15-yard may actually serve you better on these tight lots, where a smaller can is easier to tuck in. If you are taking a house down to the studs and adding on, we will talk through whether a 30 makes more sense. Tell us the address and the scope and we will steer you straight; we would rather size it right than oversell you.
 
@@ -31,7 +31,7 @@ If your project is smaller — a single bathroom, a porch demo, a garage purge �
 
 **Getting the truck in.** The district anchors on the Bowie Railroad Buildings at 8614 Chestnut Avenue, with the largest concentration of historic structures along 9th Street, where the 1939 firehouse still stands. Those are the kinds of narrow, tightly built streets we route through carefully rather than the wide arterials of newer Bowie. With the city-backed revitalization bringing new galleries, a brewery, and a performing arts venue to the district, we are also seeing more tenant-improvement and commercial cleanout work down here — and the 20-yard handles plenty of that too. The neighborhood is in ZIP 20715.
 
-**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning. Most Old Town Bowie addresses are scheduled inside 24 hours, and an early call may still make a same-day run.
+**Drive time.** We dispatch every morning. Most Old Town Bowie addresses are scheduled inside 24 hours, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

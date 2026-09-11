@@ -1,10 +1,10 @@
 If you are gutting one room of a Buckingham home, the 15-yard roll-off is almost always the right tool. It is the in-between size — bigger than a 10 but still driveway-friendly for most houses — and that profile fits this particular corner of Bowie unusually well. Buckingham is one of the original sections of Levitt's "Belair at Bowie," built in overlapping stages between roughly 1960 and 1964 alongside Somerset and Kenilworth. That makes it one of the oldest neighborhoods in the city, and it shows in the work: the housing stock is now 60-plus years old, squarely in the renovation cycle where kitchens, baths, and basements come apart one room at a time. The 15-yard is built for exactly that one-room rhythm.
 
-We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 25 minutes from Buckingham by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks, not a call center.
+We are JP Roll-Off Service, a family-owned hauler, and Buckingham is an easy run by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks, not a call center.
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall, and it holds roughly seven pickup-truck loads of debris. Pricing is per material, so call for a quote. A 15-yard includes delivery, pickup, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance (aggregates like concrete and dirt are available only in the 10, 15, and 20). Extra weight runs $105 per additional ton, and you can keep the can longer for $5 a day. Pickup is on request — call to schedule when you are ready.
+The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall, and it holds roughly seven pickup-truck loads of debris. Pricing is per material, so call for a quote. A 15-yard includes delivery, pickup, and a 14-day rental (aggregates like concrete and dirt are available only in the 10, 15, and 20). Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request — call to schedule when you are ready.
 
 The four-foot wall height is the quiet advantage of this size. The sides are low enough to pitch debris over the rail without a ramp, which matters when you are carrying load after load out of a kitchen or up from a basement. But there is still enough volume to hold a real single-room job from start to finish. That is why the 15 is best known as the "single-room reno" size — the one to reach for when a 10-yard feels a touch tight but a 20 would leave you paying for air.
 
@@ -13,7 +13,7 @@ The four-foot wall height is the quiet advantage of this size. The sides are low
 Buckingham's homes are aging Levitt builds, and that drives a very particular kind of demand. The five Belair models — the Cape Cod, the Rancher, the three- and four-bedroom Colonials, and the Country Clubber — were sharp in 1962 and are dated by today's standards, right down to the standardized kitchens. Six decades on, they are prime candidates for the one-room, one-system projects the 15-yard handles best:
 
 - **Kitchen remodels.** Tearing out the cabinets, countertops, and flooring from one original Levitt kitchen fills a 15-yard about right — cabinets, drywall, old subfloor, and packaging, with a little room to spare. This is the single most common reason a 15 lands on a B-section driveway.
-- **Roofing tear-offs.** A single-layer asphalt tear-off on one of these detached homes fits comfortably, with the 1.5-ton allowance covering most modest roofs. Shingles are heavy, so we will talk through the square footage with you before we drop it.
+- **Roofing tear-offs.** A single-layer asphalt tear-off on one of these detached homes fits comfortably — shingles are heavy, so tell us it is a roof job when you call and we will quote it accordingly. Shingles are heavy, so we will talk through the square footage with you before we drop it.
 - **Two-bath gut jobs.** Pulling tile, tubs, vanities, and old plumbing from a pair of bathrooms is a classic 15-yard load — more debris than a 10 wants, not enough to justify a 20. On a 60-year-old Levitt build, that often means older plaster and dated fixtures coming out together.
 - **Basement cleanouts.** Clearing a finished or half-finished basement — or hauling the debris from finishing one — works well in the 15, since the lower walls make loading from a stairwell easier. The same size handles a move-out or downsizing cleanout when a longtime family home on Bradford, Brewster, or Briercrest changes hands.
 
@@ -27,7 +27,7 @@ If your project is bigger — a whole-house gut between owners, or a multi-room 
 
 **A note on associations.** Belair's Levitt sections like Buckingham are generally organized as civic associations rather than the mandatory dues-and-architectural-control HOAs you find in Bowie's newer subdivisions, so staging a dumpster on your private driveway typically does not require board approval. We say "typically" on purpose — if your block does run a formal association with placement rules, give them a heads-up, and we can provide a service confirmation to forward along.
 
-**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway. Buckingham sits at the north end of the section, right up against the 182-acre Whitemarsh Park with the Bowie Playhouse and its ballfields — close enough that residents walk to it — and we know the run in well. Most jobs go out within 24 hours, and an early call may still make a same-day run.
+**Drive time.** We dispatch every morning by Route 197 or the BW Parkway. Buckingham sits at the north end of the section, right up against the 182-acre Whitemarsh Park with the Bowie Playhouse and its ballfields — close enough that residents walk to it — and we know the run in well. Most jobs go out within 24 hours, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

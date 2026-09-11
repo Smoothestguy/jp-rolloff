@@ -1,10 +1,10 @@
-When a single-room project in Lanham outgrows a small bin but doesn't need a monster container hogging your whole driveway, the 15-yard roll-off is usually the right call. We're JP Roll-Off Service, a family-owned hauler running out of Beltsville, and the 15-yard is the size we drop most often for homeowners mid-renovation. It measures about 16 feet long by 8 feet wide by 4 feet tall, holds roughly seven pickup-truck loads, and comes with a 1.5-ton (3,000 lb) weight allowance. Pricing is per material, so call for a quote rather than expecting one flat rate. Every 15-yard includes delivery, a 14-day rental, and a 1.5-ton weight allowance. Pickup is on request — just call when you're ready. Additional days run $5/day, and any weight over the 1.5-ton allowance is billed at $105 per additional ton.
+When a single-room project in Lanham outgrows a small bin but doesn't need a monster container hogging your whole driveway, the 15-yard roll-off is usually the right call. We're JP Roll-Off Service, a family-owned hauler, and the 15-yard is the size we drop most often for homeowners mid-renovation. It measures about 16 feet long by 8 feet wide by 4 feet tall, and holds roughly seven pickup-truck loads. Pricing is per material, so call for a quote rather than expecting one flat rate. Every 15-yard includes delivery and a 14-day rental. Pickup is on request — just call when you're ready. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
 
 ## What fits in a 15-yard dumpster
 
 The 15-yard earned its nickname as the "single-room reno" size for a reason. The low, four-foot walls make it easy to walk a wheelbarrow up to or toss debris over without a ladder, while the 16-foot length gives you enough floor space for longer material like cabinet runs, countertop sections, or torn-off roofing. Seven truck loads covers a surprising amount: think the full demo of one kitchen, one or two bathrooms, or a packed basement.
 
-The 1.5-ton allowance is the number to watch. For light, bulky debris — drywall, cabinetry, insulation, old fixtures, general clutter — you'll hit the volume limit long before the weight limit, which is exactly what this size is built for. If you're loading something dense like a full roof tear-off or a lot of plaster and tile, the weight adds up faster, so we'll talk it through up front and make sure 15 yards is still the right fit before we deliver.
+Weight is the thing to watch. For light, bulky debris — drywall, cabinetry, insulation, old fixtures, general clutter — you'll fill the box long before weight becomes an issue, which is exactly what this size is built for. If you're loading something dense like a full roof tear-off or a lot of plaster and tile, the weight adds up faster and heavy debris is quoted separately, so we'll talk it through up front and make sure 15 yards is still the right fit before we deliver.
 
 ## Which Lanham jobs suit this size
 
@@ -27,7 +27,7 @@ Lanham is an unincorporated community in Prince George's County (ZIP 20706), so 
 
 One thing worth flagging: the western edge of Lanham runs up against the City of Glenarden along MD Route 704 (Martin Luther King Jr. Highway), and Glenarden is an incorporated city with its own placement authority. If your address sits right on that line, let us know — the rules can differ from one side of the street to the other, and we'll help you sort out which one applies.
 
-As for getting there, we're close. From our Beltsville yard it's about a 15-minute run via Route 450 or the BW Parkway, so we can keep delivery and pickup windows tight and swing back quickly when you're ready for the haul-away.
+As for getting there, we're close. Lanham is an easy run via Route 450 or the BW Parkway, so we can keep delivery and pickup windows tight and swing back quickly when you're ready for the haul-away.
 
 ## Ready when you are
 

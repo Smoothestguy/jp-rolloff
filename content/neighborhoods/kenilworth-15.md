@@ -1,12 +1,12 @@
-Kenilworth is the "K" section of Levitt & Sons' Belair at Bowie — the signature mid-century planned community where each neighborhood's streets share a starting letter, and where Kenilworth's all begin with K. It was one of the earliest sections to go up, built right behind Somerset and Buckingham after Levitt opened Belair sales in October 1960, so nearly every house here dates to a tight 1960-to-1964 window. That makes Kenilworth one of the most predictable neighborhoods we serve: a block of roughly 60-year-old, owner-occupied, single-family Levitt homes, each with its own integral garage and private driveway. When a homeowner here calls for a 15-yard roll-off, we already have a good picture of the house before we pull out of the yard.
+Kenilworth is the "K" section of Levitt & Sons' Belair at Bowie — the signature mid-century planned community where each neighborhood's streets share a starting letter, and where Kenilworth's all begin with K. It was one of the earliest sections to go up, built right behind Somerset and Buckingham after Levitt opened Belair sales in October 1960, so nearly every house here dates to a tight 1960-to-1964 window. That makes Kenilworth one of the most predictable neighborhoods we serve: a block of roughly 60-year-old, owner-occupied, single-family Levitt homes, each with its own integral garage and private driveway. When a homeowner here calls for a 15-yard roll-off, we already have a good picture of the house before we roll out.
 
-We are JP Roll-Off Service, a family-owned hauler that dispatches out of Beltsville, MD. When you call, you reach the people who own the trucks — not a call center — and we run the same container to your driveway ourselves.
+We are JP Roll-Off Service, a family-owned hauler. When you call, you reach the people who own the trucks — not a call center — and we run the same container to your driveway ourselves.
 
 ## Why the 15-yard fits Kenilworth
 
 The 15-yard is the in-between size: bigger than a 10 but still small enough to sit on a normal driveway without swallowing the yard. That profile is almost made for Kenilworth. Because the Belair homes came standard with an integral garage, a private driveway, and landscaping, virtually every property here has its own paved spot to stage a container on. You are not fighting for curb space or boxing in the street — the 15 tucks onto the driveway and stays out of everybody's way.
 
-The container measures 16 ft long by 8 ft wide by 4 ft tall and holds roughly seven pickup-truck loads of debris. Pricing is per material, so the 15-yard is quote-based — call and tell us what is going in and we will price it for your material. **Every 15-yard includes delivery, pickup on request, and a 14-day rental with a 1.5-ton (3,000 lb) weight allowance**; extra weight is $105 per additional ton, and additional rental days run $5 per day.
+The container measures 16 ft long by 8 ft wide by 4 ft tall and holds roughly seven pickup-truck loads of debris. Pricing is per material, so the 15-yard is quote-based — call and tell us what is going in and we will price it for your material. **Every 15-yard includes delivery, pickup on request, and a 14-day rental**. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
 
 The four-foot wall height is the quiet advantage of this size. The sides are low enough to pitch debris over the rail without a ramp, which matters on a project where you are carrying load after load out of a kitchen or up from a basement. But there is still enough volume to finish a real single-room job. That is why we call the 15 the "single-room reno" size — the one to reach for when a 10-yard feels a touch tight but a 20 would leave you paying for air.
 
@@ -15,7 +15,7 @@ The four-foot wall height is the quiet advantage of this size. The sides are low
 Kenilworth's housing stock is now 60-plus years old and remarkably uniform — the same handful of Levitt models (the Cape Cod, the three- and four-bedroom Colonials, the Rancher, the Country Clubber, and the Manor House) repeating down K-named street after K-named street. That means the projects here cluster around the same thing: updating original 1960s features house after house. The 15 lands right in the sweet spot for that kind of one-room, one-system work.
 
 - **Kitchen remodels.** Tearing out the cabinets, countertops, and flooring from an original Levitt kitchen fills a 15-yard about right — cabinets, drywall, old subfloor, and packaging, with room to spare.
-- **Roofing tear-offs.** A single-layer asphalt tear-off on a Cape Cod or Rancher fits comfortably, with the 1.5-ton allowance covering most of these modest Levitt roofs. Shingles are heavy, so we will talk through the square footage with you before we drop the can.
+- **Roofing tear-offs.** A single-layer asphalt tear-off on a Cape Cod or Rancher fits comfortably — shingles are heavy, so tell us it is a roof job when you call and we will quote it accordingly. Shingles are heavy, so we will talk through the square footage with you before we drop the can.
 - **Two-bath gut jobs.** Pulling tile, tubs, vanities, and aging plumbing out of a pair of original baths is a classic 15-yard load — more debris than a 10 wants, not enough to justify a 20.
 - **Basement cleanouts.** Clearing a finished or half-finished basement, or hauling out the debris from gutting one, works well in the 15, since the lower walls make loading from a stairwell easier.
 
@@ -29,7 +29,7 @@ If your project is bigger — a whole-house cleanout, a multi-room renovation, o
 
 One local note: Bowie's Levitt sections are generally served by voluntary civic associations rather than dues-mandatory HOAs with architectural gatekeeping, so most Kenilworth homeowners do not need approval to stage a dumpster in their own driveway. Still, if your particular association has any staging rules, it is worth a quick check before delivery day.
 
-**Drive time.** Kenilworth is about 25 minutes from our Beltsville yard, running out Route 197 or up the BW Parkway. We dispatch every morning, so most addresses here are scheduled within 24 hours, and an early call may still make a same-day run. There is no long haul tacked onto your job — we are close enough to make Bowie a routine morning run.
+**Drive time.** Kenilworth is an easy run out Route 197 or up the BW Parkway. We dispatch every morning, so most addresses here are scheduled within 24 hours, and an early call may still make a same-day run. There is no long haul tacked onto your job — we are close enough to make Bowie a routine morning run.
 
 ## Talk to the family that runs the trucks
 

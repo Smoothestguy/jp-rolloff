@@ -1,12 +1,12 @@
-When folks in Rockville call us unsure which dumpster they need, the 20-yard is the one we point to most often. It's the size most customers end up choosing, and it's the size they rarely regret. At 22 feet long, 8 feet wide, and 4 feet tall, it holds roughly nine pickup-truck loads and comes with a 2-ton (4,000 lb) weight allowance. Our 20-yard includes delivery, pickup, and a 14-day rental with a 2-ton weight allowance — priced by material, so call for a quote. Pickup is on request, so you just call us to schedule. If you go over the allowance, extra weight is billed at $105 per additional ton, and extra days run $5 each.
+When folks in Rockville call us unsure which dumpster they need, the 20-yard is one of the first we point to. It's one of our most versatile sizes, and it's the one they rarely regret. At 22 feet long, 8 feet wide, and 4 feet tall, it holds roughly nine pickup-truck loads. Our 20-yard includes delivery, pickup, and a 14-day rental — priced by material, so call for a quote. Pickup is on request, so you just call us to schedule. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters.
 
-We're JP Roll-Off Service, a family-owned hauler based in Beltsville, about 45 minutes from Rockville by way of I-495 or Route 200. When you call (301) 252-3586, you reach the people who own the trucks, not a call center reading from a script. That matters here more than in most towns, because Rockville is really two cities in one, and the right answer depends on which Rockville your address sits in.
+We're JP Roll-Off Service, a family-owned hauler, and Rockville is a regular run for us by way of I-495 or Route 200. When you call (301) 252-3586, you reach the people who own the trucks, not a call center reading from a script. That matters here more than in most towns, because Rockville is really two cities in one, and the right answer depends on which Rockville your address sits in.
 
 ## What fits in a 20-yard dumpster
 
 The 20-yard is the classic "whole-house cleanout" container. Picture nine full pickup loads of debris and you've got the idea. It's big enough to swallow a multi-room project without pushing you into a full construction-grade box, and it still tucks neatly into most two-car driveways with room to spare for your own cars.
 
-That 4,000-pound weight allowance is the part worth thinking through up front. The 20-yard handles a heavy mix of household goods, furniture, drywall, flooring, and bagged debris comfortably. If your job leans toward dense materials like concrete or a full tear-off of roofing shingles, the weight limit fills up faster than the walls do, so a quick phone call lets us size it honestly for what you're actually throwing out.
+Weight is the part worth thinking through up front. The 20-yard handles a heavy mix of household goods, furniture, drywall, flooring, and bagged debris comfortably. If your job leans toward dense materials like concrete or a full tear-off of roofing shingles, the box gets heavy faster than the walls fill, so a quick phone call lets us size it honestly for what you're actually throwing out.
 
 ## The Rockville jobs this size is built for
 
@@ -18,7 +18,7 @@ Rockville's housing stock skews mid-20th-century, with a median build year somew
 
 **Estate and downsizing cleanouts.** With so much of Rockville's single-family stock now aging, estate cleanouts come up steadily across Twinbrook, Derwood, and the older streets near downtown. A 20-yard parked in the driveway is usually all it takes to empty a home in one go.
 
-**Mid-size roofing.** For a roof tear-off, the 20-yard handles a mid-size job, but keep that 2-ton allowance in mind, because shingles are heavy. Tell us the rough square footage when you call and we'll let you know whether the 20-yard is right or whether you'd do better stepping the size up or down.
+**Mid-size roofing.** For a roof tear-off, the 20-yard handles a mid-size job, but keep the weight in mind, because shingles are heavy. Tell us the rough square footage when you call and we'll let you know whether the 20-yard is right or whether you'd do better stepping the size up or down.
 
 A quick honest note: if your project is in King Farm, near the Pike District on the North Bethesda border, or in Rockville Town Center, the 20-yard may be more container than your spot can take. We'll get to that next.
 
@@ -36,7 +36,7 @@ One more thing to check before you renovate. Rockville has three local historic 
 
 ## Delivery and dispatch
 
-We run out of Beltsville, and Rockville is about a 45-minute drive by way of I-495 or Route 200. Next-day delivery is our standard, and an early call may still make a same-day run on most addresses, whether you're in Twinbrook off Veirs Mill, out on a big lot in Derwood, near the Town Center downtown, or working a place toward the North Bethesda border. We'll always ask a few questions about your street and your driveway before the truck rolls, so the container lands in the right spot the first time.
+Rockville is a regular run for us by way of I-495 or Route 200. Next-day delivery is our standard, and an early call may still make a same-day run on most addresses, whether you're in Twinbrook off Veirs Mill, out on a big lot in Derwood, near the Town Center downtown, or working a place toward the North Bethesda border. We'll always ask a few questions about your street and your driveway before the truck rolls, so the container lands in the right spot the first time.
 
 ## Ready when you are
 

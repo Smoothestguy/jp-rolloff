@@ -1,4 +1,4 @@
-When a job means clearing out a whole house in Lanham, the 20-yard roll-off is almost always the right call. It's the size most of our customers end up choosing, and it's the one they rarely second-guess afterward. At 22 feet long, 8 feet wide, and 4 feet tall, it swallows roughly nine pickup-truck loads of debris and carries a 2-ton (4,000 lb) weight allowance. For most Lanham households, that's enough room to empty a house, gut a couple of rooms, or settle an estate without paying for capacity you'll never fill. We're JP Roll-Off Service, a family-owned hauler based 15 minutes up the road in Beltsville, and the 20-yard is the workhorse of our fleet.
+When a job means clearing out a whole house in Lanham, the 20-yard roll-off is almost always the right call. It's one of our most versatile sizes, and it's the one they rarely regret. At 22 feet long, 8 feet wide, and 4 feet tall, it swallows roughly nine pickup-truck loads of debris. For most Lanham households, that's enough room to empty a house, gut a couple of rooms, or settle an estate without paying for capacity you'll never fill. We're JP Roll-Off Service, a family-owned hauler, and the 20-yard is the workhorse of our fleet.
 
 ## What fits in a 20-yard dumpster
 
@@ -11,7 +11,7 @@ A few realistic ways Lanham customers use the space:
 - **Estate cleanout** — clearing a family home after a move or a loss, where volume is unpredictable and a roomy box keeps you from stopping mid-job.
 - **Mid-size roofing** — a moderate tear-off where shingle weight is the limiting factor.
 
-Two notes on weight. Shingles, plaster, wet debris, and dirt are heavy, and the 2-ton allowance can be reached well before the box looks full. If your job is mostly dense material, give us a call and we'll talk through whether the 20-yard or a different setup makes more sense before anything gets delivered. We'd rather size it right the first time than surprise you on the back end.
+Two notes on weight. Shingles, plaster, wet debris, and dirt are heavy, and a box can get heavy well before it looks full. If your job is mostly dense material, give us a call and we'll talk through whether the 20-yard or a different setup makes more sense before anything gets delivered. We'd rather size it right the first time than surprise you on the back end.
 
 ## Which Lanham jobs suit this size
 
@@ -29,11 +29,11 @@ For most of Lanham, that's good news. Those 1950s and 60s ranch, Cape Cod, and s
 
 The exceptions are worth flagging up front. Newer townhouse rows often share narrow driveways or lean on visitor parking, which can push the container to the street and trigger that county right-of-way permit. The same goes for the Greenway Center and Annapolis Road commercial corridor, where there's frequently no off-street room at all. And along Lanham's western edge, the City of Glenarden line runs near MD Route 704; a job right on that boundary can straddle unincorporated county and an incorporated city with its own authority. If you're not sure which side of the line, or which placement, applies to your address, tell us the cross streets and we'll help you sort it out before delivery day.
 
-From our yard in Beltsville, we're about 15 minutes to Lanham via Route 450 or the BW Parkway. That's a short, familiar run for us, which means flexible drop-off windows and quick turnarounds on pickup when your project wraps.
+Lanham is an easy run for us via Route 450 or the BW Parkway — short and familiar, which means flexible drop-off windows and quick turnarounds on pickup when your project wraps.
 
 ## Straightforward pricing
 
-A 20-yard rental in Lanham is priced per material rather than one flat rate, so call for a quote on what you're clearing. Every rental includes delivery, a 14-day rental, and a 2-ton weight allowance, with pickup on request whenever your project wraps, just give us a call to schedule it. Additional rental days run $5/day, and any weight over the 2-ton allowance is billed at $105 per additional ton. If you expect heavy material or a longer rental window, just mention it when you call and we'll factor it in honestly.
+A 20-yard rental in Lanham is priced per material rather than one flat rate, so call for a quote on what you're clearing. Every rental includes delivery and a 14-day rental, with pickup on request whenever your project wraps, just give us a call to schedule it. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters. If you expect heavy material or a longer rental window, just mention it when you call and we'll factor it in honestly.
 
 ## Let's get your container scheduled
 

@@ -1,10 +1,10 @@
 La mayoría de los proyectos de casa en Greenbelt no son vaciados de casa completa. Son una habitación a la vez: la cocina que por fin pierde sus gabinetes cansados, un techo gastado al que le quitan las tejas, el vaciado de dos baños, o una limpieza de sótano antes de un trabajo de acabado. Ahí es justo donde el roll-off de 15 yardas se gana su lugar. Es el tamaño intermedio — un paso arriba de la pequeña de 10 yardas, todavía compacto para vivir en un parqueo, y dimensionado para la renovación de una sola habitación que define gran parte del trabajo que pasa por todo Greenbelt ahora mismo.
 
-Somos JP Roll-Off Service, una empresa familiar de transporte despachada desde Beltsville. Cuando llamas, hablas con los dueños, no con un centro de llamadas, y Beltsville está a solo unos diez minutos de la mayoría de las direcciones de Greenbelt — tu contenedor no anda lejos.
+Somos JP Roll-Off Service, una empresa familiar de transporte. Cuando llamas, hablas con los dueños, no con un centro de llamadas, y Greenbelt es un acarreo corto para nosotros — tu contenedor no anda lejos.
 
 ## Qué cabe en un contenedor de 15 yardas
 
-La de 15 yardas mide 16 pies de largo por 8 pies de ancho por 4 pies de alto y carga aproximadamente siete cargas de camioneta de escombros. El precio es por material — se cobra según lo que estés tirando, así que llámanos para una cotización. Toda la de 15 yardas incluye entrega, recogida a solicitud y un periodo de renta de 14 días con un límite de peso de 1.5 toneladas (3,000 lb). El peso extra por encima del límite se cobra a $105 por tonelada adicional, y los días de renta adicionales son $5 al día.
+La de 15 yardas mide 16 pies de largo por 8 pies de ancho por 4 pies de alto y carga aproximadamente siete cargas de camioneta de escombros. El precio es por material — se cobra según lo que estés tirando, así que llámanos para una cotización. Toda la de 15 yardas incluye entrega, recogida a solicitud y un periodo de renta de 14 días. Los días adicionales están disponibles a solicitud cuando reservas, y los materiales densos o pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa.
 
 Cuatro pies de altura de pared es la parte que la gente agradece una vez que empieza el trabajo. Es lo bastante bajo como para subir caminando los escombros y arrojarlos por el costado sin rampa, lo que importa en una remodelación de una sola habitación donde estás sacando material a mano todo el día. La de 15 yardas se conoce mejor como el tamaño de "renovación de una habitación" por esa misma razón: más grande que la de 10 yardas que agarrarías para un orden rápido, pero bastante por debajo de la de 20, 25 o 30 yardas que solo querrías para un vaciado de varias habitaciones o una demolición comercial. Para un solo proyecto que genera volumen de verdad pero se mantiene contenido, es la decisión correcta.
 
@@ -13,7 +13,7 @@ Cuatro pies de altura de pared es la parte que la gente agradece una vez que emp
 La vivienda de Greenbelt abarca más épocas que casi cualquier otro pueblo de su tamaño, y cada una alimenta el tipo de trabajo de una sola habitación para el que se hizo la de 15 yardas.
 
 - **Remodelación de cocina.** Sacar gabinetes, encimeras, pisos y panel de yeso de una cocina llena una de 15 yardas más o menos justo sin que pagues por espacio que no usarás.
-- **Remoción de techo.** Una remoción de una sola capa de asfalto en una casa típica de Greenbelt cabe con comodidad, con el límite de 1.5 toneladas cubriendo la mayoría de los trabajos de ese tamaño. Las remociones más pesadas o de varias capas pueden necesitar el siguiente tamaño, y te lo diremos claro.
+- **Remoción de techo.** Una remoción de una sola capa de asfalto en una casa típica de Greenbelt cabe con comodidad — las tejas pesan, así que dinos que es un trabajo de techo cuando llames y lo cotizaremos según corresponda. Las remociones más pesadas o de varias capas pueden necesitar el siguiente tamaño, y te lo diremos claro.
 - **Vaciado de dos baños.** Azulejo, accesorios, tocadores y contrapiso de un par de baños es una carga de manual para la de 15 yardas.
 - **Limpieza de sótano.** Despejar un nivel inferior de almacenaje o terminado antes de una remodelación o una venta.
 
@@ -31,7 +31,7 @@ En **Old Greenbelt**, el núcleo declarado National Historic Landmark, la vivien
 
 **Nota de código postal.** Greenbelt usa tres códigos postales, y importan al reservar. 20770 cubre las direcciones residenciales y comerciales de calle en la ciudad; 20768 es solo para apartados postales, así que el sitio real de trabajo de un cliente 20768 sigue siendo una dirección de calle 20770; y 20771 está reservado para el Goddard Space Flight Center de la NASA. Danos la dirección física de calle, no el apartado.
 
-**Tiempo de viaje.** Beltsville está a unos diez minutos de la mayoría de las direcciones de Greenbelt, y Greenbelt Park colinda con el terreno del centro de investigación cerca de nuestra base de despacho, así que este es un acarreo muy corto para nosotros. Despachamos cada mañana — la mayoría de las direcciones se programan dentro de las 24 horas, y una llamada temprana puede que alcance una entrega el mismo día.
+**Tiempo de viaje.** Greenbelt es un acarreo muy corto para nosotros. Despachamos cada mañana — la mayoría de las direcciones se programan dentro de las 24 horas, y una llamada temprana puede que alcance una entrega el mismo día.
 
 ## Habla con la familia que maneja los camiones
 

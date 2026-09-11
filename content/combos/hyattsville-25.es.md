@@ -1,6 +1,6 @@
-Cuando un proyecto en Hyattsville cruza de "limpieza de fin de semana" a "construcción mayor", el contenedor roll-off de 25 yardas suele ser la decisión correcta. Con 18 pies de largo, 8 pies de ancho y 6 pies de alto, se traga alrededor de 10.5 cargas de camioneta de escombros y viene con un límite de peso de 2 toneladas (4,000 lb). Somos JP Roll-Off Service, una empresa familiar despachada desde Beltsville, y llevamos este tamaño a ampliaciones, renovaciones completas, techos grandes y limpiezas comerciales completas por todo Hyattsville. Cuando llamas, hablas directamente con uno de los dueños, no con un centro de llamadas leyendo de un guion.
+Cuando un proyecto en Hyattsville cruza de "limpieza de fin de semana" a "construcción mayor", el contenedor roll-off de 25 yardas suele ser la decisión correcta. Con 18 pies de largo, 8 pies de ancho y 6 pies de alto, se traga alrededor de 10.5 cargas de camioneta de escombros. Somos JP Roll-Off Service, una empresa familiar, y llevamos este tamaño a ampliaciones, renovaciones completas, techos grandes y limpiezas comerciales completas por todo Hyattsville. Cuando llamas, hablas directamente con uno de los dueños, no con un centro de llamadas leyendo de un guion.
 
-El precio es por material y se cobra por carga, así que llama por una cotización. Cada entrega **incluye la entrega, la recogida a solicitud y un periodo de renta de 14 días con un límite de peso de 2 toneladas**. Los días extra cuestan $5 al día, y el peso por encima del límite se cobra a $105 por tonelada adicional; la recogida es a solicitud, así que llamas cuando estés listo. Cuentas comerciales bienvenidas — pregunta por la facturación.
+El precio es por material y se cobra por carga, así que llama por una cotización. Cada entrega **incluye la entrega, la recogida a solicitud y un periodo de renta de 14 días**. Los días adicionales están disponibles a solicitud cuando reservas, y los materiales pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa; la recogida es a solicitud, así que llamas cuando estés listo. Cuentas comerciales bienvenidas — pregunta por la facturación.
 
 ## Qué cabe en un contenedor de 25 yardas
 
@@ -8,7 +8,7 @@ Este es el segundo contenedor más grande que cargamos, y está hecho para traba
 
 Algunas cosas que tener en mente con una caja de este tamaño:
 
-- El límite de 2 toneladas cubre un montón de escombros mixtos de construcción y demolición, pero el material denso se acumula rápido. El yeso viejo, la mampostería, el techo en capas y el material húmedo pueden pasarte del límite mucho antes de que la caja se vea llena, y el excedente es $105 por tonelada adicional.
+- La caja cubre un montón de escombros mixtos de construcción y demolición, pero el material denso se acumula rápido. El yeso viejo, la mampostería, el techo en capas y el material húmedo pueden pesar mucho antes de que la caja se vea llena, y los materiales pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa.
 - Para un desmonte grande, es más inteligente llenar hacia el peso que amontonar por encima de los bordes. Necesitamos que la carga quede por debajo del borde superior para que sea legal y seguro transportarla.
 - Si no estás seguro de si 25 yardas es lo correcto, mide tu montón de escombros y tu vía de acceso dos veces antes de reservar. En los lotes más viejos de Hyattsville, el tamaño que encaja con el *trabajo* no siempre es el tamaño que encaja en el *lugar* donde tiene que ir.
 
@@ -18,7 +18,7 @@ El parque de viviendas de Hyattsville es lo que hace este tamaño tan útil aqu�
 
 - **Ampliaciones de casa** — Extender una cocina o agregar una suite con recámara en una casa de Castle Manor o University Hills arroja estructura, revestimiento viejo, cimientos y escombros de demolición en volumen.
 - **Remodelaciones de casa completa** — La renovación completa de una victoriana centenaria de Hyattsville Hills llena una caja rápido: listones y yeso, pisos viejos, gabinetes, accesorios y molduras, todo a la vez.
-- **Remociones grandes de techo** — Los techos empinados de varias capas en las casas más viejas cerca de Downtown sueltan un peso pesado de tejas, que es exactamente por qué el límite de 2 toneladas importa aquí.
+- **Remociones grandes de techo** — Los techos empinados de varias capas en las casas más viejas cerca de Downtown sueltan un peso pesado de tejas, que es exactamente por qué el peso importa aquí.
 - **Limpiezas comerciales** — A lo largo del corredor de la U.S. Route 1, la reurbanización del Arts District Hyattsville mantiene en movimiento acondicionamientos de fachada, obras de inquilinos y proyectos a escala de townhome. Un 25 yardas maneja el vaciado de un restaurante o local sin cambios constantes.
 
 Si tu proyecto es más pequeño, como la remodelación de un solo baño o vaciar un garaje, una de nuestras cajas más chicas probablemente te sirva mejor y cueste menos. El de 25 yardas se gana su lugar cuando los escombros son de verdad de alto volumen.
@@ -35,7 +35,7 @@ Así que antes de salir, ayuda saber:
 
 Un par de realidades de ubicación que vale la pena señalar: en el Distrito Histórico (Hyattsville Hills, Downtown, Castle Manor), los callejones apretados y los diseños de garaje separado pueden limitar dónde se asienta una caja cargada. Y cerca del Northwest Branch del Anacostia, que colinda con West Hyattsville y alimenta el corredor del Anacostia Tributary Trail, el suelo blando y el acceso limitado cerca del valle del arroyo pueden afectar dónde podemos colocar con seguridad un contenedor pesado. Dinos con qué estás trabajando y planearemos la bajada en consecuencia.
 
-El tiempo de viaje rara vez es un problema. Hyattsville es un recorrido corto en línea recta desde nuestro patio de Beltsville, así que la mayoría de las direcciones de aquí se programan dentro de 24 horas, y **una llamada temprana todavía puede lograr una entrega el mismo día**.
+El tiempo de viaje rara vez es un problema. Hyattsville es un trayecto corto para nosotros, así que la mayoría de las direcciones de aquí se programan dentro de 24 horas, y **una llamada temprana todavía puede lograr una entrega el mismo día**.
 
 ## Listos cuando tú lo estés
 

@@ -1,8 +1,8 @@
-If you have a single garage to clear out, a bathroom to gut, or a yard full of brush and downed limbs in Landover, the 10-yard roll-off is almost always the right call. It is the smallest container we run, and that is exactly its strength: a tight 12 ft by 8 ft by 4 ft footprint that drops into one standard car spot, handles a one-room project, and never leaves you paying for air. JP Roll-Off Service is a family-owned hauler dispatched out of Beltsville, just up the road, and when you call us at (301) 252-3586 you reach the owners, not a call center.
+If you have a single garage to clear out, a bathroom to gut, or a yard full of brush and downed limbs in Landover, the 10-yard roll-off is almost always the right call. It is the smallest container we run, and that is exactly its strength: a tight 12 ft by 8 ft by 4 ft footprint that drops into one standard car spot, handles a one-room project, and never leaves you paying for air. JP Roll-Off Service is a family-owned hauler, and when you call us at (301) 252-3586 you reach the owners, not a call center.
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard holds roughly three pickup-truck loads. Picture three full beds of debris stacked into a low-walled box you can walk right up to and load over the side. Pricing is per material and priced by the load, so call for a quote. Every drop includes delivery, pickup on request, and a 14-day rental with a 1-ton (2,000 lb) weight allowance. Extra days are $5/day, and any weight over the allowance is billed $105 per additional ton. Pickup is on request, so you just give us a call when you are ready for the box to go.
+The 10-yard holds roughly three pickup-truck loads. Picture three full beds of debris stacked into a low-walled box you can walk right up to and load over the side. Pricing is per material and priced by the load, so call for a quote. Every drop includes delivery, pickup on request, and a 14-day rental. Extra days are available on request when you book, and dense, heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request, so you just give us a call when you are ready for the box to go.
 
 Because the walls are low and the footprint is small, this size shines for dense, heavy material in modest volumes rather than big bulky-but-light loads. A bathroom's worth of tile, a garage packed with old paint cans and broken shelving, or a weekend's worth of yard waste fills it sensibly without blowing past the weight cap. If you are gutting a whole house or tearing off a roof, you will want a larger box; for a single room or a single zone of the property, the 10-yard is the honest fit.
 
@@ -11,7 +11,7 @@ Because the walls are low and the footprint is small, this size shines for dense
 Landover's housing stock leans heavily toward mid-century subdivisions built roughly between 1955 and 1975 (split-levels, brick ramblers, modest colonials), and that age shows up in the work people actually call about. The 10-yard is the natural container for these one-room projects:
 
 - **Garage cleanout** — the size's best-known job. Decades of stored furniture, lawn equipment, holiday boxes, and the stuff that never made it back inside. One car spot for the dumpster, one garage to empty.
-- **Bathroom remodel** — a gut-and-redo on a 50-to-70-year-old bathroom produces a surprising amount of weight in tile, vanity, tub, and old subfloor. The 10-yard's 1-ton allowance is sized right for it.
+- **Bathroom remodel** — a gut-and-redo on a 50-to-70-year-old bathroom produces a surprising amount of weight in tile, vanity, tub, and old subfloor. The 10-yard is sized right for it — just mention the heavy material when you call, since it is quoted separately.
 - **Yard waste and trees** — clearing brush, hauling off a downed limb, or cleaning up an overgrown lot along the Glenarden border or the older subdivisions. Branches and root balls are heavy, so the smaller box keeps you honest on weight.
 - **Estate downsize** — clearing out a relative's home a room at a time. Given how many homes here are decades old and how much of the 20785 area sees rental turnover and rehab work, single-room cleanouts are a steady part of what we haul.
 
@@ -27,7 +27,7 @@ Here is the part Landover folks get tripped up on, and it is worth getting right
 
 For most of the community, including the FedExField corridor near Northwest Stadium, the homes off Route 202 (Landover Road), and the subdivisions toward the Glenarden border, private-property placement keeps things simple. The Route 202 and Ardwick-Ardmore industrial strip tends to generate bigger jobs that outgrow a 10-yard, but for a tradesperson doing a single bathroom or a homeowner clearing a garage in that part of town, this is the box.
 
-As for getting there: Landover is a short hop from our Beltsville yard, an easy run down the Beltway. That closeness is part of why we can be flexible on drop-off and pickup timing and why you are dealing with a local family operation instead of a regional dispatcher who has never driven Landover Road.
+As for getting there: Landover is an easy run right off the Capital Beltway. That closeness is part of why we can be flexible on drop-off and pickup timing and why you are dealing with a local family operation instead of a regional dispatcher who has never driven Landover Road.
 
 ## Ready when you are
 

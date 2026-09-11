@@ -1,4 +1,4 @@
-Cuando un trabajo significa vaciar una casa entera en Lanham, el contenedor roll-off de 20 yardas casi siempre es la decisión correcta. Es el tamaño que la mayoría de nuestros clientes terminan eligiendo, y el que rara vez cuestionan después. Con 22 pies de largo, 8 pies de ancho y 4 pies de alto, se traga aproximadamente nueve cargas de camioneta de escombros y lleva un límite de peso de 2 toneladas (4,000 lb). Para la mayoría de los hogares de Lanham, eso es espacio suficiente para vaciar una casa, destripar un par de cuartos o resolver un patrimonio sin pagar por capacidad que nunca llenarás. Somos JP Roll-Off Service, una empresa familiar de transporte ubicada a 15 minutos por la carretera, en Beltsville, y el de 20 yardas es el caballo de batalla de nuestra flota.
+Cuando un trabajo significa vaciar una casa entera en Lanham, el contenedor roll-off de 20 yardas casi siempre es la decisión correcta. Es uno de nuestros tamaños más versátiles, y el que rara vez cuestionan después. Con 22 pies de largo, 8 pies de ancho y 4 pies de alto, se traga aproximadamente nueve cargas de camioneta de escombros. Para la mayoría de los hogares de Lanham, eso es espacio suficiente para vaciar una casa, destripar un par de cuartos o resolver un patrimonio sin pagar por capacidad que nunca llenarás. Somos JP Roll-Off Service, una empresa familiar de transporte, y el de 20 yardas es el caballo de batalla de nuestra flota.
 
 ## Qué cabe en un contenedor de 20 yardas
 
@@ -11,7 +11,7 @@ Algunas formas realistas en que los clientes de Lanham usan el espacio:
 - **Limpieza de patrimonio** — vaciar una casa familiar después de una mudanza o una pérdida, donde el volumen es impredecible y una caja amplia te evita tener que parar a medio trabajo.
 - **Techado mediano** — una remoción moderada donde el peso de las tejas es el factor limitante.
 
-Dos notas sobre el peso. Las tejas, el yeso, los escombros húmedos y la tierra son pesados, y el límite de 2 toneladas puede alcanzarse mucho antes de que la caja se vea llena. Si tu trabajo es en su mayoría material denso, llámanos y platicaremos si el de 20 yardas u otra configuración tiene más sentido antes de entregar nada. Preferimos acertar con el tamaño la primera vez que sorprenderte al final.
+Dos notas sobre el peso. Las tejas, el yeso, los escombros húmedos y la tierra son pesados, y la caja puede pesar mucho antes de que se vea llena. Si tu trabajo es en su mayoría material denso, llámanos y platicaremos si el de 20 yardas u otra configuración tiene más sentido antes de entregar nada. Preferimos acertar con el tamaño la primera vez que sorprenderte al final.
 
 ## Qué trabajos de Lanham van con este tamaño
 
@@ -29,11 +29,11 @@ Para la mayor parte de Lanham, eso es una buena noticia. Esas casas estilo ranch
 
 Las excepciones vale la pena señalarlas desde el principio. Las hileras de townhouses más nuevas a menudo comparten parqueos angostos o dependen del estacionamiento de visitantes, lo que puede empujar el contenedor a la calle y activar ese permiso de derecho de paso del condado. Lo mismo pasa con el corredor comercial de Greenway Center y Annapolis Road, donde con frecuencia no hay nada de espacio fuera de la calle. Y a lo largo del extremo oeste de Lanham, la línea de la City of Glenarden corre cerca de la MD Route 704; un trabajo justo en esa frontera puede quedar a caballo entre el condado no incorporado y una ciudad incorporada con su propia autoridad. Si no estás seguro de qué lado de la línea, o qué colocación, aplica a tu dirección, dinos las calles que se cruzan y te ayudaremos a resolverlo antes del día de la entrega.
 
-Desde nuestro patio en Beltsville, estamos a unos 15 minutos de Lanham por la Route 450 o la BW Parkway. Es un trayecto corto y conocido para nosotros, lo que significa ventanas de entrega flexibles y respuestas rápidas en la recogida cuando tu proyecto termina.
+Lanham es un recorrido fácil para nosotros por la Route 450 o la BW Parkway. Es un trayecto corto y conocido, lo que significa ventanas de entrega flexibles y respuestas rápidas en la recogida cuando tu proyecto termina.
 
 ## Precio sencillo
 
-Una renta de 20 yardas en Lanham se cobra por material en lugar de una sola tarifa fija, así que llama para una cotización de lo que estás sacando. Cada renta incluye entrega, un periodo de renta de 14 días y un límite de peso de 2 toneladas, con recogida a solicitud cuando tu proyecto termine, solo llámanos para programarla. Los días adicionales de renta cuestan $5/día, y cualquier peso por encima del límite de 2 toneladas se cobra a $105 por tonelada adicional. Si esperas material pesado o una ventana de renta más larga, solo menciónalo cuando llames y lo tomaremos en cuenta con honestidad.
+Una renta de 20 yardas en Lanham se cobra por material en lugar de una sola tarifa fija, así que llama para una cotización de lo que estás sacando. Cada renta incluye entrega y un periodo de renta de 14 días, con recogida a solicitud cuando tu proyecto termine, solo llámanos para programarla. Los días adicionales están disponibles a solicitud cuando reservas, y los materiales densos o pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa. Si esperas material pesado o una ventana de renta más larga, solo menciónalo cuando llames y lo tomaremos en cuenta con honestidad.
 
 ## Programemos tu contenedor
 

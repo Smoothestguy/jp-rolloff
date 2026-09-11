@@ -1,12 +1,12 @@
 Overbrook is one of the "O sections" of Levitt and Sons' Belair at Bowie, and you can read its history right off the street signs: in keeping with the development's alliterative naming convention, every street in the section begins with the letter O — Overbrook Lane and its neighbors — which is why locals just call it the "O section." It is a small community, roughly seven blocks tucked into the northeast corner of Bowie, and it was one of the last sections of detached single-family homes Levitt built, realized between about 1964 and 1968. That makes Overbrook's housing stock 55 to 60 years old now, and that single fact drives most of the dumpster work we do here. These are original mid-1960s Levitt homes coming due for their second or third real renovation, and the 20-yard roll-off is the size most of those projects land on.
 
-We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 25 minutes from Overbrook by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks — not a call center.
+We are JP Roll-Off Service, a family-owned hauler, and Overbrook is an easy run for us by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks — not a call center.
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material: the 20-yard is **priced by material for construction debris, so call for a quote (other materials priced separately)**, and every rental includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) weight allowance. Extra days run $5/day, and any weight beyond the 2-ton allowance is billed at $105 per additional ton.
+The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material: the 20-yard is **priced by material for construction debris, so call for a quote (other materials priced separately)**, and every rental includes delivery, pickup on request, and a 14-day rental. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters.
 
-Those four feet of wall height are part of what people underestimate. It is low enough that you can still walk debris up and toss it over the side, but the 22-foot length means it swallows the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes in the O section: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demo. It is the size most customers end up choosing — and rarely regret.
+Those four feet of wall height are part of what people underestimate. It is low enough that you can still walk debris up and toss it over the side, but the 22-foot length means it swallows the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes in the O section: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demo. It is one of our most versatile sizes — and one customers rarely regret.
 
 ## Why the 20-yard fits Overbrook specifically
 
@@ -17,7 +17,7 @@ Here are the jobs that come up again and again on the O-named streets:
 - **Whole-house cleanouts.** This is the 20-yard's best-known role — it is even nicknamed the "whole-house cleanout" size. Clearing an original Overbrook Levitt home between owners, or after years of accumulation in a longtime family house, fills a 20-yard about right without paying for space you will not use.
 - **Multi-room remodels.** Tearing out an original Levitt kitchen plus a bath or two, or running new flooring and drywall through several rooms of a 1960s split-level, is the classic 20-yard job here. The drywall, plaster, cabinetry, and trim debris from a multi-room gut is exactly the volume a 20 was built for.
 - **Estate cleanouts.** As one of the last Belair sections to fill in, Overbrook has held many of the same families since the homes were new. When one of those original-owner houses changes hands, the 20-yard handles furniture, boxes, and household debris in a single container.
-- **Mid-size roofing tear-offs.** A single-layer asphalt tear-off on one of these modest-footprint Capes or ranchers fits comfortably, with the 2-ton allowance covering most jobs of that size.
+- **Mid-size roofing tear-offs.** A single-layer asphalt tear-off on one of these modest-footprint Capes or ranchers fits comfortably; shingles are dense, so let us know it is a roofing job and we will quote it accordingly.
 
 If your project is smaller — a single bathroom, a garage purge, a few rooms of flooring — a 15-yard may serve you better. If you are gutting the house to the studs and adding on, we will talk through whether a 30 makes more sense. Tell us the address and the scope and we will steer you straight; we would rather size it right than oversell you.
 
@@ -29,7 +29,7 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 **Confirming the address.** One quiet advantage of the O section is how easy it is to pin down where we are headed: because every street here starts with the letter O, addresses are simple to confirm before a drop, and there is little chance of routing the truck to the wrong block. Overbrook sits in the northeast part of Bowie with easy access to U.S. Route 50, Samuel Ogle Park, and the Washington, Baltimore and Annapolis (WB&A) Trail, so we know the lay of the land well. The section is in ZIP 20715.
 
-**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway. Most Overbrook addresses are scheduled inside 24 hours, and an early call may still make a same-day run.
+**Drive time.** We dispatch every morning by Route 197 or the BW Parkway. Most Overbrook addresses are scheduled inside 24 hours, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

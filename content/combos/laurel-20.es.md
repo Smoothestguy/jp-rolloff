@@ -1,12 +1,12 @@
-Cuando la gente en Laurel nos llama por un contenedor y no está muy segura de qué tamaño necesita, el de 20 yardas es el que más recomendamos. Es el tamaño que la mayoría de los clientes terminan eligiendo, y el que rara vez lamentan. Con 22 pies de largo, 8 pies de ancho y 4 pies de alto, tiene capacidad para aproximadamente nueve cargas de camioneta y viene con un límite de peso de 2 toneladas (4,000 lb). El precio es por material: los escombros de construcción se cotizan aparte de otros materiales, así que llámanos para una cotización de tu trabajo. Esa cotización incluye la entrega, un periodo de renta de 14 días y el límite de 2 toneladas, con recogida a solicitud cuando llamas a programarla. Los días adicionales son $5/día, y cualquier peso por encima del límite de 2 toneladas se cobra a $105 por tonelada adicional.
+Cuando la gente en Laurel nos llama por un contenedor y no está muy segura de qué tamaño necesita, el de 20 yardas es el que más recomendamos. Es uno de nuestros tamaños más versátiles, y el que rara vez lamentan. Con 22 pies de largo, 8 pies de ancho y 4 pies de alto, tiene capacidad para aproximadamente nueve cargas de camioneta. El precio es por material: los escombros de construcción se cotizan aparte de otros materiales, así que llámanos para una cotización de tu trabajo. Esa cotización incluye la entrega y un periodo de renta de 14 días, con recogida a solicitud cuando llamas a programarla. Los días adicionales están disponibles a solicitud cuando reservas, y los materiales densos o pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa.
 
-Somos JP Roll-Off Service, una empresa familiar con base justo bajando por la Route 1 en Beltsville. Cuando llamas al (301) 252-3586, llegas a las personas que son dueñas de los camiones, no a un centro de llamadas leyendo un guion. Eso importa en un pueblo como Laurel, donde la respuesta correcta a menudo depende de exactamente en qué calle se ubica tu casa.
+Somos JP Roll-Off Service, una empresa familiar, y Laurel nos queda derechito subiendo por la Route 1. Cuando llamas al (301) 252-3586, llegas a las personas que son dueñas de los camiones, no a un centro de llamadas leyendo un guion. Eso importa en un pueblo como Laurel, donde la respuesta correcta a menudo depende de exactamente en qué calle se ubica tu casa.
 
 ## Qué cabe en un contenedor de 20 yardas
 
 El de 20 yardas es el clásico contenedor de "limpieza de casa completa". Imagínate nueve cargas completas de camioneta de escombros y ya te das una idea. Es lo bastante grande para tragar el contenido de un proyecto de varias habitaciones sin obligarte a un contenedor de grado construcción más alto, y con cuatro pies de alto se mantiene fácil de cargar por encima del riel mientras los 22 pies de largo te dan el volumen. Aun así cabe en la mayoría de los parqueos, aunque esos 22 pies completos quieren un trayecto largo y recto, así que vale la pena revisar tu acceso antes de la entrega.
 
-Ese límite de peso de 4,000 libras es la parte que vale la pena pensar bien. El de 20 yardas maneja cómodamente una mezcla pesada de artículos del hogar, muebles, tablaroca, pisos y escombros embolsados. Si tu trabajo se inclina hacia materiales densos como concreto o tejas de techo de remoción completa, el límite de peso se llena más rápido que las paredes, así que vale una llamada rápida para que lo dimensionemos honestamente según lo que realmente estás tirando.
+El peso es la parte que vale la pena pensar bien. El de 20 yardas maneja cómodamente una mezcla pesada de artículos del hogar, muebles, tablaroca, pisos y escombros embolsados. Si tu trabajo se inclina hacia materiales densos como concreto o tejas de techo de remoción completa, la caja se vuelve pesada más rápido de lo que se llenan las paredes, así que vale una llamada rápida para que lo dimensionemos honestamente según lo que realmente estás tirando.
 
 ## Los trabajos de Laurel para los que este tamaño está hecho
 
@@ -18,7 +18,7 @@ Unos cuantos proyectos surgen una y otra vez por Laurel, y el de 20 yardas encaj
 
 **Renovaciones totales de casas antiguas.** El distrito histórico de Old Town y Main Street todavía tiene casas de trabajadores del molino de la década de 1840 y casas victorianas de la década de 1890, que se remontan a los días en que el molino harinero de Nicholas Snowden creció hasta volverse un molino de algodón y el presidente del molino Horace Capron construyó vivienda para cerca de 300 trabajadores. Las renovaciones interiores en esas casas a menudo significan demolición de yeso y listón, cableado knob-and-tube y otros escombros de vivienda antigua, que es exactamente el tipo de carga mixta y difícil que un roll-off maneja bien.
 
-**Techos de tamaño medio.** Para una remoción de techo, el de 20 yardas funciona para un trabajo de tamaño medio, pero ten en cuenta ese límite de 2 toneladas, ya que las tejas son pesadas. Dinos los pies cuadrados aproximados cuando llames y te diremos si el de 20 yardas es la opción correcta o si estarías mejor servido subiendo o bajando el tamaño.
+**Techos de tamaño medio.** Para una remoción de techo, el de 20 yardas funciona para un trabajo de tamaño medio, pero ten en cuenta el peso, ya que las tejas son pesadas. Dinos los pies cuadrados aproximados cuando llames y te diremos si el de 20 yardas es la opción correcta o si estarías mejor servido subiendo o bajando el tamaño.
 
 ## Dónde va, y qué permiso aplica
 
@@ -32,7 +32,7 @@ Esto surge mucho en dos partes de Laurel. El núcleo histórico de Old Town, con
 
 ## Entrega y despacho
 
-Salimos de Beltsville, así que llegar a Laurel es derechito subiendo por la Route 1, ya sea que estés en North Laurel cerca de Maple Lawn, en South Laurel cerca de la Baltimore-Washington Parkway, en Russett y Maryland City cerca de Fort Meade, o justo en Old Town junto a Riverfront Park. El trayecto corto y familiar es parte de por qué podemos mantener el precio ajustado y el horario flexible, incluyendo las limpiezas de mudanza y relacionadas con PCS que surgen a menudo cerca de Fort Meade y la NSA.
+Llegar a Laurel es derechito subiendo por la Route 1 para nosotros, ya sea que estés en North Laurel cerca de Maple Lawn, en South Laurel cerca de la Baltimore-Washington Parkway, en Russett y Maryland City cerca de Fort Meade, o justo en Old Town junto a Riverfront Park. El trayecto corto y familiar es parte de por qué podemos mantener el precio ajustado y el horario flexible, incluyendo las limpiezas de mudanza y relacionadas con PCS que surgen a menudo cerca de Fort Meade y la NSA.
 
 ## Listos cuando tú lo estés
 

@@ -1,10 +1,10 @@
 If you own one of the roughly 300 townhomes in Belair Town, you already know your spot is different from the rest of Bowie. These are Levitt-built, shared-wall homes that went up in two phases between 1968 and 1970 — Belair Town I and Belair Town II — clustered off Race Track Road and tucked behind the stores on the north side of Annapolis Road (Route 450). They're modest, mostly 918 to 1,538 square feet with two or three bedrooms, and they're now more than 50 years old. That combination — older houses, tight assigned parking, and active HOA covenants — is exactly why the 10-yard roll-off is the size we drop most often on these streets. It fits where a bigger box won't, and it's sized right for the one-room projects these homes tend to generate.
 
-We're JP Roll-Off Service, a family-owned hauler running out of Beltsville. When you call, you reach the owners — not a call center — and we're about 25 minutes from your block by way of Route 197 or the BW Parkway. We dispatch every morning, so most Belair Town addresses are scheduled within 24 hours, and an early call may still make a same-day run.
+We're JP Roll-Off Service, a family-owned hauler. When you call, you reach the owners — not a call center — and your block is an easy run for us by way of Route 197 or the BW Parkway. We dispatch every morning, so most Belair Town addresses are scheduled within 24 hours, and an early call may still make a same-day run.
 
 ## Why the 10-yard is the right call for a Belair Town townhome
 
-The 10-yard is our smallest container: about 12 feet long, 8 feet wide, and 4 feet tall. That's roughly three pickup-truck loads, and it comes with a 1-ton (2,000 lb) weight allowance. Pricing is per material — the 10-yard includes delivery, pickup on request, and a 14-day rental with the 1-ton allowance, priced by material, so call for a quote (aggregates are only available in the 10-, 15-, and 20-yard). Extra days are +$5/day, and any weight beyond the first ton runs $105 per additional ton. Pickup is on request — just call to schedule.
+The 10-yard is our smallest container: about 12 feet long, 8 feet wide, and 4 feet tall. That's roughly three pickup-truck loads. Pricing is per material — the 10-yard includes delivery, pickup on request, and a 14-day rental, priced by material, so call for a quote (aggregates are only available in the 10-, 15-, and 20-yard). Extra days are available on request when you book, and dense, heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request — just call to schedule.
 
 We call this the "garage cleanout" size for a reason: its footprint is small enough to sit in a single car space, which matters a great deal here. Under the Belair Town II parking rules, each unit gets the exclusive use of just one assigned space, with anything extra limited to street parking or the spaces behind the units. There's no roomy detached-home driveway to swallow a 20- or 30-yard box. The 10-yard lets you handle a real cleanout without paying for cubic feet you'll never fill — and without tying up parking your neighbors are counting on.
 
@@ -13,7 +13,7 @@ We call this the "garage cleanout" size for a reason: its footprint is small eno
 Because these townhomes are compact and over 50 years old, the work they need tends to come one room at a time. The 10-yard is matched to that:
 
 - **Garage and storage cleanouts.** Years of boxes, old furniture, paint cans, and yard tools clear out fast, and a 10-yard handles a single-bay's worth without overshooting.
-- **Bathroom remodels.** Late-1960s tile, a cast-iron tub, a vanity, and the drywall behind them are heavy but low-volume — a perfect fit for a 1-ton container. Belair Town homes are prime candidates for bath updates given their age.
+- **Bathroom remodels.** Late-1960s tile, a cast-iron tub, a vanity, and the drywall behind them are heavy but low-volume — a perfect fit for the 10-yard, with the heavy material quoted separately. Belair Town homes are prime candidates for bath updates given their age.
 - **Yard waste and trees.** Municipal pickup already handles routine yard-waste, but when you take down an overgrown tree or clear a fence line of brush, that's more than the curb will take. The 10-yard catches the overflow.
 - **Estate downsizes.** When a longtime owner moves on and the family turns the unit over, a one-room-at-a-time clean-out of a two- or three-bedroom townhome fits this size well, especially when you're working in stages.
 
@@ -39,7 +39,7 @@ We'd rather have that conversation up front than show up to a spot that turns ou
 
 ## What you can expect from us
 
-You'll get a straight quote on the phone, a clear delivery window, and a container dropped exactly where we agreed. Your price includes delivery, pickup, and a 14-day rental with a 1-ton allowance — extra days are +$5/day, and any weight over the first ton is $105 per additional ton, so you'll always know how the numbers work before we roll out. When you're loaded up, pickup is by request: one call to schedule and we're back out to haul it away, typically the next day since we run from Beltsville daily.
+You'll get a straight quote on the phone, a clear delivery window, and a container dropped exactly where we agreed. Your price includes delivery, pickup, and a 14-day rental — extra days are available on request when you book, and heavy materials are quoted separately because weight matters, so you'll always know how the numbers work before we roll out. When you're loaded up, pickup is by request: one call to schedule and we're back out to haul it away, typically the next day since we dispatch daily.
 
 Because we're family-owned, the person who answers is the person who shows up. We know these streets off Annapolis Road, we know how tight the parking gets, and we know how to place a 10-yard so it does the job without crowding your neighbors.
 

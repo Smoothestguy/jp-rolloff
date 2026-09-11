@@ -1,10 +1,10 @@
 Most projects in Cheverly arrive one room at a time, not as whole-house gut jobs. It is the kitchen that finally gets its dated cabinets pulled, the tear-off on a Cape Cod that has worn through another roof, a two-bath gut in a 1950s rambler, or a basement cleared before it gets finished. That is exactly where the 15-yard roll-off earns its keep. It is the in-between size — a step up from the small 10-yard, still compact enough to live on a driveway, and sized for the single-room renovation that defines so much of the work happening across this small, tree-lined bedroom community of historic single-family homes.
 
-We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville. When you call, you reach the owners, not a call center, and Cheverly is a short 20-minute run for us, so we know how these jobs actually unfold on the town's winding, wooded streets.
+We are JP Roll-Off Service, a family-owned hauler. When you call, you reach the owners, not a call center, and Cheverly is a short 20-minute run for us, so we know how these jobs actually unfold on the town's winding, wooded streets.
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds roughly seven pickup-truck loads of debris. It comes with a 1.5-ton (3,000 lb) weight allowance, and in Cheverly a 15-yard is **priced by material, so call for a quote**. Pricing includes delivery, pickup on request, and a 14-day rental with the 1.5-ton allowance; additional days run $5/day, and any weight over the allowance is billed $105 per additional ton. Pickup is on request — just call to schedule when you are done.
+The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds roughly seven pickup-truck loads of debris. In Cheverly a 15-yard is **priced by material, so call for a quote**. Pricing includes delivery, pickup on request, and a 14-day rental. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request — just call to schedule when you are done.
 
 Four feet of wall height is the part people come to appreciate once the work starts. It is low enough to walk debris up and toss it over the side without a ramp, which matters on a one-room remodel where you are carrying material out by hand all day. The 15-yard is best known as the "single-room reno" size for exactly that reason: bigger than the 10-yard you would grab for a quick declutter, but not the 20- or 30-yard you would only reach for on a multi-room gut or a full estate cleanout. For a single project that generates real volume but stays contained, it is the right call.
 
@@ -13,7 +13,7 @@ Four feet of wall height is the part people come to appreciate once the work sta
 Cheverly's housing stock is dominated by detached single-family homes built largely between 1921 and the 1960s — starting with 34 developer-built houses from 1921 to 1925, then filling in with Cape Cods, Colonial Revivals, ramblers, and mid-century ranch and split-level homes. That mix puts a lot of the town's renovation work squarely in 15-yard territory: not the whole-house gut, but the single room or the single system being redone in a house that is decades, sometimes a century, old.
 
 - **Kitchen remodel.** Pulling original cabinets, countertops, flooring, and drywall from one kitchen fills a 15-yard about right without paying for space you won't use.
-- **Roofing tear-off.** A single-layer asphalt tear-off on one of these older roofs fits comfortably, with the 1.5-ton allowance covering most jobs of that size. Heavier or multi-layer tear-offs may need the next size up, and we will tell you straight.
+- **Roofing tear-off.** A single-layer asphalt tear-off on one of these older roofs fits comfortably — shingles are heavy, so tell us it is a roof job when you call and we will quote it accordingly. Heavier or multi-layer tear-offs may need the next size up, and we will tell you straight.
 - **Two-bath gut.** Tile, fixtures, vanities, and subfloor from a pair of bathrooms is a textbook 15-yard load.
 - **Basement cleanout.** Clearing a storage or finished basement before a remodel or a sale.
 
@@ -25,7 +25,7 @@ Cheverly also holds Prince George's County's largest documented collection of 19
 
 **The Cheverly permit rule.** The Town of Cheverly requires a permit **only if the dumpster sits on the street or public right-of-way**. Driveway placement is permit-free. So if your 15-yard goes on the driveway — which on these single-family lots it usually can — you are clear with no paperwork. If the only practical spot is the street, the town's street-placement permit runs a 24 to 48 hour turnaround, and we will flag that early so it does not hold up your start date.
 
-**Access and drive time.** Cheverly is a compact town of just 1.35 square miles, about a mile from the northeastern edge of Washington, D.C., and U.S. Route 50 borders the community for direct truck access. From Beltsville we are roughly a 20-minute run, and we dispatch every morning. Most addresses here are scheduled within 24 hours, and an early call may still make a same-day run. The one thing we always account for on Cheverly jobs is the approach — winding, narrow streets and that overhead canopy mean we like to know the address ahead of time so we bring the truck in clean on the first pass.
+**Access and drive time.** Cheverly is a compact town of just 1.35 square miles, about a mile from the northeastern edge of Washington, D.C., and U.S. Route 50 borders the community for direct truck access. We dispatch every morning. Most addresses here are scheduled within 24 hours, and an early call may still make a same-day run. The one thing we always account for on Cheverly jobs is the approach — winding, narrow streets and that overhead canopy mean we like to know the address ahead of time so we bring the truck in clean on the first pass.
 
 ## Talk to the family that runs the trucks
 

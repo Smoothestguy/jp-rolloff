@@ -1,12 +1,12 @@
-Cuando la gente de Rockville nos llama sin saber qué contenedor necesita, el de 20 yardas es el que más recomendamos. Es el tamaño que la mayoría de los clientes termina eligiendo, y el que rara vez lamentan. Con 22 pies de largo, 8 pies de ancho y 4 pies de alto, carga aproximadamente nueve cargas de camioneta y viene con un límite de peso de 2 toneladas (4,000 lb). Nuestro contenedor de 20 yardas incluye entrega, recogida y un periodo de renta de 14 días con un límite de peso de 2 toneladas — el precio se calcula según el material, así que llama para una cotización. La recogida es a solicitud, así que solo nos llamas para programarla. Si te pasas del límite, el peso adicional se cobra a $105 por tonelada adicional, y los días adicionales cuestan $5 cada uno.
+Cuando la gente de Rockville nos llama sin saber qué contenedor necesita, el de 20 yardas es el que más recomendamos. Es uno de nuestros tamaños más versátiles, y el que rara vez lamentan. Con 22 pies de largo, 8 pies de ancho y 4 pies de alto, carga aproximadamente nueve cargas de camioneta. Nuestro contenedor de 20 yardas incluye entrega, recogida y un periodo de renta de 14 días — el precio se calcula según el material, así que llama para una cotización. La recogida es a solicitud, así que solo nos llamas para programarla. Los días adicionales están disponibles a solicitud cuando reservas, y los materiales densos o pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa.
 
-Somos JP Roll-Off Service, una empresa familiar de transporte con base en Beltsville, a unos 45 minutos de Rockville por la I-495 o la Route 200. Cuando llamas al (301) 252-3586, hablas con las personas dueñas de los camiones, no con un centro de llamadas leyendo un guion. Eso importa aquí más que en la mayoría de los lugares, porque Rockville en realidad son dos ciudades en una, y la respuesta correcta depende de en cuál Rockville está tu dirección.
+Somos JP Roll-Off Service, una empresa familiar de transporte, y Rockville es una ruta habitual para nosotros por la I-495 o la Route 200. Cuando llamas al (301) 252-3586, hablas con las personas dueñas de los camiones, no con un centro de llamadas leyendo un guion. Eso importa aquí más que en la mayoría de los lugares, porque Rockville en realidad son dos ciudades en una, y la respuesta correcta depende de en cuál Rockville está tu dirección.
 
 ## Qué cabe en un contenedor de 20 yardas
 
 El de 20 yardas es el clásico contenedor para "limpieza de casa completa". Imagina nueve cargas completas de camioneta de escombros y tienes la idea. Es lo bastante grande para tragarse un proyecto de varias habitaciones sin empujarte hacia una caja de grado construcción, y aún así cabe ordenadamente en la mayoría de los parqueos para dos autos con espacio de sobra para tus propios autos.
 
-Ese límite de peso de 4,000 libras es la parte que vale la pena pensar bien de antemano. El de 20 yardas maneja cómodamente una mezcla pesada de artículos del hogar, muebles, paneles de yeso, pisos y escombros embolsados. Si tu trabajo se inclina hacia materiales densos como concreto o una remoción completa de tejas de techo, el límite de peso se llena más rápido que las paredes, así que una llamada rápida nos permite dimensionarlo con honestidad para lo que realmente estás botando.
+El peso es la parte que vale la pena pensar bien de antemano. El de 20 yardas maneja cómodamente una mezcla pesada de artículos del hogar, muebles, paneles de yeso, pisos y escombros embolsados. Si tu trabajo se inclina hacia materiales densos como concreto o una remoción completa de tejas de techo, la caja se vuelve pesada más rápido de lo que se llenan las paredes, así que una llamada rápida nos permite dimensionarlo con honestidad para lo que realmente estás botando.
 
 ## Los trabajos de Rockville para los que este tamaño está hecho
 
@@ -18,7 +18,7 @@ Las viviendas de Rockville se inclinan a mediados del siglo XX, con un año de c
 
 **Limpiezas de patrimonio y de reducción.** Con tanta de las viviendas unifamiliares de Rockville ahora envejeciendo, las limpiezas de patrimonio surgen de forma constante por todo Twinbrook, Derwood y las calles más viejas cerca del centro. Un contenedor de 20 yardas estacionado en el parqueo suele ser todo lo que hace falta para vaciar una casa de una sola vez.
 
-**Techos de tamaño medio.** Para una remoción de techo, el de 20 yardas maneja un trabajo de tamaño medio, pero ten en cuenta ese límite de 2 toneladas, porque las tejas son pesadas. Dinos los pies cuadrados aproximados cuando llames y te diremos si el de 20 yardas es el correcto o si te conviene subir o bajar de tamaño.
+**Techos de tamaño medio.** Para una remoción de techo, el de 20 yardas maneja un trabajo de tamaño medio, pero ten en cuenta el peso, porque las tejas son pesadas. Dinos los pies cuadrados aproximados cuando llames y te diremos si el de 20 yardas es el correcto o si te conviene subir o bajar de tamaño.
 
 Una nota honesta rápida: si tu proyecto está en King Farm, cerca del Pike District en la frontera con North Bethesda, o en Rockville Town Center, el de 20 yardas puede ser más contenedor del que tu lugar puede aceptar. Llegaremos a eso a continuación.
 
@@ -36,7 +36,7 @@ Una cosa más que verificar antes de renovar. Rockville tiene tres distritos his
 
 ## Entrega y despacho
 
-Operamos desde Beltsville, y Rockville está a unos 45 minutos de camino por la I-495 o la Route 200. La entrega al día siguiente es nuestro estándar, y una llamada temprana todavía puede lograr una entrega el mismo día en la mayoría de las direcciones, ya sea que estés en Twinbrook por Veirs Mill, en un lote grande en Derwood, cerca del Town Center en el centro, o trabajando en un lugar hacia la frontera con North Bethesda. Siempre haremos algunas preguntas sobre tu calle y tu parqueo antes de que salga el camión, para que el contenedor llegue al lugar correcto a la primera.
+Rockville es una ruta habitual para nosotros por la I-495 o la Route 200. La entrega al día siguiente es nuestro estándar, y una llamada temprana todavía puede lograr una entrega el mismo día en la mayoría de las direcciones, ya sea que estés en Twinbrook por Veirs Mill, en un lote grande en Derwood, cerca del Town Center en el centro, o trabajando en un lugar hacia la frontera con North Bethesda. Siempre haremos algunas preguntas sobre tu calle y tu parqueo antes de que salga el camión, para que el contenedor llegue al lugar correcto a la primera.
 
 ## Listos cuando tú lo estés
 

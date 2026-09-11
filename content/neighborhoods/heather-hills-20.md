@@ -1,12 +1,12 @@
 Heather Hills is the odd one out among the Belair at Bowie sections, and that quirk shapes every dumpster we deliver here. Built in 1965, it is the only piece of the Levitt and Sons community that sits south of U.S. Route 50 — physically cut off from the rest of Belair, with no road crossing the highway and only a pedestrian bridge linking it on foot to the rest of Bowie. You can read where you are in the street signs: like every Belair section, Heather Hills follows Levitt's convention of giving every street the same first letter as the section, so the "H" streets tell you you've arrived. Those 1965 homes are around 60 years old now, sitting on roughly quarter-acre, oak-shaded lots, and that age is what drives most of the cleanout and remodel work we do here. The 20-yard roll-off is the size most of those projects land on.
 
-We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 25 minutes from Heather Hills by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks — not a call center, and not an answering service.
+We are JP Roll-Off Service, a family-owned hauler, and Heather Hills is an easy run for us by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks — not a call center, and not an answering service.
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material, so the **20-yard is priced by what you're loading — call for a quote**. That price includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) weight allowance. Extra days run $5/day, and any weight beyond the 2-ton allowance is $105 per additional ton.
+The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material, so the **20-yard is priced by what you're loading — call for a quote**. That price includes delivery, pickup on request, and a 14-day rental. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters.
 
-Those four feet of wall height are the part people appreciate. It is low enough that you can walk debris right up and toss it over the side without a ramp, but the 22-foot length swallows the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for an original Levitt home: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or a full tear-down. It is the size most customers end up choosing — and rarely regret. It has even earned a nickname for it: the "whole-house cleanout" size.
+Those four feet of wall height are the part people appreciate. It is low enough that you can walk debris right up and toss it over the side without a ramp, but the 22-foot length swallows the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for an original Levitt home: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or a full tear-down. It is one of our most versatile sizes — and one customers rarely regret. It has even earned a nickname for it: the "whole-house cleanout" size.
 
 ## Why the 20-yard fits Heather Hills specifically
 
@@ -17,7 +17,7 @@ Here are the jobs that come up again and again on the H-named streets:
 - **Whole-house cleanouts.** This is the 20-yard's best-known role. Clearing an original Heather Hills Levitt home between owners, or after years of accumulation, fills a 20-yard about right without paying for space you will not use.
 - **Multi-room remodels.** A kitchen-and-baths gut, or a run of bedrooms getting new flooring and drywall, is the classic 20-yard job in a Levitt home on its second or third renovation. Tearing out an original kitchen plus a bath or two generates exactly the debris volume a 20 was built for.
 - **Estate cleanouts.** Heather Hills has held many of the same families for decades. When one of those longtime homes changes hands, the 20-yard handles furniture, boxes, and household debris in a single container — and on a quarter-acre lot, there's almost always room for it.
-- **Mid-size roofing tear-offs.** A typical Belair-era roof tear-off fits comfortably, with the 2-ton allowance covering most single-layer asphalt jobs on these modest-footprint homes.
+- **Mid-size roofing tear-offs.** A typical Belair-era roof tear-off fits comfortably; shingles are dense, so let us know it is a roofing job and we will quote it accordingly.
 
 If your project is smaller — a single bathroom, a garage purge, a few rooms of flooring — a 15-yard may serve you better. If you are gutting the house to the studs and adding on, we will talk through whether a 30 makes more sense. Tell us the address and the scope and we will steer you straight; we would rather size it right than oversell you.
 
@@ -31,7 +31,7 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 **Associations.** There is a Heather Hills Homeowners Association presence in the neighborhood, and the City of Bowie keeps a master list of the area's homeowner and civic associations. Staging a dumpster on your own driveway typically does not need approval, but if your block would like a heads-up, we are happy to provide a service confirmation you can forward along.
 
-**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway. Heather Hills sits at the southwest edge of Bowie, bordered to the west by New Town Park — a short pedestrian stretch of the East Coast Greenway, the 3,000-mile trail running from Maine to Florida — and served by Heather Hills Park, so we know exactly where these streets are. Most addresses here are scheduled within 24 hours, and an early call may still make a same-day run. The section is in ZIP 20715.
+**Drive time.** We dispatch every morning by Route 197 or the BW Parkway. Heather Hills sits at the southwest edge of Bowie, bordered to the west by New Town Park — a short pedestrian stretch of the East Coast Greenway, the 3,000-mile trail running from Maine to Florida — and served by Heather Hills Park, so we know exactly where these streets are. Most addresses here are scheduled within 24 hours, and an early call may still make a same-day run. The section is in ZIP 20715.
 
 ## Talk to the family that runs the trucks
 

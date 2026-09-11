@@ -1,12 +1,12 @@
 Northridge is one of Bowie's newer master-planned neighborhoods, a contemporary development off the winding streets of ZIP 20720 with homes built mostly between 1992 and 2001. That puts it a generation past Bowie's postwar Levitt-era grid sections — these are larger contemporary, Colonial Revival, and Craftsman-style single-family homes, many with attached garages, threaded along curving roads and cul-de-sacs like Northview Drive and Quill Point Drive. Thirty-some years in, those homes are squarely in their first big renovation cycle, and the 20-yard roll-off is the size most of those projects settle on.
 
-We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 25 minutes from Northridge by Route 197 or the BW Parkway. When you call, you reach the family that owns the trucks — not a call center. The owners answer the phone.
+We are JP Roll-Off Service, a family-owned hauler, and Northridge is an easy run for us by way of Route 197 or the BW Parkway. When you call, you reach the family that owns the trucks — not a call center. The owners answer the phone.
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material: a 20-yard is **priced by what you're throwing away, so call for a quote**, and includes delivery, pickup on request, and a **14-day rental with a 2-ton (4,000 lb) weight allowance**. Need it longer? It's just +$5 a day. Go over the 2-ton allowance and extra weight runs $105 per additional ton, so heavy loads are billed by what they actually weigh.
+The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material: a 20-yard is **priced by what you're throwing away, so call for a quote**, and includes delivery, pickup on request, and a **14-day rental**. Need it longer? Just ask when you book and we will set it up. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters.
 
-That long 22-foot footprint is the part people underestimate. The walls stay low at 4 feet, so you can still walk debris up and toss it over the side, but the length swallows the volume of a real project. That balance is why the 20-yard sits in the sweet spot for so many Northridge homes: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural teardown. It is the size most customers end up choosing — and rarely regret.
+That long 22-foot footprint is the part people underestimate. The walls stay low at 4 feet, so you can still walk debris up and toss it over the side, but the length swallows the volume of a real project. That balance is why the 20-yard sits in the sweet spot for so many Northridge homes: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural teardown. It is one of our most versatile sizes — and one customers rarely regret.
 
 ## Why the 20-yard fits Northridge specifically
 
@@ -17,7 +17,7 @@ Here are the jobs that come up again and again across Northridge:
 - **Whole-house cleanouts.** This is the 20-yard's best-known role — it is even nicknamed the "whole-house cleanout" size. Clearing a Northridge home between owners, or before a top-to-bottom refresh, fills a 20-yard about right without paying for space you will not use.
 - **Multi-room remodels.** A kitchen-and-baths gut, or a run of rooms getting new flooring and drywall, is the classic 20-yard job in a 1990s contemporary home reaching the age where original finishes start to date. Pulling builder-era cabinets, counters, and a bath or two throws off exactly the debris volume a 20 was made to hold.
 - **Estate cleanouts.** When a longtime Northridge home finally changes hands, the 20-yard handles furniture, boxes, and household debris in a single container.
-- **Mid-size roofing tear-offs.** A single-layer asphalt tear-off on one of these contemporary or Colonial Revival rooflines fits comfortably; heavier roofs may run past the 2-ton allowance, where extra weight is billed at $105 per additional ton.
+- **Mid-size roofing tear-offs.** A single-layer asphalt tear-off on one of these contemporary or Colonial Revival rooflines fits comfortably; shingles are dense, so let us know it is a roofing job and we will quote it accordingly.
 
 If your project is smaller — a single bathroom, a garage purge, a few rooms of flooring — a 15-yard may serve you better. If you are taking the house to the studs or building an addition with structural demolition, we will talk through whether a 30 makes more sense. Tell us the address and the scope and we will steer you straight; we would rather size it right than oversell you.
 
@@ -31,7 +31,7 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 **Getting the truck in.** Northridge's winding streets and cul-de-sacs are a different animal from Bowie's older straight grid, so turnarounds and approach angles matter for a loaded roll-off truck. We dispatch every morning and know these roads — the loop around Northridge Park and its pond, the cul-de-sacs off Quill Point near the Swim & Tennis Club. Tell us where on the lot you want the box and we will plan the approach so the delivery and the eventual pickup both go clean.
 
-**Drive time.** We are about 25 minutes out in Beltsville via Route 197 or the BW Parkway, so most Northridge addresses get scheduled inside 24 hours, and an early call may still make a same-day run.
+**Drive time.** Northridge is an easy run for us via Route 197 or the BW Parkway, so most Northridge addresses get scheduled inside 24 hours, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

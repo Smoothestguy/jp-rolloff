@@ -1,10 +1,10 @@
-If you're clearing out one room, one garage, or one stubborn corner of the yard in Hyattsville, the 10-yard roll-off is almost always the right call. It's our smallest box and the one we hand to homeowners more than any other for single-job cleanups. At JP Roll-Off Service, we're a family-owned hauler running out of Beltsville, just up the road, and the owners are the ones who pick up the phone when you call. No call center, no runaround — just a straight answer about whether this size fits your project and your property.
+If you're clearing out one room, one garage, or one stubborn corner of the yard in Hyattsville, the 10-yard roll-off is almost always the right call. It's our smallest box and the one we hand to homeowners more than any other for single-job cleanups. At JP Roll-Off Service, we're a family-owned hauler, and the owners are the ones who pick up the phone when you call. No call center, no runaround — just a straight answer about whether this size fits your project and your property.
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard measures roughly 12 feet long, 8 feet wide, and 4 feet tall. That low profile is the whole point: it holds about three pickup-truck loads of debris and comes with a 1-ton (2,000-pound) weight allowance built into the price. Pricing is per material — priced by what you're putting in it, so call for a quote — and that rate includes delivery, pickup on request, and a 14-day rental with the 1-ton allowance. Go over that weight and extra tonnage is billed at $105 per additional ton; extra days run $5 a day, and pickup is on request when you call to schedule.
+The 10-yard measures roughly 12 feet long, 8 feet wide, and 4 feet tall. That low profile is the whole point: it holds about three pickup-truck loads of debris. Pricing is per material — priced by what you're putting in it, so call for a quote — and that rate includes delivery, pickup on request, and a 14-day rental. Dense, heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters; extra days are available on request when you book, and pickup is on request when you call to schedule.
 
-Because the walls sit low, you can walk heavy items right up to the side and tip them in instead of hoisting everything over your head. That makes the 10-yard the favorite for dense, heavy loads like dirt, brick, tile, and old roofing, where you'll hit the weight limit long before you fill the box. For a one-room project, that's exactly the trade-off you want.
+Because the walls sit low, you can walk heavy items right up to the side and tip them in instead of hoisting everything over your head. That makes the 10-yard the favorite for dense, heavy loads like dirt, brick, tile, and old roofing, where weight adds up long before you fill the box. For a one-room project, that's exactly the trade-off you want.
 
 This is the size people mean when they say the "garage cleanout" dumpster. It takes up about the same footprint as a single car, which matters more in Hyattsville than in most places — more on that below.
 
@@ -14,7 +14,7 @@ The 10-yard shines on contained, single-area projects, and Hyattsville generates
 
 **Garage cleanouts.** The detached garages so common in the older parts of town fill up fast with decades of paint cans, lumber scraps, broken furniture, and boxes nobody's opened since the last move. One 10-yard usually swallows a full garage with room to spare.
 
-**Bathroom remodels.** A gut of a single bathroom — old tile, a cast-iron tub, vanity, drywall, and fixtures — lands neatly inside this size, and the heavy tile and tub fit comfortably under the 1-ton allowance for a typical one-bath tear-out.
+**Bathroom remodels.** A gut of a single bathroom — old tile, a cast-iron tub, vanity, drywall, and fixtures — lands neatly inside this size, and the heavy tile and tub fit comfortably for a typical one-bath tear-out.
 
 **Yard waste and trees.** Hyattsville's mature, tree-lined streets mean storm cleanup, brush, branches, and the occasional removed tree. The low walls make it easy to pitch limbs and bagged yard waste straight in.
 
@@ -34,7 +34,7 @@ One thing worth checking: the Hyattsville ZIP codes (20781, 20782, 20783, 20784)
 
 A few neighborhood notes we keep in mind: West Hyattsville borders the Northwest Branch of the Anacostia River, and lots near that stream valley and the Anacostia Tributary Trail corridor can have soft ground or limited access, so we'll talk through where a loaded box can safely rest. University Hills sits up against the University of Maryland in College Park. Downtown's Arts District — the roughly 25-acre EYA redevelopment along the Route 1 corridor — mixes restored storefronts with newer townhomes, which means tenant fit-outs and townhome-scale projects right alongside single-family work. And the Riverdale border blends right into the same older grid. Wherever you are, we'll figure out the cleanest spot to drop the box.
 
-Drive time is on your side. Hyattsville is a short run from our yard in Beltsville, so most addresses here are scheduled within 24 hours, and an early call may still make a same-day run. We'll confirm a window, place the box where it works for your property, and come back to haul it the moment you're done.
+Drive time is on your side. Hyattsville is an easy run for us, so most addresses here are scheduled within 24 hours, and an early call may still make a same-day run. We'll confirm a window, place the box where it works for your property, and come back to haul it the moment you're done.
 
 ## Ready when you are
 

@@ -1,14 +1,14 @@
-When a Meadowbrook project grows past the weekend-cleanout stage and into real construction, the 25-yard roll-off is the container that carries it. We're JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, and when you call, the owners are the ones who answer the phone. Meadowbrook is one of the parts of Bowie we know street by street: the "M-section" of Levitt & Sons' Belair at Bowie development, one of the later sections, built between roughly 1964 and 1968 with the last of Belair's detached single-family homes. Those houses are around 58 to 62 years old now, and at that age the work stops being cosmetic and starts being structural. The 25-yard is built for exactly that.
+When a Meadowbrook project grows past the weekend-cleanout stage and into real construction, the 25-yard roll-off is the container that carries it. We're JP Roll-Off Service, a family-owned hauler, and when you call, the owners are the ones who answer the phone. Meadowbrook is one of the parts of Bowie we know street by street: the "M-section" of Levitt & Sons' Belair at Bowie development, one of the later sections, built between roughly 1964 and 1968 with the last of Belair's detached single-family homes. Those houses are around 58 to 62 years old now, and at that age the work stops being cosmetic and starts being structural. The 25-yard is built for exactly that.
 
 ## Why the 25-yard fits the bigger Meadowbrook jobs
 
-The 25-yard box measures about 18 feet long, 8 feet wide, and 6 feet tall — roughly 10.5 pickup-truck loads of debris. Pricing is per material: in Meadowbrook the 25-yard for construction debris **includes delivery, a 14-day rental with a 2-ton allowance, and pickup on request — priced by material, so call for a quote** (other materials priced separately). Keep the box past 14 days and it's just $5 a day extra. Go over the 2-ton allowance and additional weight is billed at $105 per ton — so let us know what you're loading and we'll flag it before the haul.
+The 25-yard box measures about 18 feet long, 8 feet wide, and 6 feet tall — roughly 10.5 pickup-truck loads of debris. Pricing is per material: in Meadowbrook the 25-yard for construction debris **includes delivery, a 14-day rental, and pickup on request — priced by material, so call for a quote** (other materials priced separately). Additional days are available on request when you book. Heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters — so let us know what you're loading and we'll flag it before the haul.
 
 We call it the "major construction" size, and that's the right way to think about it. You reach for the 25-yard when a job is going to throw off real volume rather than a single room's worth of debris. In Meadowbrook specifically, that means:
 
 - **Home additions.** Bumping out the back of a 1960s Levitt house or finishing over a slab generates framing lumber, old siding, and tear-out all at once — more than a smaller box can hold without a mid-project swap.
 - **Whole-house remodels.** A full gut of an original Belair home — kitchen, baths, flooring, and drywall coming out together — is a textbook 25-yard job. When a roughly 60-year-old house gets modernized down to the studs, the debris adds up fast.
-- **Large roofing tear-offs.** After nearly six decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs run heavy, so plan for shingle weight — extra tonnage beyond the 2-ton allowance is billed at $105 per ton.
+- **Large roofing tear-offs.** After nearly six decades, original roofs reach the end of the line. Bigger or multi-layer tear-offs run heavy, so plan for shingle weight — heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
 - **Commercial cleanouts.** When a larger property or business clearout nearby throws off material in bulk, the 25-yard handles it in one drop.
 
 If your Meadowbrook job is smaller — a single-room redo, a bath refresh, a routine garage cleanout — a 20-yard or even a 15-yard is usually the smarter spend, and we'll tell you so. The 25-yard pays off when the project is genuinely big.
@@ -27,17 +27,17 @@ Because nearly every Meadowbrook home came with its own paved driveway, the righ
 
 One more note: we couldn't confirm whether the Meadowbrook section has its own active homeowners or civic association with separate placement rules. If your block does, follow any of its guidance alongside the city's right-of-way rule. When in doubt, call us and we'll talk through where the box should go before it ever lands.
 
-## Fast dispatch from Beltsville
+## Fast dispatch
 
-Meadowbrook sits north of Route 197 (Collington Road) in the 20716 ZIP, with Woodmore-at-Meadowbrook Elementary at 3501 Moylan Drive as the central landmark. From our Beltsville yard that's about a 25-minute run, either down Route 197 or via the BW Parkway depending on the morning. We dispatch every day, and most addresses here are scheduled within 24 hours — an early call may still make a same-day run, which matters when a contractor shows up ready to start and you need the container on site now.
+Meadowbrook sits north of Route 197 (Collington Road) in the 20716 ZIP, with Woodmore-at-Meadowbrook Elementary at 3501 Moylan Drive as the central landmark. That's an easy run for us, either down Route 197 or via the BW Parkway depending on the morning. We dispatch every day, and most addresses here are scheduled within 24 hours — an early call may still make a same-day run, which matters when a contractor shows up ready to start and you need the container on site now.
 
 Because we're family-run and dispatching locally, we can be flexible about timing: dropping the box the evening before a Saturday roofing crew arrives, or staging it so it's clear of the school-hour traffic around Moylan Drive. Just tell us how your project is laid out and we'll work with it.
 
 ## A few things worth thinking through
 
-- **Heavy materials add up fast.** Roofing shingles, plaster, and old tile are dense. A large tear-off on a 60-year-old Levitt roof can approach or pass the 2-ton allowance, so let us know what you're loading and we'll flag whether you're likely to go over — extra weight runs $105 per ton.
-- **Mixed remodel debris is the sweet spot.** Whole-house remodel waste — drywall, cabinetry, flooring, framing offcuts — fills the volume of a 25-yard without usually pushing past the 2-ton allowance. That's the ideal load for this size.
-- **Additions generate both volume and weight.** A home addition produces excavation spoils, framing waste, and packaging all at once. Keep heavy soil and concrete loads modest so the container stays under the 2-ton allowance and you avoid the $105-per-ton overage.
+- **Heavy materials add up fast.** Roofing shingles, plaster, and old tile are dense. A large tear-off on a 60-year-old Levitt roof runs heavy, so let us know what you're loading — heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
+- **Mixed remodel debris is the sweet spot.** Whole-house remodel waste — drywall, cabinetry, flooring, framing offcuts — fills the volume of a 25-yard without usually running heavy. That's the ideal load for this size.
+- **Additions generate both volume and weight.** A home addition produces excavation spoils, framing waste, and packaging all at once. Keep heavy soil and concrete loads modest — dense material is quoted separately because weight matters.
 - **Commercial cleanouts are easy to underestimate.** When you describe the contents, we'll tell you honestly whether the 25-yard handles it in one go or whether a swap makes more sense.
 
 ## Talk to the family that owns the trucks

@@ -1,12 +1,12 @@
 Whitehall is the "W section" of Levitt's Belair at Bowie development, and the street signs give it away the moment you turn in — every street here begins with the letter W, from William Lane on out, an alliterative grid that is exactly how locals pin down where they live inside the section. Whitehall holds the last and largest run of Levitt's detached single-family houses, with its homes realized between roughly 1964 and 1968. That puts nearly all of its housing stock in the mid-to-late 1960s, which makes most homes here 55 to 60 years old today — aging roofs, original systems, dated kitchens and baths. That one fact drives most of the dumpster work we do in Whitehall, and the 20-yard roll-off is the size most of those projects land on.
 
-We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 25 minutes from Whitehall by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks — not a call center.
+We are JP Roll-Off Service, a family-owned hauler, and Whitehall is an easy run for us by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks — not a call center.
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material — priced by what you're throwing away, so call for a quote — and the rental includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) weight allowance. Extra days run $5/day, and weight beyond the 2-ton allowance is $105 per additional ton. Aggregates like concrete, brick, and dirt are only accepted in the 10, 15, and 20-yard sizes.
+The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material — priced by what you're throwing away, so call for a quote — and the rental includes delivery, pickup on request, and a 14-day rental. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters. Aggregates like concrete, brick, and dirt are only accepted in the 10, 15, and 20-yard sizes.
 
-The four-foot wall height is the part people underestimate. It is low enough that you can still walk debris up and toss it over the side without a ramp, but the 22-foot length swallows the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes in the W section: bigger than a quick-cleanup 10 or 15-yard, but short of the oversized 30-yard that mostly makes sense for new construction or full structural demolition. It is the size most customers end up choosing — and rarely regret. It has earned the nickname the "whole-house cleanout" size for good reason.
+The four-foot wall height is the part people underestimate. It is low enough that you can still walk debris up and toss it over the side without a ramp, but the 22-foot length swallows the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes in the W section: bigger than a quick-cleanup 10 or 15-yard, but short of the oversized 30-yard that mostly makes sense for new construction or full structural demolition. It is one of our most versatile sizes — and one customers rarely regret. It has earned the nickname the "whole-house cleanout" size for good reason.
 
 ## Why the 20-yard fits Whitehall specifically
 
@@ -17,7 +17,7 @@ Because these are established 55-to-60-year-old homes that have been personalize
 - **Whole-house cleanouts.** This is the 20-yard's best-known role. Clearing an original Whitehall Levitt home between owners, or after decades of one family living in it, fills a 20-yard about right without paying for space you will not use.
 - **Multi-room remodels.** A common Levitt-Bowie project is opening up an original galley kitchen, finishing an attic, or converting an attached carport into living space. Those mid-century updates throw off framing, drywall, and old-finish debris across several rooms — squarely 20-yard territory in a home on its second or third renovation.
 - **Estate cleanouts.** Whitehall has held many original-owner families for decades. When one of those longtime homes finally changes hands, the 20-yard handles furniture, boxes, and household debris in a single container.
-- **Mid-size roofing tear-offs.** A typical Belair-era roof tear-off fits comfortably; the 2-ton allowance covers most single-layer asphalt jobs on these modest mid-1960s footprints, with any weight beyond that billed at $105 per additional ton.
+- **Mid-size roofing tear-offs.** A typical Belair-era roof tear-off fits comfortably; shingles are dense, so let us know it is a roofing job and we will quote it accordingly.
 
 If your project is smaller — a single bathroom, a garage purge, a few rooms of flooring — a 15-yard may serve you better. If you are taking the house to the studs and adding on, we will talk through whether a 30 makes more sense. Tell us the address and the scope and we will steer you straight; we would rather size it right than oversell you.
 
@@ -31,7 +31,7 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 **A note on the local association.** Whitehall is an established, non-gated Levitt section, not an amenity-controlled or gated community, so placement is usually a simple driveway conversation. If a homeowners or civic association covers your block and you are unsure about staging rules, it is worth a quick check with the local association before delivery day — and we are glad to work around whatever they ask.
 
-**Drive time and getting around.** We are about 25 minutes out in Beltsville and dispatch every morning by Route 197 or the BW Parkway, so we know exactly where these W streets are and how the section sits against the golf club. Whitehall is part of Bowie, which spans ZIP codes 20715 and 20716 — we go by the address rather than the ZIP, so just give us the street and number. Most addresses here are scheduled within 24 hours, and an early call may still make a same-day run.
+**Drive time and getting around.** We dispatch every morning by Route 197 or the BW Parkway, so we know exactly where these W streets are and how the section sits against the golf club. Whitehall is part of Bowie, which spans ZIP codes 20715 and 20716 — we go by the address rather than the ZIP, so just give us the street and number. Most addresses here are scheduled within 24 hours, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

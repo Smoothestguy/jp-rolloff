@@ -1,10 +1,10 @@
 Bladensburg packs roughly 9,657 people onto about one square mile of land, which works out to a density near 9,000 residents per square mile — and that single number tells you almost everything about how a roll-off job goes here. Lots are narrow, driveways are short, and curbside frontage is at a premium. On a town this tight, the smallest container we run, the 10-yard, is usually the right call: it fits a single car spot, handles a one-room project, and stays entirely on your driveway so you never have to chase a town permit. It is the size we reach for most when a Bladensburg homeowner is clearing a garage or gutting a single bathroom.
 
-We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville — a short run from our yard to Bladensburg. When you call, you get the people who own the trucks, not a call center, and we know the Port Towns blocks well enough to talk through where a container can actually sit before we ever load it onto the truck.
+We are JP Roll-Off Service, a family-owned hauler, and Bladensburg is an easy run for us. When you call, you get the people who own the trucks, not a call center, and we know the Port Towns blocks well enough to talk through where a container can actually sit before we ever load it onto the truck.
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard is the smallest footprint in our lineup, and on a town built this densely that is a feature, not a limitation. It measures 12 ft long by 8 ft wide by 4 ft tall, holds roughly three pickup-truck loads of debris, and comes with a 1-ton (2,000 lb) weight allowance. In Bladensburg a 10-yard **includes delivery, pickup on request, and a 14-day rental with a 1-ton allowance — priced by material, so call for a quote**. Pricing is per material, not one price for everything — additional days run $5/day, and any weight over the 1-ton allowance is billed at $105 per additional ton.
+The 10-yard is the smallest footprint in our lineup, and on a town built this densely that is a feature, not a limitation. It measures 12 ft long by 8 ft wide by 4 ft tall and holds roughly three pickup-truck loads of debris. In Bladensburg a 10-yard **includes delivery, pickup on request, and a 14-day rental — priced by material, so call for a quote**. Pricing is per material, not one price for everything — additional days are available on request when you book, and dense, heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
 
 The low 4-foot walls are the part people appreciate once it is on the ground: you can walk debris right up and drop it over the side without a ramp, which makes it the easy choice for one-room work. It is best known as the "garage cleanout" size, and the reason is simple — it handles a single concentrated job without making you pay for cubic feet of empty space you were never going to fill. If you are gutting a whole house or tearing off a full roof, you want something larger; for the focused projects below, the 10-yard is exactly right.
 
@@ -13,7 +13,7 @@ The low 4-foot walls are the part people appreciate once it is on the ground: yo
 Bladensburg's housing stock skews older and mid-century — ZIP 20710 has roughly 3,800 housing units with a median build year around 1969, and a heavy concentration of homes from the 1950s and 1960s. Add the historic 1910s bungalow blocks of Decatur Heights, platted in 1914 and 1917 on the gridded streets north and south of Annapolis Road, plus the 1947 Sunnybrook single-family homes, and you have a town full of houses that are now hitting the age where one room at a time gets refreshed. That is squarely 10-yard territory. The jobs we see it used for most around Bladensburg:
 
 - **Garage cleanouts.** The classic 10-yard job. One bay of accumulated boxes, old paint, broken furniture, and yard tools fills a 10-yard about right, and the container tucks into a single driveway spot while you work.
-- **Bathroom remodels.** Pulling a 1960s tub, vanity, tile, and subfloor from a single bath produces a tight, heavy load that the 10-yard's 1-ton allowance is built for — without the oversized container hogging a narrow driveway.
+- **Bathroom remodels.** Pulling a 1960s tub, vanity, tile, and subfloor from a single bath produces a tight, heavy load that the 10-yard is built for — without the oversized container hogging a narrow driveway.
 - **Yard waste and trees.** Brush, branches, and storm debris from a small in-town lot. On the older Decatur Heights blocks shaded by mature trees, a 10-yard handles a serious pruning or a downed limb cleanup.
 - **Estate downsizes.** When a longtime family home changes hands, a 10-yard clears one room or one focused round of sorting — furniture, household goods, and clutter — without committing to a whole-house container.
 
@@ -27,7 +27,7 @@ Because so many Bladensburg homes are modest in size and sit on small lots, the 
 
 **Tight setbacks on the older blocks.** In the Decatur Heights bungalow sections and the other early-20th-century streets, setbacks are close and driveways are narrow. The 10-yard's compact 12-foot length is the easiest container we run to fit those footprints, which is another reason it is the right pick for so much in-town work.
 
-**Drive time.** Beltsville is a short run from Bladensburg, and we dispatch every morning. Most addresses are scheduled within 24 hours, and an early call may still make a same-day drop — well within the town's same-week permit-free turnaround.
+**Drive time.** Bladensburg is an easy run for us, and we dispatch every morning. Most addresses are scheduled within 24 hours, and an early call may still make a same-day drop — well within the town's same-week permit-free turnaround.
 
 ## Talk to the family that runs the trucks
 

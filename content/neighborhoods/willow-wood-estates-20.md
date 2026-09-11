@@ -1,12 +1,12 @@
 Willow Wood Estates is one of Bowie's more discrete pockets — a compact subdivision of midsize single-family homes built in a tight window from roughly 1977 through 1983, with the broader area filling in through the 1970s and 1980s. That matters more than it sounds. Unlike the sprawling 1960s Levitt grid of "Belair at Bowie" that defines most of the city, Willow Wood is a later, smaller cohort of detached homes that all went up around the same time — and that are all hitting the 40-plus-year renovation cycle at once. When a uniform-age neighborhood ages together, it remodels together, and the 20-yard roll-off is the size most of that work lands on.
 
-We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 25 minutes from Willow Wood Estates by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks — not a call center, not an answering service. The owners answer the phone.
+We are JP Roll-Off Service, a family-owned hauler, and Willow Wood Estates is an easy run for us by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks — not a call center, not an answering service. The owners answer the phone.
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material: a construction-debris 20-yard is **priced by what you are throwing away (other materials are quoted separately), so call for a quote — every drop includes delivery, pickup, and a 14-day rental with a 2-ton (4,000 lb) weight allowance**. Need it longer? It is just $5 a day after that. Go over the 2-ton allowance and extra weight runs $105 per additional ton, and pickup is on request — give us a call to schedule it. Aggregates such as concrete, brick, and dirt are accepted only in the 10, 15, and 20-yard boxes.
+The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material: a construction-debris 20-yard is **priced by what you are throwing away (other materials are quoted separately), so call for a quote — every drop includes delivery, pickup, and a 14-day rental**. Need it longer? Just ask when you book and we will set it up. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters, and pickup is on request — just call to schedule. Aggregates such as concrete, brick, and dirt are accepted only in the 10, 15, and 20-yard boxes.
 
-Those four feet of wall height are the part people tend to underestimate. They are low enough that you can still walk debris up and toss it over the side without a ramp, but the long box is roomy enough to swallow the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demolition. It is the size most customers end up choosing — and rarely regret.
+Those four feet of wall height are the part people tend to underestimate. They are low enough that you can still walk debris up and toss it over the side without a ramp, but the long box is roomy enough to swallow the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demolition. It is one of our most versatile sizes — and one customers rarely regret.
 
 ## Why the 20-yard fits Willow Wood Estates specifically
 
@@ -19,7 +19,7 @@ Here are the jobs that come up again and again:
 - **Whole-house cleanouts.** This is the 20-yard's best-known role — it is even nicknamed the "whole-house cleanout" size. Clearing one of these midsize homes between owners, or after years of accumulation, fills a 20-yard about right without paying for space you will not use.
 - **Multi-room remodels.** Tearing out an original late-'70s kitchen plus a bath or a couple of bedrooms is the classic 20-yard job here. The drywall, cabinetry, flooring, and trim debris from a multi-room gut on a 1,800-to-2,500-square-foot home is exactly the volume a 20 was built for.
 - **Estate cleanouts.** Many of these homes have held the same families since they were new. When one of those longtime homes changes hands, the 20-yard handles furniture, boxes, and a lifetime of household goods in a single container.
-- **Mid-size roofing tear-offs.** A single-layer asphalt tear-off on one of these midsize homes fits comfortably, with the 2-ton allowance covering most jobs of that footprint.
+- **Mid-size roofing tear-offs.** A single-layer asphalt tear-off on one of these midsize homes fits comfortably; shingles are dense, so let us know it is a roofing job and we will quote it accordingly.
 
 If your project is smaller — a single bathroom, a garage purge, a few rooms of flooring — a 10 or 15-yard may serve you better. If you are gutting the house to the studs and adding square footage, we will talk through whether a 30 makes more sense. Tell us the address and the scope and we will steer you straight; we would rather size it right than oversell you.
 
@@ -31,9 +31,9 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 **A note on the boundary.** Willow Wood Estates sits in the broader Bowie/Mitchellville area of Prince George's County, and real-estate listings are not always consistent about whether a given section falls under the Bowie 20715 ZIP or the adjacent Mitchellville 20721 ZIP. It makes no difference to your service — both are in Prince George's County, the City of Bowie permit guidance applies, and we dispatch to the whole area the same way. When you give us the exact address, we sort out the rest.
 
-**Getting the truck in.** Willow Wood Estates is a residential subdivision of loops and side streets rather than wide arterials, so we route the truck through the neighborhood and place the box carefully on your driveway. We have clean highway access from the Beltsville yard via Route 197 and the BW Parkway, which keeps the run short and predictable.
+**Getting the truck in.** Willow Wood Estates is a residential subdivision of loops and side streets rather than wide arterials, so we route the truck through the neighborhood and place the box carefully on your driveway. We have clean highway access via Route 197 and the BW Parkway, which keeps the run short and predictable.
 
-**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning. Most Willow Wood addresses are scheduled inside 24 hours, and an early call may still make a same-day run.
+**Drive time.** We dispatch every morning. Most Willow Wood addresses are scheduled inside 24 hours, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

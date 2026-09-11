@@ -1,10 +1,10 @@
 Rockville is one of those towns where the right answer to "what size dumpster do I need?" depends entirely on which part of the city you're in — and for a huge share of Rockville projects, the answer is a 15-yard. It's the in-between size: bigger than a 10 but still small enough to sit on a normal driveway without swallowing the whole front of the house. That profile fits Rockville's housing stock almost perfectly. This is a mid-20th-century city — the median home here was built around the early 1970s, and only about 4% of homes predate 1950 — so the work people are doing is renovation, not new construction. Kitchens, baths, roofs, and basements in aging single-family homes get tackled one project at a time, and that's exactly the rhythm a 15-yard is built for.
 
-We're JP Roll-Off Service, a family-owned hauler that dispatches out of Beltsville. When you call, you get the people who own the trucks — not a call center, not a dispatcher reading from a script. Rockville is about 45 minutes out for us via I-495 or Route 200 (the ICC), and we run next-day standard with a same-day run possible on most addresses when you call early.
+We're JP Roll-Off Service, a family-owned hauler. When you call, you get the people who own the trucks — not a call center, not a dispatcher reading from a script. Rockville is about 45 minutes out for us via I-495 or Route 200 (the ICC), and we run next-day standard with a same-day run possible on most addresses when you call early.
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall, and it holds roughly seven pickup-truck loads of debris. It comes with a 1.5-ton (3,000 lb) weight allowance. Around Rockville a 15-yard **includes delivery, pickup on request, and a 14-day rental with the 1.5-ton allowance built in — priced by material, so call for a quote**; extra days run $5/day, and any weight over the allowance is billed at $105 per additional ton.
+The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall, and it holds roughly seven pickup-truck loads of debris. Around Rockville a 15-yard **includes delivery, pickup on request, and a 14-day rental — priced by material, so call for a quote**. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
 
 The four-foot wall height is the quiet advantage of this size. The sides are low enough to pitch debris over the rail without a ramp or a fight, which matters a lot when you're carrying load after load out of a kitchen or hauling it up from a basement. But there's still real volume in there — enough to hold a full single-room job from start to finish. That's why this is the "single-room reno" size: the one to reach for when a 10-yard feels a touch tight but a 20 would leave you paying for air you'll never fill.
 
@@ -13,7 +13,7 @@ The four-foot wall height is the quiet advantage of this size. The sides are low
 The 15 lands right in the sweet spot for the one-room, one-system projects that Rockville's mid-century homes generate constantly:
 
 - **Kitchen remodels.** Tearing out cabinets, countertops, and flooring from a single kitchen fills a 15-yard just about right — cabinets, drywall, old subfloor, and packaging, with a little room to spare.
-- **Roofing tear-offs.** A single-layer asphalt tear-off on a typical Rockville rambler or colonial fits comfortably, with the 1.5-ton allowance covering most modest roofs. Shingles are heavy, so we'll talk through the square footage with you before we drop it.
+- **Roofing tear-offs.** A single-layer asphalt tear-off on a typical Rockville rambler or colonial fits comfortably — shingles are heavy, so tell us it is a roof job when you call and we will quote it accordingly. Shingles are heavy, so we'll talk through the square footage with you before we drop it.
 - **Two-bath gut jobs.** Pulling tile, tubs, vanities, and old plumbing from a pair of bathrooms is a classic 15-yard load — more debris than a 10 wants, not enough to justify a 20.
 - **Basement cleanouts.** Clearing a finished or half-finished basement — or hauling out the debris from finishing one — works well in the 15, since the lower walls make loading from a stairwell easier.
 
@@ -31,7 +31,7 @@ On the other end you've got large-lot Derwood (ZIP 20855), a quieter, leafier st
 
 One more Rockville wrinkle worth knowing: the city has three local historic districts — West End, East Rockville, and Lincoln Park (founded 1891, one of Maryland's first Black-owned home developments). If your home sits in one of those districts, exterior alterations can require a Historic Area Work Permit, with review scheduled inside roughly 45 days. That's a permit for the *work*, not the dumpster, but it's the kind of thing that affects your project timeline — so it's worth checking before you book the container.
 
-**Drive time.** We're about 45 minutes from Rockville via I-495 or Route 200. Standard service is next-day, and an early call may still make a same-day run to most Rockville addresses.
+**Drive time.** Rockville is an easy run via I-495 or Route 200. Standard service is next-day, and an early call may still make a same-day run to most Rockville addresses.
 
 ## Talk to the family that runs the trucks
 

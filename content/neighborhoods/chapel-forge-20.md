@@ -1,12 +1,12 @@
 Chapel Forge is one of the later sections of Levitt and Sons' Belair at Bowie development — the fourth and final Levitt mega-community, built out on the old farmland around the 18th-century Belair Mansion just as Bowie incorporated as a city in 1963. Where the original Belair sections were smaller starter homes, Chapel Forge came at the end of the run, roughly 1964 through 1968, with bigger single-family ramblers. Individual homes along Chapel Forge Drive carry a 1966 build year, which makes this housing stock about 60 years old in 2026. That single fact drives most of the dumpster work we do here, and the 20-yard roll-off is the size most of those projects land on.
 
-We are JP Roll-Off Service, a family-owned hauler dispatched out of Beltsville, about 25 minutes from Chapel Forge by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks — not a call center.
+We are JP Roll-Off Service, a family-owned hauler, and Chapel Forge is an easy run for us by way of Route 197 or the BW Parkway. When you call, you get the family that owns the trucks — not a call center.
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material: a 20-yard for construction debris **includes delivery, pickup on request, and a 14-day rental with a 2-ton (4,000 lb) weight allowance — priced by material, so call for a quote** (other materials are priced separately, and aggregates are only available in 10, 15, and 20-yard sizes). Keep the box past 14 days and it is just $5 a day extra; go over the 2-ton allowance and additional weight is $105 per ton. Pickup is on request — give us a call to schedule it.
+The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material: a 20-yard for construction debris **includes delivery, pickup on request, and a 14-day rental — priced by material, so call for a quote** (other materials are priced separately, and aggregates are only available in 10, 15, and 20-yard sizes). Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters. Pickup is on request — give us a call to schedule it.
 
-Those four feet of wall height are the part people appreciate. It is low enough that you can still walk debris up and toss it over the side, yet the long 22-foot footprint swallows the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demo. It is the size most customers end up choosing — and rarely regret.
+Those four feet of wall height are the part people appreciate. It is low enough that you can still walk debris up and toss it over the side, yet the long 22-foot footprint swallows the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes here: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that mostly makes sense for new construction or full structural demo. It is one of our most versatile sizes — and one customers rarely regret.
 
 ## Why the 20-yard fits Chapel Forge specifically
 
@@ -19,7 +19,7 @@ Here are the jobs that come up again and again in Chapel Forge:
 - **Whole-house cleanouts.** This is the 20-yard's best-known role — it is even nicknamed the "whole-house cleanout" size. Clearing an original Chapel Forge Levitt home between owners, or after years of accumulation, fills a 20-yard about right without paying for space you will not use.
 - **Multi-room remodels.** Tearing out original spatter-paint walls and Levitt wood cabinetry across a kitchen and a couple of bedrooms is the classic 20-yard job here. The drywall, plaster, and cabinet debris from a multi-room gut on a 2,000-square-foot rambler is exactly the volume a 20 was built for.
 - **Estate cleanouts.** Chapel Forge has held many of the same families since the homes were new in the mid-1960s. When one of those longtime homes changes hands, the 20-yard handles furniture, boxes, and household debris in a single container.
-- **Mid-size roofing tear-offs.** A single-layer asphalt tear-off on one of these ramblers fits comfortably, with the 2-ton allowance covering most jobs of that footprint.
+- **Mid-size roofing tear-offs.** A single-layer asphalt tear-off on one of these ramblers fits comfortably; shingles are dense, so let us know it is a roofing job and we will quote it accordingly.
 
 If your project is smaller — a single bathroom, a garage purge, a few rooms of flooring — a 15-yard may serve you better. If you are gutting the house to the studs and adding on, we will talk through whether a 30 makes more sense. Tell us the address and the scope and we will steer you straight; we would rather size it right than oversell you.
 
@@ -31,9 +31,9 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 **Associations.** The original Levitt sections like Chapel Forge are organized around civic associations and PTAs rather than the deed-restricted, dues-collecting HOAs found in Bowie's newer subdivisions. There is no gate and no HOA staging approval to clear — placement is governed mainly by the Bowie right-of-way rule plus any neighborly courtesy norms. If your block has an active civic association and you would like to give them a heads-up, we are happy to provide a service confirmation to forward along.
 
-**Getting the truck in.** Chapel Forge sits north of Annapolis Road (MD 450) and east of Collington Road, close to the MD 450, US 301, and US 50 corridors that give us clean highway access from the Beltsville yard. Belair's streets were named by section, so Chapel Forge's spine is Chapel Forge Drive, with side streets like Milan Way — home to the Chapel Forge Early Childhood Center at 12711 Milan Way — woven into the layout. Those are residential side streets and loops, not wide arterials, so we route the truck through the neighborhood and place the box carefully. The section is in ZIP 20715.
+**Getting the truck in.** Chapel Forge sits north of Annapolis Road (MD 450) and east of Collington Road, close to the MD 450, US 301, and US 50 corridors that give us clean highway access. Belair's streets were named by section, so Chapel Forge's spine is Chapel Forge Drive, with side streets like Milan Way — home to the Chapel Forge Early Childhood Center at 12711 Milan Way — woven into the layout. Those are residential side streets and loops, not wide arterials, so we route the truck through the neighborhood and place the box carefully. The section is in ZIP 20715.
 
-**Drive time.** We are about 25 minutes out in Beltsville and dispatch every morning. Most Chapel Forge addresses are scheduled within 24 hours, and an early call may still make a same-day run.
+**Drive time.** We dispatch every morning. Most Chapel Forge addresses are scheduled within 24 hours, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 
