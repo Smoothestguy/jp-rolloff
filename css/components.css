@@ -123,8 +123,6 @@ body:not(.is-home) .nav.is-scrolled .lang-toggle {
   border-color: var(--color-border);
 }
 /* Home page: always show black logo (light hero). Inner pages: white default, black on scroll. */
-body.is-home .nav-logo-default { display: none !important; }
-body.is-home .nav-logo-scrolled { display: block !important; }
 .nav-inner {
   display: flex;
   align-items: center;
@@ -152,6 +150,12 @@ body.is-home .nav-logo-scrolled { display: block !important; }
 .nav-logo-default { display: block !important; }
 .nav.is-scrolled .nav-logo-default { display: none !important; }
 .nav.is-scrolled .nav-logo-scrolled { display: block !important; }
+/* Home hero is light: always use the dark-text logo there. */
+body.is-home .nav-logo-default { display: none !important; }
+body.is-home .nav-logo-scrolled { display: block !important; }
+/* Open mobile menu has a white panel: show the dark-text logo there too. */
+.nav.is-open .nav-logo-default { display: none !important; }
+.nav.is-open .nav-logo-scrolled { display: block !important; }
 
 .nav-menu {
   display: flex;
@@ -273,6 +277,7 @@ body.is-home .nav-logo-scrolled { display: block !important; }
 }
 .nav-mobile a {
   font-family: var(--font-display);
+  font-style: italic;
   font-size: var(--fs-40);
   text-transform: uppercase;
   color: var(--color-black);
@@ -381,6 +386,7 @@ body.is-home .nav-logo-scrolled { display: block !important; }
 }
 .footer-brand {
   font-family: var(--font-display);
+  font-style: italic;
   font-size: var(--fs-32);
   color: var(--color-white);
   text-transform: uppercase;

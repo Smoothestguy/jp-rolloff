@@ -35,17 +35,17 @@ export default [
     neighborhoods: ["Powder Mill", "Cherry Hill", "Sellman", "BARC corridor", "Calverton", "Beltsville Industrial Park", "Vansville"],
     permitRule: {
       en: "Beltsville is unincorporated — permits fall under Prince George's County. Dumpsters on private driveways don't need a permit. If the container has to sit in the public right-of-way, the county requires a Use & Occupancy permit.",
-      es: "Beltsville no está incorporada — los permisos dependen del condado de Prince George's. Los contenedores en entradas privadas no necesitan permiso. Si el contenedor tiene que quedar en la vía pública, el condado exige un permiso de Uso y Ocupación."
+      es: "Beltsville no está incorporada — los permisos dependen del condado de Prince George's. Los contenedores en parqueos privados no necesitan permiso. Si el contenedor tiene que quedar en la vía pública, el condado exige un permiso de Uso y Ocupación."
     },
     driveTimeMin: 0,
     driveTimeText: {
-      en: "This is our home base — Beltsville addresses are first out the gate every morning.",
-      es: "Esta es nuestra base — las direcciones de Beltsville son las primeras en salir cada mañana."
+      en: "Next-day delivery for Beltsville addresses — order by 12 PM.",
+      es: "Entrega al día siguiente para direcciones en Beltsville — ordena antes de las 12 PM."
     },
     neighbors: ["greenbelt", "college-park", "laurel", "hyattsville"],
     positioning: {
-      en: "Headquartered right here in Beltsville. Next-day delivery to 20704, 20705, and every ZIP within the I-95 / Route 1 corridor (same-day may be available depending on location and schedule).",
-      es: "Con sede aquí mismo en Beltsville. Entrega al día siguiente a 20704, 20705 y cada ZIP dentro del corredor de la I-95 / Route 1 (el mismo día puede estar disponible según la ubicación y el horario)."
+      en: "Next-day delivery to 20704, 20705, and every ZIP within the I-95 / Route 1 corridor (same-day may be available depending on location and schedule).",
+      es: "Entrega al día siguiente a 20704, 20705 y cada ZIP dentro del corredor de la I-95 / Route 1 (el mismo día puede estar disponible según la ubicación y el horario)."
     },
     transferStation: null,
     premium: true
@@ -58,7 +58,7 @@ export default [
     neighborhoods: ["Port Towns", "Anacostia tributary corridor", "Edmonston border"],
     permitRule: {
       en: "The Town of Bladensburg requires a permit for dumpsters in the street or right-of-way. Driveway placement is permit-free. The town hall is responsive and turnaround is generally same-week.",
-      es: "El pueblo de Bladensburg exige un permiso para contenedores en la calle o vía pública. La colocación en la entrada no necesita permiso. El ayuntamiento responde rápido y el trámite suele resolverse en la misma semana."
+      es: "El pueblo de Bladensburg exige un permiso para contenedores en la calle o vía pública. La colocación en el parqueo no necesita permiso. El ayuntamiento responde rápido y el trámite suele resolverse en la misma semana."
     },
     driveTimeMin: null,
     driveTimeText: null,
@@ -78,7 +78,7 @@ export default [
     neighborhoods: ["Belair", "Mitchellville", "Pointer Ridge", "Bowie State area"],
     permitRule: {
       en: "The City of Bowie requires a right-of-way permit if the dumpster sits in a city street. Driveways and HOA-approved staging do not. Bowie's permit application is straightforward — we can hand it to you with your delivery confirmation.",
-      es: "La ciudad de Bowie exige un permiso de vía pública si el contenedor queda en una calle de la ciudad. Las entradas y los espacios aprobados por la HOA no lo necesitan. La solicitud de permiso de Bowie es sencilla — te la podemos entregar junto con la confirmación de tu entrega."
+      es: "La ciudad de Bowie exige un permiso de vía pública si el contenedor queda en una calle de la ciudad. Los parqueos y los espacios aprobados por la HOA no lo necesitan. La solicitud de permiso de Bowie es sencilla — te la podemos entregar junto con la confirmación de tu entrega."
     },
     driveTimeMin: 25,
     driveTimeText: {
@@ -101,7 +101,7 @@ export default [
     neighborhoods: [],
     permitRule: {
       en: "The Town of Cheverly requires a permit if a dumpster is placed in the street or right-of-way. Most renovations here place on the driveway, which is permit-free. Town hall is responsive — typically 24–48 hour turnaround.",
-      es: "El pueblo de Cheverly exige un permiso si el contenedor se coloca en la calle o vía pública. La mayoría de las renovaciones aquí se colocan en la entrada, que no necesita permiso. El ayuntamiento responde rápido — normalmente en 24 a 48 horas."
+      es: "El pueblo de Cheverly exige un permiso si el contenedor se coloca en la calle o vía pública. La mayoría de las renovaciones aquí se colocan en el parqueo, que no necesita permiso. El ayuntamiento responde rápido — normalmente en 24 a 48 horas."
     },
     driveTimeMin: 20,
     driveTimeText: {
@@ -124,7 +124,7 @@ export default [
     neighborhoods: ["Berwyn", "Old Town", "Hollywood", "Calvert Hills", "Route 1 development strip", "UMD campus corridor"],
     permitRule: {
       en: "The City of College Park requires a right-of-way permit if the dumpster sits in the street. Permits are issued through the Department of Public Works and we can help you apply. Driveways and private lots are permit-free.",
-      es: "La ciudad de College Park exige un permiso de vía pública si el contenedor queda en la calle. Los permisos se emiten a través del Departamento de Obras Públicas y te podemos ayudar a solicitarlo. Las entradas y los lotes privados no necesitan permiso."
+      es: "La ciudad de College Park exige un permiso de vía pública si el contenedor queda en la calle. Los permisos se emiten a través del Departamento de Obras Públicas y te podemos ayudar a solicitarlo. Los parqueos y los lotes privados no necesitan permiso."
     },
     driveTimeMin: null,
     driveTimeText: null,
@@ -144,7 +144,7 @@ export default [
     neighborhoods: ["Old Greenbelt", "Greenbelt East", "Greenbriar", "Hunting Ridge", "Goddard / Capital Office Park corridor"],
     permitRule: {
       en: "The City of Greenbelt requires a permit if a dumpster sits on a city street or right-of-way — that includes most of the Old Greenbelt court parking. Driveways and HOA-approved staging areas typically don't. We can pull the permit on your behalf or coach you through it.",
-      es: "La ciudad de Greenbelt exige un permiso si el contenedor queda en una calle de la ciudad o vía pública — eso incluye la mayoría del estacionamiento de los courts de Old Greenbelt. Las entradas y los espacios aprobados por la HOA normalmente no lo necesitan. Podemos tramitar el permiso por ti o guiarte en el proceso."
+      es: "La ciudad de Greenbelt exige un permiso si el contenedor queda en una calle de la ciudad o vía pública — eso incluye la mayoría del estacionamiento de los courts de Old Greenbelt. Los parqueos y los espacios aprobados por la HOA normalmente no lo necesitan. Podemos tramitar el permiso por ti o guiarte en el proceso."
     },
     driveTimeMin: 10,
     driveTimeText: {
@@ -167,7 +167,7 @@ export default [
     neighborhoods: ["Hyattsville Arts District", "West Hyattsville", "University Hills", "Castle Manor", "Riverdale border"],
     permitRule: {
       en: "The City of Hyattsville requires a Right-of-Way Use permit if a dumpster sits in the street or unpaved shoulder. Private driveways and back-yard placement don't require it. We can help you file with the City's DPW.",
-      es: "La ciudad de Hyattsville exige un permiso de Uso de Vía Pública si el contenedor queda en la calle o en el arcén sin pavimentar. Las entradas privadas y la colocación en el patio trasero no lo necesitan. Te podemos ayudar a tramitarlo con el DPW de la ciudad."
+      es: "La ciudad de Hyattsville exige un permiso de Uso de Vía Pública si el contenedor queda en la calle o en el arcén sin pavimentar. Los parqueos privados y la colocación en el patio trasero no lo necesitan. Te podemos ayudar a tramitarlo con el DPW de la ciudad."
     },
     driveTimeMin: null,
     driveTimeText: null,
@@ -207,7 +207,7 @@ export default [
     neighborhoods: ["Seabrook", "Greenway Center corridor", "NASA Goddard / Glenarden border"],
     permitRule: {
       en: "Lanham is unincorporated PG County. Right-of-way permits are required for street placement; private driveways are not. We can walk you through the county application if needed.",
-      es: "Lanham no está incorporada y pertenece al condado de PG. Se requieren permisos de vía pública para la colocación en la calle; las entradas privadas no. Te podemos guiar en la solicitud del condado si lo necesitas."
+      es: "Lanham no está incorporada y pertenece al condado de PG. Se requieren permisos de vía pública para la colocación en la calle; los parqueos privados no. Te podemos guiar en la solicitud del condado si lo necesitas."
     },
     driveTimeMin: 15,
     driveTimeText: {
@@ -216,8 +216,8 @@ export default [
     },
     neighbors: ["bowie", "landover", "greenbelt", "beltsville"],
     positioning: {
-      en: "Serving Lanham, Seabrook, the Greenway Center corridor, and the NASA Goddard / Glenarden border. ZIP 20706 — about 15 minutes from our Beltsville yard.",
-      es: "Atendemos Lanham, Seabrook, el corredor de Greenway Center y la frontera con NASA Goddard / Glenarden. ZIP 20706 — a unos 15 minutos de nuestro patio en Beltsville."
+      en: "Serving Lanham, Seabrook, the Greenway Center corridor, and the NASA Goddard / Glenarden border. ZIP 20706.",
+      es: "Atendemos Lanham, Seabrook, el corredor de Greenway Center y la frontera con NASA Goddard / Glenarden. ZIP 20706."
     },
     transferStation: null,
     premium: true
@@ -230,7 +230,7 @@ export default [
     neighborhoods: ["North Laurel", "South Laurel", "Russett", "Maryland City"],
     permitRule: {
       en: "The City of Laurel requires a permit for any dumpster placed in a public right-of-way. Howard, PG, and Anne Arundel County roads have separate rules. Driveways and private property are typically permit-free. Call us with your address and we'll spell it out.",
-      es: "La ciudad de Laurel exige un permiso para cualquier contenedor colocado en la vía pública. Las carreteras de los condados de Howard, PG y Anne Arundel tienen reglas distintas. Las entradas y la propiedad privada normalmente no necesitan permiso. Llámanos con tu dirección y te lo explicamos en detalle."
+      es: "La ciudad de Laurel exige un permiso para cualquier contenedor colocado en la vía pública. Las carreteras de los condados de Howard, PG y Anne Arundel tienen reglas distintas. Los parqueos y la propiedad privada normalmente no necesitan permiso. Llámanos con tu dirección y te lo explicamos en detalle."
     },
     driveTimeMin: null,
     driveTimeText: null,
@@ -250,17 +250,17 @@ export default [
     neighborhoods: ["Town of Riverdale Park", "Town Center / MARC station area", "historic Riversdale Mansion neighborhoods"],
     permitRule: {
       en: "The Town of Riverdale Park requires a permit for dumpsters in the public right-of-way. Town hall is responsive and turnaround is usually 1–2 business days. Driveways are typically permit-free.",
-      es: "El pueblo de Riverdale Park exige un permiso para contenedores en la vía pública. El ayuntamiento responde rápido y el trámite suele tardar de 1 a 2 días hábiles. Las entradas normalmente no necesitan permiso."
+      es: "El pueblo de Riverdale Park exige un permiso para contenedores en la vía pública. El ayuntamiento responde rápido y el trámite suele tardar de 1 a 2 días hábiles. Los parqueos normalmente no necesitan permiso."
     },
     driveTimeMin: 10,
     driveTimeText: {
-      en: "ZIP 20737, ten minutes from our Beltsville yard.",
-      es: "ZIP 20737, a diez minutos de nuestro patio en Beltsville."
+      en: "ZIP 20737 — next-day delivery.",
+      es: "ZIP 20737 — entrega al día siguiente."
     },
     neighbors: ["hyattsville", "college-park", "beltsville", "bladensburg"],
     positioning: {
-      en: "Serving the Town of Riverdale Park, the Town Center / MARC station area, and the older neighborhoods around the historic Riversdale Mansion. ZIP 20737, ten minutes from our Beltsville yard.",
-      es: "Atendemos el pueblo de Riverdale Park, la zona del Town Center / estación MARC y los vecindarios más antiguos alrededor de la histórica Riversdale Mansion. ZIP 20737, a diez minutos de nuestro patio en Beltsville."
+      en: "Serving the Town of Riverdale Park, the Town Center / MARC station area, and the older neighborhoods around the historic Riversdale Mansion. ZIP 20737.",
+      es: "Atendemos el pueblo de Riverdale Park, la zona del Town Center / estación MARC y los vecindarios más antiguos alrededor de la histórica Riversdale Mansion. ZIP 20737."
     },
     transferStation: null,
     premium: true
@@ -273,7 +273,7 @@ export default [
     neighborhoods: ["Twinbrook", "King Farm", "Rockville Town Center", "North Bethesda border", "Derwood"],
     permitRule: {
       en: "The City of Rockville requires a permit for any dumpster placed in a city street or right-of-way. Driveways and private property are permit-free. Rockville's permit office is responsive and turnaround is usually 2–3 business days.",
-      es: "La ciudad de Rockville exige un permiso para cualquier contenedor colocado en una calle de la ciudad o vía pública. Las entradas y la propiedad privada no necesitan permiso. La oficina de permisos de Rockville responde rápido y el trámite suele tardar de 2 a 3 días hábiles."
+      es: "La ciudad de Rockville exige un permiso para cualquier contenedor colocado en una calle de la ciudad o vía pública. Los parqueos y la propiedad privada no necesitan permiso. La oficina de permisos de Rockville responde rápido y el trámite suele tardar de 2 a 3 días hábiles."
     },
     driveTimeMin: 45,
     driveTimeText: {
@@ -296,7 +296,7 @@ export default [
     neighborhoods: ["Downtown Silver Spring", "Four Corners", "Forest Glen", "Woodside", "Kemp Mill", "Wheaton border"],
     permitRule: {
       en: "Silver Spring is unincorporated Montgomery County — permits go through MCDPS. Right-of-way placement requires a Public Right-of-Way Permit; private driveways do not. We can walk you through it before delivery.",
-      es: "Silver Spring no está incorporada y pertenece al condado de Montgomery — los permisos se tramitan a través de MCDPS. La colocación en la vía pública requiere un permiso de Vía Pública; las entradas privadas no. Te podemos guiar en el proceso antes de la entrega."
+      es: "Silver Spring no está incorporada y pertenece al condado de Montgomery — los permisos se tramitan a través de MCDPS. La colocación en la vía pública requiere un permiso de Vía Pública; los parqueos privados no. Te podemos guiar en el proceso antes de la entrega."
     },
     driveTimeMin: null,
     driveTimeText: null,
@@ -340,8 +340,8 @@ export default [
     },
     driveTimeMin: 35,
     driveTimeText: {
-      en: "About 35 minutes via Route 4 or the Capital Beltway.",
-      es: "Unos 35 minutos por la Route 4 o el Capital Beltway."
+      en: "About 35 minutes via Route 4 or I-495.",
+      es: "Unos 35 minutos por la Route 4 o la I-495."
     },
     neighbors: ["bowie", "lanham", "landover", "cheverly"],
     positioning: {

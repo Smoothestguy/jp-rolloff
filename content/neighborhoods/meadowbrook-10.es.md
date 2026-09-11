@@ -6,17 +6,17 @@ El de 10 yardas es nuestro contenedor más chico, y en un vecindario construido 
 
 Meadowbrook es una de las secciones más tardías del "Belair at Bowie" de Levitt & Sons, construida aproximadamente entre 1964 y 1968 — las últimas de las casas unifamiliares aisladas de Belair. Eso hace que la mayoría de las casas de aquí tengan hoy alrededor de 58 a 62 años. Esos años importan, porque Levitt estandarizó los lotes: la mayoría rondaba los 8,400 pies cuadrados, justo por debajo de un cuarto de acre. Los patios son compactos y los frentes son angostos.
 
-Lo que eso significa en la práctica: normalmente no hay un patio lateral amplio donde estacionar un contenedor grande, y no quieres un roll-off comiéndose un jardín delantero chico. La huella del de 10 yardas es de unos 12 pies de largo, 8 pies de ancho y 4 pies de alto, y aguanta cerca de tres cargas de camioneta — lo bastante chico para meterse en un solo lugar de auto. En un lote típico de Meadowbrook, eso significa que se coloca limpiamente en la propia entrada de la casa.
+Lo que eso significa en la práctica: normalmente no hay un patio lateral amplio donde estacionar un contenedor grande, y no quieres un roll-off comiéndose un jardín delantero chico. La huella del de 10 yardas es de unos 12 pies de largo, 8 pies de ancho y 4 pies de alto, y aguanta cerca de tres cargas de camioneta — lo bastante chico para meterse en un solo lugar de auto. En un lote típico de Meadowbrook, eso significa que se coloca limpiamente en el propio parqueo de la casa.
 
 Esa es la verdadera ventaja de irte con el contenedor más chico aquí. Obtienes un contenedor dimensionado para un trabajo de una sola habitación sin pagar por yardas cúbicas que nunca vas a llenar, y cabe donde de verdad tienes espacio para ponerlo.
 
-## La colocación en la entrada te mantiene fuera del permiso
+## La colocación en el parqueo te mantiene fuera del permiso
 
-Levitt vendió estas casas de Belair completas, con garajes y entradas pavimentadas incluidas, así que casi todas las casas de Meadowbrook tienen una superficie dura lista para un contenedor — sin necesidad de tocar la calle. Eso vale la pena entenderlo antes de reservar.
+Levitt vendió estas casas de Belair completas, con garajes y parqueos pavimentados incluidos, así que casi todas las casas de Meadowbrook tienen una superficie dura lista para un contenedor — sin necesidad de tocar la calle. Eso vale la pena entenderlo antes de reservar.
 
-La Ciudad de Bowie solo exige un permiso de derecho de vía cuando un contenedor se coloca en una calle de la ciudad. Si ponemos el de 10 yardas en tu entrada — que es lo que recomendamos en estos lotes de todas formas — no estás en el derecho de vía, y la cuestión del permiso ni siquiera sale. Esas calles con nombre de M (Moylan Drive y sus vecinas) quedan despejadas, y tu proyecto avanza más rápido.
+La Ciudad de Bowie solo exige un permiso de derecho de vía cuando un contenedor se coloca en una calle de la ciudad. Si ponemos el de 10 yardas en tu parqueo — que es lo que recomendamos en estos lotes de todas formas — no estás en el derecho de vía, y la cuestión del permiso ni siquiera sale. Esas calles con nombre de M (Moylan Drive y sus vecinas) quedan despejadas, y tu proyecto avanza más rápido.
 
-Si tu situación particular obliga a colocar en la calle — una entrada empinada o llena, un giro cerrado, un acuerdo de estacionamiento compartido — ahí es cuando entran las reglas de la ciudad. La oficina de Public Works / Engineering Review & Permitting de Bowie maneja las obstrucciones en los derechos de vía públicos, y ese es quien un propietario contactaría. La verdad honesta, sin embargo, es que en una entrada estándar de Meadowbrook rara vez necesitamos ir hasta ahí. Lo conversaremos contigo por teléfono antes de siquiera sacar un camión.
+Si tu situación particular obliga a colocar en la calle — un parqueo empinado o lleno, un giro cerrado, un acuerdo de estacionamiento compartido — ahí es cuando entran las reglas de la ciudad. La oficina de Public Works / Engineering Review & Permitting de Bowie maneja las obstrucciones en los derechos de vía públicos, y ese es quien un propietario contactaría. La verdad honesta, sin embargo, es que en un parqueo estándar de Meadowbrook rara vez necesitamos ir hasta ahí. Lo conversaremos contigo por teléfono antes de siquiera sacar un camión.
 
 ## Trabajos que el de 10 yardas maneja en Meadowbrook
 
@@ -35,7 +35,7 @@ Un 10 yardas en el área de Meadowbrook se cotiza por material — según lo que
 
 El límite de peso vale una palabra rápida, sobre todo dados los trabajos de residuos de jardín y de remodelación que maneja el de 10 yardas. Una tonelada cubre mucho desorden del hogar y escombros en general. Donde se pone pesado es con material denso — tierra mojada, concreto, piedra, ladrillo, o una carga de madera de árbol empapada. Si pasas del límite de 1 tonelada, el peso adicional cuesta $105 por tonelada extra. Si tu trabajo va por ese lado, menciónalo cuando llames y dejaremos la expectativa clara desde el principio para que no haya adivinanzas.
 
-Para proteger la entrada, bajamos el contenedor con cuidado y con gusto ponemos tablas bajo las ruedas si te preocupa la superficie — solo pídelo. Estas son entradas de uso diario haciendo su labor diaria, y así las tratamos.
+Para proteger el parqueo, bajamos el contenedor con cuidado y con gusto ponemos tablas bajo las ruedas si te preocupa la superficie — solo pídelo. Estas son parqueos de uso diario haciendo su labor diaria, y así las tratamos.
 
 ## Cómo funciona la programación desde nuestro patio de Beltsville
 
@@ -45,6 +45,6 @@ Cuando el contenedor esté lleno, llámanos y vendremos a retirarlo. Sin cita fi
 
 ## Habla con la familia dueña de los camiones
 
-Cuando le marcas a JP Roll-Off Service, hablas con las personas que son dueñas del negocio y contestan el teléfono. Te preguntaremos sobre tu trabajo, dónde quieres el contenedor, y si tu entrada de Meadowbrook tiene espacio — y la mayoría de las veces lo tiene, lo que te mantiene fuera de la calle y fuera del proceso de permisos por completo.
+Cuando le marcas a JP Roll-Off Service, hablas con las personas que son dueñas del negocio y contestan el teléfono. Te preguntaremos sobre tu trabajo, dónde quieres el contenedor, y si tu parqueo de Meadowbrook tiene espacio — y la mayoría de las veces lo tiene, lo que te mantiene fuera de la calle y fuera del proceso de permisos por completo.
 
 ¿Listo para reservar un 10 yardas, o solo quieres conversar si es el tamaño correcto para tu proyecto en Meadowbrook? Llámanos al **(301) 252-3586** y te dejamos listo.

@@ -2,7 +2,7 @@
 export default {
   name: "JP Roll-Off Service",
   // Bump this single value to cache-bust ALL css/js across every page.
-  assetVersion: "77",
+  assetVersion: "78",
   phone: {
     // Primary office line — used site-wide (nav, hero, CTAs, footer, schema).
     display: "(301) 252-3586",

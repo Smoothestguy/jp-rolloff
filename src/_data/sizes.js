@@ -24,7 +24,7 @@ export default [
     features: [
       { en: "Small remodels", es: "Remodelaciones pequeñas" },
       { en: "Yard waste", es: "Desechos de jardín" },
-      { en: "Driveway-friendly", es: "Cabe en entrada" }
+      { en: "Driveway-friendly", es: "Cabe en parqueo" }
     ],
     bestFor: [
       { en: "Garage cleanout", es: "Limpieza de garaje" },
@@ -66,10 +66,10 @@ export default [
     ],
     why: {
       en: "The in-between size — bigger than 10 but still driveway-friendly for most homes.",
-      es: "El tamaño intermedio — más grande que 10 pero aún cabe en la mayoría de las entradas."
+      es: "El tamaño intermedio — más grande que 10 pero aún cabe en la mayoría de los parqueos."
     },
     servicesBlurb:
-      "16 ft × 8 ft × 4 ft · ~7 pickup loads. The middle-ground container — bigger than a 10 but still driveway-friendly for most homes. Kitchen remodels, roofing tear-offs, two-bath gut jobs, basement cleanouts."
+      "16 ft × 8 ft × 4 ft · ~7 pickup loads. Bigger than a 10 but still driveway-friendly for most homes. Kitchen remodels, roofing tear-offs, two-bath gut jobs, basement cleanouts."
   },
   {
     yd: 20,
@@ -133,7 +133,7 @@ export default [
       es: "Para construcciones y demoliciones más grandes — paredes más altas significan más volumen en una huella más corta. Cuentas comerciales bienvenidas."
     },
     servicesBlurb:
-      "18 ft × 8 ft × 6 ft · ~10.5 pickup loads. The contractor's container. Home additions, whole-house remodels, large roofing jobs, commercial cleanouts. Taller walls pack more volume into a shorter footprint."
+      "18 ft × 8 ft × 6 ft · ~10.5 pickup loads. Home additions, whole-house remodels, large roofing jobs, commercial cleanouts. Taller walls pack more volume into a shorter footprint."
   },
   {
     yd: 30,

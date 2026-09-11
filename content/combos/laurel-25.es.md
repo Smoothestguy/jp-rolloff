@@ -19,17 +19,17 @@ El parque de vivienda de Laurel hace que el de 25 yardas sea especialmente útil
 
 Por el lado de **North Laurel** (condado de Howard, ZIP 20723), el corredor de Maple Lawn y comunidades más nuevas como Wellington Farms, Paddock Pointe y Maple Lawn West mantienen un flujo constante de obra nueva y remodelación, además del downsizing de mayores de 55 en Maple Highlands. Una ampliación de casa o una remodelación de arriba a abajo por allá le va perfecto a un 25 yardas.
 
-En **South Laurel** (ZIP 20708/20724), los fraccionamientos de la posguerra construidos sobre antiguas tierras de cultivo dejaron ranches, split-levels y Colonial Revivals de los años 1950–60 en lotes independientes con entradas privadas. Esas casas de mediados de siglo son candidatas ideales para ampliaciones y remodelaciones completas, y las entradas facilitan la colocación.
+En **South Laurel** (ZIP 20708/20724), los fraccionamientos de la posguerra construidos sobre antiguas tierras de cultivo dejaron ranches, split-levels y Colonial Revivals de los años 1950–60 en lotes independientes con parqueos privados. Esas casas de mediados de siglo son candidatas ideales para ampliaciones y remodelaciones completas, y los parqueos facilitan la colocación.
 
 El punto más complicado es el **distrito histórico de Old Town** de Laurel, a lo largo de Main Street, donde aún quedan en pie casas de obreros de molino de la década de 1840 y victorianas de 1890. Las demoliciones interiores ahí significan demolición de yeso y listón, cableado knob-and-tube y otros escombros de vivienda antigua — una carga roll-off perfecta. Pero esos lotes estrechos entrelazados con callejones traseros pueden hacer difícil colocar un contenedor de 18 pies. Si vas a remodelar en el núcleo histórico, llámanos primero para resolver la colocación antes del día de entrega.
 
-En **Russett** y el área circundante de **Maryland City** (condado de Anne Arundel, ZIP 20724), la comunidad planificada de townhomes y condominios mayormente de los años 1980–90 viene con entradas compartidas, reglas de HOA y estacionamiento de visitas apretado. Un 25 yardas todavía puede funcionar ahí, pero la colocación requiere más planeación — y la aprobación de la HOA puede ser parte de la ecuación, así que revísalo antes de reservar.
+En **Russett** y el área circundante de **Maryland City** (condado de Anne Arundel, ZIP 20724), la comunidad planificada de townhomes y condominios mayormente de los años 1980–90 viene con parqueos compartidos, reglas de HOA y estacionamiento de visitas apretado. Un 25 yardas todavía puede funcionar ahí, pero la colocación requiere más planeación — y la aprobación de la HOA puede ser parte de la ecuación, así que revísalo antes de reservar.
 
 ## Permisos, colocación y en qué jurisdicción estás
 
 Aquí está el detalle que hace a Laurel diferente de la mayoría de los pueblos del DMV: una sola dirección de Laurel puede caer bajo la City of Laurel, el condado de Prince George's, el condado de Howard o el condado de Anne Arundel — cada uno con su propia autoridad de carreteras y derecho de vía. Así que la pregunta no es solo "dónde cabe el contenedor", sino "qué regla de permiso de cuál jurisdicción aplica en esta calle exacta".
 
-La buena noticia: en las cuatro jurisdicciones, poner el contenedor en tu propia **entrada o propiedad privada normalmente no requiere permiso**. Eso cubre la mayoría de nuestros trabajos.
+La buena noticia: en las cuatro jurisdicciones, poner el contenedor en tu propia **parqueo o propiedad privada normalmente no requiere permiso**. Eso cubre la mayoría de nuestros trabajos.
 
 Si el contenedor tiene que ir en el derecho de vía público —la calle, una banqueta o un callejón— entonces las reglas se separan:
 

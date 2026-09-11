@@ -34,10 +34,10 @@
   --color-border:        var(--color-gray-200);
 
   /* ---- TYPOGRAPHY ----
-     Display:  DIN Neue Roman Black Italic (local file) — used on all headers
+     Display:  Barlow Condensed 900 Italic (Google Fonts) — used on all headers
      Body:     Inter (Google Fonts)
      Mono:     system fallback (rarely used) */
-  --font-display: 'DIN Neue Roman', 'Anton', 'Impact', system-ui, sans-serif;
+  --font-display: 'Barlow Condensed', 'Anton', 'Impact', system-ui, sans-serif;
   --font-body:    'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --font-mono:    ui-monospace, SFMono-Regular, Menlo, monospace;
 

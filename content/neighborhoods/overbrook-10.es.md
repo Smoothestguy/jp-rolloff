@@ -8,17 +8,17 @@ Overbrook es una de las "secciones O" de Belair at Bowie de Levitt and Sons, y l
 
 Es una comunidad pequeña, de unos siete cuadras metidas en el rincón noreste de Bowie, con fácil acceso a la U.S. Route 50, Samuel Ogle Park y el WB&A Trail. Las viviendas son clásicas Levitt de mediados de los años 60: Cape Cods, split-levels y casas estilo ranch de ladrillo a lo largo de calles residenciales estrechas con árboles maduros que dan sombra a los jardines. Overbrook fue una de las últimas secciones de Belair de casas unifamiliares independientes que se construyeron, realizada entre aproximadamente 1964 y 1968, así que la mayoría de las casas aquí tienen ahora de 55 a 60 años.
 
-Esa edad y esa distribución de calles son toda la historia cuando se trata de elegir el tamaño del contenedor. Las calles son estrechas, y un contenedor grande estacionado en la vía estorba a todos muy rápido. La huella del de 10 yardas es de unos 12 pies de largo, 8 pies de ancho y 4 pies de alto — lo bastante pequeña para caber en un solo espacio de auto. En un lote típico de Overbrook, eso significa que se coloca limpiamente en la propia entrada de la casa en vez de en la calle.
+Esa edad y esa distribución de calles son toda la historia cuando se trata de elegir el tamaño del contenedor. Las calles son estrechas, y un contenedor grande estacionado en la vía estorba a todos muy rápido. La huella del de 10 yardas es de unos 12 pies de largo, 8 pies de ancho y 4 pies de alto — lo bastante pequeña para caber en un solo espacio de auto. En un lote típico de Overbrook, eso significa que se coloca limpiamente en el propio parqueo de la casa en vez de en la calle.
 
 Esa es la verdadera ventaja de la caja más pequeña aquí. Obtienes un contenedor a la medida de un trabajo de una sola habitación sin pagar por yardas cúbicas que nunca vas a llenar, y cabe donde de verdad tienes lugar para ponerlo.
 
-## La colocación en la entrada te mantiene fuera del permiso
+## La colocación en el parqueo te mantiene fuera del permiso
 
-Levitt construyó estas casas de Belair con entradas pavimentadas, así que casi toda casa en Overbrook ya tiene una superficie firme lista para un contenedor — sin necesidad de tocar la calle para nada. Eso importa más de lo que parece, por la manera en que Bowie maneja los permisos.
+Levitt construyó estas casas de Belair con parqueos pavimentados, así que casi toda casa en Overbrook ya tiene una superficie firme lista para un contenedor — sin necesidad de tocar la calle para nada. Eso importa más de lo que parece, por la manera en que Bowie maneja los permisos.
 
-La Ciudad de Bowie solo exige un permiso de derecho de paso cuando un contenedor se coloca en una calle de la ciudad. Si ponemos el de 10 yardas en tu entrada — que es lo que recomendamos de todos modos en estas calles estrechas de la sección O — no estás en el derecho de paso, y la cuestión del permiso simplemente nunca surge. Tu calle queda despejada, tus vecinos contentos y tu proyecto avanza más rápido.
+La Ciudad de Bowie solo exige un permiso de derecho de paso cuando un contenedor se coloca en una calle de la ciudad. Si ponemos el de 10 yardas en tu parqueo — que es lo que recomendamos de todos modos en estas calles estrechas de la sección O — no estás en el derecho de paso, y la cuestión del permiso simplemente nunca surge. Tu calle queda despejada, tus vecinos contentos y tu proyecto avanza más rápido.
 
-Si tu situación particular obliga a colocarlo en la calle — una entrada corta, una vuelta estrecha bajo los árboles, un acuerdo de estacionamiento compartido — ahí es cuando entran las reglas de la ciudad, y un propietario coordinaría con la oficina de obras públicas y permisos de Bowie antes de que la caja baje. La verdad honesta, sin embargo, es que en una entrada estándar de Overbrook rara vez necesitamos llegar a eso. Lo repasaremos contigo por teléfono antes de mover un camión.
+Si tu situación particular obliga a colocarlo en la calle — un parqueo corto, una vuelta estrecha bajo los árboles, un acuerdo de estacionamiento compartido — ahí es cuando entran las reglas de la ciudad, y un propietario coordinaría con la oficina de obras públicas y permisos de Bowie antes de que la caja baje. La verdad honesta, sin embargo, es que en un parqueo estándar de Overbrook rara vez necesitamos llegar a eso. Lo repasaremos contigo por teléfono antes de mover un camión.
 
 ## Trabajos que el de 10 yardas resuelve en Overbrook
 
@@ -37,7 +37,7 @@ Un de 10 yardas en el área de Overbrook se cotiza por material — llama para u
 
 El límite de peso merece una mención rápida, sobre todo para los trabajos de desechos de jardín y remodelación que maneja este tamaño. Una tonelada cubre mucho desorden doméstico y escombros generales, y cualquier peso más allá de esa tonelada cuesta $105 por tonelada adicional. Donde se pone pesado es con material denso — tierra mojada, concreto, piedra, ladrillo o una carga de madera de árbol empapada. Si tu trabajo va por ese lado, menciónalo cuando llames y fijaremos la expectativa correcta de antemano para que sepas qué esperar en la báscula.
 
-En cuanto a la entrada en sí, colocamos el contenedor con cuidado, y con gusto ponemos tablas bajo las ruedas si te preocupa la superficie — solo pídelo. Estas son entradas de todos los días cumpliendo su función de todos los días, y así las tratamos.
+En cuanto al parqueo en sí, colocamos el contenedor con cuidado, y con gusto ponemos tablas bajo las ruedas si te preocupa la superficie — solo pídelo. Estas son parqueos de todos los días cumpliendo su función de todos los días, y así las tratamos.
 
 ## Cómo funciona la programación desde nuestro patio en Beltsville
 
@@ -47,6 +47,6 @@ Cuando el contenedor esté lleno, llámanos y vendremos a recogerlo. No hay una 
 
 ## Habla con la familia que es dueña de los camiones
 
-Cuando llamas a JP Roll-Off Service, hablas con las personas que son dueñas del negocio y contestan el teléfono. Te preguntaremos por tu trabajo, dónde quieres la caja y si tu entrada de Overbrook tiene espacio — y la mayoría de las veces lo tiene, lo que te mantiene fuera de la calle estrecha y completamente fuera del proceso de permiso.
+Cuando llamas a JP Roll-Off Service, hablas con las personas que son dueñas del negocio y contestan el teléfono. Te preguntaremos por tu trabajo, dónde quieres la caja y si tu parqueo de Overbrook tiene espacio — y la mayoría de las veces lo tiene, lo que te mantiene fuera de la calle estrecha y completamente fuera del proceso de permiso.
 
 ¿Listo para reservar un de 10 yardas, o solo quieres conversar si es el tamaño correcto para tu proyecto en Overbrook? Llámanos al **(301) 252-3586** y te dejamos todo listo.

@@ -192,6 +192,7 @@
 }
 .hero-trust-item strong {
   font-family: var(--font-display);
+  font-style: italic;
   font-size: var(--fs-32);
   color: var(--color-red);
   line-height: 1;
@@ -316,6 +317,7 @@
 }
 .stats-band-item strong {
   font-family: var(--font-display);
+  font-style: italic;
   font-size: var(--fs-56);
   line-height: 1;
   color: var(--color-black);
@@ -345,6 +347,7 @@
   align-items: center;
   gap: var(--space-3);
   font-family: var(--font-display);
+  font-style: italic;
   font-size: var(--fs-24);
   color: var(--color-white);
   text-transform: uppercase;
@@ -422,6 +425,7 @@
 
 .size-card-yd {
   font-family: var(--font-display);
+  font-style: italic;
   font-size: var(--fs-96);
   line-height: 0.9;
   color: var(--color-black);
@@ -515,6 +519,7 @@
 }
 .pricing-compare-yd {
   font-family: var(--font-display);
+  font-style: italic;
   font-size: var(--fs-72);
   line-height: 1;
   color: var(--color-red);
@@ -694,6 +699,7 @@
   bottom: 32px;
   left: 32px;
   font-family: var(--font-display);
+  font-style: italic;
   font-size: var(--fs-128);
   line-height: 1;
   color: rgba(255,255,255,0.15);
@@ -706,6 +712,7 @@
   left: 32px;
   right: 32px;
   font-family: var(--font-display);
+  font-style: italic;
   font-size: var(--fs-40);
   text-transform: uppercase;
   letter-spacing: var(--ls-snug);
@@ -766,6 +773,7 @@
   background: transparent;
   color: var(--color-black);
   font-family: var(--font-display);
+  font-style: italic;
   font-size: var(--fs-18);
   font-weight: 700;
   letter-spacing: var(--ls-snug);
@@ -820,6 +828,7 @@
 .size-row-yd {
   display: inline-block;
   font-family: var(--font-display);
+  font-style: italic;
   font-size: var(--fs-40);
   line-height: 1;
   letter-spacing: var(--ls-tight);
@@ -902,6 +911,7 @@
 }
 .stat strong {
   font-family: var(--font-display);
+  font-style: italic;
   font-size: calc(var(--fs-96) * 0.65);
   display: block;
   line-height: 1;
@@ -973,6 +983,7 @@
   top: var(--space-5);
   right: var(--space-6);
   font-family: var(--font-display);
+  font-style: italic;
   font-size: var(--fs-72);
   line-height: 1;
   color: var(--color-red);
@@ -1169,6 +1180,7 @@
   justify-content: space-between;
   gap: var(--space-4);
   font-family: var(--font-display);
+  font-style: italic;
   font-size: var(--fs-24);
   text-transform: uppercase;
   letter-spacing: var(--ls-snug);
@@ -1232,6 +1244,7 @@
 }
 .cta-band-phone {
   font-family: var(--font-display);
+  font-style: italic;
   font-size: var(--fs-40);
   color: var(--color-white);
   letter-spacing: var(--ls-snug);
@@ -1451,6 +1464,7 @@
   margin: 0;
   padding: 0 var(--space-6);
   font-family: var(--font-display);
+  font-style: italic;
   font-size: clamp(2.25rem, 7vw, 6rem);
   line-height: 1;
   color: var(--color-black);
@@ -1649,6 +1663,7 @@
 .dumpster-showcase .ds-card:hover .ds-img img { transform: scale(1.05) rotate(-1deg); }
 .dumpster-showcase .ds-yd {
   font-family: var(--font-display);
+  font-style: italic;
   font-size: var(--fs-32);
   color: var(--color-red);
   letter-spacing: var(--ls-tight);

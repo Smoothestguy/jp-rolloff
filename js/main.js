@@ -559,7 +559,7 @@
       lead.name = qm.querySelector('#qm-name').value.trim();
       lead.phone = qm.querySelector('#qm-phone').value.trim();
       lead.email = qm.querySelector('#qm-email').value.trim();
-      if (!lead.name || !lead.phone) { contactErr.hidden = false; return; }
+      if (!lead.name || !lead.phone || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(lead.email)) { contactErr.hidden = false; return; }
       contactErr.hidden = true;
       const sizeLabel = (lead.size === 'not-sure' ? 'Not sure — needs help picking' : lead.size + ' Yard')
         + (lead.material === 'aggregate' ? ' (Aggregate)' : '');
