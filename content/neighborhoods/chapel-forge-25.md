@@ -18,7 +18,7 @@ These are modest Levitt lots — roughly 9,600 to 10,664 square feet, about 0.22
 
 Here's the part that catches people off guard, and for most of this neighborhood it's good news. The City of Bowie only requires a right-of-way permit when the dumpster sits in a city street. If the container stays on your driveway or an approved staging spot, no street permit is needed.
 
-Because Chapel Forge homes are detached single-family houses with private driveways, we can usually keep the 25-yard off the street entirely — which means most homeowners here skip the permit step. That said, the modest lot sizes are the catch: on a tight driveway, fitting an 18-foot box without crowding the garage or the front walk takes some planning. If the only workable spot is the street, we'll let you know so you can pull the right-of-way permit before delivery day.
+Because Chapel Forge homes are detached single-family houses with private driveways, we can usually keep the 25-yard off the street entirely — which means most homeowners here skip the permit step. That said, the modest lot sizes are the catch: on a tight driveway, fitting an 18-foot box without crowding the garage or the front walk takes some planning. If the only workable spot is the street, that placement requires a right-of-way permit from the City of Bowie; customers are responsible for determining whether a permit is required and obtaining it before delivery.
 
 One more local note. Chapel Forge, like the other original Levitt sections, is organized around a civic association rather than a deed-restricted, dues-collecting HOA, and there's no sign the neighborhood is gated. So placement here is governed mainly by the Bowie right-of-way rule plus any voluntary civic-association courtesy norms — not gate access or formal HOA staging approval. When in doubt, call us and we'll talk through where the box should go before the truck ever rolls.
 
@@ -39,6 +39,6 @@ Pricing on the 25-yard is per material, **priced by material for construction de
 
 ## Talk to the family that owns the trucks
 
-When you call JP Roll-Off Service, you're not working through a call center. You're talking to the people who own the company, dispatch the trucks, and know the difference between Chapel Forge's mid-1960s ramblers and the rest of Bowie. We'll help you confirm the 25-yard is the right size for your addition, remodel, roofing job, or cleanout, sort out placement on those modest Levitt lots so you likely skip the street permit, and get a container to your driveway — usually within a day, sometimes the same day.
+When you call JP Roll-Off Service, you're not working through a call center. You're talking to the people who own the company, dispatch the trucks, and know the difference between Chapel Forge's mid-1960s ramblers and the rest of Bowie. We'll help you confirm the 25-yard is the right size for your addition, remodel, roofing job, or cleanout, talk through placement on those modest Levitt lots, and get a container to your driveway — usually within a day, sometimes the same day.
 
 Ready to book, or just want a straight answer on whether the 25 fits your driveway? Call us at **(301) 252-3586** and we'll take care of you.

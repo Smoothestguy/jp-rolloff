@@ -18,7 +18,7 @@ Levitt built these Belair homes with paved driveways, so nearly every house in O
 
 The City of Bowie only requires a right-of-way permit when a dumpster sits in a city street. If we set the 10-yard on your driveway — which is what we recommend on these narrow O-section streets anyway — you're not in the right-of-way, and the permit question simply never comes up. Your street stays clear, your neighbors stay happy, and your project moves faster.
 
-If your particular situation forces street placement — a short driveway, a tight turn under the trees, a shared parking arrangement — that's when the city's rules kick in, and a homeowner would coordinate with Bowie's public works and permitting office before the box goes down. The honest truth, though, is that on a standard Overbrook driveway we rarely need to go there. We'll walk through it with you on the phone before we roll a truck.
+If your particular situation forces street placement — a short driveway, a tight turn under the trees, a shared parking arrangement — that's when the city's rules kick in, and a homeowner would coordinate with Bowie's public works and permitting office before the box goes down. The honest truth, though, is that on a standard Overbrook driveway we rarely need to go there. Customers are responsible for determining whether a City of Bowie permit is required and obtaining it before delivery.
 
 ## Jobs the 10-yard handles in Overbrook
 
@@ -37,7 +37,7 @@ A 10-yard in the Overbrook area is priced per material — call for a quote. Agg
 
 Weight is worth a quick word, especially for the yard-waste and remodel jobs this size handles. Household clutter and general debris are rarely a problem. Where it gets heavy is dense material — wet soil, concrete, stone, brick, or a load of soaked tree wood — and that kind of material is quoted separately because weight matters. If your job leans that way, mention it when you call and we'll set the right expectation up front so you know what to expect on the scale.
 
-As for the driveway itself, we set the container down carefully, and we're glad to lay boards under the wheels if you're worried about the surface — just ask. These are everyday driveways doing everyday duty, and we treat them that way.
+Roll-off dumpsters and delivery trucks are heavy and may damage some surfaces, so protecting the driveway or placement area before delivery is the customer's responsibility. If you're unsure about placement, call our office before scheduling.
 
 ## How scheduling works
 

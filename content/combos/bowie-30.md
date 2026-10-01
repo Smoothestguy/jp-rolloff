@@ -23,7 +23,7 @@ Here is where Bowie is genuinely easy compared with most DMV towns. The heart of
 
 That matters because of how the city handles permits. **The City of Bowie requires a right-of-way permit only if the dumpster sits in a city street; driveways and HOA-approved staging do not.** So across most of Belair, a street permit is the exception rather than the rule. One small bonus of the Levitt layout: every street in a section starts with that section's first letter, which makes finding your address straightforward when we are routing a truck and a long trailer.
 
-A 30-yard does need a longer, clearer run-up than the smaller sizes — it is a big box on a long frame — so a flat, open driveway with room to back in is ideal. When you book, let us know whether the approach is tight or sloped and we will plan the drop accordingly. If the only workable spot is the public street, the city's Public Works Department handles right-of-way review out of the city offices at 16500 Annapolis Road, and we are glad to talk through what that involves before your container arrives.
+A 30-yard does need a longer, clearer run-up than the smaller sizes — it is a big box on a long frame — so a flat, open driveway with room to back in is ideal. When you book, let us know whether the approach is tight or sloped and we will plan the drop accordingly. If the only workable spot is the public street, the city's Public Works Department handles right-of-way review out of the city offices at 16500 Annapolis Road; customers are responsible for determining whether a City of Bowie permit is required and obtaining it before delivery.
 
 A few neighborhood notes worth raising when you call:
 

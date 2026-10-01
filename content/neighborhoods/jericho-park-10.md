@@ -23,7 +23,7 @@ Here's the good news for Jericho Park, and it's the part that sets this neighbor
 
 Out here, that rule works in your favor more often than not. With half-acre to multi-acre parcels and long private driveways, the vast majority of Jericho Park drops can stage entirely on your own property — driveway or yard — without ever touching a city street. So for the typical 10-yard drop here, you generally do **not** need a Bowie permit at all. Clear a single car spot the night before, point us to where you want it, and we'll set it down clean.
 
-If your home happens to be on a parcel where the only workable spot truly is the street, just say so when you call and we'll walk you through the Bowie right-of-way permit so you're covered before delivery day. Either way, you won't be guessing.
+If your home happens to be on a parcel where the only workable spot truly is the street, that placement requires a right-of-way permit from the City of Bowie; customers are responsible for determining whether a permit is required and obtaining it before delivery.
 
 ## Why neighbors call the family
 

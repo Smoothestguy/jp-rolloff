@@ -26,7 +26,7 @@ Here's some good news that's specific to this neighborhood. The City of Bowie on
 
 That fits the way Glenridge is laid out, too. Access is typically off Route 197 (Collington Road), onto Gradys Walk, then onto Galaxy Lane — a quiet, interior residential layout rather than a through-road. There's no reason to block a street here when your driveway gives us a flat, out-of-the-way spot. The 10-yard's compact size helps: it tucks into a single car spot, leaving room for you to still come and go.
 
-When we drop off, we'll set the can where you want it and lay down boards underneath to protect your driveway surface. Tell us which way the doors should face so loading is easy from your work area.
+When we drop off, we'll set the can where you want it. Tell us which way the doors should face so loading is easy from your work area. Roll-off dumpsters and delivery trucks are heavy and may damage some surfaces, so protecting the driveway or placement area before delivery is the customer's responsibility. If you're unsure about placement, call our office before scheduling.
 
 ## What it costs
 

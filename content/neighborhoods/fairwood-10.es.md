@@ -25,7 +25,7 @@ Aquí está la parte que confunde a la gente en Fairwood, porque es distinta de 
 
 La Ciudad de Bowie solo exige un permiso de derecho de paso cuando el contenedor se coloca en una calle de la ciudad. Un contenedor en tu propio parqueo o en un lugar de colocación aprobado por el HOA no activa ese permiso. Así que para la entrega típica de Fairwood —un de 10 yardas estacionado en el parqueo de una casa unifamiliar— por lo general **no** necesitas un permiso de la ciudad. Lo que sí conviene es una verificación rápida con tu HOA antes de la entrega, porque los convenios aquí rigen la colocación, la duración y a veces sobre qué superficie puede descansar un contenedor. Para townhomes con parqueos compartidos o estrechos, esa conversación con el HOA vale especialmente la pena tenerla temprano, ya que la colocación en áreas comunes suele necesitar aprobación.
 
-Como la huella del de 10 yardas es tan pequeña, despejar un solo espacio de auto la noche anterior suele ser toda la preparación que necesitarás. Y si el único lugar viable realmente resulta ser una calle de la ciudad, solo dilo cuando llames y te explicaremos el permiso de derecho de paso de Bowie para que estés cubierto.
+Como la huella del de 10 yardas es tan pequeña, despejar un solo espacio de auto la noche anterior suele ser toda la preparación que necesitarás. Y si el único lugar viable realmente resulta ser una calle de la ciudad, esa colocación requiere un permiso de derecho de paso de la Ciudad de Bowie; los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega.
 
 ## Por qué los vecinos llaman a la familia
 

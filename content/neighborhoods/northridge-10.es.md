@@ -25,7 +25,7 @@ Aquí está la parte que de hecho son buenas noticias en Northridge, y es distin
 
 Lo que vale la pena revisar rápido es tu HOA. Northridge está gobernado por asociaciones de propietarios que mantienen los espacios compartidos y los parques — incluyendo amenidades como el Northridge Swim & Tennis Club en Quill Point Drive — y esas asociaciones pueden tener pautas de colocación para los contenedores. Los convenios pueden regular dónde se coloca un contenedor, cuánto tiempo permanece y a veces sobre qué superficie puede descansar. Para las casas unifamiliares suele ser una simple verificación de cortesía; para los townhouses con parqueos más cortos y compartidos vale especialmente la pena una llamada rápida a tu HOA antes de la entrega.
 
-Como la huella del de 10 yardas es tan pequeña, despejar un solo espacio de auto la noche anterior suele ser toda la preparación que necesitarás. Y en el raro caso de que el único lugar viable realmente resulte ser una calle de la ciudad, solo dilo cuando llames y te guiaremos por el permiso de derecho de paso de Bowie para que estés cubierto.
+Como la huella del de 10 yardas es tan pequeña, despejar un solo espacio de auto la noche anterior suele ser toda la preparación que necesitarás. Y en el raro caso de que el único lugar viable realmente resulte ser una calle de la ciudad, esa colocación requiere un permiso de derecho de paso de la Ciudad de Bowie; los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega.
 
 ## Por qué los vecinos llaman a la familia
 

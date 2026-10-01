@@ -31,7 +31,7 @@ Una nota sobre asociaciones: las secciones originales de casas separadas de Levi
 
 Las calles Levitt de Bowie están organizadas en esas familiares secciones de letras aliterativas —los residentes hablan de vivir en la "sección V"— y cada calle de Victoria Heights empieza con esa V. Para nosotros, eso es un regalo. Una dirección en Victoria Heights Drive es inequívoca; sabemos exactamente a dónde vamos y a qué sección estamos entregando, sin confundir calles de Bowie con nombres parecidos.
 
-Victoria Heights es un recorrido fácil para nosotros por la Ruta 197 o la BW Parkway. Despachamos cada mañana, así que la mayoría de las direcciones se programan dentro de las 24 horas, y una llamada temprana puede aún alcanzar una entrega el mismo día. Cuando dejamos el contenedor, lo colocamos donde lo quieres, cuidamos la superficie del parqueo y lo posicionamos para que tu equipo pueda cargar desde el extremo abierto sin pelear con la colocación.
+Victoria Heights es un recorrido fácil para nosotros por la Ruta 197 o la BW Parkway. Despachamos cada mañana, así que la mayoría de las direcciones se programan dentro de las 24 horas, y una llamada temprana puede aún alcanzar una entrega el mismo día. Cuando dejamos el contenedor, lo colocamos donde lo quieres y lo posicionamos para que tu equipo pueda cargar desde el extremo abierto sin pelear con la colocación. Los contenedores roll-off y los camiones de entrega son pesados y pueden dañar algunas superficies, así que proteger el parqueo o el área de colocación antes de la entrega es responsabilidad del cliente. Si no estás seguro sobre la colocación, llama a nuestra oficina antes de programar.
 
 ## Precios sencillos
 

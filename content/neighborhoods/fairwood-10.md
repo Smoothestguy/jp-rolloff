@@ -25,7 +25,7 @@ Here's the part that trips people up in Fairwood, because it's different from ol
 
 The City of Bowie only requires a right-of-way permit when a dumpster sits in a city street. A dumpster on your own driveway or in an HOA-approved staging spot does not trigger that permit. So for the typical Fairwood drop — a 10-yard parked on a single-family driveway — you generally do **not** need a city permit. What you do want is a quick check with your HOA before delivery, because covenants here govern placement, duration and sometimes which surface a container can rest on. For townhomes with shared or narrow driveways, that HOA conversation is especially worth having early, since common-area staging usually needs sign-off.
 
-Because the 10-yard's footprint is so small, clearing a single car spot the night before is usually all the prep you'll need. And if the only workable spot truly turns out to be a city street, just say so when you call and we'll walk you through the Bowie right-of-way permit so you're covered.
+Because the 10-yard's footprint is so small, clearing a single car spot the night before is usually all the prep you'll need. And if the only workable spot truly turns out to be a city street, that placement requires a right-of-way permit from the City of Bowie; customers are responsible for determining whether a permit is required and obtaining it before delivery.
 
 ## Why neighbors call the family
 

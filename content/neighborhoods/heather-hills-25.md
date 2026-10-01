@@ -16,7 +16,7 @@ These are quarter-acre Levitt lots — real driveway and front-yard room, but no
 
 Here's the part that catches people off guard, and for most of this neighborhood it's good news. The City of Bowie only requires a right-of-way permit when the dumpster sits in a city street. If the container stays on your driveway or an HOA-approved staging spot, no street permit is needed.
 
-Because Heather Hills homes are detached single-family houses with private driveways on quarter-acre lots, we can usually keep the 25-yard off the street entirely — which means most homeowners here skip the permit step. That fits the neighborhood well, because the narrow "H" streets aren't where you want a tall, heavy box parked anyway. If the only workable spot turns out to be the street, we'll let you know so you can pull the right-of-way permit before delivery day. There's also a Heather Hills Homeowners Association presence in the neighborhood, so if your staging plan touches any shared or common space, it's worth a quick check with them first. When in doubt, call us and we'll talk through where the box should go before the truck ever rolls.
+Because Heather Hills homes are detached single-family houses with private driveways on quarter-acre lots, we can usually keep the 25-yard off the street entirely — which means most homeowners here skip the permit step. That fits the neighborhood well, because the narrow "H" streets aren't where you want a tall, heavy box parked anyway. If the only workable spot turns out to be the street, that placement requires a right-of-way permit from the City of Bowie; customers are responsible for determining whether a permit is required and obtaining it before delivery. There's also a Heather Hills Homeowners Association presence in the neighborhood, so if your staging plan touches any shared or common space, it's worth a quick check with them first. When in doubt, call us and we'll talk through where the box should go before the truck ever rolls.
 
 ## Fast dispatch
 
@@ -35,6 +35,6 @@ Pricing on the 25-yard is per material — it's **priced by what you're loading,
 
 ## Talk to the family that owns the trucks
 
-When you call JP Roll-Off Service, you're not working through a call center. You're talking to the people who own the company, dispatch the trucks, and know what makes Heather Hills different — a 1965 Levitt section sitting on its own side of US 50, with quarter-acre lots and a tight grid of "H" streets. We'll help you confirm the 25-yard is the right size for your addition, remodel, roofing job, or cleanout, sort out placement on your driveway so you likely skip the street permit, and get a container to your home — usually within 24 hours.
+When you call JP Roll-Off Service, you're not working through a call center. You're talking to the people who own the company, dispatch the trucks, and know what makes Heather Hills different — a 1965 Levitt section sitting on its own side of US 50, with quarter-acre lots and a tight grid of "H" streets. We'll help you confirm the 25-yard is the right size for your addition, remodel, roofing job, or cleanout, talk through placement on your driveway, and get a container to your home — usually within 24 hours.
 
 Ready to book, or just want a straight answer on whether the 25 fits your driveway? Call us at **(301) 252-3586** and we'll take care of you.

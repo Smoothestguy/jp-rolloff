@@ -31,9 +31,9 @@ Como esta es una comunidad con HOA, la aprobación de colocación es un paso gen
 
 ## Una nota sobre los permisos en Two Rivers
 
-La orientación de permisos para Two Rivers es diferente de lo que verás en nuestras páginas para vecindarios dentro de la City of Bowie. Como Two Rivers está en Odenton, Anne Arundel County, la regla de derecho de vía de la City of Bowie no rige las direcciones aquí. En la práctica, si tu 30 yardas se ubica en tu propio parqueo o en un lugar de colocación aprobado por el HOA — que es donde va la gran mayoría de estos — generalmente estás libre de cualquier pregunta de permiso de derecho de vía de la calle.
+El panorama de permisos para Two Rivers es diferente de lo que verás en nuestras páginas para vecindarios dentro de la City of Bowie. Como Two Rivers está en Odenton, Anne Arundel County, la regla de derecho de vía de la City of Bowie no rige las direcciones aquí. En la práctica, si tu 30 yardas se ubica en tu propio parqueo o en un lugar de colocación aprobado por el HOA — que es donde va la gran mayoría de estos — generalmente estás libre de cualquier pregunta de permiso de derecho de vía de la calle.
 
-La única situación que pide una mirada más detenida es un contenedor que se ubicaría en una calle pública en lugar de en propiedad privada. En ese caso las reglas relevantes son las del condado y las del estado, no las de la City of Bowie, y preferimos confirmar el requisito correcto contigo antes de la entrega que adivinar. No vamos a inventar una respuesta de permiso para una colocación en la calle que no hayamos revisado. Llámanos con los detalles y te ayudaremos a averiguar el camino correcto.
+La única situación que pide una mirada más detenida es un contenedor que se ubicaría en una calle pública en lugar de en propiedad privada. En ese caso las reglas relevantes son las de Anne Arundel County y las del estado, no las de la City of Bowie; los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega. Dinos dónde irá el contenedor cuando llames.
 
 ## Precio directo y una entrega honesta
 

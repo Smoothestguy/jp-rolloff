@@ -77,8 +77,8 @@ export default [
     zips: ["20715", "20716", "20720", "20721"],
     neighborhoods: ["Belair", "Mitchellville", "Pointer Ridge", "Bowie State area"],
     permitRule: {
-      en: "The City of Bowie requires a right-of-way permit if the dumpster sits in a city street. Driveways and HOA-approved staging do not. Bowie's permit application is straightforward — we can hand it to you with your delivery confirmation.",
-      es: "La ciudad de Bowie exige un permiso de vía pública si el contenedor queda en una calle de la ciudad. Los parqueos y los espacios aprobados por la HOA no lo necesitan. La solicitud de permiso de Bowie es sencilla — te la podemos entregar junto con la confirmación de tu entrega."
+      en: "The City of Bowie requires a right-of-way permit if the dumpster sits in a city street. Driveways and HOA-approved staging do not. Customers are responsible for determining whether a permit is required and obtaining it before delivery.",
+      es: "La ciudad de Bowie exige un permiso de vía pública si el contenedor queda en una calle de la ciudad. Los parqueos y los espacios aprobados por la HOA no lo necesitan. Los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega."
     },
     driveTimeMin: 25,
     driveTimeText: {
@@ -123,8 +123,8 @@ export default [
     zips: ["20740", "20742", "20783"],
     neighborhoods: ["Berwyn", "Old Town", "Hollywood", "Calvert Hills", "Route 1 development strip", "UMD campus corridor"],
     permitRule: {
-      en: "The City of College Park requires a right-of-way permit if the dumpster sits in the street. Permits are issued through the Department of Public Works and we can help you apply. Driveways and private lots are permit-free.",
-      es: "La ciudad de College Park exige un permiso de vía pública si el contenedor queda en la calle. Los permisos se emiten a través del Departamento de Obras Públicas y te podemos ayudar a solicitarlo. Los parqueos y los lotes privados no necesitan permiso."
+      en: "The City of College Park requires a right-of-way permit if the dumpster sits in the street. Permits are issued through the Department of Public Works. Driveways and private lots are permit-free. Customers are responsible for determining whether a permit is required and obtaining it before delivery.",
+      es: "La ciudad de College Park exige un permiso de vía pública si el contenedor queda en la calle. Los permisos se emiten a través del Departamento de Obras Públicas. Los parqueos y los lotes privados no necesitan permiso. Los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega."
     },
     driveTimeMin: null,
     driveTimeText: null,
@@ -143,8 +143,8 @@ export default [
     zips: ["20770", "20768"],
     neighborhoods: ["Old Greenbelt", "Greenbelt East", "Greenbriar", "Hunting Ridge", "Goddard / Capital Office Park corridor"],
     permitRule: {
-      en: "The City of Greenbelt requires a permit if a dumpster sits on a city street or right-of-way — that includes most of the Old Greenbelt court parking. Driveways and HOA-approved staging areas typically don't. We can pull the permit on your behalf or coach you through it.",
-      es: "La ciudad de Greenbelt exige un permiso si el contenedor queda en una calle de la ciudad o vía pública — eso incluye la mayoría del estacionamiento de los courts de Old Greenbelt. Los parqueos y los espacios aprobados por la HOA normalmente no lo necesitan. Podemos tramitar el permiso por ti o guiarte en el proceso."
+      en: "The City of Greenbelt requires a permit if a dumpster sits on a city street or right-of-way — that includes most of the Old Greenbelt court parking. Driveways and HOA-approved staging areas typically don't. Customers are responsible for determining whether a permit is required and obtaining it before delivery.",
+      es: "La ciudad de Greenbelt exige un permiso si el contenedor queda en una calle de la ciudad o vía pública — eso incluye la mayoría del estacionamiento de los courts de Old Greenbelt. Los parqueos y los espacios aprobados por la HOA normalmente no lo necesitan. Los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega."
     },
     driveTimeMin: 10,
     driveTimeText: {
@@ -166,8 +166,8 @@ export default [
     zips: ["20781", "20782", "20783", "20784"],
     neighborhoods: ["Hyattsville Arts District", "West Hyattsville", "University Hills", "Castle Manor", "Riverdale border"],
     permitRule: {
-      en: "The City of Hyattsville requires a Right-of-Way Use permit if a dumpster sits in the street or unpaved shoulder. Private driveways and back-yard placement don't require it. We can help you file with the City's DPW.",
-      es: "La ciudad de Hyattsville exige un permiso de Uso de Vía Pública si el contenedor queda en la calle o en el arcén sin pavimentar. Los parqueos privados y la colocación en el patio trasero no lo necesitan. Te podemos ayudar a tramitarlo con el DPW de la ciudad."
+      en: "The City of Hyattsville requires a Right-of-Way Use permit if a dumpster sits in the street or unpaved shoulder. Private driveways and back-yard placement don't require it. Permits are filed with the City's DPW. Customers are responsible for determining whether a permit is required and obtaining it before delivery.",
+      es: "La ciudad de Hyattsville exige un permiso de Uso de Vía Pública si el contenedor queda en la calle o en el arcén sin pavimentar. Los parqueos privados y la colocación en el patio trasero no lo necesitan. Los permisos se tramitan con el DPW de la ciudad. Los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega."
     },
     driveTimeMin: null,
     driveTimeText: null,
@@ -206,8 +206,8 @@ export default [
     zips: ["20706"],
     neighborhoods: ["Seabrook", "Greenway Center corridor", "NASA Goddard / Glenarden border"],
     permitRule: {
-      en: "Lanham is unincorporated PG County. Right-of-way permits are required for street placement; private driveways are not. We can walk you through the county application if needed.",
-      es: "Lanham no está incorporada y pertenece al condado de PG. Se requieren permisos de vía pública para la colocación en la calle; los parqueos privados no. Te podemos guiar en la solicitud del condado si lo necesitas."
+      en: "Lanham is unincorporated PG County. Right-of-way permits are required for street placement; private driveways are not. Customers are responsible for determining whether a permit is required and obtaining it before delivery.",
+      es: "Lanham no está incorporada y pertenece al condado de PG. Se requieren permisos de vía pública para la colocación en la calle; los parqueos privados no. Los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega."
     },
     driveTimeMin: 15,
     driveTimeText: {
@@ -229,8 +229,8 @@ export default [
     zips: ["20707", "20708", "20723", "20724"],
     neighborhoods: ["North Laurel", "South Laurel", "Russett", "Maryland City"],
     permitRule: {
-      en: "The City of Laurel requires a permit for any dumpster placed in a public right-of-way. Howard, PG, and Anne Arundel County roads have separate rules. Driveways and private property are typically permit-free. Call us with your address and we'll spell it out.",
-      es: "La ciudad de Laurel exige un permiso para cualquier contenedor colocado en la vía pública. Las carreteras de los condados de Howard, PG y Anne Arundel tienen reglas distintas. Los parqueos y la propiedad privada normalmente no necesitan permiso. Llámanos con tu dirección y te lo explicamos en detalle."
+      en: "The City of Laurel requires a permit for any dumpster placed in a public right-of-way. Howard, PG, and Anne Arundel County roads have separate rules. Driveways and private property are typically permit-free. Customers are responsible for determining whether a permit is required and obtaining it before delivery.",
+      es: "La ciudad de Laurel exige un permiso para cualquier contenedor colocado en la vía pública. Las carreteras de los condados de Howard, PG y Anne Arundel tienen reglas distintas. Los parqueos y la propiedad privada normalmente no necesitan permiso. Los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega."
     },
     driveTimeMin: null,
     driveTimeText: null,
@@ -295,8 +295,8 @@ export default [
     zips: ["20901", "20902", "20903", "20904", "20905", "20906", "20910"],
     neighborhoods: ["Downtown Silver Spring", "Four Corners", "Forest Glen", "Woodside", "Kemp Mill", "Wheaton border"],
     permitRule: {
-      en: "Silver Spring is unincorporated Montgomery County — permits go through MCDPS. Right-of-way placement requires a Public Right-of-Way Permit; private driveways do not. We can walk you through it before delivery.",
-      es: "Silver Spring no está incorporada y pertenece al condado de Montgomery — los permisos se tramitan a través de MCDPS. La colocación en la vía pública requiere un permiso de Vía Pública; los parqueos privados no. Te podemos guiar en el proceso antes de la entrega."
+      en: "Silver Spring is unincorporated Montgomery County — permits go through MCDPS. Right-of-way placement requires a Public Right-of-Way Permit; private driveways do not. Customers are responsible for determining whether a permit is required and obtaining it before delivery.",
+      es: "Silver Spring no está incorporada y pertenece al condado de Montgomery — los permisos se tramitan a través de MCDPS. La colocación en la vía pública requiere un permiso de Vía Pública; los parqueos privados no. Los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega."
     },
     driveTimeMin: null,
     driveTimeText: null,
@@ -315,8 +315,8 @@ export default [
     zips: ["20912"],
     neighborhoods: ["Old Takoma", "North Takoma", "Hampshire Knolls", "Maple Avenue corridor"],
     permitRule: {
-      en: "The City of Takoma Park requires a permit for any dumpster placed in the street or right-of-way, and many blocks ban street placement entirely. The city's permit office is responsive — we'll point you at the application.",
-      es: "La ciudad de Takoma Park exige un permiso para cualquier contenedor colocado en la calle o vía pública, y muchas cuadras prohíben por completo la colocación en la calle. La oficina de permisos de la ciudad responde rápido — te indicamos dónde está la solicitud."
+      en: "The City of Takoma Park requires a permit for any dumpster placed in the street or right-of-way, and many blocks ban street placement entirely. Customers are responsible for determining whether a permit is required and obtaining it before delivery.",
+      es: "La ciudad de Takoma Park exige un permiso para cualquier contenedor colocado en la calle o vía pública, y muchas cuadras prohíben por completo la colocación en la calle. Los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega."
     },
     driveTimeMin: null,
     driveTimeText: null,

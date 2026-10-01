@@ -25,7 +25,7 @@ Here's the part that trips people up in Two Rivers, and it's where that Bowie-ve
 
 What is the real gatekeeper here is the HOA. Two Rivers is an HOA-governed community, organized into named villages and neighborhoods clustered around shared amenity hubs like the 15,000-square-foot Founders Club clubhouse, the planned Hamlet Clubhouse, a 100-plus-acre community park and those miles of trails. The 55+ sections add their own staging considerations on top. So before delivery, the smart move is a quick check with your community association about where a container can sit, how long it can stay, and whether a villa or clustered lot needs common-area sign-off. That's especially worth doing early in the active-adult sections, where driveways are shorter and parking is shared.
 
-Because the 10-yard's footprint is so small, clearing a single car spot the night before is usually all the prep you'll need. And if the only workable spot genuinely turns out to be a public street, just say so when you call and we'll walk you through what Anne Arundel County expects so you're covered.
+Because the 10-yard's footprint is so small, clearing a single car spot the night before is usually all the prep you'll need. And if the only workable spot genuinely turns out to be a public street, that placement falls under Anne Arundel County and Maryland state right-of-way rules; customers are responsible for determining whether a permit is required and obtaining it before delivery.
 
 ## Why neighbors call the family
 

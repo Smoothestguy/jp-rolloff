@@ -31,11 +31,11 @@ It is worth knowing that Woodmore is not a single HOA, either. The community spa
 
 ## Placement, the golf course, and the Bowie permit rule
 
-**On a Woodmore lot, the driveway almost always wins.** Those one-acre estate lots and wide driveways mean a 15-yard can nearly always stage on your own property rather than in the street — which sidesteps the city permit entirely. The City of Bowie requires a right-of-way permit only if a dumpster sits in a city street; driveways and HOA-approved staging do not. So in Woodmore the practical placement conversation is about your driveway and your HOA's rules, not a city street permit. In the rare case the only workable spot truly puts the container in a public street, we will flag the right-of-way permit the moment we look at your address.
+**On a Woodmore lot, the driveway almost always wins.** Those one-acre estate lots and wide driveways mean a 15-yard can nearly always stage on your own property rather than in the street — which sidesteps the city permit entirely. The City of Bowie requires a right-of-way permit only if a dumpster sits in a city street; driveways and HOA-approved staging do not. So in Woodmore the practical placement conversation is about your driveway and your HOA's rules, not a city street permit. In the rare case the only workable spot truly puts the container in a public street, that placement requires a right-of-way permit; customers are responsible for determining whether a permit is required and obtaining it before delivery.
 
 **Mind the course frontage.** Many Woodmore lots back onto or sit adjacent to the Arnold Palmer course and its 42 acres of lakes and cart paths. If your home is on a golf-adjacent lot, we will place the container to keep it off course frontage and clear of cart paths — tell us which side of the property faces the course and we will square the drop accordingly.
 
-**Protecting the drive.** These are high-end driveways, and we treat them that way. Give us the spot and any constraints — a gate, a turn, a slope, course frontage — and we will position the 15 to fit and lay boards under the wheels on request.
+**Protecting the drive.** These are high-end driveways. Roll-off dumpsters and delivery trucks are heavy and may damage some surfaces, so protecting the driveway or placement area before delivery is the customer's responsibility. If you're unsure about placement, call our office before scheduling. Give us the spot and any constraints — a gate, a turn, a slope, course frontage — and we will position the 15 to fit.
 
 ## Talk to the family that runs the trucks
 

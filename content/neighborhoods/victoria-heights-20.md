@@ -31,7 +31,7 @@ A note on associations: the original detached Levitt sections like this one are 
 
 Bowie's Levitt streets are organized into those familiar alliterative letter sections — residents talk about living in the "V section" — and every street in Victoria Heights begins with that V. For us, that's a gift. An address on Victoria Heights Drive is unambiguous; we know exactly where we're headed and which section we're delivering into, with no mixing up similarly named Bowie streets.
 
-Victoria Heights is an easy run for us via Route 197 or the BW Parkway. We dispatch every morning, so most addresses are scheduled within 24 hours, and an early call may still make a same-day run. When we drop the container, we'll set it where you want it, mind the driveway surface, and position it so your crew can load from the open end without fighting the placement.
+Victoria Heights is an easy run for us via Route 197 or the BW Parkway. We dispatch every morning, so most addresses are scheduled within 24 hours, and an early call may still make a same-day run. When we drop the container, we'll set it where you want it and position it so your crew can load from the open end without fighting the placement. Roll-off dumpsters and delivery trucks are heavy and may damage some surfaces, so protecting the driveway or placement area before delivery is the customer's responsibility. If you're unsure about placement, call our office before scheduling.
 
 ## Straightforward pricing
 

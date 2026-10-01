@@ -21,7 +21,7 @@ A quick honest note about this neighborhood specifically. Because Yorktown is fi
 
 Here's where Yorktown's layout works squarely in your favor. These are detached homes on private driveways, and the Yorktown at Belair area has no HOA — so placement on your own driveway is governed by you and city rules, not by an association sign-off. That's a real difference from Bowie's newer townhome and HOA communities, where staging often needs approval first. In Yorktown, you decide.
 
-And because nearly every 10-yard here sits entirely on the homeowner's driveway, you generally do **not** need a City of Bowie right-of-way permit. The city only requires that permit when a dumpster sits in a city street; driveways don't trigger it. If the only workable spot truly is the street — a tight turnaround on a cul-de-sac like Youngwood Turn, say — just tell us when you call and we'll walk you through the right-of-way permit so you're covered. Given the 10-yard's small footprint, clearing a single-car spot the night before is usually all the prep you'll need.
+And because nearly every 10-yard here sits entirely on the homeowner's driveway, you generally do **not** need a City of Bowie right-of-way permit. The city only requires that permit when a dumpster sits in a city street; driveways don't trigger it. If the only workable spot truly is the street — a tight turnaround on a cul-de-sac like Youngwood Turn, say — that placement requires a right-of-way permit from the City of Bowie; customers are responsible for determining whether a permit is required and obtaining it before delivery. Given the 10-yard's small footprint, clearing a single-car spot the night before is usually all the prep you'll need.
 
 ## Why neighbors call the family
 

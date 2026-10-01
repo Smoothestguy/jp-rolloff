@@ -27,15 +27,15 @@ Algunas cosas que hacen que la entrega salga bien:
 
 - **Elige tu lugar con anticipación.** Dinos si el contenedor va en tu espacio asignado, en un espacio trasero coordinado o en un tramo de calle, y planearemos el acercamiento del camión desde Race Track Road según eso. Los frentes angostos de finales de los sesenta no dejan mucho margen, así que conocer el lugar de antemano nos ahorra a todos un dolor de cabeza.
 - **Despeja el espacio antes de que lleguemos.** Un solo auto dejado en el lugar de colocación puede detener toda la entrega. Si la caja va donde normalmente estacionas, mueve el auto la noche anterior.
-- **La bajamos con cuidado.** Son casas de muro compartido con vecinos cercanos. Nuestros conductores colocan el contenedor cuadrado y nivelado, con tablas bajo las ruedas cuando lo pides, para que se asiente limpio y se levante limpio.
+- **Lo colocamos cuadrado y nivelado.** Son casas de muro compartido con vecinos cercanos, así que nuestros conductores colocan el contenedor cuadrado y nivelado en el lugar que elegiste. Los contenedores roll-off y los camiones de entrega son pesados y pueden dañar algunas superficies, así que proteger el parqueo o el área de colocación antes de la entrega es responsabilidad del cliente. Si no estás seguro sobre la colocación, llama a nuestra oficina antes de programar.
 
 ## Permisos y aprobación de la HOA
 
 Aquí va la buena noticia sobre el papeleo: la Ciudad de Bowie solo exige un permiso de derecho de vía si tu contenedor realmente se asienta en una calle de la ciudad. Si el de 10 yardas va en tu espacio de estacionamiento asignado o en un lugar de colocación que la HOA ha aprobado, no se necesita ningún permiso de la ciudad.
 
-Eso hace de la HOA el verdadero punto de decisión en Belair Town, no del ayuntamiento. Ambas fases se rigen por convenios registrados, estatutos y reglamentos de estacionamiento — Belair Town II, establecida en 1969 con sus 150 unidades de propiedad privada, maneja sus asuntos a través de su asociación de propietarios. Como la colocación de contenedores y equipo en o cerca de áreas comunes debe coordinarse con la asociación, lo inteligente es confirmar un lugar aprobado por la HOA antes de que entreguemos. Si tu única opción realista es la calle pública, avísanos y te ayudaremos a tramitar el permiso de derecho de vía de la ciudad para que estés cubierto.
+Eso hace de la HOA el verdadero punto de decisión en Belair Town, no del ayuntamiento. Ambas fases se rigen por convenios registrados, estatutos y reglamentos de estacionamiento — Belair Town II, establecida en 1969 con sus 150 unidades de propiedad privada, maneja sus asuntos a través de su asociación de propietarios. Como la colocación de contenedores y equipo en o cerca de áreas comunes debe coordinarse con la asociación, lo inteligente es confirmar un lugar aprobado por la HOA antes de que entreguemos. Si tu única opción realista es la calle pública, esa colocación requiere un permiso de derecho de vía de la Ciudad de Bowie; los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega.
 
-Preferimos tener esa conversación de entrada que llegar a un lugar que resulta estar prohibido. Una verificación rápida con tu contacto de la HOA, y nosotros nos encargamos del resto.
+Preferimos tener esa conversación de entrada que llegar a un lugar que resulta estar prohibido. Una verificación rápida con tu contacto de la HOA, y programamos tu contenedor.
 
 ## Qué puedes esperar de nosotros
 

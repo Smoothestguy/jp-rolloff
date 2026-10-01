@@ -33,7 +33,7 @@ That right-of-way burden is exactly why the 10-yard's tight footprint is an adva
 - **Kemp Mill**, developed from the late 1950s, is home to one of the largest Orthodox Jewish communities on the East Coast — so for Sabbath-observant households we're glad to schedule delivery and pickup to avoid Friday evening through Saturday. Just tell us when you call.
 - Even with a county right-of-way permit, your **HOA** may have its own rules that require approval before a container is set.
 
-We don't pull permits for you, but after years of running this area we can tell you what to expect for your specific street and help you keep the box on private property when that's the simpler path.
+We don't pull permits for you; customers are responsible for determining whether a Montgomery County permit is required and obtaining it before delivery. We can help you keep the box on private property when that's the simpler path.
 
 ## A short drive and a straight answer
 

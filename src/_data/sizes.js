@@ -437,8 +437,8 @@ export default [
       { en: "Commercial cleanout", es: "Limpieza comercial" }
     ],
     why: {
-      en: "For bigger builds and tear-outs — taller walls mean more volume in a shorter footprint. Commercial accounts welcome.",
-      es: "Para construcciones y demoliciones más grandes — paredes más altas significan más volumen en una huella más corta. Cuentas comerciales bienvenidas."
+      en: "For bigger builds and tear-outs — taller walls mean more volume in a shorter footprint.",
+      es: "Para construcciones y demoliciones más grandes — paredes más altas significan más volumen en una huella más corta."
     },
     servicesBlurb:
       "18 ft × 8 ft × 6 ft · ~10.5 pickup loads. Home additions, whole-house remodels, large roofing jobs, commercial cleanouts. Taller walls pack more volume into a shorter footprint.",

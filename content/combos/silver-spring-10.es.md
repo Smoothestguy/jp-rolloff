@@ -33,7 +33,7 @@ Esa carga de la vía pública es exactamente por qué la huella compacta del de 
 - **Kemp Mill**, desarrollado desde finales de los años cincuenta, es hogar de una de las comunidades judías ortodoxas más grandes de la Costa Este — así que para los hogares observantes del Sabbat con gusto programamos entrega y recogida para evitar de la tarde del viernes al sábado. Solo dinos cuando llames.
 - Incluso con un permiso de vía pública del condado, tu **HOA** puede tener sus propias reglas que requieran aprobación antes de colocar un contenedor.
 
-No tramitamos los permisos por ti, pero después de años recorriendo esta zona podemos decirte qué esperar para tu calle específica y ayudarte a mantener el contenedor en propiedad privada cuando ese sea el camino más sencillo.
+No tramitamos los permisos por ti; los clientes son responsables de determinar si se requiere un permiso del condado de Montgomery y de obtenerlo antes de la entrega. Podemos ayudarte a mantener el contenedor en propiedad privada cuando ese sea el camino más sencillo.
 
 ## Un trayecto corto y una respuesta directa
 

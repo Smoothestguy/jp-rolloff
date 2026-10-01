@@ -25,7 +25,7 @@ El de 15 yardas es una opción sólida para ese trabajo. Es lo bastante grande c
 
 ## Logística local, permisos y tiempo de traslado
 
-La colocación es lo primero que hay que resolver. Si el contenedor va en tu propio parqueo, el Town of Riverdale Park normalmente no requiere permiso, así que generalmente podemos programarte de inmediato. Si el contenedor necesita ir en el derecho de vía público, en la calle o frente al borde de la banqueta, el pueblo exige un permiso de derecho de vía, que generalmente toma de uno a dos días hábiles tramitar. Te lo explicamos, y preferimos que preguntes antes de la colocación que lidiar con un problema después.
+La colocación es lo primero que hay que resolver. Si el contenedor va en tu propio parqueo, el Town of Riverdale Park normalmente no requiere permiso, así que generalmente podemos programarte de inmediato. Si el contenedor necesita ir en el derecho de vía público, en la calle o frente al borde de la banqueta, el pueblo exige un permiso de derecho de vía, que generalmente toma de uno a dos días hábiles tramitar. Los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega; es mejor consultar con el pueblo antes de la colocación que lidiar con un problema después.
 
 Vale la pena pensar el espacio del parqueo con anticipación dado cómo está construido el pueblo. Los lotes de las secciones originales tienden a tener frentes estrechos y consistentes y parqueos más cortos, y partes del pueblo cerca de la zona inundable del Anacostia colindan con parques reservados y el Northeast Branch Trail, lo que limita cómo se disponen los lotes. Hemos dejado contenedores por todo Riverdale Park, desde las cuadras históricas alrededor del Riversdale Mansion hasta los townhomes y apartamentos más nuevos cerca del desarrollo The Station at Riverdale Park, junto al Whole Foods y la parada del MARC, así que si no estás seguro de dónde cabrá el contenedor, cuéntanos sobre el lugar y te ayudamos a planearlo.
 
@@ -33,6 +33,6 @@ La buena noticia sobre los tiempos: estamos cerca. Riverdale Park queda justo de
 
 ## Listos cuando tú lo estés
 
-Si tienes una cocina que remodelar, un techo que quitar, un par de baños que demoler o un sótano que despejar, ya sea por una renovación o por una inundación, el de 15 yardas es una opción sensata y amigable con el parqueo para una casa de Riverdale Park. Confirmaremos que el tamaño tiene sentido para tu trabajo, resolveremos si necesitas un permiso de derecho de vía y dejaremos un contenedor limpio donde lo necesites.
+Si tienes una cocina que remodelar, un techo que quitar, un par de baños que demoler o un sótano que despejar, ya sea por una renovación o por una inundación, el de 15 yardas es una opción sensata y amigable con el parqueo para una casa de Riverdale Park. Confirmaremos que el tamaño tiene sentido para tu trabajo y dejaremos un contenedor limpio donde lo necesites.
 
 Cuando estés listo, llámanos al (301) 252-3586. Los dueños contestan el teléfono, conocemos este pueblo y estamos a solo diez minutos por la carretera. Vamos a llevarnos tu proyecto.

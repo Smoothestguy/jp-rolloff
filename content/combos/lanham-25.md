@@ -13,7 +13,7 @@ Lanham's housing stock is mostly mid-century: ranch homes, Cape Cod cottages, an
 - **Home additions.** Adding a bedroom, expanding a kitchen, or bumping out the back of a 1960s ranch generates framing scrap, old siding, concrete from footings, and demo debris all at once. A 25 keeps it in one container.
 - **Whole-house remodels.** Buyers near the NASA Goddard / Glenarden border and throughout Seabrook keep these older homes in steady renovation. A gut remodel — flooring, cabinets, drywall, fixtures, multiple rooms — fills a smaller box fast. The 25 gives you room to keep going.
 - **Large roofing tear-offs.** A full-roof job on a larger Lanham home, especially anything with multiple layers of old shingle to strip, runs heavy and bulky. The long floor of a 25 takes the bundles without you playing Tetris.
-- **Commercial cleanouts.** The Greenway Center and Annapolis Road (MD 450) corridor at Beltway Exit 20A is Lanham's commercial spine — shopping centers like Enterprise Plaza and Lanham Crossing. Retail fit-outs, restaurant remodels, and tenant cleanouts along that stretch are a natural fit for this size, and commercial accounts welcome — ask about billing.
+- **Commercial cleanouts.** The Greenway Center and Annapolis Road (MD 450) corridor at Beltway Exit 20A is Lanham's commercial spine — shopping centers like Enterprise Plaza and Lanham Crossing. Retail fit-outs, restaurant remodels, and tenant cleanouts along that stretch are a natural fit for this size.
 
 If your job is a single bathroom, a garage purge, or one room's flooring, you don't need this much box — ask us about a smaller size and save the difference. The 25 earns its keep when the work is sustained and the debris is heavy or high-volume.
 
@@ -27,7 +27,7 @@ For most of Lanham, that lands in your favor. Those mid-century ranch, Cape Cod,
 
 The newer side of town is where you slow down. Lanham also has early-2000s-to-2010s Colonial Revival and New Traditional houses plus recent townhouse rows. Townhouses share narrow driveways or lean on visitor parking, which often pushes a container to the street — and that means a county right-of-way permit. Because Lanham is fully built-up suburban with no rural land, off-street room gets tight on smaller lots in Seabrook and similar areas. An 18-foot container is unforgiving on a short or shared drive, so this is exactly where measuring twice pays off.
 
-One more wrinkle on the west side: the City of Glenarden borders Lanham along Route 704 (MLK Jr. Highway), running to its end at Annapolis Road. Glenarden is an incorporated city with its own placement authority, so a job right on that line might fall under different rules than unincorporated Lanham next door. If you're near that western edge, tell us the cross streets and we'll help you sort out who governs the placement before the truck rolls.
+One more wrinkle on the west side: the City of Glenarden borders Lanham along Route 704 (MLK Jr. Highway), running to its end at Annapolis Road. Glenarden is an incorporated city with its own placement authority, so a job right on that line might fall under different rules than unincorporated Lanham next door. If you're near that western edge, tell us the cross streets when you call; customers are responsible for determining whether a permit is required — from Prince George's County or the City of Glenarden — and obtaining it before delivery.
 
 ## Drive time and dispatch
 
@@ -35,6 +35,6 @@ Lanham is a quick run for us via Route 450 or the BW Parkway. That short hop mea
 
 ## Book your 25-yard in Lanham
 
-We're a family business, and when you call, you reach the owners — not a call center, not a phone tree. We'll talk through your job, tell you honestly whether the 25-yard is the right box or whether a smaller one fits your driveway and your budget, and flag any permit question before it becomes a problem. Pricing on this size runs per material rather than one flat rate, so call for a quote — delivery, pickup, and a 14-day rental are included, heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters, additional days are available on request when you book, and pickup is by request. Commercial accounts along the Greenway Center corridor welcome — ask about billing.
+We're a family business, and when you call, you reach the owners — not a call center, not a phone tree. We'll talk through your job and tell you honestly whether the 25-yard is the right box or whether a smaller one fits your driveway and your budget. Pricing on this size runs per material rather than one flat rate, so call for a quote — delivery, pickup, and a 14-day rental are included, heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters, additional days are available on request when you book, and pickup is by request.
 
 Ready to get the big box on your Lanham project, or just want a straight answer on placement? Call JP Roll-Off Service at (301) 252-3586 and we'll get you set up.

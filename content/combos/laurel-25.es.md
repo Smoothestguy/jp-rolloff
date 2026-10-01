@@ -1,6 +1,6 @@
 Cuando un proyecto en Laurel deja atrás la "limpieza de fin de semana" y entra en territorio de construcción de verdad, el contenedor roll-off de 25 yardas suele ser la opción correcta. Es un contenedor alto y de gran capacidad —18 pies de largo, 8 pies de ancho y 6 pies de alto— y traga aproximadamente 10.5 cargas de camioneta de escombros antes de llenarse. Somos JP Roll-Off Service, una empresa familiar de transporte de escombros, y Laurel nos queda derechito subiendo por la Route 1. Cuando llamas, te contesta uno de los dueños. Sin call center, sin menús telefónicos, sin que te pasen de un lado a otro.
 
-Este es el tamaño que la mayoría de los contratistas tienen en mente cuando dicen que necesitan un contenedor de "construcción mayor". El precio es por material, así que llámanos para una cotización según tu carga específica. El precio incluye entrega, recogida a solicitud y un periodo de renta de 14 días. Los días adicionales están disponibles a solicitud cuando reservas, y los materiales pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa. La recogida es a solicitud, así que solo llámanos cuando estés listo y la programamos. Aceptamos cuentas comerciales — pregunta por la facturación cuando llames.
+Este es el tamaño que la mayoría de los contratistas tienen en mente cuando dicen que necesitan un contenedor de "construcción mayor". El precio es por material, así que llámanos para una cotización según tu carga específica. El precio incluye entrega, recogida a solicitud y un periodo de renta de 14 días. Los días adicionales están disponibles a solicitud cuando reservas, y los materiales pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa. La recogida es a solicitud, así que solo llámanos cuando estés listo y la programamos.
 
 ## Qué cabe en un contenedor de 25 yardas
 
@@ -38,10 +38,10 @@ Si el contenedor tiene que ir en el derecho de vía público —la calle, una ba
 - El **condado de Howard** lo tramita por su Department of Inspections, Licenses and Permits.
 - El **condado de Anne Arundel** tiene su propio proceso aparte.
 
-Si no estás seguro de cuál rige tu calle —y en Laurel, mucha gente no lo está— llámanos y te ayudamos a averiguarlo antes de que se entregue nada.
+Si no estás seguro de cuál rige tu calle —y en Laurel, mucha gente no lo está— consulta con la City of Laurel o con tu condado antes de reservar; los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega.
 
 ## Cómo llevar uno a tu obra en Laurel
 
 Laurel es un trayecto rápido derecho por la Route 1 para nosotros, así que podemos mantener la entrega y la recogida bien ajustadas a tu calendario de construcción. Ya sea que estés armando la estructura de una ampliación por Maple Lawn, demoliendo un townhome en South Laurel, quitando un techo o vaciando un local comercial cerca de Laurel Towne Centre, el de 25 yardas te da espacio para seguir trabajando sin parar a acarrear.
 
-Somos un negocio familiar, así que siempre estarás tratando con las personas que de verdad son dueñas de los camiones. Cuando estés listo para reservar — o si solo quieres platicar qué tamaño le queda a tu trabajo, dónde puede ir y si tu calle necesita permiso — llámanos al **(301) 252-3586**. Te daremos una respuesta directa y una cotización clara para tu material —con la renta de 14 días incluida— y llevaremos un contenedor limpio a tu obra en Laurel cuando lo necesites.
+Somos un negocio familiar, así que siempre estarás tratando con las personas que de verdad son dueñas de los camiones. Cuando estés listo para reservar — o si solo quieres platicar qué tamaño le queda a tu trabajo y dónde puede ir — llámanos al **(301) 252-3586**. Te daremos una respuesta directa y una cotización clara para tu material —con la renta de 14 días incluida— y llevaremos un contenedor limpio a tu obra en Laurel cuando lo necesites.

@@ -21,7 +21,7 @@ If your project is a full roof tear-off, a whole-house gut, or a big addition, a
 
 Here's where Tulip Grove's layout works in your favor. Because these are detached homes on private driveways with lots running a fifth of an acre and up, most 10-yard drops here sit entirely on the homeowner's own driveway or an HOA-approved spot. That means you generally do **not** need a City of Bowie right-of-way permit. The city only requires that permit when a dumpster sits in a city street — driveways and HOA-approved staging don't trigger it.
 
-A couple of practical notes. Some Levitt sections fall under civic or homeowners associations listed by the City of Bowie, so if your block has one, follow any HOA-approved placement rules in addition to the city's street rule — it's worth a quick check before delivery day. And if the only workable spot truly is the street, don't worry: just let us know and we'll talk through the right-of-way permit so you're covered. For a tight single-car driveway, clear the spot the night before; the 10-yard's compact footprint means it won't take much room.
+A couple of practical notes. Some Levitt sections fall under civic or homeowners associations listed by the City of Bowie, so if your block has one, follow any HOA-approved placement rules in addition to the city's street rule — it's worth a quick check before delivery day. And if the only workable spot truly is the street, that placement requires a right-of-way permit from the City of Bowie; customers are responsible for determining whether a permit is required and obtaining it before delivery. For a tight single-car driveway, clear the spot the night before; the 10-yard's compact footprint means it won't take much room.
 
 ## Why neighbors call the family
 

@@ -26,7 +26,7 @@ Aquí va una buena noticia específica de este vecindario. La Ciudad de Bowie so
 
 Eso también encaja con la manera en que Glenridge está trazado. El acceso suele ser desde la Route 197 (Collington Road), hacia Gradys Walk, y luego hacia Galaxy Lane — un trazado residencial interior tranquilo en lugar de una calle de paso. No hay razón para bloquear una calle aquí cuando tu parqueo nos da un lugar plano y apartado. El tamaño compacto del de 10 yardas ayuda: cabe en un solo lugar de auto, dejándote espacio para seguir entrando y saliendo.
 
-Cuando hacemos la entrega, colocamos el contenedor donde lo quieras y ponemos tablas debajo para proteger la superficie de tu parqueo. Dinos hacia qué lado deben mirar las puertas para que cargar sea fácil desde tu área de trabajo.
+Cuando hacemos la entrega, colocamos el contenedor donde lo quieras. Dinos hacia qué lado deben mirar las puertas para que cargar sea fácil desde tu área de trabajo. Los contenedores roll-off y los camiones de entrega son pesados y pueden dañar algunas superficies, así que proteger el parqueo o el área de colocación antes de la entrega es responsabilidad del cliente. Si no estás seguro sobre la colocación, llama a nuestra oficina antes de programar.
 
 ## Lo que cuesta
 

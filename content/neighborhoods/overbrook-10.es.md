@@ -18,7 +18,7 @@ Levitt construyó estas casas de Belair con parqueos pavimentados, así que casi
 
 La Ciudad de Bowie solo exige un permiso de derecho de paso cuando un contenedor se coloca en una calle de la ciudad. Si ponemos el de 10 yardas en tu parqueo — que es lo que recomendamos de todos modos en estas calles estrechas de la sección O — no estás en el derecho de paso, y la cuestión del permiso simplemente nunca surge. Tu calle queda despejada, tus vecinos contentos y tu proyecto avanza más rápido.
 
-Si tu situación particular obliga a colocarlo en la calle — un parqueo corto, una vuelta estrecha bajo los árboles, un acuerdo de estacionamiento compartido — ahí es cuando entran las reglas de la ciudad, y un propietario coordinaría con la oficina de obras públicas y permisos de Bowie antes de que la caja baje. La verdad honesta, sin embargo, es que en un parqueo estándar de Overbrook rara vez necesitamos llegar a eso. Lo repasaremos contigo por teléfono antes de mover un camión.
+Si tu situación particular obliga a colocarlo en la calle — un parqueo corto, una vuelta estrecha bajo los árboles, un acuerdo de estacionamiento compartido — ahí es cuando entran las reglas de la ciudad, y un propietario coordinaría con la oficina de obras públicas y permisos de Bowie antes de que la caja baje. La verdad honesta, sin embargo, es que en un parqueo estándar de Overbrook rara vez necesitamos llegar a eso. Los clientes son responsables de determinar si se requiere un permiso de la Ciudad de Bowie y de obtenerlo antes de la entrega.
 
 ## Trabajos que el de 10 yardas resuelve en Overbrook
 
@@ -37,7 +37,7 @@ Un de 10 yardas en el área de Overbrook se cotiza por material — llama para u
 
 El peso merece una mención rápida, sobre todo para los trabajos de desechos de jardín y remodelación que maneja este tamaño. El desorden doméstico y los escombros generales rara vez son problema. Donde se pone pesado es con material denso — tierra mojada, concreto, piedra, ladrillo o una carga de madera de árbol empapada — y ese tipo de material se cotiza por separado porque el peso importa. Si tu trabajo va por ese lado, menciónalo cuando llames y fijaremos la expectativa correcta de antemano para que sepas qué esperar en la báscula.
 
-En cuanto al parqueo en sí, colocamos el contenedor con cuidado, y con gusto ponemos tablas bajo las ruedas si te preocupa la superficie — solo pídelo. Estas son parqueos de todos los días cumpliendo su función de todos los días, y así las tratamos.
+Los contenedores roll-off y los camiones de entrega son pesados y pueden dañar algunas superficies, así que proteger el parqueo o el área de colocación antes de la entrega es responsabilidad del cliente. Si no estás seguro sobre la colocación, llama a nuestra oficina antes de programar.
 
 ## Cómo funciona la programación
 

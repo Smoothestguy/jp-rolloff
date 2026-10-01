@@ -1,6 +1,6 @@
 When a Laurel project moves past "weekend cleanout" and into real construction territory, the 25-yard roll-off is usually the right call. It's a tall, high-capacity container — 18 feet long, 8 feet wide, and 6 feet tall — and it swallows roughly 10.5 pickup-truck loads of debris before it's full. We're JP Roll-Off Service, a family-owned hauler, and Laurel is a straight shot up Route 1 for us. When you call, one of the owners picks up. No call center, no phone tree, no being passed around.
 
-This is the size most contractors mean when they say they need a "major construction" dumpster. Pricing is per material, so call us for a quote on your specific load. The price includes delivery, pickup on request, and a 14-day rental. Additional days are available on request when you book, and heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request, so just call us when you're ready and we'll schedule it. Commercial accounts welcome — ask about billing when you call.
+This is the size most contractors mean when they say they need a "major construction" dumpster. Pricing is per material, so call us for a quote on your specific load. The price includes delivery, pickup on request, and a 14-day rental. Additional days are available on request when you book, and heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request, so just call us when you're ready and we'll schedule it.
 
 ## What fits in a 25-yard dumpster
 
@@ -38,10 +38,10 @@ If the dumpster has to go in the public right-of-way — the street, a sidewalk,
 - **Howard County** goes through its Department of Inspections, Licenses and Permits.
 - **Anne Arundel County** has its own separate process.
 
-If you're not sure which one governs your street — and in Laurel, plenty of people aren't — give us a call and we'll help you figure it out before anything gets delivered.
+If you're not sure which one governs your street — and in Laurel, plenty of people aren't — check with the City of Laurel or your county before you book; customers are responsible for determining whether a permit is required and obtaining it before delivery.
 
 ## Getting one to your Laurel job
 
 Laurel is a quick run straight up Route 1 for us, so we can keep delivery and pickup tight around your construction schedule. Whether you're framing an addition out near Maple Lawn, gutting a townhome in South Laurel, stripping a roof, or clearing out a commercial space near Laurel Towne Centre, the 25-yard gives you room to keep working without stopping to haul.
 
-We're a family business, so you'll always be dealing with the people who actually own the trucks. When you're ready to book — or if you just want to talk through what size fits your job, where it can sit, and whether your street needs a permit — call us at **(301) 252-3586**. We'll give you a straight answer and a clear quote for your material — with the 14-day rental included — and we'll get a clean container to your Laurel site when you need it.
+We're a family business, so you'll always be dealing with the people who actually own the trucks. When you're ready to book — or if you just want to talk through what size fits your job and where it can sit — call us at **(301) 252-3586**. We'll give you a straight answer and a clear quote for your material — with the 14-day rental included — and we'll get a clean container to your Laurel site when you need it.

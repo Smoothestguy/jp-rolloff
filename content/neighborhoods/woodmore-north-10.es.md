@@ -25,7 +25,7 @@ Aquí está la parte que es distinta de los vecindarios más antiguos y densamen
 
 Así que para la entrega típica de Woodmore North, por lo general no tendrás que lidiar con la ciudad en absoluto. Lo que *sí* querrás manejar primero es tu HOA. Woodmore North se ubica dentro de la comunidad Stewart's Landing, que está gobernada por una HOA, y existe aquí una HOA que supervisa cómo y dónde pueden estacionarse cosas como los contenedores roll-off. El paso práctico es una verificación rápida con tu asociación antes de la entrega para confirmar que la colocación y la duración siguen los convenios. Como la huella del 10 yardas es tan pequeña — un solo espacio de auto — obtener esa aprobación suele ser sencillo, y despejar el lugar de estacionamiento la noche anterior es más o menos toda la preparación que necesitarás.
 
-Si tu situación particular significa que el único lugar viable es una calle de la ciudad en lugar del parqueo, solo dilo cuando llames y te guiaremos por el permiso de derecho de paso de Bowie para que estés totalmente cubierto.
+Si tu situación particular significa que el único lugar viable es una calle de la ciudad en lugar del parqueo, esa colocación requiere un permiso de derecho de paso de la Ciudad de Bowie; los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega.
 
 ## Por qué los vecinos llaman a la familia
 

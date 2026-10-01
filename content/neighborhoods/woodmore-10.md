@@ -29,7 +29,7 @@ It's also worth knowing that Woodmore spans several distinct sub-developments �
 
 ## Why the city permit usually isn't the concern
 
-The City of Bowie only requires a right-of-way permit when a dumpster sits in a city street. A dumpster on your own driveway or in an HOA-approved staging spot does not trigger that permit. Given Woodmore's one-acre estate lots and wide driveways, the typical 10-yard drop here stages entirely on your own property — so for most Woodmore jobs you do not need a city permit at all. The thing to nail down instead is gate access and, where it applies, your section's HOA placement rules. And in the rare case the only workable spot is genuinely a city street, just tell us when you call and we'll walk you through the Bowie right-of-way permit so you're covered.
+The City of Bowie only requires a right-of-way permit when a dumpster sits in a city street. A dumpster on your own driveway or in an HOA-approved staging spot does not trigger that permit. Given Woodmore's one-acre estate lots and wide driveways, the typical 10-yard drop here stages entirely on your own property — so for most Woodmore jobs you do not need a city permit at all. The thing to nail down instead is gate access and, where it applies, your section's HOA placement rules. And in the rare case the only workable spot is genuinely a city street, that placement requires a right-of-way permit from the City of Bowie; customers are responsible for determining whether a permit is required and obtaining it before delivery.
 
 ## Why neighbors call the family
 

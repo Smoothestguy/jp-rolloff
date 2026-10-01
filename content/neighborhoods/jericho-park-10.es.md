@@ -23,7 +23,7 @@ Aquí están las buenas noticias para Jericho Park, y es la parte que distingue 
 
 Por aquí, esa regla juega a tu favor más veces que no. Con parcelas de medio acre hasta varios acres y parqueos privados largos, la gran mayoría de las entregas en Jericho Park pueden colocarse por completo en tu propia propiedad (parqueo o patio) sin tocar jamás una calle de la ciudad. Así que para la entrega típica de 10 yardas aquí, por lo general **no** necesitas ningún permiso de Bowie. Despeja un solo espacio de auto la noche anterior, indícanos dónde lo quieres, y lo dejaremos bien colocado.
 
-Si tu casa resulta estar en una parcela donde el único lugar viable es de verdad la calle, solo dilo cuando llames y te guiaremos por el permiso de derecho de paso de Bowie para que estés cubierto antes del día de la entrega. De cualquier forma, no andarás adivinando.
+Si tu casa resulta estar en una parcela donde el único lugar viable es de verdad la calle, esa colocación requiere un permiso de derecho de paso de la Ciudad de Bowie; los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega.
 
 ## Por qué los vecinos llaman a la familia
 

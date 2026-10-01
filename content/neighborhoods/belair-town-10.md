@@ -27,15 +27,15 @@ A few things that make the drop smooth:
 
 - **Pick your spot in advance.** Tell us whether the container is going in your assigned space, a coordinated rear space, or a stretch of street, and we'll plan the truck's approach off Race Track Road accordingly. The narrow late-'60s frontages don't leave much margin, so knowing the spot ahead of time saves everyone a headache.
 - **Clear the space before we arrive.** A single car left in the staging spot can stop the whole delivery. If the box is going where you normally park, move the car the night before.
-- **We set it down gently.** These are shared-wall homes with close neighbors. Our drivers place the container square and level, with boards under the wheels when you ask, so it sits clean and lifts off clean.
+- **We set it square and level.** These are shared-wall homes with close neighbors, so our drivers place the container square and level in the spot you picked. Roll-off dumpsters and delivery trucks are heavy and may damage some surfaces, so protecting the driveway or placement area before delivery is the customer's responsibility. If you're unsure about placement, call our office before scheduling.
 
 ## Permits and HOA approval
 
 Here's the good news on paperwork: the City of Bowie only requires a right-of-way permit if your dumpster actually sits in a city street. If the 10-yard goes in your assigned parking space or a staging spot the HOA has signed off on, no city permit is needed.
 
-That makes the HOA the real decision-point in Belair Town, not City Hall. Both phases are governed by recorded covenants, by-laws, and parking regulations — Belair Town II, established in 1969 with its 150 privately owned units, runs its affairs through its homeowners association. Because container and equipment placement on or near common areas is meant to be coordinated with the association, the smart move is to confirm an HOA-approved spot before we deliver. If your only realistic option is the public street, let us know and we'll help you sort the city right-of-way permit so you're covered.
+That makes the HOA the real decision-point in Belair Town, not City Hall. Both phases are governed by recorded covenants, by-laws, and parking regulations — Belair Town II, established in 1969 with its 150 privately owned units, runs its affairs through its homeowners association. Because container and equipment placement on or near common areas is meant to be coordinated with the association, the smart move is to confirm an HOA-approved spot before we deliver. If your only realistic option is the public street, that placement requires a right-of-way permit from the City of Bowie; customers are responsible for determining whether a permit is required and obtaining it before delivery.
 
-We'd rather have that conversation up front than show up to a spot that turns out to be off-limits. A quick check with your HOA contact, and we handle the rest.
+We'd rather have that conversation up front than show up to a spot that turns out to be off-limits. A quick check with your HOA contact, and we'll get your container scheduled.
 
 ## What you can expect from us
 

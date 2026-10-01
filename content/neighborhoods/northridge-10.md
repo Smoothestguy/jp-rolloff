@@ -25,7 +25,7 @@ Here's the part that's actually good news in Northridge, and it's different from
 
 What's worth a quick check is your HOA. Northridge is governed by homeowners associations that maintain the shared spaces and parks — including amenities like the Northridge Swim & Tennis Club on Quill Point Drive — and those associations may have placement or staging guidelines for dumpsters. Covenants can govern where a container sits, how long it stays, and sometimes which surface it can rest on. For the single-family homes that's usually a simple courtesy check; for townhouses with shorter, shared driveways it's especially worth a quick call to your HOA before delivery.
 
-Because the 10-yard's footprint is so small, clearing a single car spot the night before is usually all the prep you'll need. And in the rare case the only workable spot truly turns out to be a city street, just say so when you call and we'll walk you through the Bowie right-of-way permit so you're covered.
+Because the 10-yard's footprint is so small, clearing a single car spot the night before is usually all the prep you'll need. And in the rare case the only workable spot truly turns out to be a city street, that placement requires a right-of-way permit from the City of Bowie; customers are responsible for determining whether a permit is required and obtaining it before delivery.
 
 ## Why neighbors call the family
 

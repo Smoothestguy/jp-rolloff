@@ -25,7 +25,7 @@ Aquí está la parte que confunde a la gente en Two Rivers, y es donde esa disti
 
 Lo que sí es el verdadero guardián aquí es la HOA. Two Rivers es una comunidad gobernada por HOA, organizada en villages y vecindarios con nombre agrupados alrededor de centros de amenidades compartidos como el clubhouse Founders Club de 15,000 pies cuadrados, el planeado Hamlet Clubhouse, un parque comunitario de más de 100 acres y esas millas de senderos. Las secciones 55+ añaden sus propias consideraciones de colocación encima de eso. Así que antes de la entrega, lo inteligente es una consulta rápida con tu asociación comunitaria sobre dónde puede colocarse un contenedor, cuánto tiempo puede quedarse, y si un lote de villa o agrupado necesita aprobación de área común. Eso vale la pena hacerlo especialmente temprano en las secciones para adultos activos, donde los parqueos son más cortos y el estacionamiento es compartido.
 
-Como la huella del de 10 yardas es tan pequeña, despejar un solo espacio de auto la noche anterior suele ser toda la preparación que necesitarás. Y si el único punto viable realmente resulta ser una calle pública, solo dilo cuando llames y te explicaremos lo que el condado de Anne Arundel espera para que estés cubierto.
+Como la huella del de 10 yardas es tan pequeña, despejar un solo espacio de auto la noche anterior suele ser toda la preparación que necesitarás. Y si el único punto viable realmente resulta ser una calle pública, esa colocación queda bajo las reglas de derecho de paso del condado de Anne Arundel y del estado de Maryland; los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega.
 
 ## Por qué los vecinos llaman a la familia
 

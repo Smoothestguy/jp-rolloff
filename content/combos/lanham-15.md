@@ -25,10 +25,10 @@ Lanham is an unincorporated community in Prince George's County (ZIP 20706), so 
 
 **Street placement = county right-of-way permit.** If the roll-off has to sit on a county road, you'll need a PG County right-of-way permit first. This comes up most with the newer townhouse rows, where driveways are narrow or shared and visitor parking is the only option, and along the commercial spine — the Greenway Center and Annapolis Road (MD Route 450) corridor near Beltway Exit 20A, with centers like Enterprise Plaza and Lanham Crossing. Retail fit-outs, restaurant remodels, and tenant cleanouts there almost always mean street placement.
 
-One thing worth flagging: the western edge of Lanham runs up against the City of Glenarden along MD Route 704 (Martin Luther King Jr. Highway), and Glenarden is an incorporated city with its own placement authority. If your address sits right on that line, let us know — the rules can differ from one side of the street to the other, and we'll help you sort out which one applies.
+One thing worth flagging: the western edge of Lanham runs up against the City of Glenarden along MD Route 704 (Martin Luther King Jr. Highway), and Glenarden is an incorporated city with its own placement authority. If your address sits right on that line, keep in mind that the rules can differ from one side of the street to the other; customers are responsible for determining whether a permit is required and obtaining it before delivery.
 
 As for getting there, we're close. Lanham is an easy run via Route 450 or the BW Parkway, so we can keep delivery and pickup windows tight and swing back quickly when you're ready for the haul-away.
 
 ## Ready when you are
 
-Because we're family-owned, the person who answers the phone is one of the owners — not a call center reading off a script. We'll talk through your project, confirm the 15-yard is the right size, and sort out whether your block needs a permit or whether the driveway will do. Call us at **(301) 252-3586** to get your Lanham 15-yard scheduled, and we'll handle the rest.
+Because we're family-owned, the person who answers the phone is one of the owners — not a call center reading off a script. We'll talk through your project and confirm the 15-yard is the right size. Call us at **(301) 252-3586** to get your Lanham 15-yard scheduled.

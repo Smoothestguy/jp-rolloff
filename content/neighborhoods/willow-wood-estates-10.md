@@ -23,7 +23,7 @@ Here's the part worth getting right in Willow Wood Estates, and the good news is
 
 That's a real advantage of how Willow Wood Estates is laid out. Unlike street-placed containers you'd see on a dense new-construction site, a mature subdivision like this one has the driveway room to keep the can on private property. Because the 10-yard's footprint is so small — roughly one car spot — clearing a single space the night before delivery is usually all the prep you'll need.
 
-If your section of the neighborhood has any homeowners-association staging guidance, a quick check before delivery never hurts. And in the rare case the only workable spot truly turns out to be a city street, just say so when you call. Bowie's Public Works Department (at 16500 Annapolis Road) handles right-of-way permitting, and we'll walk you through it so you're covered before the truck rolls.
+If your section of the neighborhood has any homeowners-association staging guidance, a quick check before delivery never hurts. And in the rare case the only workable spot truly turns out to be a city street, just say so when you call. Bowie's Public Works Department (at 16500 Annapolis Road) handles right-of-way permitting; customers are responsible for determining whether a permit is required and obtaining it before delivery.
 
 ## Why neighbors call the family
 

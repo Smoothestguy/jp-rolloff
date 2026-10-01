@@ -25,7 +25,7 @@ Here's the part that's different from Bowie's older, tightly-platted Levitt-era 
 
 So for the typical Woodmore North drop, you generally won't be dealing with the city at all. What you *will* want to handle first is your HOA. Woodmore North sits within the Stewart's Landing community, which is HOA-governed, and an HOA exists here that oversees how and where things like roll-off containers can be staged. The practical step is a quick check with your association before delivery to confirm placement and duration follow the covenants. Because the 10-yard's footprint is so small — a single car spot — getting that approval is usually straightforward, and clearing the staging spot the night before is about all the prep you'll need.
 
-If your particular situation means the only workable spot is a city street rather than the driveway, just say so when you call and we'll walk you through the Bowie right-of-way permit so you're fully covered.
+If your particular situation means the only workable spot is a city street rather than the driveway, that placement requires a right-of-way permit from the City of Bowie; customers are responsible for determining whether a permit is required and obtaining it before delivery.
 
 ## Why neighbors call the family
 

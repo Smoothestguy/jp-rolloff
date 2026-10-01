@@ -23,7 +23,7 @@ Aquí está la parte que vale la pena acertar en Willow Wood Estates, y la buena
 
 Esa es una verdadera ventaja de cómo está dispuesto Willow Wood Estates. A diferencia de los contenedores colocados en la calle que verías en una obra densa de construcción nueva, una subdivisión madura como esta tiene el espacio de parqueo para mantener el contenedor en propiedad privada. Como la huella del de 10 yardas es tan pequeña — más o menos un espacio para auto — despejar un solo lugar la noche antes de la entrega suele ser toda la preparación que necesitarás.
 
-Si tu sección del vecindario tiene alguna pauta de colocación de la asociación de propietarios, una consulta rápida antes de la entrega nunca está de más. Y en el raro caso de que el único lugar viable realmente resulte ser una calle de la ciudad, solo dilo cuando llames. El Departamento de Obras Públicas de Bowie (en 16500 Annapolis Road) maneja los permisos de servidumbre de paso, y te lo explicaremos para que estés cubierto antes de que salga el camión.
+Si tu sección del vecindario tiene alguna pauta de colocación de la asociación de propietarios, una consulta rápida antes de la entrega nunca está de más. Y en el raro caso de que el único lugar viable realmente resulte ser una calle de la ciudad, solo dilo cuando llames. El Departamento de Obras Públicas de Bowie (en 16500 Annapolis Road) maneja los permisos de servidumbre de paso; los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega.
 
 ## Por qué los vecinos llaman a la familia
 

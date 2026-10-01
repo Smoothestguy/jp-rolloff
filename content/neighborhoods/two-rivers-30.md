@@ -31,9 +31,9 @@ Because this is an HOA community, staging approval is a genuine step here, not a
 
 ## A note on permits in Two Rivers
 
-Permit guidance for Two Rivers is different from what you'll see on our pages for neighborhoods inside the City of Bowie. Because Two Rivers is in Odenton, Anne Arundel County, the City of Bowie's right-of-way rule does not govern addresses here. As a practical matter, if your 30-yard sits on your own driveway or on an HOA-approved staging spot — which is where the vast majority of these go — you're generally clear of any street right-of-way permit question.
+The permit picture for Two Rivers is different from what you'll see on our pages for neighborhoods inside the City of Bowie. Because Two Rivers is in Odenton, Anne Arundel County, the City of Bowie's right-of-way rule does not govern addresses here. As a practical matter, if your 30-yard sits on your own driveway or on an HOA-approved staging spot — which is where the vast majority of these go — you're generally clear of any street right-of-way permit question.
 
-The one situation that calls for a closer look is a dumpster that would sit in a public street rather than on private property. In that case the relevant rules are the county's and the state's, not the City of Bowie's, and we'd rather confirm the right requirement with you before delivery than guess. We're not going to invent a permit answer for a street placement we haven't checked. Call us with the specifics and we'll help you figure out the correct path.
+The one situation that calls for a closer look is a dumpster that would sit in a public street rather than on private property. In that case the relevant rules are Anne Arundel County's and the state's, not the City of Bowie's; customers are responsible for determining whether a permit is required and obtaining it before delivery. Tell us where the box will go when you call.
 
 ## Straightforward pricing and an honest drop
 

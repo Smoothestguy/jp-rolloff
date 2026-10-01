@@ -31,9 +31,9 @@ When the box has to go in the public right-of-way — street, sidewalk, or alley
 - **Howard County** (which covers North Laurel, ZIP 20723) goes through its Department of Inspections, Licenses and Permits.
 - **Anne Arundel County** (Russett and Maryland City, ZIP 20724) has its own separate process.
 
-This matters most in the historic core, where narrow lots threaded with rear alleys often push placement off the driveway and into the right-of-way — which is exactly where a city permit comes in. It also matters in Russett, a roughly 600-acre planned community built largely in the 1980s-90s, where dense townhome and condo layouts mean shared driveways, HOA rules, and tight guest-parking. The compact 10-yard is the easiest size to fit those spots, but we'll still help you think through where it can legally and physically sit. The Maryland City and Russett side near Fort Meade and the NSA also sees a lot of move-out and PCS cleanouts, and the 10-yard is a tidy fit for clearing one unit.
+This matters most in the historic core, where narrow lots threaded with rear alleys often push placement off the driveway and into the right-of-way — which is exactly where a city permit comes in. It also matters in Russett, a roughly 600-acre planned community built largely in the 1980s-90s, where dense townhome and condo layouts mean shared driveways, HOA rules, and tight guest-parking. The compact 10-yard is the easiest size to fit those spots, but we'll still help you think through where it can physically sit. The Maryland City and Russett side near Fort Meade and the NSA also sees a lot of move-out and PCS cleanouts, and the 10-yard is a tidy fit for clearing one unit.
 
-We don't issue permits for you, but after years of running this area we can tell you which authority your street likely falls under and what to expect before you commit.
+We don't issue permits for you, and with four jurisdictions in play — the City of Laurel, Prince George's County, Howard County, and Anne Arundel County — customers are responsible for determining whether a permit is required and obtaining it before delivery.
 
 ## A short drive and a straight answer
 

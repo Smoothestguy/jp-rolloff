@@ -25,7 +25,7 @@ The 15-yard is a strong fit for that work. It's big enough to take the contents 
 
 ## Local logistics, permits, and drive time
 
-Placement is the first thing to sort out. If the dumpster goes on your own driveway, the Town of Riverdale Park typically doesn't require a permit, so we can usually get you scheduled right away. If the can needs to sit in the public right-of-way, on the street or in front of the curb, the town requires a right-of-way permit, which generally takes one to two business days to process. We'll walk you through that, and we'd rather you ask before placement than deal with a problem after.
+Placement is the first thing to sort out. If the dumpster goes on your own driveway, the Town of Riverdale Park typically doesn't require a permit, so we can usually get you scheduled right away. If the can needs to sit in the public right-of-way, on the street or in front of the curb, the town requires a right-of-way permit, which generally takes one to two business days to process. Customers are responsible for determining whether a permit is required and obtaining it before delivery; it's better to check with the town before placement than deal with a problem after.
 
 Driveway space is worth thinking through ahead of time given how the town is built. Lots in the original sections tend to have narrow, consistent frontages and shorter driveways, and parts of town near the Anacostia floodplain butt up against reserved parkland and the Northeast Branch Trail, which limits how lots are arranged. We've dropped cans all over Riverdale Park, from the historic blocks around the Riversdale Mansion to the newer townhomes and apartments near The Station at Riverdale Park development by the Whole Foods and the MARC stop, so if you're unsure where the can will fit, tell us about the spot and we'll help you plan it.
 
@@ -33,6 +33,6 @@ The good news on timing: we're close. Riverdale Park sits just inside the Beltwa
 
 ## Ready when you are
 
-If you've got a kitchen to remodel, a roof to tear off, a couple of bathrooms to gut, or a basement to clear out, whether from a renovation or a flood, the 15-yard is a sensible, driveway-friendly choice for a Riverdale Park home. We'll confirm the size makes sense for your job, sort out whether you need a right-of-way permit, and get a clean can dropped where you need it.
+If you've got a kitchen to remodel, a roof to tear off, a couple of bathrooms to gut, or a basement to clear out, whether from a renovation or a flood, the 15-yard is a sensible, driveway-friendly choice for a Riverdale Park home. We'll confirm the size makes sense for your job and get a clean can dropped where you need it.
 
 When you're ready, call us at (301) 252-3586. The owners answer the phone, we know this town, and we're only ten minutes up the road. Let's get your project hauled.

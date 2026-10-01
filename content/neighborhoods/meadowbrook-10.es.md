@@ -16,7 +16,7 @@ Levitt vendió estas casas de Belair completas, con garajes y parqueos pavimenta
 
 La Ciudad de Bowie solo exige un permiso de derecho de vía cuando un contenedor se coloca en una calle de la ciudad. Si ponemos el de 10 yardas en tu parqueo — que es lo que recomendamos en estos lotes de todas formas — no estás en el derecho de vía, y la cuestión del permiso ni siquiera sale. Esas calles con nombre de M (Moylan Drive y sus vecinas) quedan despejadas, y tu proyecto avanza más rápido.
 
-Si tu situación particular obliga a colocar en la calle — un parqueo empinado o lleno, un giro cerrado, un acuerdo de estacionamiento compartido — ahí es cuando entran las reglas de la ciudad. La oficina de Public Works / Engineering Review & Permitting de Bowie maneja las obstrucciones en los derechos de vía públicos, y ese es quien un propietario contactaría. La verdad honesta, sin embargo, es que en un parqueo estándar de Meadowbrook rara vez necesitamos ir hasta ahí. Lo conversaremos contigo por teléfono antes de siquiera sacar un camión.
+Si tu situación particular obliga a colocar en la calle — un parqueo empinado o lleno, un giro cerrado, un acuerdo de estacionamiento compartido — ahí es cuando entran las reglas de la ciudad. La oficina de Public Works / Engineering Review & Permitting de Bowie maneja las obstrucciones en los derechos de vía públicos, y ese es quien un propietario contactaría. La verdad honesta, sin embargo, es que en un parqueo estándar de Meadowbrook rara vez necesitamos ir hasta ahí. Los clientes son responsables de determinar si se requiere un permiso de la Ciudad de Bowie y de obtenerlo antes de la entrega.
 
 ## Trabajos que el de 10 yardas maneja en Meadowbrook
 
@@ -35,7 +35,7 @@ Un 10 yardas en el área de Meadowbrook se cotiza por material — según lo que
 
 El peso vale una palabra rápida, sobre todo dados los trabajos de residuos de jardín y de remodelación que maneja el de 10 yardas. El desorden del hogar y los escombros en general rara vez son problema. Donde se pone pesado es con material denso — tierra mojada, concreto, piedra, ladrillo, o una carga de madera de árbol empapada — y ese tipo de material se cotiza por separado porque el peso importa. Si tu trabajo va por ese lado, menciónalo cuando llames y dejaremos la expectativa clara desde el principio para que no haya adivinanzas.
 
-Para proteger el parqueo, bajamos el contenedor con cuidado y con gusto ponemos tablas bajo las ruedas si te preocupa la superficie — solo pídelo. Estas son parqueos de uso diario haciendo su labor diaria, y así las tratamos.
+Los contenedores roll-off y los camiones de entrega son pesados y pueden dañar algunas superficies, así que proteger el parqueo o el área de colocación antes de la entrega es responsabilidad del cliente. Si no estás seguro sobre la colocación, llama a nuestra oficina antes de programar.
 
 ## Cómo funciona la programación
 
