@@ -63,6 +63,9 @@ permalink: "/locations/{{ combo.city.slug }}/{{ combo.size.yd }}-yard/"
     </section>
     {% endif %}
 
+    {# Client size-level boilerplate (materials / aggregate rule / rental & pickup) — sizes.js clientCopy #}
+    {% include "client-copy.njk" %}
+
     {% if not comboBody %}
     <section class="section">
       <div class="container">

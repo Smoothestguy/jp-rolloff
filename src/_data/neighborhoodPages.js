@@ -41,7 +41,13 @@ export default neighborhoods.flatMap((n) => {
       const body = bodies[`${n.slug}-${size.yd}`];
       if (!body) return null; // content-gated: no body → no page
       const bodyEs = bodiesEs[`${n.slug}-${size.yd}`] || null; // optional ES translation
-      return { city, neighborhood: { ...n, name: titleCase(n.slug) }, size, body, bodyEs };
+      // Sizes that actually have a page for THIS neighborhood (content-gated), so the
+      // template's "Other sizes" links never point at a size that was not built
+      // (e.g. the 40-yard exists at city level but has no neighborhood bodies).
+      const siblingSizes = sizes.filter(
+        (o) => o.combo !== false && o.yd !== size.yd && bodies[`${n.slug}-${o.yd}`]
+      );
+      return { city, neighborhood: { ...n, name: titleCase(n.slug) }, size, body, bodyEs, siblingSizes };
     })
     .filter(Boolean);
 });

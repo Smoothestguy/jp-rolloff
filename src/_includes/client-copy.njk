@@ -1,0 +1,36 @@
+{#-
+  Client size-level boilerplate (sizes.js → clientCopy): common uses, accepted
+  materials, the aggregate rule, restricted items, and rental/pickup terms.
+  Included by src/combo/size-in-city.njk and src/neighborhood/neighborhood-size.njk
+  right after the long-form body. Expects `s` (the size object) in context.
+  Every visible string is emitted as data-en / data-es for the client-side toggle.
+-#}
+{%- set cc = s.clientCopy -%}
+{%- if cc %}
+    <section class="section section-alt client-copy">
+      <div class="container container-narrow">
+        <div class="section-head" style="grid-template-columns: 1fr;"><div><span class="eyebrow" data-en="What you can put in a {{ s.yd }}-yard" data-es="Qué puedes poner en uno de {{ s.yd }} yardas">What you can put in a {{ s.yd }}-yard</span><h2 data-en="Accepted materials, rental terms, and pickup." data-es="Materiales aceptados, términos de renta y recogida.">Accepted materials, rental terms, and pickup.</h2></div></div>
+
+        <h3 data-en="Common {{ s.yd }}-yard dumpster uses" data-es="Usos comunes del contenedor de {{ s.yd }} yardas">Common {{ s.yd }}-yard dumpster uses</h3>
+        <ul class="feature-list">
+          {% for u in cc.uses %}
+          <li data-en="{{ u.en }}" data-es="{{ u.es }}">{{ u.en }}</li>
+          {% endfor %}
+        </ul>
+
+        <h3 style="margin-top: var(--space-8);" data-en="What can go in a {{ s.yd }}-yard dumpster?" data-es="¿Qué puede ir en un contenedor de {{ s.yd }} yardas?">What can go in a {{ s.yd }}-yard dumpster?</h3>
+        <ul class="feature-list is-stacked">
+          {% for a in cc.accepted %}
+          <li><strong data-en="{{ a.label.en }}" data-es="{{ a.label.es }}">{{ a.label.en }}</strong><span data-en="{{ a.text.en }}" data-es="{{ a.text.es }}">{{ a.text.en }}</span></li>
+          {% endfor %}
+          <li><strong data-en="{{ cc.aggregateRule.label.en }}" data-es="{{ cc.aggregateRule.label.es }}">{{ cc.aggregateRule.label.en }}</strong><span data-en="{{ cc.aggregateRule.text.en }}" data-es="{{ cc.aggregateRule.text.es }}">{{ cc.aggregateRule.text.en }}</span></li>
+          <li><strong data-en="{{ cc.restricted.label.en }}" data-es="{{ cc.restricted.label.es }}">{{ cc.restricted.label.en }}</strong><span data-en="{{ cc.restricted.text.en }}" data-es="{{ cc.restricted.text.es }}">{{ cc.restricted.text.en }}</span></li>
+        </ul>
+
+        <h3 style="margin-top: var(--space-8);" data-en="{{ cc.rental.label.en }}" data-es="{{ cc.rental.label.es }}">{{ cc.rental.label.en }}</h3>
+        {% for p in cc.rental.paragraphs %}
+        <p data-en="{{ p.en }}" data-es="{{ p.es }}">{{ p.en }}</p>
+        {% endfor %}
+      </div>
+    </section>
+{%- endif %}

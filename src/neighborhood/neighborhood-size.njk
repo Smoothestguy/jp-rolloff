@@ -58,13 +58,17 @@ permalink: "/locations/{{ np.city.slug }}/{{ np.neighborhood.slug }}/{{ np.size.
       </div>
     </section>
 
+    {# Client size-level boilerplate (materials / aggregate rule / rental & pickup) — sizes.js clientCopy #}
+    {% include "client-copy.njk" %}
+
     <section class="section section-alt">
       <div class="container">
         <div class="section-head"><div><span class="eyebrow" data-en="Other sizes in {{ hood.name }}" data-es="Otros tamaños en {{ hood.name }}">Other sizes in {{ hood.name }}</span><h2 data-en="Need a different size?" data-es="¿Necesitas otro tamaño?">Need a different size?</h2></div></div>
         <div class="area-list" style="grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));">
-          {% for o in sizes %}{% if o.yd != s.yd %}
+          {# Only sizes with a built page for this neighborhood (see neighborhoodPages.js siblingSizes) #}
+          {% for o in np.siblingSizes %}
           <a href="/locations/{{ city.slug }}/{{ hood.slug }}/{{ o.yd }}-yard" data-en="{{ o.yd }}-yard in {{ hood.name }}" data-es="{{ o.yd }} yardas en {{ hood.name }}">{{ o.yd }}-yard in {{ hood.name }}</a>
-          {% endif %}{% endfor %}
+          {% endfor %}
           <a href="/locations/{{ city.slug }}/{{ s.yd }}-yard" data-en="All of {{ city.name }} →" data-es="Todo {{ city.name }} →">All of {{ city.name }} →</a>
           <a href="/locations/{{ city.slug }}" data-en="{{ city.name }} info →" data-es="Info de {{ city.name }} →">{{ city.name }} info →</a>
         </div>
