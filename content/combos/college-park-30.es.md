@@ -8,7 +8,7 @@ La de 30 yardas es una de las cajas más grandes que manejamos y la que la mayor
 
 La razón para elegir una de 30 sobre una de 20 o una de 25 es pura aritmética. Cuando estás vaciando una estructura entera o despejando un edificio de varias unidades, un contenedor más pequeño se llena antes de que el trabajo esté a la mitad, y un segundo viaje de dejar y acarrear cuesta más que subir de tamaño una sola vez. La de 30 yardas es capacidad máxima en un solo contenedor — tú la llenas, nosotros la llevamos, y terminaste.
 
-Lo único que la de 30 pide a cambio es espacio. Con 22 pies de caja más el camión, necesita un tramo de aproximación largo y recto para dejarla y recogerla sin problemas. En una ciudad tan apretada, ese tramo de aproximación es lo primero que inspeccionamos.
+Lo único que la de 30 pide a cambio es espacio. Con 22 pies de caja más el camión, necesita un tramo de aproximación largo y recto para dejarla y recogerla sin problemas. En una ciudad tan apretada, ese tramo de aproximación es lo primero que preguntamos cuando llamas.
 
 ## Qué trabajos de College Park le van a la de 30 yardas
 

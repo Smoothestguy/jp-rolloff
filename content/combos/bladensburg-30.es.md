@@ -8,7 +8,7 @@ El de 30 yardas es una de las cajas más grandes que manejamos y la que la mayor
 
 La razón para optar por un 30 en vez de un 20 es simple aritmética. Cuando estás demoliendo una estructura entera o despejando un edificio de varias unidades, un contenedor más pequeño se llena antes de que el trabajo esté a la mitad, y un segundo deja-y-acarrea cuesta más que subir de tamaño una sola vez. El de 30 yardas es capacidad máxima en un solo contenedor — lo llenas, lo retiramos, terminaste.
 
-Lo único que el 30 pide a cambio es espacio. Con 22 pies de caja más el camión, necesita un acceso largo y recto para asentarse y recogerse con limpieza. En un pueblo tan denso, ese acceso es lo primero que exploramos.
+Lo único que el 30 pide a cambio es espacio. Con 22 pies de caja más el camión, necesita un acceso largo y recto para asentarse y recogerse con limpieza. En un pueblo tan denso, ese acceso es lo primero que preguntamos cuando llamas.
 
 ## Qué trabajos de Bladensburg le van bien al de 30 yardas
 

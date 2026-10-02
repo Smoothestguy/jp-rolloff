@@ -6,7 +6,7 @@ We are JP Roll-Off Service, a family-owned hauler, and when you call you reach t
 
 The 30-yard measures 22 ft long by 8 ft wide by 6 ft tall and holds roughly fourteen pickup-truck loads of debris. In Silver Spring a 30-yard for construction debris **includes delivery and a 14-day rental — priced by material, so call for a quote** (other materials are priced separately). Pickup is on request — just call to schedule it. Additional days are available on request when you book, and heavy material such as concrete, dirt, brick and shingles is quoted separately because weight matters.
 
-That extra foot of wall height over the mid-size bins, stretched across 22 feet of length, is what makes this a maximum-capacity option. It is built for volume, not for tossing a few bags over the side. The trade-off is the footprint. A 30-yard needs a long, straight run-up to set down level, plus room for the truck to position and lift it. On a wide commercial lot that is no issue. On a 1940s Cape Cod's single-car driveway in Four Corners, it is exactly the kind of placement we scout in advance — and sometimes the reason we will steer you to a 25-yard instead.
+That extra foot of wall height over the mid-size bins, stretched across 22 feet of length, is what makes this a maximum-capacity option. It is built for volume, not for tossing a few bags over the side. The trade-off is the footprint. A 30-yard needs a long, straight run-up to set down level, plus room for the truck to position and lift it. On a wide commercial lot that is no issue. On a 1940s Cape Cod's single-car driveway in Four Corners, it is exactly the kind of placement we talk through in advance — and sometimes the reason we will steer you to a 25-yard instead.
 
 ## Which Silver Spring jobs suit the 30-yard
 

@@ -17,7 +17,7 @@ Beltsville's residential stock is heavily mid-20th-century. Intensive developmen
 - **Estate cleanouts.** When a longtime family home in one of the older sections changes hands, the 20-yard handles furniture, boxes, and household debris in a single container.
 - **Mid-size roofing tear-offs.** A typical single-layer asphalt tear-off on a Beltsville home fits comfortably; shingles are dense, so let us know it is a roofing job and we will quote it accordingly.
 
-Neighborhoods here also differ in driveway reality, and that affects placement more than size. Calverton, east of the freeways, is known for smaller ranchers with single-car garages, while Vansville tends toward larger split-levels with two-car setups — so driveway width and grade vary block to block. Either way, the 20-yard's 22-foot footprint fits most of them; we just scout the spot with you first. If your project is genuinely smaller, or genuinely larger, we will tell you straight which size you actually need.
+Neighborhoods here also differ in driveway reality, and that affects placement more than size. Calverton, east of the freeways, is known for smaller ranchers with single-car garages, while Vansville tends toward larger split-levels with two-car setups — so driveway width and grade vary block to block. Either way, the 20-yard's 22-foot footprint fits most of them; we just talk through the spot with you when you call. If your project is genuinely smaller, or genuinely larger, we will tell you straight which size you actually need.
 
 ## Local logistics: placement, permits, and drive time
 

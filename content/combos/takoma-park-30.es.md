@@ -8,7 +8,7 @@ El de 30 yardas es una de las cajas más grandes que manejamos y la que la mayor
 
 La razón para optar por un 30 en vez de un 20 o un 25 es aritmética pura. Cuando estás vaciando una estructura entera o despejando un edificio de varias unidades, un contenedor más pequeño se llena antes de que el trabajo esté a mitad de camino, y una segunda entrega y acarreo cuesta más que subir de tamaño una sola vez. El de 30 yardas es capacidad máxima en un solo contenedor — lo llenas, lo llevamos, terminaste.
 
-Lo único que el de 30 pide a cambio es espacio. Con 22 pies de caja más el camión detrás, necesita un tramo largo y recto para depositarlo y recogerlo limpiamente. En un pueblo tan restringido, ese tramo es lo primero que exploramos — y en Takoma Park, explorarlo importa más que el tamaño de la caja.
+Lo único que el de 30 pide a cambio es espacio. Con 22 pies de caja más el camión detrás, necesita un tramo largo y recto para depositarlo y recogerlo limpiamente. En un pueblo tan restringido, ese tramo es lo primero que preguntamos — y en Takoma Park, importa más que el tamaño de la caja.
 
 ## Qué trabajos de Takoma Park se adaptan al de 30 yardas
 
@@ -25,7 +25,7 @@ Si tu proyecto se acerca más a remodelar una sola habitación, una remoción de
 
 La ubicación es más difícil en Takoma Park que en casi cualquier otro lugar que atendemos, y en un de 30 yardas es lo más difícil de todo. Tres restricciones chocan aquí en un solo lugar, así que dónde se asienta físicamente el contenedor importa más que su tamaño.
 
-**El dosel de árboles.** Takoma Park tiene una de las ordenanzas de protección de árboles más estrictas del condado de Montgomery y es una Tree City USA certificada — los propietarios necesitan un permiso de la ciudad incluso para quitar o podar significativamente un árbol, con multas de hasta $1,000 por infracciones. La recompensa es un dosel denso y maduro de maderas duras con altos tulíperos y grandes árboles de calle, y el detalle son las ramas bajas que sobresalen justo donde una caja de 22 pies y un camión de entrega necesitan espacio. Exploramos el acceso para revisar la altura de las ramas antes de comprometer un camión, porque no estamos en posición de podar para entrar.
+**El dosel de árboles.** Takoma Park tiene una de las ordenanzas de protección de árboles más estrictas del condado de Montgomery y es una Tree City USA certificada — los propietarios necesitan un permiso de la ciudad incluso para quitar o podar significativamente un árbol, con multas de hasta $1,000 por infracciones. La recompensa es un dosel denso y maduro de maderas duras con altos tulíperos y grandes árboles de calle, y el detalle son las ramas bajas que sobresalen justo donde una caja de 22 pies y un camión de entrega necesitan espacio. Preguntamos por la altura de las ramas en el acceso antes de comprometer un camión, porque no estamos en posición de podar para entrar.
 
 **Calles estrechas y empinadas.** La ciudad se asienta sobre la línea de falla del Atlántico Medio y es notablemente empinada, con muchas calles estrechas en cuadrícula dispuestas en ángulos extraños y el Sligo Creek Park, parecido a una garganta, atravesándola. Incluso la calle comercial principal, Carroll Avenue, se reduce a dos carriles dentro de los límites de la ciudad. Las propiedades que dan al valle del arroyo Sligo Creek — que es propenso a inundaciones — a menudo tienen opciones de ubicación más justas, blandas o inclinadas, así que planeamos el lugar y el tramo de acceso con cuidado en esos lotes.
 

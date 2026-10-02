@@ -8,7 +8,7 @@ The 30-yard is one of the largest boxes we run and the one most people know as t
 
 The reason to reach for a 30 over a 20 or a 25 is plain arithmetic. When you are gutting an entire structure or clearing a multi-unit building, a smaller container fills before the job is half done, and a second drop-and-haul costs more than sizing up once. The 30-yard is maximum capacity in a single container — you fill it, we take it, you are done.
 
-The one thing the 30 asks for in return is room. At 22 feet of box plus the truck behind it, it needs a long, straight run-up to set down and pick up cleanly. In a town this constrained, that run-up is the first thing we scout — and in Takoma Park, scouting it matters more than the size of the box.
+The one thing the 30 asks for in return is room. At 22 feet of box plus the truck behind it, it needs a long, straight run-up to set down and pick up cleanly. In a town this constrained, that run-up is the first thing we ask about — and in Takoma Park, it matters more than the size of the box.
 
 ## Which Takoma Park jobs suit the 30-yard
 
@@ -25,7 +25,7 @@ If your project is closer to a single-room remodel, a roof tear-off, or a modest
 
 Placement is harder in Takoma Park than almost anywhere else we serve, and on a 30-yard it is hardest of all. Three constraints collide here in one place, so where the can physically sits matters more than its size.
 
-**The tree canopy.** Takoma Park has one of the toughest tree-protection ordinances in Montgomery County and is a certified Tree City USA — homeowners need a city permit even to remove or significantly prune a tree, with fines up to $1,000 for violations. The payoff is a dense, mature hardwood canopy of tall tulip trees and large street trees, and the catch is low overhanging limbs right where a 22-foot box and a delivery truck need clearance. We scout the approach for branch height before we commit a truck, because we are not in a position to trim our way in.
+**The tree canopy.** Takoma Park has one of the toughest tree-protection ordinances in Montgomery County and is a certified Tree City USA — homeowners need a city permit even to remove or significantly prune a tree, with fines up to $1,000 for violations. The payoff is a dense, mature hardwood canopy of tall tulip trees and large street trees, and the catch is low overhanging limbs right where a 22-foot box and a delivery truck need clearance. We ask about branch height along the approach before we commit a truck, because we are not in a position to trim our way in.
 
 **Narrow, hilly streets.** The city sits on the Mid-Atlantic fall line and is notably hilly, with many narrow, gridded streets set at odd angles and the gorge-like Sligo Creek Park cutting through it. Even the main commercial street, Carroll Avenue, pinches to two lanes within city limits. Properties backing onto the Sligo Creek stream valley — which is flood-prone — often have tighter, soft, or sloped placement options, so we plan the spot and the run-up carefully on those lots.
 

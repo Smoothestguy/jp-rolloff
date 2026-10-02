@@ -26,7 +26,7 @@ Cheverly is a compact town, just over a square mile, and it was deliberately pla
 Three local conditions matter most for a 30-yard:
 
 - **Tree clearance.** The protected oak canopy means low, overhanging limbs over driveways and along narrow curving streets. A tall 30-yard box and the truck's lift arm need vertical room, so we look at clearance before we commit to a spot.
-- **Curving, narrow streets.** Cheverly's winding streets were laid to follow the land rather than a flat grid. A long container needs a straight run-up, so we will scout the approach and pick a placement the truck can reach cleanly.
+- **Curving, narrow streets.** Cheverly's winding streets were laid to follow the land rather than a flat grid. A long container needs a straight run-up, so we will talk through the approach with you when you call and pick a placement the truck can reach cleanly.
 - **Sloped driveways and grade.** With homes set on rolling, contoured lots, driveways here often pitch or change grade. We level the container on delivery so it sits safely and the doors work, which matters more with a heavy, fully loaded 30-yard.
 
 On the paperwork side, the Town of Cheverly keeps it straightforward. A permit is required only if the container sits on the street or public right-of-way; placing it on your own driveway is permit-free. If a street placement is unavoidable, the permit turnaround typically runs 24 to 48 hours, so it is worth giving us a day or two of notice. U.S. Route 50 borders the community and gives our trucks direct highway access, which keeps delivery and pickup tight and predictable.
