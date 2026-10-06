@@ -4,13 +4,13 @@ We are JP Roll-Off Service, a family-owned hauler, and Long Ridge is an easy run
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material — priced by what you are throwing away, so call for a quote (aggregates like concrete, dirt, and brick are accepted only in the 10, 15, and 20-yard sizes). Every rental includes delivery, pickup on request, and a **14-day rental**; additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters. Pickup is on request, so just call to schedule the haul-away when you are ready.
+The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material — priced by what you are throwing away, so call for a quote (aggregates like concrete, dirt, and brick are accepted only in the 10, 15, and 20-yard sizes). Every rental includes delivery, pickup on request, and a **14-day rental**; additional days are available for a daily charge, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters. Pickup is on request, so just call to schedule the haul-away when you are ready.
 
 The four-foot walls are low enough that you can walk debris up and toss it over the side without a ramp, while the full twenty-two-foot length swallows the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for Long Ridge homes: bigger than a quick-cleanup 10 or 15-yard, but short of the 30-yard that mostly makes sense for gut-to-the-studs jobs or full structural demo. It is one of our most versatile sizes — and one customers rarely regret.
 
 ## Why the 20-yard fits Long Ridge specifically
 
-Because Long Ridge was built out entirely with the Country Clubber, the renovation work tends to come in larger, more uniform jobs than you see in Bowie's modest-Rancher sections. The Country Clubber was the premium model — a two-story Colonial that later came in five-bedroom configurations and originally topped out around $24,900 when these homes were new. Sixty years on, those big floor plans generate big debris volumes when owners modernize, and the 20-yard is built precisely for that scale.
+Because Long Ridge was built out entirely with the Country Clubber, the renovation work tends to come in larger, more uniform jobs than you see in Bowie's modest-Rancher sections. The Country Clubber was the premium model — a two-story Colonial that later came in five-bedroom configurations and was the premium model when these homes were new. Sixty years on, those big floor plans generate big debris volumes when owners modernize, and the 20-yard is built precisely for that scale.
 
 Here are the jobs that come up again and again on the L-named streets:
 
@@ -27,7 +27,7 @@ If your project is smaller — a single bath, a garage purge, a few rooms of flo
 
 **The Bowie permit rule.** The City of Bowie requires a right-of-way permit only if the dumpster sits in a city street. Driveways and HOA-approved staging do not. Because Long Ridge's bigger lots and driveways usually let us stage on your own property, a city street permit tends to be the exception here rather than the rule — most projects in the section need no permit at all. If the only workable spot turns out to be the street, that permit runs through the City of Bowie Department of Public Works on Annapolis Road; customers are responsible for determining whether a permit is required and obtaining it before delivery.
 
-**Drive time.** We dispatch every morning by Route 197 or the BW Parkway. Long Ridge sits on the eastern edge of the Levitt development, toward Collington Road, in ZIP 20715 — and we know exactly where those L streets are. Most Long Ridge addresses are scheduled within 24 hours, and an early call may still make a same-day run.
+**Drive time.** We dispatch every morning by Route 197 or the BW Parkway. Long Ridge sits on the eastern edge of the Levitt development, toward Collington Road, in ZIP 20715 — and we know exactly where those L streets are. Most Long Ridge addresses are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

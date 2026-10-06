@@ -1,10 +1,10 @@
 Pointer Ridge is a southern Bowie subdivision off ZIP 20716 where the houses were built mostly in the 1970s and 1980s — ranches, ramblers, and Colonial Revivals sitting on roughly third-of-an-acre lots with mature trees and private driveways. That housing stock is now hitting the 40-to-50-year mark, which is exactly the age when kitchens, baths, roofs, and basements stop getting touched up and start getting gutted. So when a 25-yard roll-off rolls out bound for a "P-street" address — Pointer Ridge Drive, Pointer Ridge Place, Parkington Lane — it is usually headed to something major: a home addition, a whole-house gut, a large roof tear-off, or a commercial cleanout. The 25-yard is one of our larger containers, and in a neighborhood full of detached homes hitting peak renovation age, it earns its keep.
 
-We are JP Roll-Off Service, a family-owned hauler, and Pointer Ridge is an easy run via Route 197 or the BW Parkway. The owners answer the phone — no call center, no runaround — and we have run enough containers into Bowie's "P section" to know how the big jobs here actually unfold.
+We are JP Roll-Off Service, a family-owned hauler, and Pointer Ridge is an easy run via Route 197 or the BW Parkway. The family that runs JP Roll-Off answers the phone — no call center, no runaround — and we have run enough containers into Bowie's "P section" to know how the big jobs here actually unfold.
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 18 ft long by 8 ft wide by 6 ft tall and holds roughly 10.5 pickup-truck loads of debris. Pricing is per material: in Pointer Ridge a 25-yard for construction debris **includes delivery, pickup on request, and a 14-day rental — priced by material, so call for a quote (other materials priced separately)**. Need it longer? Additional days are available on request when you book. Heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters — and when you are ready, call to schedule the pickup.
+The 25-yard is our major-construction size. It measures 18 ft long by 8 ft wide by 6 ft tall and holds roughly 10.5 pickup-truck loads of debris. Pricing is per material: in Pointer Ridge a 25-yard for construction debris **includes delivery, pickup on request, and a 14-day rental — priced by material, so call for a quote (other materials priced separately)**. Need it longer? Additional days are available for a daily charge. Heavy materials such as shingles are quoted separately because weight matters, and aggregates such as concrete, dirt, and brick go only in a designated 10-, 15-, or 20-yard container — and when you are ready, call to schedule the pickup.
 
 The jump from a 20-yard is real volume, not just a couple of extra feet of steel. That capacity is what keeps one container on site through a project that would otherwise force a second haul partway through — a whole-house remodel, a substantial addition, a big roof, or a full cleanout. The six-foot walls give meaningfully more room than the mid-size containers offer, so one drop carries a major job from start to finish.
 
@@ -12,7 +12,7 @@ One piece of advice we give every customer on this size: **measure twice before 
 
 ## Which Pointer Ridge jobs suit the 25-yard
 
-The neighborhood's housing stock is the whole story here. These are 1970s and 1980s ranches, ramblers, and Colonials, many of them in the $400,000-to-$600,000 range, now four and five decades old. A house at that age is overdue for the kind of work that fills a big box, and that is what drives demand for a container this size. These are the jobs the 25-yard is built for:
+The neighborhood's housing stock is the whole story here. These are 1970s and 1980s ranches, ramblers, and Colonials, now four and five decades old. A house at that age is overdue for the kind of work that fills a big box, and that is what drives demand for a container this size. These are the jobs the 25-yard is built for:
 
 - **Home additions.** Bumping out a rambler or adding onto a Colonial Revival throws off framing lumber, old siding, and tear-out debris in the volume a 25-yard is meant to hold — more than a smaller box can take without a mid-project swap.
 - **Whole-house remodels.** A full gut of a 40-to-50-year-old Pointer Ridge home — kitchen, baths, flooring, and drywall all coming out at once — is a textbook 25-yard job. When a Levitt-era house gets modernized down to the studs, the debris adds up fast, and one large container beats two trips.
@@ -31,7 +31,7 @@ If your Pointer Ridge project is on the smaller side — a single-room redo, a b
 
 **A word on the school.** Pointer Ridge Elementary sits right inside the neighborhood at 1110 Parkington Lane, within walking distance of many homes. If your project is nearby, we will set the container to keep sidewalks and the school walking route clear for the kids.
 
-**Drive time.** Pointer Ridge is an easy run via Route 197 or the BW Parkway. We dispatch every morning, and most addresses here are scheduled within 24 hours — an early call may still make a same-day run — so when you are running a build on a deadline, the container shows up when the crew needs it.
+**Drive time.** Pointer Ridge is an easy run via Route 197 or the BW Parkway. We dispatch every morning, and most addresses here are scheduled for next-day delivery when you order by 12 PM — an early call may still make a same-day run — so when you are running a build on a deadline, you can line the container up with the crew's start date.
 
 ## Talk to the family that runs the trucks
 

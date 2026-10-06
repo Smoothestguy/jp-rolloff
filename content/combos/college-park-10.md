@@ -6,7 +6,7 @@ The 10-yard is best known as the "garage cleanout" size for a reason: its low 4-
 
 Think of it in pickup-truck terms — about three full loads. That is the right capacity for a single room or a focused project, and it handles the typical mix of household junk, furniture, and light renovation debris. Heavier loads like concrete, brick, or wet plaster are quoted separately because weight matters, so if your project is mostly dense material, give us a quick call and we will tell you straight whether 10 yards is enough or whether you would be better off with a bigger box.
 
-Pricing is per material, so the 10-yard is **priced by what you are throwing away — call for a quote** (construction debris and other materials are quoted separately). Every rental includes delivery, pickup on request, and a 14-day rental. Extra time is available on request when you book, and dense, heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request, so you just give us a call to schedule the haul once you are loaded.
+Pricing is per material, so the 10-yard is **priced by what you are throwing away — call for a quote** (construction debris and other materials are quoted separately). Every rental includes delivery, pickup on request, and a 14-day rental. Extra days are available for a daily charge, and dense, heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request, so you just give us a call to schedule the haul once you are loaded.
 
 ## Which College Park jobs suit this size
 
@@ -29,6 +29,6 @@ As for getting to you: a College Park delivery is a quick run straight down Rout
 
 ## Why call JP Roll-Off
 
-We are a family-owned operation, which means when you call, one of the owners picks up — no call center, no script, no being passed around. We will help you figure out whether the 10-yard is genuinely the right size for your garage, bathroom, yard, or estate project, or whether a different box would save you money or a second haul.
+We are a family-owned operation, which means when you call, the family that runs JP Roll-Off picks up — no call center, no script, no being passed around. We will help you figure out whether the 10-yard is genuinely the right size for your garage, bathroom, yard, or estate project, or whether a different box would save you money or a second haul.
 
 If you are clearing a garage in Hollywood, gutting a bathroom in Berwyn, hauling brush off an Old Town lot, or downsizing a family home near the campus corridor, the 10-yard is usually where the conversation starts. Call us at **(301) 252-3586** and we will get a container down Route 1 and into your driveway — your rental includes delivery, pickup, and a 14-day rental, with heavy materials quoted separately and pickup scheduled whenever you call.

@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler, and Grovehurst is an easy run
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material, and a typical Grovehurst rental **is quoted by material for construction debris (other materials priced separately), so call for a quote on your load** — that includes delivery, pickup on request, and a 14-day rental. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters.
+The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material, and a typical Grovehurst rental **is quoted by material for construction debris (other materials priced separately), so call for a quote on your load** — that includes delivery, pickup on request, and a 14-day rental. Additional days are available for a daily charge, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters.
 
 Those four feet of wall height matter more than people expect. The walls are low enough that you can still walk debris up and toss it over the side, but the box is long enough to swallow the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for these homes: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that really only makes sense for ground-up construction or full structural demo. It has earned its nickname — the "whole-house cleanout" size — and it is one of our most versatile sizes, and one customers rarely regret.
 
@@ -23,15 +23,15 @@ If your project is smaller — a single bathroom, a closet purge, a few rooms of
 
 ## Placement, permits, and the easy part of Grovehurst
 
-**Here is the good news: placement in Grovehurst is rarely a headache.** Unlike Bowie's older Belair sections — the dense 1960s and '70s Levitt-built blocks with narrow lots and shared frontage — Grovehurst was laid out in the 1990s on quarter- to half-acre lots with wide private driveways and real side-yard room. A 20-yard needs about 22 feet of straight length plus a few feet of clearance and an open swing for the rear door, and most homes here on streets like Danbury Drive and Dartford Lane have driveway space to stage it entirely on private property, with room to spare in a two-car drive.
+**Here is the good news: placement in Grovehurst is rarely a headache.** Unlike Bowie's older Belair sections — the dense 1960s and '70s Levitt-built blocks with narrow lots and shared frontage — Grovehurst was laid out in the 1990s on quarter- to half-acre lots with wide private driveways and real side-yard room. A 20-yard needs about 22 feet of straight length plus a few feet of clearance and an open swing for the rear door (the truck itself needs roughly 44 feet of straight-line access to set it; smaller trucks are available for tight spots), and most homes here on streets like Danbury Drive and Dartford Lane have driveway space to stage it entirely on private property, with room to spare in a two-car drive.
 
 **That means you almost never need a city permit.** The City of Bowie requires a right-of-way permit only if the dumpster sits in a city street — driveways and HOA-approved private staging do not. Because Grovehurst homes have the room to keep the container on the driveway, a street permit through Bowie's Public Works Department typically never enters the picture. In the rare case the only workable spot is the street itself, customers are responsible for determining whether a City of Bowie permit is required and obtaining it before delivery.
 
-**A quick word on the HOA.** Grovehurst has an active homeowners association (the Grovehurst Homeowners Association at bowiegrovehursthoa.org) that maintains common areas and sets community standards, with dues reported at roughly $27 a month. For a driveway drop you generally will not need anything special, but if your staging spot edges toward a shared area, it is worth a quick check with the association. We are happy to provide a service confirmation you can forward along, and we will set the box exactly where you want it so it stays clear of common space and your neighbors.
+**A quick word on the HOA.** Grovehurst has an active homeowners association (the Grovehurst Homeowners Association at bowiegrovehursthoa.org) that maintains common areas and sets community standards, with a modest monthly fee. For a driveway drop you generally will not need anything special, but if your staging spot edges toward a shared area, it is worth a quick check with the association. We will set the box exactly where you want it so it stays clear of common space and your neighbors.
 
 **Getting the truck in.** Grovehurst's interior streets are quiet residential roads, not arterials, so we route in carefully and place the container precisely rather than improvise on arrival. Tell us where you picture it sitting when you call and we will confirm the spot works before we roll.
 
-**Drive time.** We dispatch every morning. Most Grovehurst addresses are scheduled inside 24 hours, and an early call may still make a same-day run.
+**Drive time.** We dispatch every morning. Most Grovehurst addresses are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

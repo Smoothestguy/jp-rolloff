@@ -1,6 +1,6 @@
-When a Laurel project moves past "weekend cleanout" and into real construction territory, the 25-yard roll-off is usually the right call. It's a tall, high-capacity container — 18 feet long, 8 feet wide, and 6 feet tall — and it swallows roughly 10.5 pickup-truck loads of debris before it's full. We're JP Roll-Off Service, a family-owned hauler, and Laurel is a straight shot up Route 1 for us. When you call, one of the owners picks up. No call center, no phone tree, no being passed around.
+When a Laurel project moves past "weekend cleanout" and into real construction territory, the 25-yard roll-off is usually the right call. It's a tall, high-capacity container — 18 feet long, 8 feet wide, and 6 feet tall — and it swallows roughly 10.5 pickup-truck loads of debris before it's full. We're JP Roll-Off Service, a family-owned hauler, and Laurel is a straight shot up Route 1 for us. When you call, the family that runs JP Roll-Off picks up. No call center, no phone tree, no being passed around.
 
-This is the size most contractors mean when they say they need a "major construction" dumpster. Pricing is per material, so call us for a quote on your specific load. The price includes delivery, pickup on request, and a 14-day rental. Additional days are available on request when you book, and heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request, so just call us when you're ready and we'll schedule it.
+This is the size most contractors mean when they say they need a "major construction" dumpster. Pricing is per material, so call us for a quote on your specific load. The price includes delivery, pickup on request, and a 14-day rental. Additional days are available for a daily charge, and heavy materials such as shingles are quoted separately because weight matters, and aggregates such as concrete, dirt, and brick go only in a designated 10-, 15-, or 20-yard container. Pickup is on request, so just call us when you're ready and we'll schedule it.
 
 ## What fits in a 25-yard dumpster
 
@@ -11,7 +11,7 @@ The 25-yard is built for volume. At 6 feet tall it carries a lot of material, so
 - **Large roofing jobs** — multiple layers of shingles add up fast, though roofing is heavy, so keep an eye on the weight line as you load.
 - **Commercial cleanouts** — office, retail, or property turnovers where you're clearing furniture, fixtures, and built-ins in bulk.
 
-A quick word on weight: the 25-yard's volume is generous, but weight is what governs heavy material, and it is quoted separately. Shingles, plaster, tile, and wet debris get heavy long before the box looks full, and heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. If your job is mostly heavy demo rather than bulky light material, mention it on the phone and we'll talk through whether a different size or a swap-out makes more sense. With a container this big, it's worth measuring your space twice before booking — make sure you have a clear, level 18-foot run for placement.
+A quick word on weight: the 25-yard's volume is generous, but weight is what governs heavy material, and it is quoted separately. Shingles, plaster, tile, and wet debris get heavy long before the box looks full, and heavy materials such as shingles are quoted separately because weight matters, and aggregates such as concrete, dirt, and brick go only in a designated 10-, 15-, or 20-yard container. If your job is mostly heavy demo rather than bulky light material, mention it on the phone and we'll talk through whether a different size or a swap-out makes more sense. With a container this big, it's worth measuring your space twice before booking — make sure you have a clear, level 18-foot run for placement.
 
 ## Which Laurel jobs suit this size
 
@@ -33,7 +33,7 @@ The good news: in all four jurisdictions, putting the container on your own **dr
 
 If the dumpster has to go in the public right-of-way — the street, a sidewalk, or an alley — then the rules diverge:
 
-- **City of Laurel** addresses need a Right-of-Way Permit from the Department of Public Works. It reportedly runs about $25 per week and requires proof of liability insurance and a site plan, though you'll want to confirm the current fee and requirements directly with DPW.
+- **City of Laurel** addresses need a Right-of-Way Permit from the Department of Public Works. It carries a weekly fee and requires proof of liability insurance and a site plan, though you'll want to confirm the current fee and requirements directly with DPW.
 - **Prince George's County** handles site/road occupancy through DPIE.
 - **Howard County** goes through its Department of Inspections, Licenses and Permits.
 - **Anne Arundel County** has its own separate process.

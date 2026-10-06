@@ -4,7 +4,7 @@ Foxhill is the "F-section" of Belair at Bowie — one of the earliest neighborho
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard measures 12 ft long by 8 ft wide by 4 ft tall. It holds about three pickup-truck loads of debris. Pricing is per material: in Foxhill a 10-yard **includes delivery, pickup on request, and a 14-day rental — priced by material, so call for a quote** — extra days are available on request when you book, and dense, heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
+The 10-yard measures 12 ft long by 8 ft wide by 4 ft tall. It holds about three pickup-truck loads of debris. Pricing is per material: in Foxhill a 10-yard **includes delivery, pickup on request, and a 14-day rental — priced by material, so call for a quote** — extra days are available for a daily charge, and dense, heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
 
 The low 4-foot walls are the quiet advantage on a small job. You can walk right up to the side and drop debris in without a ramp or an overhead heave, which matters when you are loading the dense, heavy material an early-1960s Levitt house tends to give up — old ceramic tile, plaster, a cast-iron tub, sod and dirt. The 10-yard is matched to that kind of focused work: one room, one corner, one weekend. And because the footprint is the smallest we offer — it fits a single car spot — it tucks onto a Foxhill driveway without swallowing the whole thing. If your project turns out bigger than one room, we will steer you to a 15 or a 20 instead. But for the four jobs below, the 10 is the right pick.
 
@@ -12,7 +12,7 @@ The low 4-foot walls are the quiet advantage on a small job. You can walk right 
 
 This is the size people call the "garage cleanout" container, and on these original Levitt lots that is the call we field most. The four jobs that land squarely in a 10-yard around Foxhill:
 
-- **Garage cleanouts.** Sixty years in the same Foxhill home adds up to a garage full of old paint cans, warped lumber, broken tools, and boxes. A single bay empties into a 10-yard about right, without paying for space you will not use — the classic one-bay clear-out.
+- **Garage cleanouts.** Sixty years in the same Foxhill home adds up to a garage full of old bikes, warped lumber, broken tools, and boxes. A single bay empties into a 10-yard about right, without paying for space you will not use — the classic one-bay clear-out.
 - **Bathroom remodels.** A single-bath gut in one of these early-1960s models — original tile, the tub, the vanity, drywall, and subfloor — is the textbook 10-yard job. The dense tile and plaster from one bathroom fit comfortably for a house this size — just mention the heavy material when you call, since it is quoted separately.
 - **Yard waste and trees.** Six decades of growth means mature trees and overgrown beds on plenty of these F-street lots. Brush, branches, sod, and a removed tree or two load neatly over the low walls, and the box is sized for a single yard's worth of green, heavy debris.
 - **Estate downsize.** When a long-held Foxhill home changes hands — and on one of Belair's earliest sections, plenty of original owners are turning over now — a 10-yard handles the furniture, household goods, and accumulated clutter of a measured downsize, emptying a home a room at a time rather than in one full gut.
@@ -21,13 +21,13 @@ If you are taking on a whole-house interior gut, a kitchen tear-out, or a roof o
 
 ## Local logistics: placement, permits, and drive time
 
-**Driveway placement is the default in Foxhill, and the lots make it easy.** Belair lots were standardized at roughly 8,400 square feet — about a fifth of an acre — to keep pricing fair across the development, and they came with private driveways. Those modest, uniform lots are exactly why a 10-yard on the driveway is the realistic fit for most Foxhill jobs: the single-car-spot footprint tucks onto the drive without blocking the second car or the walk. A 10-yard needs about 12 feet of straight length plus a little clearance and a clear swing for the rear door. Roll-off dumpsters and delivery trucks are heavy and may damage some surfaces, so protecting the driveway or placement area before delivery is the customer's responsibility. If you're unsure about placement, call our office before scheduling.
+**Driveway placement is the default in Foxhill, and the lots make it easy.** Belair lots were standardized at roughly 8,400 square feet — about a fifth of an acre — to keep pricing fair across the development, and they came with private driveways. Those modest, uniform lots are exactly why a 10-yard on the driveway is the realistic fit for most Foxhill jobs: the single-car-spot footprint tucks onto the drive without blocking the second car or the walk. A 10-yard needs about 12 feet of straight length plus a little clearance and a clear swing for the rear door (the truck itself needs roughly 44 feet of straight-line access to set it; smaller trucks are available for tight spots). Roll-off dumpsters and delivery trucks are heavy and may damage some surfaces, so protecting the driveway or placement area before delivery is the customer's responsibility. If you're unsure about placement, call our office before scheduling.
 
 **Finding the door is easy on the F-streets.** Belair was platted so that every street in a section starts with the section's letter — in Foxhill they all begin with "F," like Foxhill Lane — and that is still the primary way locals pin down where they are in the section. Give us the address and our driver knows he is hunting an F-street near Foxhill Park and the historic Belair Mansion, which keeps the morning drop quick and predictable.
 
 **The City of Bowie permit rule.** Foxhill sits inside the City of Bowie, and the city only requires a right-of-way permit when a dumpster has to sit in a city street. A container placed entirely on your private driveway or on HOA-approved staging does **not** require the permit. With driveway placement the norm on these standardized lots, most Foxhill jobs never trigger it. Customers are responsible for determining whether a City of Bowie permit is required and obtaining it before delivery.
 
-**Drive time.** Foxhill is an easy run up Route 197 or the BW Parkway. We dispatch every morning, so most addresses here are scheduled within 24 hours, and an early call may still make a same-day drop.
+**Drive time.** Foxhill is an easy run up Route 197 or the BW Parkway. We dispatch every morning, so most addresses here are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day drop.
 
 ## Talk to the family that runs the trucks
 

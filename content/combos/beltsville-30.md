@@ -1,12 +1,12 @@
 When someone in Beltsville needs one of the biggest containers we run, it is usually because the job is too big for a smaller bin to make sense. The 30-yard roll-off is the commercial and demo size — the one you reach for when a single haul is the whole point, and a 20-yard would just mean ordering a second one. Around Beltsville that comes up more than in most towns, because this is not a typical bedroom suburb. It is the seat of the 6,500-acre USDA Beltsville Agricultural Research Center — the world's largest agricultural research campus — wrapped in a dense I-95 and Route 1 warehouse-and-distribution corridor, with aging mid-century homes filling in around it. So the work that fills a 30-yard here splits two ways: heavy commercial and industrial projects out of the Beltsville Industrial Park and Konterra, and big residential teardowns and cleanouts on the older streets.
 
-We are JP Roll-Off Service, a family-owned hauler, and Beltsville is a regular morning run for us. When you call, you reach the owners, not a call center.
+We are JP Roll-Off Service, a family-owned hauler, and Beltsville is a regular morning run for us. When you call, you reach the family that runs JP Roll-Off, not a call center.
 
 ## What fits in a 30-yard dumpster
 
-The 30-yard measures 22 ft long by 8 ft wide by 6 ft tall and holds roughly fourteen pickup-truck loads of debris. In Beltsville a 30-yard **includes delivery, pickup on request, and a 14-day rental — priced by material, so call for a quote**. Additional days are available on request when you book, heavy material such as concrete, dirt, brick and shingles is quoted separately because weight matters, and pickup is on request — just call to schedule.
+The 30-yard measures 22 ft long by 8 ft wide by 6 ft tall and holds roughly fourteen pickup-truck loads of debris. In Beltsville a 30-yard **includes delivery, pickup on request, and a 14-day rental — priced by material, so call for a quote**. Additional days are available for a daily charge, heavy material such as shingles is quoted separately because weight matters, and aggregates such as concrete, dirt, and brick go only in a designated 10-, 15-, or 20-yard container, and pickup is on request — just call to schedule.
 
-That extra foot of wall height over the mid-size bins, stretched across 22 feet of length, is what makes this a maximum-capacity option. It is built for volume, not for tossing a few bags over the side. The trade-off is footprint: a 30-yard needs a long, straight run-up to set down level, plus clearance for the truck to position and lift it. On the right site that is no issue. On a tight lot or a short driveway, it is the first thing we check, and sometimes the reason we will steer you to a 25-yard instead.
+Those extra two feet of wall height over the 20-yard, stretched across 22 feet of length, are what make this a high-capacity option. It is built for volume, not for tossing a few bags over the side. The trade-off is footprint: a 30-yard needs a long, straight run-up to set down level, plus clearance for the truck to position and lift it. On the right site that is no issue. On a tight lot or a short driveway, it is the first thing we check, and sometimes the reason we will steer you to a 25-yard instead.
 
 ## Which Beltsville jobs suit the 30-yard
 
@@ -25,7 +25,7 @@ Beltsville's housing stock leans toward older-but-modest homes — postwar Cape 
 
 **The permit rule.** Beltsville is unincorporated, so permitting falls under Prince George's County. A container that sits entirely on private property — your driveway, lot, or a commercial yard — does **not** need a permit. A permit is only required when the container has to occupy the public right-of-way, meaning the county street, in which case you need a Prince George's County Use & Occupancy permit. Given how many Beltsville addresses front state through-roads, keeping the 30-yard on private ground is usually both the easier and the cheaper option. Customers are responsible for determining whether a Prince George's County permit is required and obtaining it before delivery.
 
-**Drive time.** Beltsville is one of our regular morning runs. Most Beltsville jobs are scheduled within 24 hours, and an early call may still make a same-day run.
+**Drive time.** Beltsville is one of our regular morning runs. Most Beltsville jobs are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

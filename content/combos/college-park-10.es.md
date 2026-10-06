@@ -6,7 +6,7 @@ El de 10 yardas es conocido como el tamaño "para limpiar la cochera" por una ra
 
 Piénsalo en términos de camioneta — unas tres cargas completas. Esa es la capacidad ideal para una sola habitación o un proyecto puntual, y maneja la mezcla típica de basura del hogar, muebles y escombros ligeros de remodelación. Las cargas más pesadas como concreto, ladrillo o yeso húmedo se cotizan por separado porque el peso importa, así que si tu proyecto es en su mayoría material denso, danos una llamada rápida y te diremos con franqueza si 10 yardas alcanzan o si te conviene más una caja más grande.
 
-Los precios son por material, así que el de 10 yardas se **cotiza según lo que vayas a tirar — llámanos por una cotización** (los escombros de construcción y otros materiales se cotizan por separado). Cada renta incluye entrega, recogida a solicitud y un periodo de renta de 14 días. El tiempo adicional está disponible a solicitud cuando reservas, y los materiales densos y pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa. La recogida es a solicitud, así que solo nos llamas para programar el acarreo una vez que termines de cargar.
+Los precios son por material, así que el de 10 yardas se **cotiza según lo que vayas a tirar — llámanos por una cotización** (los escombros de construcción y otros materiales se cotizan por separado). Cada renta incluye entrega, recogida a solicitud y un periodo de renta de 14 días. Los días adicionales están disponibles por un cargo diario, y los materiales densos y pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa. La recogida es a solicitud, así que solo nos llamas para programar el acarreo una vez que termines de cargar.
 
 ## Qué trabajos de College Park van bien con este tamaño
 
@@ -29,6 +29,6 @@ En cuanto a llegar hasta ti: una entrega en College Park es un viaje rápido dir
 
 ## Por qué llamar a JP Roll-Off
 
-Somos una operación familiar, lo que significa que cuando llamas, contesta uno de los dueños — sin centro de llamadas, sin guion, sin que te pasen de un lado a otro. Te ayudamos a averiguar si el de 10 yardas es de verdad el tamaño correcto para tu cochera, baño, jardín o proyecto de patrimonio, o si una caja diferente te ahorraría dinero o un segundo acarreo.
+Somos una operación familiar, lo que significa que cuando llamas, contesta la familia que opera JP Roll-Off — sin centro de llamadas, sin guion, sin que te pasen de un lado a otro. Te ayudamos a averiguar si el de 10 yardas es de verdad el tamaño correcto para tu cochera, baño, jardín o proyecto de patrimonio, o si una caja diferente te ahorraría dinero o un segundo acarreo.
 
 Si estás despejando una cochera en Hollywood, demoliendo un baño en Berwyn, acarreando maleza de un lote de Old Town, o reduciendo una casa familiar cerca del corredor del campus, el de 10 yardas suele ser donde empieza la conversación. Llámanos al **(301) 252-3586** y bajaremos un contenedor por la Route 1 hasta tu parqueo — tu renta incluye entrega, recogida y un periodo de renta de 14 días, con los materiales pesados cotizados por separado y la recogida programada cuando nos llames.

@@ -1,12 +1,12 @@
-When a Greenbelt project is the size of one room, one garage, or one weekend, the 10-yard roll-off is the container that fits it without renting more steel than you'll ever fill. At roughly 12 feet long, 8 feet wide, and 4 feet tall, it swallows about three pickup-truck loads. It's our smallest footprint, which is exactly why it's the one Greenbelt homeowners reach for most: it tucks into a single car spot, slides onto a driveway apron, and handles a focused cleanout without you paying for empty air. We're JP Roll-Off Service, a family-owned hauler, and when you call, one of the owners picks up the phone.
+When a Greenbelt project is the size of one room, one garage, or one weekend, the 10-yard roll-off is the container that fits it without renting more steel than you'll ever fill. At roughly 12 feet long, 8 feet wide, and 4 feet tall, it swallows about three pickup-truck loads. It's our smallest footprint, which is exactly why it's the one Greenbelt homeowners reach for most: it tucks into a single car spot, slides onto a driveway apron, and handles a focused cleanout without you paying for empty air. We're JP Roll-Off Service, a family-owned hauler, and when you call, the family that runs JP Roll-Off picks up the phone.
 
 ## What fits in a 10-yard container
 
-Think of the 10-yard as the "garage cleanout" size. Three truckloads of debris is the honest mental picture, and the box is built for dense-but-modest jobs rather than heavy demolition. Pricing is per material — priced by what you're throwing away, so call for a quote. Every 10-yard includes delivery, pickup on request, and a 14-day rental. Extra days are available on request when you book, and dense, heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request — just call to schedule it.
+Think of the 10-yard as the "garage cleanout" size. Three truckloads of debris is the honest mental picture, and the box is built for dense-but-modest jobs rather than heavy demolition. Pricing is per material — priced by what you're throwing away, so call for a quote. Every 10-yard includes delivery, pickup on request, and a 14-day rental. Extra days are available for a daily charge, and dense, heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request — just call to schedule it.
 
 It earns its keep on jobs like these:
 
-- **Garage cleanout** — years of boxes, broken furniture, old paint shelving, and the stuff that migrated to the garage and never left.
+- **Garage cleanout** — years of boxes, broken furniture, old shelving, and the stuff that migrated to the garage and never left.
 - **Bathroom remodel** — a single-bathroom gut: old vanity, tub, tile, drywall, and fixtures.
 - **Yard waste and trees** — branches, brush, and storm cleanup from a typical Greenbelt lot.
 - **Estate downsize** — clearing a parent's or relative's home one room at a time when you're sorting more than you're tossing.
@@ -31,8 +31,8 @@ A quick note on addresses, since Greenbelt's ZIP codes trip people up. **20770**
 
 ## Drive time and dispatch
 
-One of the simplest advantages of working with us is distance. We dispatch every morning, and Greenbelt is an easy run just outside the Beltway, so your dumpster's not far behind. That short haul means tighter delivery windows and an easier time coordinating around a GHI court lot, an HOA staging spot, or a narrow Greenbelt Station driveway. Whether your project sits in Old Greenbelt, Greenbelt East, Greenbriar, Hunting Ridge, or out toward the Goddard and Capital Office Park corridor, you're an easy run for us.
+One of the simplest advantages of working with us is distance. We dispatch every morning, and Greenbelt is an easy run just outside the Beltway, so your dumpster's not far behind. That short haul means simpler scheduling and an easier time coordinating around a GHI court lot, an HOA staging spot, or a narrow Greenbelt Station driveway. Whether your project sits in Old Greenbelt, Greenbelt East, Greenbriar, Hunting Ridge, or out toward the Goddard and Capital Office Park corridor, you're an easy run for us.
 
 ## Ready when you are
 
-If you've got a garage to clear, a bathroom to redo, a yard full of brush, or a home to downsize, the 10-yard roll-off is almost certainly the right size — and we'll tell you honestly if it isn't. As a family-owned business, we'd rather get you the container that fits than upsell you into steel you won't fill. Call us at **(301) 252-3586** and one of the owners will help you sort out placement and timing for your Greenbelt job. No call center, no runaround — just a quick conversation and a dumpster on its way.
+If you've got a garage to clear, a bathroom to redo, a yard full of brush, or a home to downsize, the 10-yard roll-off is almost certainly the right size — and we'll tell you honestly if it isn't. As a family-owned business, we'd rather get you the container that fits than upsell you into steel you won't fill. Call us at **(301) 252-3586** and the family that runs JP Roll-Off will help you sort out placement and timing for your Greenbelt job. No call center, no runaround — just a quick conversation and a dumpster on its way.

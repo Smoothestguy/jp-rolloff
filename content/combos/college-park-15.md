@@ -2,7 +2,7 @@ When a single-room project outgrows a 10-yard box but doesn't quite need a 20, t
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures roughly 16 feet long, 8 feet wide, and 4 feet tall, and holds about seven pickup-truck loads of debris. Pricing is per material: a 15-yard is priced by what you're hauling, so call for a quote (construction debris and other materials are quoted separately). Every rental includes delivery, pickup, and a 14-day rental. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request — just call us to schedule when you're ready.
+The 15-yard measures roughly 16 feet long, 8 feet wide, and 4 feet tall, and holds about seven pickup-truck loads of debris. Pricing is per material: a 15-yard is priced by what you're hauling, so call for a quote (construction debris and other materials are quoted separately). Every rental includes delivery, pickup, and a 14-day rental. Additional days are available for a daily charge, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request — just call us to schedule when you're ready.
 
 Those four-foot walls matter more than people expect. They're low enough that you can walk a wheelbarrow up a ramp or pitch shingles over the side without an exhausting lift, but the footprint still holds enough volume for a genuine remodel's worth of waste. It's the in-between size: bigger than a 10, but still driveway-friendly for most homes, which is exactly why it's the one we recommend when someone isn't sure whether to size up.
 
@@ -25,10 +25,10 @@ Here's where College Park gets specific. Old Town was platted in deep, narrow lo
 
 Closer to campus and up in North College Park, plenty of homes have little or no driveway and rely on permit-only street parking. When a driveway truly can't take a box, street placement becomes the practical option — and the City of College Park requires a right-of-way permit for any roll-off set in the street, issued through Public Works. Driveways and private lots are generally permit-free, though we'd suggest confirming current City rules before placement, since municipal code on residential dumpsters does change. We can talk you through which situation you're in before we ever load the truck.
 
-As for getting it to you: reaching College Park is a quick run straight down Route 1. That short hop means we can often be flexible on timing and quick to swing back for the pickup — one of the upsides of hiring a local family operation instead of a regional dispatcher.
+As for getting it to you: reaching College Park is a quick run straight down Route 1. That short hop keeps delivery and pickup straightforward to schedule — one of the upsides of hiring a local family operation instead of a regional dispatcher.
 
 ## Why neighbors call us
 
-We're family-owned, and when you call, one of the owners actually answers — no call center, no phone tree, no reading your address off to someone three states away. You get a straight answer on pricing, sizing, and placement from the people who'll be running the truck. If you're weighing whether the 15 is right for your kitchen, roof, bathrooms, or cleanout, just ask; we'd rather size you correctly the first time than have you pay for air or run out of room.
+We're family-owned, and when you call, the family that runs JP Roll-Off answers the phone — no call center, no phone tree, no reading your address off to someone three states away. You get a straight answer on pricing, sizing, and placement from the people who'll be running the truck. If you're weighing whether the 15 is right for your kitchen, roof, bathrooms, or cleanout, just ask; we'd rather size you correctly the first time than have you pay for air or run out of room.
 
 Ready to book a 15-yard roll-off in College Park, or want a second opinion on size? Call us at (301) 252-3586 and we'll get you squared away.

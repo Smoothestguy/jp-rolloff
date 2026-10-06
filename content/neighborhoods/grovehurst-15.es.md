@@ -4,7 +4,7 @@ Somos JP Roll-Off Service, una empresa familiar, y Grovehurst es un trayecto fá
 
 ## Por qué el de 15 yardas encaja en una colonial de Grovehurst
 
-El de 15 yardas mide 16 pies de largo por 8 pies de ancho por 4 pies de alto y tiene capacidad para unas siete cargas de camioneta de escombros. El precio es por material — los escombros de construcción en el de 15 yardas **se cotizan aparte de otros materiales, así que llámanos para una cotización de tu carga**. Cada renta incluye la entrega, la recogida a solicitud y un periodo de renta de 14 días incluido. Los días adicionales están disponibles a solicitud cuando reservas, y los materiales densos o pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa.
+El de 15 yardas mide 16 pies de largo por 8 pies de ancho por 4 pies de alto y tiene capacidad para unas siete cargas de camioneta de escombros. El precio es por material — los escombros de construcción en el de 15 yardas **se cotizan aparte de otros materiales, así que llámanos para una cotización de tu carga**. Cada renta incluye la entrega, la recogida a solicitud y un periodo de renta de 14 días incluido. Los días adicionales están disponibles por un cargo diario, y los materiales densos o pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa.
 
 Le decimos a este la talla de "remodelación de una sola habitación", y se gana ese nombre en una casa como las de aquí. El de 15 es el tamaño intermedio — más grande que la limpieza rápida de un de 10 yardas, pero aún suficientemente corto y bajo para seguir siendo amigable con el parqueo. En Grovehurst, donde los parqueos son amplios y los lotes van de un cuarto a media acre, ese perfil bajo de 4 pies es fácil de acomodar sobre el asfalto o en un patio lateral sin saturar la casa, el garaje o la línea de árboles al fondo del lote.
 
@@ -31,7 +31,7 @@ Como estas casas salieron de una construcción ajustada de los años noventa y c
 
 **La regla de permisos de Bowie.** El Departamento de Obras Públicas de la Ciudad de Bowie maneja los permisos para trabajos dentro de los derechos de paso mantenidos por la ciudad, y se requiere un permiso solo cuando un contenedor se coloca en una calle de la ciudad. Los parqueos y la colocación aprobada por la HOA no necesitan uno. En Grovehurst, con los parqueos que tienen estas casas, el contenedor casi siempre se queda en tu propiedad — pero si tu única opción realmente lo pone en una calle de la ciudad, esa colocación requiere un permiso de derecho de paso de la Ciudad de Bowie; los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega.
 
-**Tiempo de viaje.** Despachamos cada mañana por la Route 197 o la BW Parkway. La mayoría de las direcciones de Grovehurst se programan dentro de 24 horas, y una llamada temprana puede aún lograr una entrega el mismo día.
+**Tiempo de viaje.** Despachamos cada mañana por la Route 197 o la BW Parkway. La mayoría de las direcciones de Grovehurst se programan para entrega al día siguiente si ordenas antes de las 12 PM, y una llamada temprana puede aún lograr una entrega el mismo día.
 
 ## Habla con la familia que maneja los camiones
 

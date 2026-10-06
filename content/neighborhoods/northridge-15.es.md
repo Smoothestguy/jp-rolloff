@@ -4,7 +4,7 @@ Somos JP Roll-Off Service, una empresa familiar de transporte, y Northridge es u
 
 ## Por qué el de 15 yardas encaja en una casa de Northridge
 
-El de 15 yardas mide 16 pies de largo por 8 pies de ancho por 4 pies de alto y equivale a unas siete cargas de camioneta de escombros. El precio es por material — una renta típica en Northridge se **cotiza según lo que estés desechando, así que llama para pedir tu cotización**, y ese precio incluye entrega, recogida a solicitud y una renta de 14 días. Los días adicionales están disponibles a solicitud cuando reservas, y los materiales densos o pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa.
+El de 15 yardas mide 16 pies de largo por 8 pies de ancho por 4 pies de alto y equivale a unas siete cargas de camioneta de escombros. El precio es por material — una renta típica en Northridge se **cotiza según lo que estés desechando, así que llama para pedir tu cotización**, y ese precio incluye entrega, recogida a solicitud y una renta de 14 días. Los días adicionales están disponibles por un cargo diario, y los materiales densos o pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa.
 
 Le decimos a este el tamaño de "remodelación de una habitación", y es el tamaño intermedio — más grande que la limpieza rápida de un 10 yardas, pero todavía suficientemente corto y bajo para seguir siendo amigable con el parqueo. Eso importa en Northridge de una manera específica. Como son casas de los años noventa en adelante en terrenos de subdivisión con garajes adosados y parqueos amplios, casi siempre tienes tu propio espacio pavimentado para colocar el contenedor. La huella de 16 pies se acomoda con comodidad en un parqueo de Northridge con espacio de sobra, que es exactamente por lo que la mayoría de las colocaciones aquí nunca necesitan tocar la calle.
 
@@ -12,7 +12,7 @@ Así que el 15 encaja por dos razones: se traga una renovación contenida de una
 
 ## Qué proyectos de Northridge se prestan para el de 15 yardas
 
-Northridge se inclina hacia el trabajo de mayor valor. Con un precio de venta mediano de alrededor de $617,000, ingresos familiares muy por encima del promedio y una ocupación por propietarios cercana al 92 por ciento, este es un vecindario de propietarios de largo plazo que invierten en sus casas en lugar de remendarlas. Y como el parque de viviendas tiene ahora de 25 a más de 30 años, los proyectos que están surgiendo son las primeras grandes renovaciones — cocinas, baños y techos de acabado original llegando al final de su vida útil. Un 15 yardas tiene el tamaño justo para los trabajos que abordan una parte de una de estas casas a la vez:
+Northridge se inclina hacia el trabajo de mayor valor. Con precios de venta muy por encima de la mediana del condado, ingresos familiares muy por encima del promedio y una ocupación por propietarios cercana al 92 por ciento, este es un vecindario de propietarios de largo plazo que invierten en sus casas en lugar de remendarlas. Y como el parque de viviendas tiene ahora de 25 a más de 30 años, los proyectos que están surgiendo son las primeras grandes renovaciones — cocinas, baños y techos de acabado original llegando al final de su vida útil. Un 15 yardas tiene el tamaño justo para los trabajos que abordan una parte de una de estas casas a la vez:
 
 - **Remodelación de cocina.** Arrancar los gabinetes, las encimeras, el piso originales de los años noventa y una pared de drywall pasado de moda de una cocina de Northridge llena un 15 yardas más o menos justo — espacio suficiente para destripar por completo una sola habitación sin pagar por espacio que no usarás.
 - **Remoción de techo.** Una remoción de una sola capa de asfalto en una de estas líneas de techo contemporáneas de casa unifamiliar cabe con comodidad en este tamaño. A medida que los techos originales de 1992–2001 envejecen por todo el vecindario, esta es una de las llamadas de 15 yardas más comunes que recibimos por aquí.
@@ -31,7 +31,7 @@ Como tantas de estas casas salieron de la misma época de construcción de princ
 
 **Acceso del camión en calles sinuosas.** Northridge está trazado a lo largo de las calles curvas y los cul-de-sacs típicos de las subdivisiones de los años noventa y principios de los dos mil en lugar de la cuadrícula recta más antigua de Bowie. Ese patrón es relevante para la entrega — nuestros conductores planean por adelantado el giro de retorno para un cul-de-sac o un tramo sinuoso como Northview Drive o Quill Point Drive. El acceso es de calle abierta, sin parqueos con portón que cruzar, así que una dirección clara y un cruce conocido mantienen la entrega avanzando sin problemas hasta tu puerta cerca de Northridge Park o del Swim & Tennis Club.
 
-**Tiempo de viaje.** Despachamos cada mañana por la Route 197 o la BW Parkway. La mayoría de las direcciones de Northridge se programan dentro de las 24 horas, y una llamada temprana puede aún lograr una entrega el mismo día.
+**Tiempo de viaje.** Despachamos cada mañana por la Route 197 o la BW Parkway. La mayoría de las direcciones de Northridge se programan para entrega al día siguiente si ordenas antes de las 12 PM, y una llamada temprana puede aún lograr una entrega el mismo día.
 
 ## Habla con la familia que opera los camiones
 

@@ -19,7 +19,7 @@ Vale la pena saberlo por cómo funcionan las reglas de Bowie. La Ciudad de Bowie
 
 ## Cuánto cuesta
 
-El precio es por material, así que la tarifa depende de lo que vayas a desechar — llámanos para una cotización y te daremos un número claro para tu trabajo. Para el de 20 yardas en Old Stage, otros materiales se cotizan por separado, y los agregados como concreto, tierra y ladrillo solo se aceptan en los tamaños de 10, 15 y 20 yardas. Cada renta incluye entrega, recogida y un periodo de renta de 14 días; si necesitas el contenedor por más tiempo, solo pídelo cuando reserves. La recogida es a solicitud — llámanos cuando estés listo y la programamos. El peso rara vez es un problema en este tamaño, pero si vas a cargar algo inusualmente pesado, como mucho azulejo, yeso o techo mojado, lo platicamos por adelantado.
+El precio es por material, así que la tarifa depende de lo que vayas a desechar — llámanos para una cotización y te daremos un número claro para tu trabajo. Para el de 20 yardas en Old Stage, otros materiales se cotizan por separado, y los agregados como concreto, tierra y ladrillo solo se aceptan en los tamaños de 10, 15 y 20 yardas. Cada renta incluye entrega, recogida y un periodo de renta de 14 días; si necesitas el contenedor por más tiempo, los días adicionales están disponibles por un cargo diario. La recogida es a solicitud — llámanos cuando estés listo y la programamos. El peso rara vez es un problema en este tamaño, pero si vas a cargar algo inusualmente pesado, como mucho azulejo, yeso o techo mojado, lo platicamos por adelantado.
 
 ## Consejos para cargar en una remodelación o limpieza
 
@@ -29,6 +29,6 @@ Para las limpiezas de patrimonio especialmente, date un poco más de tiempo del 
 
 ## Servicio al día siguiente
 
-Despachamos cada mañana, y Old Stage es un recorrido fácil por la Route 197 o la BW Parkway. La mayoría de las direcciones aquí se programan dentro de 24 horas, y una llamada temprana puede que aún alcance una entrega el mismo día. Como somos una empresa familiar, la persona que contesta el teléfono es uno de los dueños, no un centro de llamadas leyendo un guion. Te ayudaremos a decidir si el de 20 yardas es el adecuado para tu limpieza de casa completa, tu remodelación de varias habitaciones, tu proyecto de patrimonio o tu techo — y si tiene más sentido un tamaño distinto, también te lo diremos.
+Despachamos cada mañana, y Old Stage es un recorrido fácil por la Route 197 o la BW Parkway. La mayoría de las direcciones aquí se programan para entrega al día siguiente si ordenas antes de las 12 PM, y una llamada temprana puede que aún alcance una entrega el mismo día. Como somos una empresa familiar, la persona que contesta el teléfono es parte de la familia que opera JP Roll-Off, no un centro de llamadas leyendo un guion. Te ayudaremos a decidir si el de 20 yardas es el adecuado para tu limpieza de casa completa, tu remodelación de varias habitaciones, tu proyecto de patrimonio o tu techo — y si tiene más sentido un tamaño distinto, también te lo diremos.
 
-Cuando estés listo para tener un contenedor de 20 yardas en tu parqueo de Old Stage, llámanos al **(301) 252-3586**. Te daremos un precio directo, una ventana de entrega clara y un contenedor que de verdad está dimensionado para el trabajo.
+Cuando estés listo para tener un contenedor de 20 yardas en tu parqueo de Old Stage, llámanos al **(301) 252-3586**. Te daremos un precio directo, un día de entrega claro y un contenedor que de verdad está dimensionado para el trabajo.

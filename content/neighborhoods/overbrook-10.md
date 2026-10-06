@@ -1,4 +1,4 @@
-If you live on one of Overbrook's O-named streets and you've got a single garage to empty, a bathroom to gut, or a yard full of fallen limbs to clear, the 10-yard roll-off is almost always the right box for the job. We're JP Roll-Off Service, a family-owned hauler, and Overbrook is an easy run up Route 197 or down the BW Parkway. We load trucks every morning, so most drops in 20715 go out within 24 hours, and an early call may still make a same-day run. When you call, one of the owners picks up the phone — not a call center, and not an answering service.
+If you live on one of Overbrook's O-named streets and you've got a single garage to empty, a bathroom to gut, or a yard full of fallen limbs to clear, the 10-yard roll-off is almost always the right box for the job. We're JP Roll-Off Service, a family-owned hauler, and Overbrook is an easy run up Route 197 or down the BW Parkway. We load trucks every morning, so most drops in 20715 go out for next-day delivery when you order by 12 PM, and an early call may still make a same-day run. When you call, the family that runs JP Roll-Off picks up the phone — not a call center, and not an answering service.
 
 The 10-yard is the smallest container we carry, and in a small, mature section like Overbrook, small is usually exactly what the job calls for.
 
@@ -24,7 +24,7 @@ If your particular situation forces street placement — a short driveway, a tig
 
 We call the 10-yard the "garage cleanout" size for good reason. It's built for one-room and one-zone projects, and that's the bulk of what comes up in a neighborhood of 55-to-60-year-old Levitt homes. A few of the jobs we see most often here:
 
-- **Garage cleanout.** Decades in one family — sometimes the original owners — pile up fast. Old paint cans, broken lawn equipment, boxes that never got unpacked. A 10-yard swallows a full single-car garage without leaving you standing around a half-empty container.
+- **Garage cleanout.** Decades in one family — sometimes the original owners — pile up fast. Old bikes, broken lawn equipment, boxes that never got unpacked. A 10-yard swallows a full single-car garage without leaving you standing around a half-empty container.
 - **Bathroom remodel.** Overbrook's Cape Cods, ranchers, and split-levels mostly still have the modest original bathroom layouts of the mid-1960s. Tear out the old vanity, tile, tub, and drywall, and the 10-yard holds the debris from a single bath comfortably.
 - **Yard waste and trees.** These are tree-shaded streets, and mature trees mean limbs, brush, and storm cleanup. The 10-yard is a solid match for a weekend of clearing branches or taking down a problem tree — just keep an eye on weight, since wet wood and soil add up faster than you'd think.
 - **Estate downsize.** With these homes pushing 60 years old, a good share of our Overbrook calls are families sorting out a parent's house. The 10-yard is right-sized for clearing a room or two at a time without paying for a container built for a whole-house gut.
@@ -33,7 +33,7 @@ If your project is bigger than a room or two — a full kitchen tear-out, a roof
 
 ## What it costs and what's included
 
-A 10-yard in the Overbrook area is priced per material — call for a quote. Aggregates like dirt, concrete, and stone are only available in the 10-, 15-, and 20-yard sizes. Every rental includes delivery, pickup on request, and a 14-day rental. Need it longer? Additional days are available on request when you book. Pickup is on request — give us a call to schedule it when you're done.
+A 10-yard in the Overbrook area is priced per material — call for a quote. Aggregates like dirt, concrete, and stone are only available in the 10-, 15-, and 20-yard sizes. Every rental includes delivery, pickup on request, and a 14-day rental. Need it longer? Additional days are available for a daily charge. Pickup is on request — give us a call to schedule it when you're done.
 
 Weight is worth a quick word, especially for the yard-waste and remodel jobs this size handles. Household clutter and general debris are rarely a problem. Where it gets heavy is dense material — wet soil, concrete, stone, brick, or a load of soaked tree wood — and that kind of material is quoted separately because weight matters. If your job leans that way, mention it when you call and we'll set the right expectation up front so you know what to expect on the scale.
 
@@ -41,7 +41,7 @@ Roll-off dumpsters and delivery trucks are heavy and may damage some surfaces, s
 
 ## How scheduling works
 
-Because Overbrook is an easy run — straight up Route 197, or down the BW Parkway depending on traffic — we can usually get a 10-yard to you fast. We dispatch every morning, so most addresses here are scheduled within 24 hours, and an early call may still make a same-day run. The O-section street naming actually helps here: once you tell us you're on an O street up near Route 50, our drivers know exactly where they're headed.
+Because Overbrook is an easy run — straight up Route 197, or down the BW Parkway depending on traffic — we can usually get a 10-yard to you fast. We dispatch every morning, so most addresses here are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run. The O-section street naming actually helps here: once you tell us you're on an O street up near Route 50, our drivers know exactly where they're headed.
 
 When the container's full, give us a call and we'll come pull it. There's no standing appointment to manage and no app to fight with — just a phone call to the people who own the trucks.
 

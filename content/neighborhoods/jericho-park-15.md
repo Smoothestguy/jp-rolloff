@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler, and Jericho Park is an easy r
 
 ## Why the 15-yard fits a single-project job in Jericho Park
 
-The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds about seven pickup-truck loads of debris. Pricing is per material — construction debris and other materials are quoted separately, so call for a quote; every drop includes delivery, pickup on request, and a 14-day rental. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
+The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds about seven pickup-truck loads of debris. Pricing is per material — construction debris and other materials are quoted separately, so call for a quote; every drop includes delivery, pickup on request, and a 14-day rental. Additional days are available for a daily charge, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
 
 We call this the "single-room reno" size, and that name is the key to using it well out here. Jericho Park's big lots and older midcentury-plus-custom homes tend to drive heavier whole-house renovations, additions, and land cleanouts — the kind of work that often calls for a 25- or 30-yard box. The 15 is the opposite end of that range: the in-between container, bigger than a 10-yard quick cleanup but still short and low enough to stay driveway-friendly. It is the size you reach for when the project is one defined piece of the house rather than the whole property at once.
 
@@ -33,7 +33,7 @@ If your project starts edging toward whole-house scope — gutting multiple room
 
 Access to the neighborhood is by turning off the main road at the traffic light onto Jericho Park Road, the same way you reach Bowie State University at 14000 Jericho Park Road. Streets in the area carry Bowie's old equestrian and horse-racing names — Running Horse Place, Race Horse Lane — a nod to the farm called Jericho that gave the neighborhood and the university their name. That setting, on the rural edge near the Patuxent open space, means our trucks work residential roads off Jericho Park Road rather than wide arterials to reach you, so a clear address and a known cross-street keep the delivery moving.
 
-**Drive time.** We dispatch every morning by Route 197 or the BW Parkway. Most Jericho Park addresses are scheduled within 24 hours, and an early call may still make a same-day run.
+**Drive time.** We dispatch every morning by Route 197 or the BW Parkway. Most Jericho Park addresses are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

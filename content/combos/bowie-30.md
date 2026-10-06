@@ -2,9 +2,9 @@ When a job in Bowie is big enough that a smaller bin would mean a second haul, t
 
 ## What the 30-yard holds
 
-The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That tall, long box swallows about fourteen pickup-truck loads of material, which is why it is the go-to for jobs that produce a steady wall of debris rather than a few bags. In Bowie a 30-yard is priced by material, so call for a quote. Every 30-yard includes delivery, pickup, and a 14-day rental. Additional days are available on request when you book, and heavy material such as concrete, dirt, brick and shingles is quoted separately because weight matters, so heavy loads can add to the cost.
+The 30-yard measures roughly 22 feet long, 8 feet wide, and 6 feet tall. That tall, long box swallows about fourteen pickup-truck loads of material, which is why it is the go-to for jobs that produce a steady wall of debris rather than a few bags. In Bowie a 30-yard is priced by material, so call for a quote. Every 30-yard includes delivery, pickup, and a 14-day rental. Additional days are available for a daily charge, and heavy material such as shingles is quoted separately because weight matters, and aggregates such as concrete, dirt, and brick go only in a designated 10-, 15-, or 20-yard container, so heavy loads can add to the cost.
 
-A quick word on weight: 30-yard volume fills up with bulky, lighter material — framing lumber, drywall, cabinetry, roofing tear-off, furniture, and general construction debris. If your load leans heavy (think a lot of concrete, brick, dirt, or tile), the cube fills slowly but the weight climbs fast — heavy debris like that is quoted separately because weight matters — and a smaller bin or a dedicated heavy-debris container is often the smarter call. When you call, tell us what is going in and we will steer you to the right size.
+A quick word on weight: 30-yard volume fills up with bulky, lighter material — framing lumber, drywall, cabinetry, roofing tear-off, furniture, and general construction debris. If your load leans heavy (think a lot of concrete, brick, dirt, or tile), the cube fills slowly but the weight climbs fast — aggregates like that go only in a designated 10-, 15-, or 20-yard container — so a smaller, dedicated heavy-debris container is the right call. When you call, tell us what is going in and we will steer you to the right size.
 
 ## Which Bowie jobs suit this size
 
@@ -33,6 +33,6 @@ A few neighborhood notes worth raising when you call:
 
 ## Talk to the family before you book
 
-We serve Bowie and the surrounding Prince George's ZIPs — 20715, 20716, 20720, and 20721 — and because we are family-owned, the people who answer the phone are the owners, not a call center. That means you can describe your demo, your site, or your cleanout and get a straight answer on whether the 30-yard is the right size, what it will cost, and how we will place it on your driveway in Belair, Mitchellville, Pointer Ridge, Fairwood, or Old Town. When the box is full, just give us a call to schedule the pickup — we haul it on request.
+We serve Bowie and the surrounding Prince George's ZIPs — 20715, 20716, 20720, and 20721 — and because we are family-owned, the people who answer the phone are the family that runs it, not a call center. That means you can describe your demo, your site, or your cleanout and get a straight answer on whether the 30-yard is the right size, what it will cost, and how we will place it on your driveway in Belair, Mitchellville, Pointer Ridge, Fairwood, or Old Town. When the box is full, just give us a call to schedule the pickup — we haul it on request.
 
-If you have a big job in Bowie and a smaller bin would just mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We will get a 30-yard scheduled and dispatched, and have it on your site about 25 minutes later.
+If you have a big job in Bowie and a smaller bin would just mean a second haul, call JP Roll-Off Service at **(301) 252-3586**. We will get a 30-yard scheduled and dispatched.

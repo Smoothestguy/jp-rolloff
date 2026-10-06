@@ -4,7 +4,7 @@ Un contenedor de 25 yardas es nuestro tamaño de "construcción mayor", y en Old
 
 ## Para qué está hecho el de 25 yardas en Old Town Bowie
 
-El de 25 yardas mide unos 18 pies de largo, 8 pies de ancho y 6 pies de alto — aproximadamente diez cargas y media de camioneta de espacio. El precio es por material: los escombros de construcción en el de 25 yardas se cotizan por material, así que llama para una cotización, con otros materiales cotizados por separado (los agregados solo se ofrecen en los tamaños de 10, 15 y 20 yardas). Cada renta incluye entrega, recogida a solicitud, y un periodo de renta de 14 días; los días adicionales están disponibles a solicitud cuando reservas, y los materiales pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa.
+El de 25 yardas mide unos 18 pies de largo, 8 pies de ancho y 6 pies de alto — aproximadamente diez cargas y media de camioneta de espacio. El precio es por material: los escombros de construcción en el de 25 yardas se cotizan por material, así que llama para una cotización, con otros materiales cotizados por separado (los agregados solo se ofrecen en los tamaños de 10, 15 y 20 yardas). Cada renta incluye entrega, recogida a solicitud, y un periodo de renta de 14 días; los días adicionales están disponibles por un cargo diario, y los materiales pesados como las tejas se cotizan por separado porque el peso importa, y los agregados como concreto, tierra y ladrillo solo van en un contenedor designado de 10, 15 o 20 yardas.
 
 Este tamaño tiene sentido para los proyectos más grandes que las casas de madera envejecidas del distrito tienden a generar:
 
@@ -31,6 +31,6 @@ También vale la pena notar que el distrito está en alza. Una revitalización r
 
 ## Servicio al día siguiente
 
-Despachamos cada mañana, y Old Town Bowie es un trayecto fácil subiendo por la Route 197 o la BW Parkway. Como estamos cerca, la mayoría de las direcciones aquí se programan dentro de 24 horas — y si llamas temprano y tenemos un contenedor libre, una llamada temprana puede aún lograr una entrega el mismo día. Dejamos atrás el enfoque de molde estándar hace mucho tiempo: cada cotización es para tu lote específico y tu proyecto específico.
+Despachamos cada mañana, y Old Town Bowie es un trayecto fácil subiendo por la Route 197 o la BW Parkway. Como estamos cerca, la mayoría de las direcciones aquí se programan para entrega al día siguiente si ordenas antes de las 12 PM — y si llamas temprano y tenemos un contenedor libre, una llamada temprana puede aún lograr una entrega el mismo día. Dejamos atrás el enfoque de molde estándar hace mucho tiempo: cada cotización es para tu lote específico y tu proyecto específico.
 
 Ser una empresa familiar significa que cuando llamas, alcanzas a las personas que de verdad son dueñas de los camiones. Sin centro de llamadas, sin vueltas — solo una respuesta directa sobre tamaño, precio, y dónde debe ir el contenedor. Si estás planeando una ampliación, una remodelación de casa completa, un trabajo de techo grande, o una limpieza comercial en Old Town Bowie y crees que el de 25 yardas es tu tamaño, márcanos al **(301) 252-3586**. Te ayudaremos a confirmar que cabe en tu lote, te daremos el precio por material, y lo dejaremos — usualmente al día siguiente.

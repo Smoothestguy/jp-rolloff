@@ -1,10 +1,10 @@
 Most home projects in Greenbelt are not whole-house gut jobs. They are one room at a time: the kitchen that finally loses its tired cabinets, a worn roof getting torn off, a two-bath gut, or a basement cleanout before a finish job. That is exactly where the 15-yard roll-off earns its keep. It is the in-between size — a step up from the small 10-yard, still compact enough to live on a driveway, and sized for the single-room renovation that defines so much of the work happening across Greenbelt right now.
 
-We are JP Roll-Off Service, a family-owned hauler. When you call, you reach the owners, not a call center, and Greenbelt is a short haul for us — your dumpster's not far behind.
+We are JP Roll-Off Service, a family-owned hauler. When you call, you reach the family that runs JP Roll-Off, not a call center, and Greenbelt is a short haul for us — your dumpster's not far behind.
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds roughly seven pickup-truck loads of debris. Pricing is per material — priced by what you're throwing away, so call for a quote. Every 15-yard includes delivery, pickup on request, and a 14-day rental. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
+The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds roughly seven pickup-truck loads of debris. Pricing is per material — priced by what you're throwing away, so call for a quote. Every 15-yard includes delivery, pickup on request, and a 14-day rental. Additional days are available for a daily charge, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
 
 Four feet of wall height is the part people appreciate once the work starts. It is low enough to walk debris up and toss it over the side without a ramp, which matters on a one-room remodel where you are carrying material out by hand all day. The 15-yard is best known as the "single-room reno" size for exactly that reason: bigger than the 10-yard you would grab for a quick declutter, but well short of the 20-, 25-, or 30-yard you would only want for a multi-room gut or a commercial tear-out. For a single project that generates real volume but stays contained, it is the right call.
 
@@ -27,11 +27,11 @@ In **Old Greenbelt**, the National Historic Landmark core, the housing is someth
 
 **The Greenbelt permit rule.** The City of Greenbelt requires a permit for placement in a city street or right-of-way, which includes most Old Greenbelt court parking. Driveways and HOA-approved staging typically do not. So a 15-yard on a Greenbelt East condo's approved lot or a Greenbelt Station driveway apron is usually clear, while a container that has to sit in a public court lot needs the city permit. Customers are responsible for determining whether a City of Greenbelt permit is required and obtaining it before delivery.
 
-**Driveway and lot placement.** A 15-yard needs roughly 16 feet of straight length plus a few feet of clearance and an open swing for the rear door. On the newer townhomes and single-family lots that is a driveway drop; in the historic core and the 1970s-90s condo communities it is more often a coordinated spot in a shared lot. Roll-off dumpsters and delivery trucks are heavy and may damage some surfaces, so protecting the driveway or placement area before delivery is the customer's responsibility. If you're unsure about placement, call our office before scheduling.
+**Driveway and lot placement.** A 15-yard needs roughly 16 feet of straight length plus a few feet of clearance and an open swing for the rear door (the truck itself needs roughly 44 feet of straight-line access to set it; smaller trucks are available for tight spots). On the newer townhomes and single-family lots that is a driveway drop; in the historic core and the 1970s-90s condo communities it is more often a coordinated spot in a shared lot. Roll-off dumpsters and delivery trucks are heavy and may damage some surfaces, so protecting the driveway or placement area before delivery is the customer's responsibility. If you're unsure about placement, call our office before scheduling.
 
 **ZIP note.** Greenbelt uses three ZIP codes, and they matter when you book. 20770 covers residential and business street addresses in the city; 20768 is P.O.-box only, so a 20768 customer's actual jobsite is still a 20770 street address; and 20771 is reserved for NASA's Goddard Space Flight Center. Give us the physical street address, not the box.
 
-**Drive time.** Greenbelt is a very short haul for us. We dispatch every morning — most addresses are scheduled within 24 hours, and an early call may still make a same-day run.
+**Drive time.** Greenbelt is a very short haul for us. We dispatch every morning — most addresses are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

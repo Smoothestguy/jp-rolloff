@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler, and Northridge is an easy run
 
 ## Why the 15-yard fits a Northridge home
 
-The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds about seven pickup-truck loads of debris. Pricing is per material — a typical Northridge rental is **priced by what you're throwing away, so call for a quote**, and that price includes delivery, pickup on request, and a 14-day rental. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
+The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds about seven pickup-truck loads of debris. Pricing is per material — a typical Northridge rental is **priced by what you're throwing away, so call for a quote**, and that price includes delivery, pickup on request, and a 14-day rental. Additional days are available for a daily charge, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
 
 We call this the "single-room reno" size, and it is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly. That matters in Northridge in a specific way. Because these are 1990s-and-newer homes on subdivision lots with attached garages and broad driveways, you almost always have your own paved space to stage the box. The 16-foot footprint sits comfortably on a Northridge driveway with room to spare, which is exactly why most placements here never need to touch the street.
 
@@ -12,7 +12,7 @@ So the 15 fits on two counts: it swallows a contained, one-room renovation in a 
 
 ## Which Northridge projects suit the 15-yard
 
-Northridge skews toward higher-value work. With a median sale price around $617,000, household incomes well above average, and owner-occupancy near 92 percent, this is a neighborhood of long-term owners who invest in their homes rather than patch them. And because the housing stock is now 25 to 30-plus years old, the projects coming up are first major renovations — original-finish kitchens, baths, and roofs reaching the end of their service life. A 15-yard is sized right for the jobs that hit one part of one of these homes at a time:
+Northridge skews toward higher-value work. With sale prices well above the county median, household incomes well above average, and owner-occupancy near 92 percent, this is a neighborhood of long-term owners who invest in their homes rather than patch them. And because the housing stock is now 25 to 30-plus years old, the projects coming up are first major renovations — original-finish kitchens, baths, and roofs reaching the end of their service life. A 15-yard is sized right for the jobs that hit one part of one of these homes at a time:
 
 - **Kitchen remodel.** Tearing out the original 1990s cabinets, counters, flooring, and a wall of dated drywall from a Northridge kitchen fills a 15-yard about right — enough room for a full single-room gut without paying for space you won't use.
 - **Roofing tear-off.** A single-layer asphalt tear-off on one of these contemporary single-family rooflines sits comfortably in this size. As the original 1992–2001 roofs age out across the neighborhood, this is one of the most common 15-yard calls we get out here.
@@ -31,7 +31,7 @@ Because so many of these homes came out of the same early-2000s building era, we
 
 **Truck access on winding streets.** Northridge is laid out along the curving streets and cul-de-sacs typical of 1990s and early-2000s subdivisions rather than Bowie's older straight grid. That pattern is relevant to delivery — our drivers plan the turnaround for a cul-de-sac or a winding stretch like Northview Drive or Quill Point Drive in advance. Access is open-street, with no gated entrances to clear, so a clear address and a known cross-street keep the delivery moving smoothly to your door near Northridge Park or the Swim & Tennis Club.
 
-**Drive time.** We dispatch every morning by Route 197 or the BW Parkway. Most Northridge addresses are scheduled inside 24 hours, and an early call may still make a same-day run.
+**Drive time.** We dispatch every morning by Route 197 or the BW Parkway. Most Northridge addresses are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

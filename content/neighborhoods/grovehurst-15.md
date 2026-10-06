@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler, and Grovehurst is an easy run
 
 ## Why the 15-yard fits a Grovehurst Colonial
 
-The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds about seven pickup-truck loads of debris. Pricing is per material — construction debris in the 15-yard **is priced separately from other materials, so call for a quote on your load**. Every rental includes delivery, pickup on request, and a 14-day rental built in. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
+The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds about seven pickup-truck loads of debris. Pricing is per material — construction debris in the 15-yard **is priced separately from other materials, so call for a quote on your load**. Every rental includes delivery, pickup on request, and a 14-day rental built in. Additional days are available for a daily charge, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
 
 We call this the "single-room reno" size, and it earns that name in a home like the ones here. The 15 is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly. In Grovehurst, where driveways are wide and lots run a quarter to a half acre, that low 4-foot profile is easy to tuck onto the asphalt or a side yard without crowding the house, the garage, or the tree line at the back of the lot.
 
@@ -31,7 +31,7 @@ Because these homes came out of a tight 1990s build and share a similar footprin
 
 **The Bowie permit rule.** The City of Bowie's Public Works Department handles permitting for work within city-maintained rights-of-way, and a permit is required only when a dumpster sits in a city street. Driveways and HOA-approved staging do not need one. In Grovehurst, with the driveways these homes have, the container almost always stays on your property — but if your only option truly puts it in a city street, that placement requires a right-of-way permit from the City of Bowie; customers are responsible for determining whether a permit is required and obtaining it before delivery.
 
-**Drive time.** We dispatch every morning by Route 197 or the BW Parkway. Most Grovehurst addresses are scheduled inside 24 hours, and an early call may still make a same-day run.
+**Drive time.** We dispatch every morning by Route 197 or the BW Parkway. Most Grovehurst addresses are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

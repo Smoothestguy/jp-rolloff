@@ -4,9 +4,9 @@ We are JP Roll-Off Service, a family-owned hauler. Bladensburg is a short run fo
 
 ## What fits in a 30-yard dumpster
 
-The 30-yard is one of the largest boxes we run and the one most people know as the "commercial and demo" size. It measures 22 ft long by 8 ft wide by 6 ft tall and swallows roughly 14 pickup-truck loads of debris. Pricing is per material, so call for a quote — heavy aggregates like dirt, concrete, and asphalt are only offered in our 10-, 15-, and 20-yard boxes. Every 30-yard **includes delivery, pickup on request, and a 14-day rental**. Additional days are available on request when you book, and heavy material such as concrete, dirt, brick and shingles is quoted separately because weight matters — so you only pay for what you actually throw away. Pickup is on request; just call to schedule it when you are done.
+The 30-yard is one of the largest boxes we run and the one most people know as the "commercial and demo" size. It measures 22 ft long by 8 ft wide by 6 ft tall and swallows roughly 14 pickup-truck loads of debris. Pricing is per material, so call for a quote — heavy aggregates like dirt, concrete, and asphalt are only offered in our 10-, 15-, and 20-yard boxes. Every 30-yard **includes delivery, pickup on request, and a 14-day rental**. Additional days are available for a daily charge, and heavy material such as shingles is quoted separately because weight matters, and aggregates such as concrete, dirt, and brick go only in a designated 10-, 15-, or 20-yard container — so you only pay for what you actually throw away. Pickup is on request; just call to schedule it when you are done.
 
-The reason to reach for a 30 over a 20 is simple math. When you are gutting an entire structure or clearing a multi-unit building, a smaller container fills before the job is half done, and a second drop-and-haul costs more than sizing up once. The 30-yard is maximum capacity in a single container — you fill it, we take it, you are done.
+The reason to reach for a 30 over a 20 is simple math. When you are gutting an entire structure or clearing a multi-unit building, a smaller container fills before the job is half done, and a second drop-and-haul costs more than sizing up once. The 30-yard is high capacity in a single container — you fill it, we take it, you are done.
 
 The one thing the 30 asks for in return is room. At 22 feet of box plus the truck, it needs a long, straight run-up to set down and pick up cleanly. In a town this dense, that run-up is the first thing we ask about when you call.
 
@@ -14,7 +14,7 @@ The one thing the 30 asks for in return is room. At 22 feet of box plus the truc
 
 Bladensburg's housing stock skews mid-century — ZIP 20710 holds around 3,800 housing units with a median build year near 1969 and a heavy share put up in the 1950s and 1960s. Layered on top of that are the older Decatur Heights blocks, platted in 1914 and 1917 along Annapolis Road with their early-1900s bungalows, and the 1947 Sunnybrook single-family homes. Aging stock like this is what drives the big-ticket work, and these are the jobs where the 30-yard earns its keep:
 
-- **Full demolition.** Tearing a structure down to the slab produces framing, roofing, plaster, and masonry all at once. The roughly 14-load capacity is built for that volume, where a smaller box would mean hauling mid-job.
+- **Full demolition.** Tearing a structure down to the slab produces framing, roofing, plaster, and trim all at once. The roughly 14-load capacity is built for that volume, where a smaller box would mean hauling mid-job.
 - **Commercial site work.** Annapolis Road (MD 450) is Bladensburg's main commercial corridor, and a buildout, gut, or fixture-clearing on that stretch generates the kind of mixed debris a 30-yard handles in one container.
 - **Bulk waste hauls.** When a single property has accumulated more than a cleanout-sized load, the 30 takes it in one pass.
 - **Multi-family cleanouts.** Clearing several units at once — between tenants, after a sale, or on a turnaround — fills a 30-yard about right and keeps the whole job on one container instead of staging multiple smaller ones.
@@ -31,7 +31,7 @@ Placement is the central question on nearly every Bladensburg job, more so than 
 
 **Neighborhood reference points.** If you are working near the Port Towns cluster, along the Anacostia tributary corridor, or out toward the Edmonston border on the town's western and southern edge, those are exactly the areas where floodplain ground and placement room need a closer look. Tell us the cross street or a landmark — the Bostwick House, the George Washington House on Annapolis Road, or Bladensburg Waterfront Park — and we will picture the approach.
 
-**Drive time.** Bladensburg is a short run for us, so scheduling is quick. We dispatch every morning and most driveway jobs are scheduled within 24 hours, with that same-week turnaround when a right-of-way permit is in play. An early call may still make a same-day run.
+**Drive time.** Bladensburg is a short run for us, so scheduling is quick. We dispatch every morning and most driveway jobs are scheduled for next-day delivery when you order by 12 PM, with that same-week turnaround when a right-of-way permit is in play. An early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

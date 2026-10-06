@@ -1,14 +1,14 @@
-When a Laurel project only fills one room, you shouldn't have to pay for a container built for a whole house. The 10-yard roll-off is the smallest box we run, and it's the one Laurel homeowners reach for most when the job is a single garage, one bathroom, a weekend of yard work, or clearing out a relative's place. We're JP Roll-Off Service, a family-owned hauler, and Laurel is a straight shot up Route 1 for us. When you call (301) 252-3586, one of the owners picks up — no call center, no scripts, just a real answer about whether this size fits your job and your driveway.
+When a Laurel project only fills one room, you shouldn't have to pay for a container built for a whole house. The 10-yard roll-off is the smallest box we run, and it's the one Laurel homeowners reach for most when the job is a single garage, one bathroom, a weekend of yard work, or clearing out a relative's place. We're JP Roll-Off Service, a family-owned hauler, and Laurel is a straight shot up Route 1 for us. When you call (301) 252-3586, the family that runs JP Roll-Off picks up — no call center, no scripts, just a real answer about whether this size fits your job and your driveway.
 
 ## What fits in a 10-yard dumpster
 
 The 10-yard measures roughly 12 feet long by 8 feet wide by 4 feet tall. That compact footprint is the whole point: it tucks into a single car spot, sits cleanly on most driveways, and won't crowd a townhome's guest parking. It holds about three pickup-truck loads of debris, which is the right size for household and light remodel material rather than heavy concrete or dirt.
 
-Our 10-yard is priced by material — construction debris is quoted separately from other materials, so call for a quote on your job. That quote includes delivery, pickup, and a 14-day rental. Extra days are available on request when you book, and dense, heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters — so you know up front how it works rather than guessing. Because the footprint is small and the four-foot walls stay manageable, you can load it without heaving everything over a tall construction-grade rim. For a one-room project, that workable wall height saves your back more than people expect.
+Our 10-yard is priced by material — construction debris is quoted separately from other materials, so call for a quote on your job. That quote includes delivery, pickup, and a 14-day rental. Extra days are available for a daily charge, and dense, heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters — so you know up front how it works rather than guessing. Because the footprint is small and the four-foot walls stay manageable, you can load it without heaving everything over a tall construction-grade rim. For a one-room project, that workable wall height saves your back more than people expect.
 
 ## Which Laurel jobs suit this size
 
-This is the **garage cleanout** size, plain and simple. If you're reclaiming a bay in a South Laurel split-level or a Russett townhome garage, three truckloads of capacity usually clears the shelving, the old paint cans, the broken lawn gear, and the boxes you've been stepping around for years.
+This is the **garage cleanout** size, plain and simple. If you're reclaiming a bay in a South Laurel split-level or a Russett townhome garage, three truckloads of capacity usually clears the shelving, the old bikes, the broken lawn gear, and the boxes you've been stepping around for years.
 
 It's also right-sized for a **bathroom remodel**. A single bath gut — tile, vanity, tub surround, old fixtures — rarely fills more than a small container, so renting a 20 or 30 just to demo one room leaves you paying for air. The 10-yard takes the demo debris without the oversize footprint.
 
@@ -26,7 +26,7 @@ The good news for the 10-yard is that its small footprint makes **driveway place
 
 When the box has to go in the public right-of-way — street, sidewalk, or alley — the rules diverge:
 
-- **City of Laurel** requires a Right-of-Way Permit through the Department of Public Works. It reportedly runs about $25 per week and asks for proof of liability insurance and a site plan, though you should confirm the current fee and paperwork directly with DPW.
+- **City of Laurel** requires a Right-of-Way Permit through the Department of Public Works. It carries a weekly fee and asks for proof of liability insurance and a site plan, though you should confirm the current fee and paperwork directly with DPW.
 - **Prince George's County** handles site and road-occupancy permits through DPIE.
 - **Howard County** (which covers North Laurel, ZIP 20723) goes through its Department of Inspections, Licenses and Permits.
 - **Anne Arundel County** (Russett and Maryland City, ZIP 20724) has its own separate process.
@@ -37,6 +37,6 @@ We don't issue permits for you, and with four jurisdictions in play — the City
 
 ## A short drive and a straight answer
 
-Laurel is a quick run up Route 1 for us — close enough that we can be flexible on timing and quick to swing back for pickup when you're done. Whether you're off Main Street near the Laurel Museum, out toward Laurel Towne Centre, in a South Laurel rancher, or in a Russett townhome, the drive is short and the dispatch is simple.
+Laurel is a quick run up Route 1 for us — close enough that delivery and pickup are straightforward to schedule — just call when you're done. Whether you're off Main Street near the Laurel Museum, out toward Laurel Towne Centre, in a South Laurel rancher, or in a Russett townhome, the drive is short and the dispatch is simple.
 
-If the 10-yard sounds like the right call for your garage, your bathroom remodel, your yard cleanup, or an estate downsize, call us at **(301) 252-3586**. You'll talk to one of the owners, get a straight answer on size and placement for your specific Laurel address, and a clear quote that includes delivery, pickup, and a 14-day rental — with heavy materials quoted separately and pickup scheduled when you call to request it. That's how a family-owned hauler should work.
+If the 10-yard sounds like the right call for your garage, your bathroom remodel, your yard cleanup, or an estate downsize, call us at **(301) 252-3586**. You'll talk to the family that runs JP Roll-Off, get a straight answer on size and placement for your specific Laurel address, and a clear quote that includes delivery, pickup, and a 14-day rental — with heavy materials quoted separately and pickup scheduled when you call to request it. That's how a family-owned hauler should work.

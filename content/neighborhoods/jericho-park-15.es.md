@@ -4,7 +4,7 @@ Somos JP Roll-Off Service, un transportista de empresa familiar, y Jericho Park 
 
 ## Por qué el de 15 yardas le queda bien a un trabajo de un solo proyecto en Jericho Park
 
-El de 15 yardas mide 16 pies de largo por 8 pies de ancho por 4 pies de alto y cabe aproximadamente siete cargas de camioneta. El precio es por material: los escombros de construcción y otros materiales se cotizan por separado, así que llama para una cotización; cada entrega incluye entrega, recogida a solicitud y un periodo de renta de 14 días. Los días adicionales están disponibles a solicitud cuando reservas, y los materiales densos o pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa.
+El de 15 yardas mide 16 pies de largo por 8 pies de ancho por 4 pies de alto y cabe aproximadamente siete cargas de camioneta. El precio es por material: los escombros de construcción y otros materiales se cotizan por separado, así que llama para una cotización; cada entrega incluye entrega, recogida a solicitud y un periodo de renta de 14 días. Los días adicionales están disponibles por un cargo diario, y los materiales densos o pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa.
 
 A este lo llamamos el tamaño de "renovación de una habitación", y ese nombre es la clave para usarlo bien por aquí. Los lotes grandes de Jericho Park y sus casas más viejas, de mediados de siglo y personalizadas, tienden a generar renovaciones más pesadas de casa completa, ampliaciones y limpiezas de terreno, el tipo de trabajo que a menudo pide un contenedor de 25 o 30 yardas. El de 15 es el extremo opuesto de ese rango: el tamaño intermedio, más grande que la limpieza rápida de un 10 yardas pero todavía lo bastante corto y bajo para seguir siendo amigable con el parqueo. Es el tamaño al que recurres cuando el proyecto es una parte definida de la casa en lugar de toda la propiedad a la vez.
 
@@ -33,7 +33,7 @@ Si tu proyecto empieza a rozar el alcance de casa completa (destripar varias hab
 
 El acceso al vecindario es girando desde la calle principal en el semáforo hacia Jericho Park Road, la misma forma en que llegas a Bowie State University en 14000 Jericho Park Road. Las calles de la zona llevan los viejos nombres ecuestres y de carreras de caballos de Bowie (Running Horse Place, Race Horse Lane), un guiño a la granja llamada Jericho que dio su nombre al vecindario y a la universidad. Ese entorno, en el borde rural cerca del espacio abierto del Patuxent, significa que nuestros camiones trabajan calles residenciales que salen de Jericho Park Road en lugar de avenidas anchas para llegar a ti, así que una dirección clara y una calle transversal conocida mantienen la entrega en movimiento.
 
-**Tiempo de manejo.** Despachamos cada mañana por la Route 197 o la BW Parkway. La mayoría de las direcciones de Jericho Park se programan dentro de las 24 horas, y una llamada temprana puede aún alcanzar una entrega el mismo día.
+**Tiempo de manejo.** Despachamos cada mañana por la Route 197 o la BW Parkway. La mayoría de las direcciones de Jericho Park se programan para entrega al día siguiente si ordenas antes de las 12 PM, y una llamada temprana puede aún alcanzar una entrega el mismo día.
 
 ## Habla con la familia que maneja los camiones
 

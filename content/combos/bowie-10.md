@@ -4,7 +4,7 @@ We're JP Roll-Off Service, a family-owned hauler. Bowie is an easy run for us by
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard is the compact end of the lineup. It measures roughly 12 ft long by 8 ft wide by 4 ft tall and holds about three pickup-truck loads of debris. In Bowie a 10-yard **includes delivery, pickup on request, and a 14-day rental — priced per material, so call for a quote.** Pricing runs per material rather than as one price for every load. Dense, heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters, extra days are available on request when you book, and pickup is on request — you call to schedule.
+The 10-yard is the compact end of the lineup. It measures roughly 12 ft long by 8 ft wide by 4 ft tall and holds about three pickup-truck loads of debris. In Bowie a 10-yard **includes delivery, pickup on request, and a 14-day rental — priced per material, so call for a quote.** Pricing runs per material rather than as one price for every load. Dense, heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters, extra days are available for a daily charge, and pickup is on request — you call to schedule.
 
 The thing that makes the 10-yard so easy to live with is its footprint and its low walls. At 12 feet long it fits inside a single parking space on the driveway, and the 4-foot sides mean you can walk right up and drop debris over the edge without a ramp or a heave. The trade-off is weight: the volume fills fast with anything dense, and heavy debris is quoted separately. That's the whole reason this size exists alongside the bigger ones — it's built for **bulky-but-light** loads from one room or one corner of the property, not for heavy demolition or whole-house gut jobs. For those, you'd want to step up. For a contained cleanout or a small remodel, the 10-yard is the size you don't overpay for.
 
@@ -12,7 +12,7 @@ The thing that makes the 10-yard so easy to live with is its footprint and its l
 
 Bowie is, more than any other town around here, a Levitt suburb. Roughly 7,500 nearly identical Belair homes went up between 1960 and 1965 — Cape Cods, ranchers, and colonials on uniform quarter-acre lots, each with an enclosed garage and a real driveway. Six decades on, those homes are deep into their second and third round of renovations, and a lot of that work is the small, room-at-a-time kind that fits a 10-yard exactly. The jobs we drop this size for most around Bowie:
 
-- **Garage cleanouts.** This is the 10-yard's signature job, and the original Belair garages are tailor-made for it. Decades of paint cans, broken lawn gear, old furniture, and boxes clear out into a single container that sits right outside the garage door.
+- **Garage cleanouts.** This is the 10-yard's signature job, and the original Belair garages are tailor-made for it. Decades of old bikes, broken lawn gear, old furniture, and boxes clear out into a single container that sits right outside the garage door.
 - **Bathroom remodels.** A single-bath gut in a Belair home — vanity, tub, tile, and drywall — is a textbook 10-yard load. The debris is bulky but light, unlike the dense loads a kitchen or a roof would produce.
 - **Yard waste and trees.** Brush, branches, hedge removal, and storm cleanup off a quarter-acre lot fill a 10-yard about right. Mature trees shade a lot of the older sections, so limb-and-leaf debris is a steady draw for this size.
 - **Estate downsizing.** When a longtime family home in one of the early sections is being thinned out — clearing one room, a basement corner, or a relative's belongings — the 10-yard handles a contained sort-and-toss without the cost of a full-house container.
@@ -21,13 +21,13 @@ Where Bowie's housing differs is worth a quick word, because it changes what siz
 
 ## Local logistics: placement, permits, and drive time
 
-**Driveway placement.** This is where Bowie makes life easy. Because every Levitt Belair home was built with its own driveway on a quarter-acre lot, almost every 10-yard we drop here goes on the homeowner's own driveway — no street involved. The container needs only about 12 feet of straight length plus a little clearance and an open swing for the rear door, so it slots into a single car spot with room to spare. Roll-off dumpsters and delivery trucks are heavy and may damage some surfaces, so protecting the driveway or placement area before delivery is the customer's responsibility. If you're unsure about placement, call our office before scheduling.
+**Driveway placement.** This is where Bowie makes life easy. Because every Levitt Belair home was built with its own driveway on a quarter-acre lot, almost every 10-yard we drop here goes on the homeowner's own driveway — no street involved. The container needs only about 12 feet of straight length plus a little clearance and an open swing for the rear door (the truck itself needs roughly 44 feet of straight-line access to set it; smaller trucks are available for tight spots), so it slots into a single car spot with room to spare. Roll-off dumpsters and delivery trucks are heavy and may damage some surfaces, so protecting the driveway or placement area before delivery is the customer's responsibility. If you're unsure about placement, call our office before scheduling.
 
 **The Bowie permit rule.** The City of Bowie requires a right-of-way permit **only if the dumpster sits in a city street.** A container on your driveway, or on an HOA-approved staging spot, does not need one. Given how Bowie's lots are laid out, the street is almost always the exception rather than the rule for a 10-yard — but if the only practical place at your address is the public street, that placement requires a right-of-way permit from the City of Bowie; customers are responsible for determining whether a permit is required and obtaining it before delivery.
 
-**HOAs.** Newer communities like Fairwood are HOA-governed, and placement there often needs HOA-approved positioning, especially in the townhome sections with shared driveways. A heads-up to your board usually clears it, and we can provide a service confirmation to forward along.
+**HOAs.** Newer communities like Fairwood are HOA-governed, and placement there often needs HOA-approved positioning, especially in the townhome sections with shared driveways. A heads-up to your board usually clears it, and if they need anything from us, mention it when you call.
 
-**Drive time.** Bowie is an easy run via Route 197 or the BW Parkway, and we dispatch every morning. Most Bowie addresses are scheduled within 24 hours, and an early call may still make a same-day run.
+**Drive time.** Bowie is an easy run via Route 197 or the BW Parkway, and we dispatch every morning. Most Bowie addresses are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

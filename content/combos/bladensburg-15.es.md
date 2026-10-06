@@ -2,7 +2,7 @@ Cuando un proyecto de una sola habitación en Bladensburg supera una pila de bol
 
 ## Qué cabe en un contenedor de 15 yardas
 
-El 15 yardas mide aproximadamente 16 pies de largo, 8 pies de ancho y 4 pies de alto. Eso aguanta unas siete cargas de camioneta de escombros. El precio es por material — para escombros de construcción un 15 yardas incluye entrega, recogida a solicitud y una renta de 14 días, con precio por material, así que llama para una cotización. Los días adicionales están disponibles a solicitud cuando reservas, y los materiales densos o pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa. La recogida es a solicitud, así que nos llamas cuando estés listo y programamos el acarreo.
+El 15 yardas mide aproximadamente 16 pies de largo, 8 pies de ancho y 4 pies de alto. Eso aguanta unas siete cargas de camioneta de escombros. El precio es por material — para escombros de construcción un 15 yardas incluye entrega, recogida a solicitud y una renta de 14 días, con precio por material, así que llama para una cotización. Los días adicionales están disponibles por un cargo diario, y los materiales densos o pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa. La recogida es a solicitud, así que nos llamas cuando estés listo y programamos el acarreo.
 
 Las paredes de cuatro pies importan tanto como el volumen. Puedes cargar esta medida a mano o con una carretilla sin tener que levantar todo por encima de la cabeza, por eso es la favorita para un trabajo de una habitación donde una cuadrilla avanza de forma constante durante unos días. Es la medida que describimos como el contenedor de "renovación de una sola habitación": espacio suficiente para la demolición de una cocina o dos baños, sin que tanto que termines mirando medio contenedor vacío el día de la recogida.
 
@@ -29,7 +29,7 @@ Dos peculiaridades locales determinan dónde puede asentarse realmente el conten
 
 Bladensburg está a un trayecto corto para nosotros, así que llevarte un 15, cambiarlo o acarrearlo el día de la recogida es sencillo. El pueblo se ubica a aproximadamente una milla de la línea de D.C., con Annapolis Road (MD Route 450) como la columna principal y las cuadras residenciales abriéndose hacia el este — una distribución compacta que conocemos bien.
 
-Como somos una empresa familiar, los dueños contestan el teléfono. No hay un centro de llamadas entre tú y las personas que realmente conducen el camión y colocan el contenedor. Eso importa en un lote apretado de Bladensburg, donde una conversación de dos minutos sobre el ancho de tu parqueo, la superficie de tu terreno y si estás cerca de la zona inundable puede evitarte un dolor de cabeza el día de la entrega.
+Como somos una empresa familiar, la familia contesta el teléfono. No hay un centro de llamadas entre tú y las personas que realmente conducen el camión y colocan el contenedor. Eso importa en un lote apretado de Bladensburg, donde una conversación de dos minutos sobre el ancho de tu parqueo, la superficie de tu terreno y si estás cerca de la zona inundable puede evitarte un dolor de cabeza el día de la entrega.
 
 ## Listos cuando tú lo estés
 

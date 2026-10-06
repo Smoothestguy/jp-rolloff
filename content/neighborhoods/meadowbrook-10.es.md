@@ -1,4 +1,4 @@
-Si vives en una de las calles con nombre de M de Meadowbrook y tienes un solo garaje que vaciar, un baño que desmontar, o un patio trasero lleno de ramas que mover, el roll-off de 10 yardas casi siempre es la opción correcta. Somos JP Roll-Off Service, un transportista de empresa familiar, y Meadowbrook es un trayecto fácil por la Route 197 o la BW Parkway. Cargamos camiones cada mañana, así que la mayoría de las direcciones en 20716 se programan dentro de 24 horas, y una llamada temprana todavía puede lograr una entrega el mismo día. Cuando llamas, contesta uno de los dueños — no un call center.
+Si vives en una de las calles con nombre de M de Meadowbrook y tienes un solo garaje que vaciar, un baño que desmontar, o un patio trasero lleno de ramas que mover, el roll-off de 10 yardas casi siempre es la opción correcta. Somos JP Roll-Off Service, un transportista de empresa familiar, y Meadowbrook es un trayecto fácil por la Route 197 o la BW Parkway. Cargamos camiones cada mañana, así que la mayoría de las direcciones en 20716 se programan para entrega al día siguiente si ordenas antes de las 12 PM, y una llamada temprana todavía puede lograr una entrega el mismo día. Cuando llamas, contesta la familia que opera JP Roll-Off — no un call center.
 
 El de 10 yardas es nuestro contenedor más chico, y en un vecindario construido como lo fue Meadowbrook, lo chico suele ser exactamente lo que quieres.
 
@@ -22,7 +22,7 @@ Si tu situación particular obliga a colocar en la calle — un parqueo empinado
 
 Le decimos al de 10 yardas el tamaño de "limpieza de garaje" por una razón. Está hecho para proyectos de una sola habitación y una sola zona, y eso es el grueso de lo que sale en un vecindario de casas Levitt de mediados de los 60. Algunos de los trabajos que vemos con más frecuencia aquí:
 
-- **Limpieza de garaje.** Seis décadas en una sola familia o entre un par de dueños suman rápido — pintura vieja, equipo de jardín roto, cajas que nunca se desempacaron. Un 10 yardas se traga un garaje de un solo auto completo sin dejarte parado junto a un contenedor vacío a medio llenar.
+- **Limpieza de garaje.** Seis décadas en una sola familia o entre un par de dueños suman rápido — bicicletas viejas, equipo de jardín roto, cajas que nunca se desempacaron. Un 10 yardas se traga un garaje de un solo auto completo sin dejarte parado junto a un contenedor vacío a medio llenar.
 - **Remodelación de baño.** Las casas de Meadowbrook venían en un puñado de modelos Levitt que se repetían — Cape Cods, ranchers, Coloniales y el "Country Clubber" — la mayoría con las distribuciones de baño modestas y originales de la época. Arranca el tocador viejo, el azulejo, la tina y la tablaroca, y el de 10 yardas aguanta cómodamente los escombros de un solo baño.
 - **Residuos de jardín y árboles.** Estas son calles arboladas, y los árboles maduros significan ramas, tocones y limpieza tras tormentas. El de 10 yardas es buena opción para un fin de semana despejando maleza o tumbando un árbol problemático, aunque la madera mojada y pesada y la tierra suman en peso — más sobre eso abajo.
 - **Reducción de patrimonio.** Con las casas de aquí rozando los 60 años, muchas de nuestras llamadas de Meadowbrook son familias arreglando la casa de un padre. El de 10 yardas tiene el tamaño justo para despejar una o dos habitaciones a la vez sin el costo de un contenedor hecho para un desmonte de casa completa.
@@ -31,7 +31,7 @@ Si tu proyecto es más grande que una habitación — una cocina completa, un te
 
 ## Cuánto cuesta y qué incluye
 
-Un 10 yardas en el área de Meadowbrook se cotiza por material — según lo que estás botando, así que llama para una cotización (otros materiales se cotizan por separado). Cada renta incluye entrega, recogida a solicitud, y una renta de 14 días. ¿Lo necesitas más tiempo? Los días adicionales están disponibles a solicitud cuando reservas. Los agregados como concreto, piedra y ladrillo están disponibles solo en los tamaños de 10, 15 y 20 yardas.
+Un 10 yardas en el área de Meadowbrook se cotiza por material — según lo que estás botando, así que llama para una cotización (otros materiales se cotizan por separado). Cada renta incluye entrega, recogida a solicitud, y una renta de 14 días. ¿Lo necesitas más tiempo? Los días adicionales están disponibles por un cargo diario. Los agregados como concreto, piedra y ladrillo están disponibles solo en los tamaños de 10, 15 y 20 yardas.
 
 El peso vale una palabra rápida, sobre todo dados los trabajos de residuos de jardín y de remodelación que maneja el de 10 yardas. El desorden del hogar y los escombros en general rara vez son problema. Donde se pone pesado es con material denso — tierra mojada, concreto, piedra, ladrillo, o una carga de madera de árbol empapada — y ese tipo de material se cotiza por separado porque el peso importa. Si tu trabajo va por ese lado, menciónalo cuando llames y dejaremos la expectativa clara desde el principio para que no haya adivinanzas.
 
@@ -39,12 +39,12 @@ Los contenedores roll-off y los camiones de entrega son pesados y pueden dañar 
 
 ## Cómo funciona la programación
 
-Como Meadowbrook es un trayecto fácil — directo por la Route 197, o por la BW Parkway según el día — normalmente podemos llevarte un 10 yardas rápido. Despachamos cada mañana, y la mayoría de las direcciones se programan dentro de 24 horas — una llamada temprana todavía puede lograr una entrega el mismo día. La nomenclatura aliterativa de calles de Levitt de hecho nos ayuda aquí: en cuanto nos dices que estás en una calle M al norte de la Route 197, nuestros choferes saben exactamente a dónde van.
+Como Meadowbrook es un trayecto fácil — directo por la Route 197, o por la BW Parkway según el día — normalmente podemos llevarte un 10 yardas rápido. Despachamos cada mañana, y la mayoría de las direcciones se programan para entrega al día siguiente si ordenas antes de las 12 PM — una llamada temprana todavía puede lograr una entrega el mismo día. La nomenclatura aliterativa de calles de Levitt de hecho nos ayuda aquí: en cuanto nos dices que estás en una calle M al norte de la Route 197, nuestros choferes saben exactamente a dónde van.
 
 Cuando el contenedor esté lleno, llámanos y vendremos a retirarlo. Sin cita fija que administrar, sin app contra la cual pelear.
 
 ## Habla con la familia dueña de los camiones
 
-Cuando le marcas a JP Roll-Off Service, hablas con las personas que son dueñas del negocio y contestan el teléfono. Te preguntaremos sobre tu trabajo, dónde quieres el contenedor, y si tu parqueo de Meadowbrook tiene espacio — y la mayoría de las veces lo tiene, lo que te mantiene fuera de la calle y fuera del proceso de permisos por completo.
+Cuando le marcas a JP Roll-Off Service, hablas con la familia que opera el negocio y contesta el teléfono. Te preguntaremos sobre tu trabajo, dónde quieres el contenedor, y si tu parqueo de Meadowbrook tiene espacio — y la mayoría de las veces lo tiene, lo que te mantiene fuera de la calle y fuera del proceso de permisos por completo.
 
 ¿Listo para reservar un 10 yardas, o solo quieres conversar si es el tamaño correcto para tu proyecto en Meadowbrook? Llámanos al **(301) 252-3586** y te dejamos listo.

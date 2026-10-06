@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler, and Jericho Park is an easy r
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material — construction debris and other materials are quoted separately, so call for a quote. Every drop includes delivery, pickup on request, and a 14-day rental. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters.
+The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material — construction debris and other materials are quoted separately, so call for a quote. Every drop includes delivery, pickup on request, and a 14-day rental. Additional days are available for a daily charge, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters.
 
 That long, low profile matters more than people expect. The 4-foot walls are low enough that you can still walk debris up and toss it over the side, while the full 22 feet of length take on the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes: bigger than a quick-cleanup 10 or 15-yard, but not the oversized 30-yard that really only makes sense for ground-up construction or full structural demo. Around here it earns its nickname — the "whole-house cleanout" size — and it is one of our most versatile sizes, and one customers rarely regret.
 
@@ -23,13 +23,13 @@ If your project is smaller — a single bathroom, a closet purge, a few rooms of
 
 ## Placement, permits, and the long-driveway advantage
 
-**Placement is the easy part in Jericho Park, and that is one of the neighborhood's real advantages.** Unlike Bowie's dense planned subdivisions with their tight frontages and assigned parking, the homes here sit on larger parcels with long private driveways and plenty of on-property room. A 20-yard needs about 22 feet of straight length plus a few feet of clearance and an open swing for the rear door — and on most Jericho Park lots that fits on the driveway with room to spare, or out on the yard where the work is happening. Tell us where you picture it when you call and we will confirm the spot works.
+**Placement is the easy part in Jericho Park, and that is one of the neighborhood's real advantages.** Unlike Bowie's dense planned subdivisions with their tight frontages and assigned parking, the homes here sit on larger parcels with long private driveways and plenty of on-property room. A 20-yard needs about 22 feet of straight length plus a few feet of clearance and an open swing for the rear door (the truck itself needs roughly 44 feet of straight-line access to set it; smaller trucks are available for tight spots) — and on most Jericho Park lots that fits on the driveway with room to spare, or out on the yard where the work is happening. Tell us where you picture it when you call and we will confirm the spot works.
 
 **That on-property room usually means no permit at all.** The City of Bowie requires a right-of-way permit only if the dumpster sits in a city street — driveways and HOA-approved staging do not. Because most Jericho Park drops stage entirely on your own property, the permit question simply never comes up. If the only workable location turns out to be the street itself, that permit goes through Bowie's Public Works Department; customers are responsible for determining whether a permit is required and obtaining it before delivery.
 
 **Getting the truck in.** Jericho Park sits about three miles from downtown Bowie, with access by turning at the traffic light onto Jericho Park Road — the same route to Bowie State University at 14000 Jericho Park Road. The streets here carry the area's equestrian and horse-racing heritage in their names, from Running Horse Place to Race Horse Lane, and they are residential roads rather than wide arterials. We route the truck in carefully and set the box exactly where you need it. The neighborhood is in ZIP 20715, on the rural edge of the city near the Fran Uhler Natural Area and the Patuxent Research Refuge.
 
-**Drive time.** We dispatch every morning. Most Jericho Park addresses are scheduled within 24 hours, and an early call may still make a same-day run.
+**Drive time.** We dispatch every morning. Most Jericho Park addresses are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

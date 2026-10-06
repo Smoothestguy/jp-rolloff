@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler, and Belair Town is an easy ru
 
 ## Why the 15-yard fits a Belair Town townhouse
 
-The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds about seven pickup-truck loads of debris. A 15-yard **includes delivery, pickup on request, and a 14-day rental — priced by material, so call for a quote**. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
+The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds about seven pickup-truck loads of debris. A 15-yard **includes delivery, pickup on request, and a 14-day rental — priced by material, so call for a quote**. Additional days are available for a daily charge, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
 
 We call this the "single-room reno" size, and it earns that name here more than almost anywhere in Bowie. The 15 is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly for most homes. In Belair Town, where the townhouses are modest and the parking is tight, that compact footprint is the whole point. A 30-yard box has no business sitting in front of a late-1960s shared-wall townhouse with narrow frontage; the 16-foot length of the 15 is far easier to tuck into an assigned space, a short driveway, or an HOA-approved staging spot without blocking your neighbor's wall.
 
@@ -31,7 +31,7 @@ Because every one of these homes came out of the same Levitt catalog and shares 
 
 **Finding your door.** The primary way in is Race Track Road off Annapolis Road (Route 450); Belair Town II's entrance sits near that intersection, and streets inside the neighborhood include Morningside Lane. That access pattern means our trucks work residential streets off Race Track Road rather than wide arterials to reach your unit, so a clear address and a known cross-street keep the delivery moving through a tight, shared-wall neighborhood.
 
-**Drive time.** We dispatch every morning by Route 197 or the BW Parkway. Most Belair Town addresses are scheduled within 24 hours, and an early call may still make a same-day run.
+**Drive time.** We dispatch every morning by Route 197 or the BW Parkway. Most Belair Town addresses are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

@@ -1,4 +1,4 @@
-If you live on one of Meadowbrook's M-named streets and you've got a single garage to clear out, a bathroom to gut, or a backyard full of branches to move, the 10-yard roll-off is almost always the right call. We're JP Roll-Off Service, a family-owned hauler, and Meadowbrook is an easy run up Route 197 or the BW Parkway. We load trucks every morning, so most addresses in 20716 are scheduled within 24 hours, and an early call may still make a same-day run. When you call, one of the owners picks up — not a call center.
+If you live on one of Meadowbrook's M-named streets and you've got a single garage to clear out, a bathroom to gut, or a backyard full of branches to move, the 10-yard roll-off is almost always the right call. We're JP Roll-Off Service, a family-owned hauler, and Meadowbrook is an easy run up Route 197 or the BW Parkway. We load trucks every morning, so most addresses in 20716 are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run. When you call, the family that runs JP Roll-Off picks up — not a call center.
 
 The 10-yard is our smallest container, and in a neighborhood built the way Meadowbrook was, small is usually exactly what you want.
 
@@ -22,7 +22,7 @@ If your particular situation forces street placement — a steep or crowded driv
 
 We call the 10-yard the "garage cleanout" size for a reason. It's built for one-room and one-zone projects, and that's the bulk of what comes up in a neighborhood of mid-1960s Levitt homes. A few of the jobs we see most often here:
 
-- **Garage cleanout.** Six decades in one family or across a couple of owners adds up fast — old paint, broken lawn gear, boxes that never got unpacked. A 10-yard swallows a full single-car garage without leaving you standing around an empty container half-full.
+- **Garage cleanout.** Six decades in one family or across a couple of owners adds up fast — old bikes, broken lawn gear, boxes that never got unpacked. A 10-yard swallows a full single-car garage without leaving you standing around an empty container half-full.
 - **Bathroom remodel.** Meadowbrook's houses came in a handful of repeating Levitt models — Cape Cods, ranchers, Colonials, and the "Country Clubber" — most with the modest, original bathroom layouts of the era. Tear out the old vanity, tile, tub, and drywall, and the 10-yard holds the debris from a single bath comfortably.
 - **Yard waste and trees.** These are tree-lined streets, and mature trees mean limbs, stumps, and storm cleanup. The 10-yard is a good match for a weekend of clearing brush or taking down a problem tree, though heavy wet wood and soil add up in weight — more on that below.
 - **Estate downsize.** With homes here pushing 60 years old, a lot of our Meadowbrook calls are families sorting out a parent's house. The 10-yard is right-sized for clearing a room or two at a time without the cost of a container built for a whole-house gut.
@@ -31,7 +31,7 @@ If your project is bigger than a room — a full kitchen, a roof, a whole-house 
 
 ## What it costs and what's included
 
-A 10-yard in the Meadowbrook area is priced per material — by what you're throwing away, so call for a quote (other materials are priced separately). Every rental includes delivery, pickup on request, and a 14-day rental. Need it longer? Additional days are available on request when you book. Aggregates like concrete, stone, and brick are only available in the 10, 15, and 20-yard sizes.
+A 10-yard in the Meadowbrook area is priced per material — by what you're throwing away, so call for a quote (other materials are priced separately). Every rental includes delivery, pickup on request, and a 14-day rental. Need it longer? Additional days are available for a daily charge. Aggregates like concrete, stone, and brick are only available in the 10, 15, and 20-yard sizes.
 
 Weight is worth a quick word, especially given the yard-waste and remodel jobs the 10-yard handles. Household clutter and general debris are rarely a problem. Where it gets heavy is dense material — wet soil, concrete, stone, brick, or a load of soaked tree wood — and that kind of material is quoted separately because weight matters. If your job leans that way, mention it when you call and we'll set the right expectation up front so there's no guesswork.
 
@@ -39,7 +39,7 @@ Roll-off dumpsters and delivery trucks are heavy and may damage some surfaces, s
 
 ## How scheduling works
 
-Because Meadowbrook is an easy run — straight up Route 197, or down the BW Parkway depending on the day — we can usually get a 10-yard to you fast. We dispatch every morning, and most addresses are scheduled within 24 hours — an early call may still make a same-day run. The alliterative Levitt street naming actually helps us here: once you tell us you're on an M street north of Route 197, our drivers know exactly where they're headed.
+Because Meadowbrook is an easy run — straight up Route 197, or down the BW Parkway depending on the day — we can usually get a 10-yard to you fast. We dispatch every morning, and most addresses are scheduled for next-day delivery when you order by 12 PM — an early call may still make a same-day run. The alliterative Levitt street naming actually helps us here: once you tell us you're on an M street north of Route 197, our drivers know exactly where they're headed.
 
 When the container's full, give us a call and we'll come pull it. No standing appointment to manage, no app to fight with.
 

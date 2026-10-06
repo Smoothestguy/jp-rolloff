@@ -4,7 +4,7 @@ Bladensburg es un trayecto corto para nosotros, así que conocemos bien la zona 
 
 ## Qué cabe en un contenedor de 25 yardas
 
-El de 25 yardas mide 18 pies de largo por 8 de ancho por 6 de alto y carga aproximadamente 10.5 cargas de camioneta pickup de escombros. El precio es por material, así que llámanos para una cotización — lo que pagarás depende de lo que estés tirando. Cada contenedor de 25 yardas incluye entrega, recogida a solicitud y un periodo de renta de 14 días. La recogida es a solicitud — tú llamas para programarla. Los días adicionales están disponibles a solicitud cuando reservas, y los materiales pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa.
+El de 25 yardas mide 18 pies de largo por 8 de ancho por 6 de alto y carga aproximadamente 10.5 cargas de camioneta pickup de escombros. El precio es por material, así que llámanos para una cotización — lo que pagarás depende de lo que estés tirando. Cada contenedor de 25 yardas incluye entrega, recogida a solicitud y un periodo de renta de 14 días. La recogida es a solicitud — tú llamas para programarla. Los días adicionales están disponibles por un cargo diario, y los materiales pesados como las tejas se cotizan por separado porque el peso importa, y los agregados como concreto, tierra y ladrillo solo van en un contenedor designado de 10, 15 o 20 yardas.
 
 Es el paso adelante respecto a nuestros contenedores residenciales de uso diario. Donde un contenedor de 20 yardas se ocupa de la demolición de una cocina y dos baños, el de 25 yardas está hecho para proyectos que generan escombros en mayor cantidad o por más tiempo — el tipo de trabajo en el que de otro modo estarías llamando por una segunda caja más pequeña a mitad del proyecto. La caja más alta y profunda significa volumen de verdad en un espacio manejable: con 18 pies de largo más el despeje para el camión y una puerta trasera abierta, necesita más espacio recto que los tamaños más cortos, y las paredes de 6 pies aguantan mucho. En un lote angosto de Bladensburg ese espacio es el factor decisivo, así que mide dos veces antes de reservar y déjanos revisar el lugar contigo.
 
@@ -27,7 +27,7 @@ Si tu proyecto es más pequeño — un solo baño, un trabajo de piso de un cuar
 
 **Atento a la zona inundable cerca del río.** La geografía de Bladensburg fue moldeada por graves inundaciones del Anacostia en 1933, 1942 y 1954, que llevaron al proyecto de control de inundaciones de finales de los años 50 y a los diques a lo largo de ambas orillas. Los lotes ribereños bajos cerca del corredor del afluente del Anacostia — hacia la frontera con Edmonston y la unión de Port Towns — siguen estando dentro o cerca de la zona inundable, donde el suelo blando o saturado puede ser una preocupación real para asentar un contenedor pesado con seguridad. Si tu sitio queda abajo cerca del agua, revisaremos el terreno antes de dejar la caja.
 
-**Tiempo de traslado.** Bladensburg es un trayecto corto para nosotros, así que despachamos temprano y la mayoría de las direcciones de Bladensburg se programan dentro de las 24 horas. Una llamada temprana aún puede lograr una entrega el mismo día.
+**Tiempo de traslado.** Bladensburg es un trayecto corto para nosotros, así que despachamos temprano y la mayoría de las direcciones de Bladensburg se programan para entrega al día siguiente si ordenas antes de las 12 PM. Una llamada temprana aún puede lograr una entrega el mismo día.
 
 ## Habla con la familia que maneja los camiones
 

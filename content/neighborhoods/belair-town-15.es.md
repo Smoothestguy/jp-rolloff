@@ -4,7 +4,7 @@ Somos JP Roll-Off Service, una empresa familiar de transporte, y Belair Town es 
 
 ## Por qué el de 15 yardas encaja con una casa adosada de Belair Town
 
-El de 15 yardas mide 16 pies de largo por 8 pies de ancho por 4 pies de alto y contiene unas siete cargas de camioneta de escombros. Un contenedor de 15 yardas **incluye entrega, recogida a solicitud y una renta de 14 días — con precio según el material, así que llama para una cotización**. Los días adicionales están disponibles a solicitud cuando reservas, y los materiales densos o pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa.
+El de 15 yardas mide 16 pies de largo por 8 pies de ancho por 4 pies de alto y contiene unas siete cargas de camioneta de escombros. Un contenedor de 15 yardas **incluye entrega, recogida a solicitud y una renta de 14 días — con precio según el material, así que llama para una cotización**. Los días adicionales están disponibles por un cargo diario, y los materiales densos o pesados como concreto, tierra, ladrillo y tejas se cotizan por separado porque el peso importa.
 
 A este lo llamamos el tamaño de "remodelación de una sola habitación", y se gana ese nombre aquí más que casi en cualquier parte de Bowie. El de 15 es el tamaño intermedio — más grande que una limpieza rápida de 10 yardas, pero todavía lo bastante corto y bajo para seguir siendo amigable con el parqueo de la mayoría de las casas. En Belair Town, donde las casas adosadas son modestas y el estacionamiento es apretado, esa huella compacta es justo el punto. Una caja de 30 yardas no tiene por qué estar frente a una casa adosada de muro compartido de finales de los sesenta con frente angosto; los 16 pies de largo del de 15 son mucho más fáciles de meter en un espacio asignado, un parqueo corto o un lugar de colocación aprobado por la HOA sin bloquear el muro de tu vecino.
 
@@ -31,7 +31,7 @@ Como cada una de estas casas salió del mismo catálogo de Levitt y comparte la 
 
 **Cómo encontrar tu puerta.** La entrada principal es por Race Track Road desde Annapolis Road (Route 450); la entrada de Belair Town II está cerca de esa intersección, y las calles dentro del vecindario incluyen Morningside Lane. Ese patrón de acceso significa que nuestros camiones trabajan por calles residenciales desde Race Track Road en lugar de avenidas amplias para llegar a tu unidad, así que una dirección clara y un cruce conocido mantienen la entrega en movimiento por un vecindario apretado de muro compartido.
 
-**Tiempo de manejo.** Despachamos cada mañana por la Route 197 o la BW Parkway. La mayoría de las direcciones de Belair Town se programan dentro de 24 horas, y una llamada temprana puede aún lograr una entrega el mismo día.
+**Tiempo de manejo.** Despachamos cada mañana por la Route 197 o la BW Parkway. La mayoría de las direcciones de Belair Town se programan para entrega al día siguiente si ordenas antes de las 12 PM, y una llamada temprana puede aún lograr una entrega el mismo día.
 
 ## Habla con la familia que maneja los camiones
 

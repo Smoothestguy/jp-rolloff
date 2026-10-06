@@ -4,7 +4,7 @@ Kenilworth is the "K" section of Levitt & Sons' Belair at Bowie — the signatur
 
 ## What fits in a 10-yard dumpster
 
-The 10-yard measures 12 ft long by 8 ft wide by 4 ft tall. It holds about three pickup-truck loads of debris. Pricing is per material, so the 10-yard is quote-based — call and tell us what is going in and we will price it for your material. **Every 10-yard includes delivery, pickup on request, and a 14-day rental.** Extra days are available on request when you book, and dense, heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
+The 10-yard measures 12 ft long by 8 ft wide by 4 ft tall. It holds about three pickup-truck loads of debris. Pricing is per material, so the 10-yard is quote-based — call and tell us what is going in and we will price it for your material. **Every 10-yard includes delivery, pickup on request, and a 14-day rental.** Extra days are available for a daily charge, and dense, heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
 
 The low 4-foot walls are the quiet advantage on a small job. You can walk right up to the side and drop debris in without a ramp or an overhead heave, which matters when you are loading the dense, heavy material a 1960s Levitt house tends to produce — old ceramic tile, plaster, a cast-iron tub, sod and dirt. The 10-yard is matched to that kind of focused work: one room, one corner, one weekend. The container's footprint is the smallest we offer — it fits a single car spot — so it tucks onto a Kenilworth driveway without swallowing the whole thing. If your project turns out to be bigger than one room, we will steer you to a 15 or a 20 instead. But for the four jobs below, the 10 is the honest pick.
 
@@ -12,7 +12,7 @@ The low 4-foot walls are the quiet advantage on a small job. You can walk right 
 
 This is the size people call the "garage cleanout" container, and that is the call we field most often here. The Levitt models in Belair came standard with an integral garage and a private driveway, so almost every Kenilworth home has a garage to clear and a place to set the box. The four jobs that land squarely in a 10-yard around Kenilworth:
 
-- **Garage cleanouts.** Sixty years in the same Levitt house adds up to a garage full of old paint, lumber scraps, broken tools, and boxes. A single integral garage empties into a 10-yard about right, without paying for space you will not use.
+- **Garage cleanouts.** Sixty years in the same Levitt house adds up to a garage full of old bikes, lumber scraps, broken tools, and boxes. A single integral garage empties into a 10-yard about right, without paying for space you will not use.
 - **Bathroom remodels.** A single-bath gut in one of these early-1960s homes — original tile, the tub, the vanity, drywall, and subfloor — is the textbook 10-yard job. The dense tile and plaster from one bathroom fit comfortably — just mention the heavy material when you call, since it is quoted separately.
 - **Yard waste and trees.** Brush, branches, sod, and a removed tree or two from a mature Kenilworth lot load neatly over the low walls. Green and wet yard debris is heavy, so plan on a single yard's worth.
 - **Estate downsize.** When a longtime Kenilworth home changes hands — and given how many original owners and families have held these Levitt houses, that happens often — a 10-yard handles the furniture, household goods, and accumulated clutter of a measured downsize, rather than a full whole-house clear-out.
@@ -21,13 +21,13 @@ If you are remodeling a whole kitchen, tearing off a roof, or gutting a basement
 
 ## Local logistics: placement, permits, and drive time
 
-**Driveway placement is the default in Kenilworth, and the neighborhood makes it easy.** Because every Belair Levitt model came with its own private driveway, almost no one here needs to set a container in the street. That is the single biggest reason a Kenilworth job stays simple. A 10-yard needs about 12 feet of straight length plus a little clearance and a clear swing for the rear door — which a standard Kenilworth driveway handles comfortably. Roll-off dumpsters and delivery trucks are heavy and may damage some surfaces, so protecting the driveway or placement area before delivery is the customer's responsibility. If you're unsure about placement, call our office before scheduling.
+**Driveway placement is the default in Kenilworth, and the neighborhood makes it easy.** Because every Belair Levitt model came with its own private driveway, almost no one here needs to set a container in the street. That is the single biggest reason a Kenilworth job stays simple. A 10-yard needs about 12 feet of straight length plus a little clearance and a clear swing for the rear door (the truck itself needs roughly 44 feet of straight-line access to set it; smaller trucks are available for tight spots) — which a standard Kenilworth driveway handles comfortably. Roll-off dumpsters and delivery trucks are heavy and may damage some surfaces, so protecting the driveway or placement area before delivery is the customer's responsibility. If you're unsure about placement, call our office before scheduling.
 
 **The Bowie permit rule.** The City of Bowie requires a right-of-way permit only when a dumpster sits in a city street. A container on your own driveway or on HOA-approved staging does **not** need one. Since on-driveway placement is the norm here, most Kenilworth jobs never trigger a permit at all. If your specific address is the rare case that needs the box in the street, Bowie's Public Works Department handles right-of-way permitting and can be reached at 301-809-2344; customers are responsible for determining whether a permit is required and obtaining it before delivery.
 
 **A note on associations.** Bowie's Levitt sections, including Kenilworth, are generally served by voluntary civic associations rather than dues-mandatory HOAs with architectural-approval gatekeeping. In practice that means staging a dumpster on your own driveway is rarely an issue. Still, it is worth a quick check with your own association before delivery day, and we are happy to work around whatever they ask.
 
-**Drive time.** Kenilworth is an easy run up Route 197 or the BW Parkway. We dispatch every morning, so most addresses here are scheduled within 24 hours, and an early call may still make a same-day run.
+**Drive time.** Kenilworth is an easy run up Route 197 or the BW Parkway. We dispatch every morning, so most addresses here are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

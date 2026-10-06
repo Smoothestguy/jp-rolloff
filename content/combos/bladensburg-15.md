@@ -2,7 +2,7 @@ When a single-room project in Bladensburg outgrows a pile of contractor bags but
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures roughly 16 feet long, 8 feet wide, and 4 feet tall. That holds about seven pickup-truck loads of debris. Pricing is per material — for construction debris a 15-yard includes delivery, pickup on request, and a 14-day rental, priced by material, so call for a quote. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request, so you call us when you're ready and we schedule the haul.
+The 15-yard measures roughly 16 feet long, 8 feet wide, and 4 feet tall. That holds about seven pickup-truck loads of debris. Pricing is per material — for construction debris a 15-yard includes delivery, pickup on request, and a 14-day rental, priced by material, so call for a quote. Additional days are available for a daily charge, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request, so you call us when you're ready and we schedule the haul.
 
 The four-foot walls matter as much as the volume. You can load this size by hand or with a wheelbarrow without heaving everything over your head, which is why it's the go-to for a one-room job where a crew is moving steadily over a few days. It's the size we describe as the "single-room reno" bin: enough room for the demo from one kitchen or two baths, not so much that you're staring at half an empty box on pickup day.
 
@@ -29,7 +29,7 @@ Two local quirks shape where the bin can actually sit. First, this is flood coun
 
 Bladensburg is a short run for us, so getting a 15 to you, swapping it, or hauling it on pickup day is straightforward. The town sits about a mile from the D.C. line, with Annapolis Road (MD Route 450) as the main spine and the residential blocks fanning out east of it — a compact layout we know well.
 
-Because we're family-owned, the owners answer the phone. There's no call center between you and the people who actually drive the truck and set the box. That matters on a tight Bladensburg lot, where a two-minute conversation about your driveway width, your ground surface, and whether you're near the floodplain can save a headache on delivery day.
+Because we're family-owned, the family answers the phone. There's no call center between you and the people who actually drive the truck and set the box. That matters on a tight Bladensburg lot, where a two-minute conversation about your driveway width, your ground surface, and whether you're near the floodplain can save a headache on delivery day.
 
 ## Ready when you are
 

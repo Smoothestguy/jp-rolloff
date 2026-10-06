@@ -4,7 +4,7 @@ Bladensburg is a short run for us, so we know the Port Towns end of the county w
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard measures 18 ft long by 8 ft wide by 6 ft tall and holds roughly 10.5 pickup-truck loads of debris. Pricing is per material, so call for a quote — what you'll pay depends on what you're throwing away. Every 25-yard includes delivery, pickup on request, and a 14-day rental. Pickup is on request — you call to schedule it. Additional days are available on request when you book, and heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
+The 25-yard measures 18 ft long by 8 ft wide by 6 ft tall and holds roughly 10.5 pickup-truck loads of debris. Pricing is per material, so call for a quote — what you'll pay depends on what you're throwing away. Every 25-yard includes delivery, pickup on request, and a 14-day rental. Pickup is on request — you call to schedule it. Additional days are available for a daily charge, and heavy materials such as shingles are quoted separately because weight matters, and aggregates such as concrete, dirt, and brick go only in a designated 10-, 15-, or 20-yard container.
 
 It's the step up from our everyday residential containers. Where a 20-yard handles a kitchen-and-two-baths gut, the 25-yard is built for projects that generate debris on a larger or longer timeline — the kind where you'd otherwise be calling for a second smaller box halfway through. The taller, deeper box means real volume in a manageable footprint: at 18 feet of length plus clearance for the truck and an open rear door, it needs more straight room than the shorter sizes, and the 6-foot walls hold a lot. On a narrow Bladensburg lot that footprint is the deciding factor, so measure twice before booking, and let us look at the spot with you.
 
@@ -27,7 +27,7 @@ If your project is smaller — a single bath, a one-room flooring job — we'll 
 
 **Mind the floodplain near the river.** Bladensburg's geography was shaped by serious Anacostia flooding in 1933, 1942, and 1954, which led to the late-1950s flood-control project and the levees along both banks. Low-lying riverside parcels near the Anacostia tributary corridor — out toward the Edmonston border and the Port Towns junction — still sit in or near the floodplain, where soft or saturated ground can be a real concern for setting a heavy container safely. If your site is down near the water, we'll check the footing before we drop the box.
 
-**Drive time.** Bladensburg is a short run for us, so we dispatch early and most Bladensburg addresses are scheduled within 24 hours. An early call may still make a same-day run.
+**Drive time.** Bladensburg is a short run for us, so we dispatch early and most Bladensburg addresses are scheduled for next-day delivery when you order by 12 PM. An early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

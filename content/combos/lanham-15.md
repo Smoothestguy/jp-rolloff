@@ -1,4 +1,4 @@
-When a single-room project in Lanham outgrows a small bin but doesn't need a monster container hogging your whole driveway, the 15-yard roll-off is usually the right call. We're JP Roll-Off Service, a family-owned hauler, and the 15-yard is the size we drop most often for homeowners mid-renovation. It measures about 16 feet long by 8 feet wide by 4 feet tall, and holds roughly seven pickup-truck loads. Pricing is per material, so call for a quote rather than expecting one flat rate. Every 15-yard includes delivery and a 14-day rental. Pickup is on request — just call when you're ready. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
+When a single-room project in Lanham outgrows a small bin but doesn't need a monster container hogging your whole driveway, the 15-yard roll-off is usually the right call. We're JP Roll-Off Service, a family-owned hauler, and the 15-yard is the size we drop most often for homeowners mid-renovation. It measures about 16 feet long by 8 feet wide by 4 feet tall, and holds roughly seven pickup-truck loads. Pricing is per material, so call for a quote rather than expecting one flat rate. Every 15-yard includes delivery and a 14-day rental. Pickup is on request — just call when you're ready. Additional days are available for a daily charge, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
 
 ## What fits in a 15-yard dumpster
 
@@ -27,8 +27,8 @@ Lanham is an unincorporated community in Prince George's County (ZIP 20706), so 
 
 One thing worth flagging: the western edge of Lanham runs up against the City of Glenarden along MD Route 704 (Martin Luther King Jr. Highway), and Glenarden is an incorporated city with its own placement authority. If your address sits right on that line, keep in mind that the rules can differ from one side of the street to the other; customers are responsible for determining whether a permit is required and obtaining it before delivery.
 
-As for getting there, we're close. Lanham is an easy run via Route 450 or the BW Parkway, so we can keep delivery and pickup windows tight and swing back quickly when you're ready for the haul-away.
+As for getting there, we're close. Lanham is an easy run via Route 450 or the BW Parkway, so delivery and pickup are straightforward to schedule — just call when you're ready for the haul-away.
 
 ## Ready when you are
 
-Because we're family-owned, the person who answers the phone is one of the owners — not a call center reading off a script. We'll talk through your project and confirm the 15-yard is the right size. Call us at **(301) 252-3586** to get your Lanham 15-yard scheduled.
+Because we're family-owned, the person who picks up the phone is part of the family that runs JP Roll-Off — not a call center reading off a script. We'll talk through your project and confirm the 15-yard is the right size. Call us at **(301) 252-3586** to get your Lanham 15-yard scheduled.

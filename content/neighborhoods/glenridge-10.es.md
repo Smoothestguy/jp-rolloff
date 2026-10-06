@@ -1,6 +1,6 @@
 Glenridge es uno de los rincones más pequeños de todo Belair at Bowie — una "sección G" de fase tardía que Levitt construyó en 1969, con apenas un par de docenas de casas coloniales a lo largo de calles interiores tranquilas como Galaxy Lane y Gradys Walk. Cada una de esas casas ya pasó la marca de los 55 años, y esa edad se nota en el tipo de trabajo para el que nos llaman aquí: cocinas y baños originales que se sacan, ventanas de un solo vidrio que se reemplazan, techos viejos que se desmontan, y décadas de desorden en garajes y áticos que por fin llegan a la acera. Para un proyecto de una sola habitación como ese, el contenedor roll-off de 10 yardas casi siempre es la elección correcta. Es nuestra medida de "limpieza de garaje" — el espacio más compacto que manejamos — y cabe en un solo lugar de auto en tu parqueo sin que pagues por aire vacío que nunca vas a llenar.
 
-Somos JP Roll-Off Service, una empresa familiar de acarreo. Cuando llamas, te contesta uno de los dueños — no un centro de llamadas — y Glenridge es un trayecto fácil para nosotros subiendo por la Route 197 o la BW Parkway. Despachamos cada mañana, así que la mayoría de las direcciones aquí se programan dentro de 24 horas, y una llamada temprana todavía puede lograr una entrega el mismo día cuando tenemos el contenedor disponible.
+Somos JP Roll-Off Service, una empresa familiar de acarreo. Cuando llamas, te contesta la familia que opera JP Roll-Off — no un centro de llamadas — y Glenridge es un trayecto fácil para nosotros subiendo por la Route 197 o la BW Parkway. Despachamos cada mañana, así que la mayoría de las direcciones aquí se programan para entrega al día siguiente si ordenas antes de las 12 PM, y una llamada temprana todavía puede lograr una entrega el mismo día cuando tenemos el contenedor disponible.
 
 ## Por qué las 10 yardas le quedan a las casas de Glenridge
 
@@ -12,7 +12,7 @@ La mayoría de estas casas se construyeron con un parqueo privado y un garaje ad
 
 ## Trabajos para los que sirve el de 10 yardas en Glenridge
 
-**Limpieza de garaje.** Este es el trabajo que le da nombre al contenedor. Más de cincuenta años en una colonial Levitt significa un garaje repleto de latas de pintura viejas, equipo de jardín roto, madera contrachapada deformada y cajas que nadie ha abierto desde la administración de Carter. Las paredes bajas del de 10 yardas facilitan caminar las cosas directamente adentro.
+**Limpieza de garaje.** Este es el trabajo que le da nombre al contenedor. Más de cincuenta años en una colonial Levitt significa un garaje repleto de bicicletas viejas, equipo de jardín roto, madera contrachapada deformada y cajas que nadie ha abierto desde la administración de Carter. Las paredes bajas del de 10 yardas facilitan caminar las cosas directamente adentro.
 
 **Remodelación de baño.** Un baño completo demolido — tocador, tina o panel, azulejo, panel de yeso y el subsuelo viejo — cabe perfectamente. Esos baños originales de 1969 son exactamente el tipo de proyecto para el que se dimensionó el de 10 yardas.
 
@@ -30,9 +30,9 @@ Cuando hacemos la entrega, colocamos el contenedor donde lo quieras. Dinos hacia
 
 ## Lo que cuesta
 
-Para Glenridge, un contenedor de 10 yardas **incluye entrega, recogida a solicitud y un periodo de renta de 14 días — con precio según el material, así que llama para una cotización**. ¿Lo necesitas por más tiempo? Los días extra están disponibles a solicitud cuando reservas. La recogida es a solicitud — danos una llamada para programarla cuando termines. Si un trabajo sale pesado (el concreto, las tejas viejas de techo y la tierra suman rápido), ese material se cotiza por separado porque el peso importa, y te lo explicaremos en términos claros antes de que te comprometas, para que nada te tome por sorpresa.
+Para Glenridge, un contenedor de 10 yardas **incluye entrega, recogida a solicitud y un periodo de renta de 14 días — con precio según el material, así que llama para una cotización**. ¿Lo necesitas por más tiempo? Los días extra están disponibles por un cargo diario. La recogida es a solicitud — danos una llamada para programarla cuando termines. Si un trabajo sale pesado (el concreto, las tejas viejas de techo y la tierra suman rápido), ese material se cotiza por separado porque el peso importa, y te lo explicaremos en términos claros antes de que te comprometas, para que nada te tome por sorpresa.
 
-Como somos una empresa familiar y despachamos localmente, normalmente podemos ser flexibles con los tiempos — deja el contenedor un viernes para que tengas el fin de semana para trabajar, y regresamos a recogerlo cuando termines.
+Como somos una empresa familiar y despachamos localmente, podemos platicar los tiempos contigo — deja el contenedor un viernes para que tengas el fin de semana para trabajar, y cuando termines llámanos para programar la recogida.
 
 ## Unos consejos honestos antes de reservar
 
@@ -44,4 +44,4 @@ Los materiales pesados son lo único que hay que vigilar con el contenedor peque
 
 Glenridge puede ser una de las secciones más pequeñas de Bowie, pero estas coloniales de 1969 nos mantienen ocupados — siempre hay otra cocina original, otro baño cansado o otro garaje repleto listo para una renovación. Si estás emprendiendo un proyecto de una sola habitación en Galaxy Lane, Gradys Walk o en cualquier parte de la sección G, el roll-off de 10 yardas es la herramienta del tamaño correcto y amigable con el parqueo para el trabajo.
 
-Llama a JP Roll-Off Service al **(301) 252-3586** y uno de los dueños contestará, responderá tus preguntas y pondrá un contenedor en tu parqueo — normalmente al día siguiente, y con una llamada temprana a veces se logra una entrega el mismo día. Somos tus vecinos, y con gusto te ayudaremos a despejarlo todo.
+Llama a JP Roll-Off Service al **(301) 252-3586** y la familia que opera JP Roll-Off contestará, responderá tus preguntas y pondrá un contenedor en tu parqueo — normalmente al día siguiente, y con una llamada temprana a veces se logra una entrega el mismo día. Somos tus vecinos, y con gusto te ayudaremos a despejarlo todo.

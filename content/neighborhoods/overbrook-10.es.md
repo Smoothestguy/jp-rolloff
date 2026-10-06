@@ -1,4 +1,4 @@
-Si vives en una de las calles con nombre con "O" de Overbrook y tienes una sola cochera que vaciar, un baño que demoler o un patio lleno de ramas caídas que despejar, el contenedor roll-off de 10 yardas casi siempre es la caja indicada para el trabajo. Somos JP Roll-Off Service, una empresa familiar, y Overbrook es un trayecto fácil subiendo por la Route 197 o bajando por la BW Parkway. Cargamos los camiones cada mañana, así que la mayoría de las entregas en el 20715 salen dentro de 24 horas, y una llamada temprana todavía puede lograr una entrega el mismo día. Cuando llamas, uno de los dueños contesta el teléfono — no es un centro de llamadas ni un servicio de contestador.
+Si vives en una de las calles con nombre con "O" de Overbrook y tienes una sola cochera que vaciar, un baño que demoler o un patio lleno de ramas caídas que despejar, el contenedor roll-off de 10 yardas casi siempre es la caja indicada para el trabajo. Somos JP Roll-Off Service, una empresa familiar, y Overbrook es un trayecto fácil subiendo por la Route 197 o bajando por la BW Parkway. Cargamos los camiones cada mañana, así que la mayoría de las entregas en el 20715 salen para entrega al día siguiente si ordenas antes de las 12 PM, y una llamada temprana todavía puede lograr una entrega el mismo día. Cuando llamas, la familia que opera JP Roll-Off contesta — no es un centro de llamadas ni un servicio de contestador.
 
 El de 10 yardas es el contenedor más pequeño que manejamos y, en una sección pequeña y consolidada como Overbrook, lo pequeño suele ser exactamente lo que el trabajo necesita.
 
@@ -24,7 +24,7 @@ Si tu situación particular obliga a colocarlo en la calle — un parqueo corto,
 
 Al de 10 yardas lo llamamos el tamaño "limpieza de cochera" por una buena razón. Está hecho para proyectos de una habitación y una sola zona, y eso es la mayor parte de lo que surge en un vecindario de casas Levitt de 55 a 60 años. Algunos de los trabajos que más vemos aquí:
 
-- **Limpieza de cochera.** Décadas en una sola familia — a veces los dueños originales — acumulan cosas rápido. Latas viejas de pintura, equipo de jardín roto, cajas que nunca se desempacaron. Un de 10 yardas se traga una cochera completa para un auto sin dejarte parado junto a un contenedor a medio llenar.
+- **Limpieza de cochera.** Décadas en una sola familia — a veces los dueños originales — acumulan cosas rápido. Bicicletas viejas, equipo de jardín roto, cajas que nunca se desempacaron. Un de 10 yardas se traga una cochera completa para un auto sin dejarte parado junto a un contenedor a medio llenar.
 - **Remodelación de baño.** Los Cape Cods, ranchers y split-levels de Overbrook en su mayoría todavía conservan las distribuciones modestas originales de baño de mediados de los años 60. Saca el viejo lavabo, el azulejo, la tina y el panel de yeso, y el de 10 yardas sostiene los escombros de un solo baño cómodamente.
 - **Desechos de jardín y árboles.** Estas son calles con sombra de árboles, y los árboles maduros significan ramas, maleza y limpieza tras tormentas. El de 10 yardas es una buena opción para un fin de semana despejando ramas o tumbando un árbol problemático — solo vigila el peso, porque la madera mojada y la tierra suman más rápido de lo que crees.
 - **Reducción de patrimonio.** Con estas casas acercándose a los 60 años, una buena parte de nuestras llamadas de Overbrook son familias ordenando la casa de un padre. El de 10 yardas tiene el tamaño justo para despejar una o dos habitaciones a la vez sin pagar por un contenedor pensado para una demolición de casa completa.
@@ -33,7 +33,7 @@ Si tu proyecto es más grande que una o dos habitaciones — una cocina completa
 
 ## Lo que cuesta y lo que incluye
 
-Un de 10 yardas en el área de Overbrook se cotiza por material — llama para una cotización. Los agregados como tierra, concreto y piedra solo están disponibles en los tamaños de 10, 15 y 20 yardas. Cada renta incluye entrega, recogida a solicitud y un periodo de renta de 14 días. ¿Lo necesitas por más tiempo? Los días adicionales están disponibles a solicitud cuando reservas. La recogida es a solicitud — llámanos para programarla cuando termines.
+Un de 10 yardas en el área de Overbrook se cotiza por material — llama para una cotización. Los agregados como tierra, concreto y piedra solo están disponibles en los tamaños de 10, 15 y 20 yardas. Cada renta incluye entrega, recogida a solicitud y un periodo de renta de 14 días. ¿Lo necesitas por más tiempo? Los días adicionales están disponibles por un cargo diario. La recogida es a solicitud — llámanos para programarla cuando termines.
 
 El peso merece una mención rápida, sobre todo para los trabajos de desechos de jardín y remodelación que maneja este tamaño. El desorden doméstico y los escombros generales rara vez son problema. Donde se pone pesado es con material denso — tierra mojada, concreto, piedra, ladrillo o una carga de madera de árbol empapada — y ese tipo de material se cotiza por separado porque el peso importa. Si tu trabajo va por ese lado, menciónalo cuando llames y fijaremos la expectativa correcta de antemano para que sepas qué esperar en la báscula.
 
@@ -41,12 +41,12 @@ Los contenedores roll-off y los camiones de entrega son pesados y pueden dañar 
 
 ## Cómo funciona la programación
 
-Como Overbrook es un trayecto fácil — derecho por la Route 197, o por la BW Parkway según el tráfico — normalmente podemos llevarte un de 10 yardas rápido. Despachamos cada mañana, así que la mayoría de las direcciones aquí se programan dentro de 24 horas, y una llamada temprana todavía puede lograr una entrega el mismo día. La forma de nombrar las calles de la sección O ayuda aquí: en cuanto nos dices que estás en una calle con "O" cerca de la Route 50, nuestros conductores saben exactamente a dónde se dirigen.
+Como Overbrook es un trayecto fácil — derecho por la Route 197, o por la BW Parkway según el tráfico — normalmente podemos llevarte un de 10 yardas rápido. Despachamos cada mañana, así que la mayoría de las direcciones aquí se programan para entrega al día siguiente si ordenas antes de las 12 PM, y una llamada temprana todavía puede lograr una entrega el mismo día. La forma de nombrar las calles de la sección O ayuda aquí: en cuanto nos dices que estás en una calle con "O" cerca de la Route 50, nuestros conductores saben exactamente a dónde se dirigen.
 
 Cuando el contenedor esté lleno, llámanos y vendremos a recogerlo. No hay una cita fija que manejar ni una app con la cual pelear — solo una llamada a las personas que son dueñas de los camiones.
 
 ## Habla con la familia que es dueña de los camiones
 
-Cuando llamas a JP Roll-Off Service, hablas con las personas que son dueñas del negocio y contestan el teléfono. Te preguntaremos por tu trabajo, dónde quieres la caja y si tu parqueo de Overbrook tiene espacio — y la mayoría de las veces lo tiene, lo que te mantiene fuera de la calle estrecha y completamente fuera del proceso de permiso.
+Cuando llamas a JP Roll-Off Service, hablas con la familia que opera el negocio y contesta el teléfono. Te preguntaremos por tu trabajo, dónde quieres la caja y si tu parqueo de Overbrook tiene espacio — y la mayoría de las veces lo tiene, lo que te mantiene fuera de la calle estrecha y completamente fuera del proceso de permiso.
 
 ¿Listo para reservar un de 10 yardas, o solo quieres conversar si es el tamaño correcto para tu proyecto en Overbrook? Llámanos al **(301) 252-3586** y te dejamos todo listo.

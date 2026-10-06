@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler, and Whitehall is an easy run 
 
 ## What fits in a 20-yard dumpster
 
-The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material — priced by what you're throwing away, so call for a quote — and the rental includes delivery, pickup on request, and a 14-day rental. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters. Aggregates like concrete, brick, and dirt are only accepted in the 10, 15, and 20-yard sizes.
+The 20-yard measures 22 ft long by 8 ft wide by 4 ft tall and holds roughly nine pickup-truck loads of debris. Pricing is per material — priced by what you're throwing away, so call for a quote — and the rental includes delivery, pickup on request, and a 14-day rental. Additional days are available for a daily charge, and dense or heavy materials such as concrete, dirt, brick, and shingles are quoted separately because weight matters. Aggregates like concrete, brick, and dirt are only accepted in the 10, 15, and 20-yard sizes.
 
 The four-foot wall height is the part people underestimate. It is low enough that you can still walk debris up and toss it over the side without a ramp, but the 22-foot length swallows the volume of a genuine project. That balance is why the 20-yard sits in the sweet spot for so many homes in the W section: bigger than a quick-cleanup 10 or 15-yard, but short of the oversized 30-yard that mostly makes sense for new construction or full structural demolition. It is one of our most versatile sizes — and one customers rarely regret. It has earned the nickname the "whole-house cleanout" size for good reason.
 
@@ -23,7 +23,7 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 ## Placement, permits, and the golf-course question
 
-**Driveway placement.** Whitehall homes sit on private driveways, and most of these mid-1960s lots offer a two-car driveway. A 20-yard fits most two-car driveways with room to spare. It needs roughly 22 feet of straight length plus a few feet of clearance and an open swing for the rear door. Roll-off dumpsters and delivery trucks are heavy and may damage some surfaces, so protecting the driveway or placement area before delivery is the customer's responsibility. If you're unsure about placement, call our office before scheduling.
+**Driveway placement.** Whitehall homes sit on private driveways, and most of these mid-1960s lots offer a two-car driveway. A 20-yard fits most two-car driveways with room to spare. It needs roughly 22 feet of straight length plus a few feet of clearance and an open swing for the rear door (the truck itself needs roughly 44 feet of straight-line access to set it; smaller trucks are available for tight spots). Roll-off dumpsters and delivery trucks are heavy and may damage some surfaces, so protecting the driveway or placement area before delivery is the customer's responsibility. If you're unsure about placement, call our office before scheduling.
 
 **Lots backing the Bowie Golf Club.** This is the planning wrinkle that sets Whitehall apart from other Bowie sections. Whitehall directly borders the public 18-hole Bowie Golf Club, the city-owned course at 7420 Laurel Bowie Road (MD 197). If your home backs onto the course, staging debris near that rear boundary gets complicated fast, and dragging material around the house to the back is rarely worth it. On those lots we almost always recommend keeping the dumpster up front on the driveway and working debris forward — it keeps the container off the course-side property line entirely and makes pickup straightforward. Tell us if you back the golf club and we will plan placement around it before the truck rolls.
 
@@ -31,7 +31,7 @@ If your project is smaller — a single bathroom, a garage purge, a few rooms of
 
 **A note on the local association.** Whitehall is an established, non-gated Levitt section, not an amenity-controlled or gated community, so placement is usually a simple driveway conversation. If a homeowners or civic association covers your block and you are unsure about staging rules, it is worth a quick check with the local association before delivery day — and we are glad to work around whatever they ask.
 
-**Drive time and getting around.** We dispatch every morning by Route 197 or the BW Parkway, so we know exactly where these W streets are and how the section sits against the golf club. Whitehall is part of Bowie, which spans ZIP codes 20715 and 20716 — we go by the address rather than the ZIP, so just give us the street and number. Most addresses here are scheduled within 24 hours, and an early call may still make a same-day run.
+**Drive time and getting around.** We dispatch every morning by Route 197 or the BW Parkway, so we know exactly where these W streets are and how the section sits against the golf club. Whitehall is part of Bowie, which spans ZIP codes 20715 and 20716 — we go by the address rather than the ZIP, so just give us the street and number. Most addresses here are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

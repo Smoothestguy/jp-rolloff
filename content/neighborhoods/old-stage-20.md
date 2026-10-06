@@ -19,7 +19,7 @@ That's worth knowing because of how Bowie's rules work. The City of Bowie only r
 
 ## What it costs
 
-Pricing is per material, so the rate depends on what you're throwing away — call for a quote and we'll give you a straight number for your job. For the 20-yard in Old Stage, other materials are priced separately, and aggregates like concrete, dirt, and brick are only accepted in the 10, 15, and 20-yard sizes. Every rental includes delivery, pickup, and a 14-day rental; if you need the container longer, just ask when you book. Pickup is on request — give us a call when you're ready and we'll schedule it. Weight is rarely an issue at this size, but if you're loading something unusually heavy, like a lot of tile, plaster, or wet roofing, we'll talk it through up front.
+Pricing is per material, so the rate depends on what you're throwing away — call for a quote and we'll give you a straight number for your job. For the 20-yard in Old Stage, other materials are priced separately, and aggregates like concrete, dirt, and brick are only accepted in the 10, 15, and 20-yard sizes. Every rental includes delivery, pickup, and a 14-day rental; if you need it longer, additional days are available for a daily charge. Pickup is on request — give us a call when you're ready and we'll schedule it. Weight is rarely an issue at this size, but if you're loading something unusually heavy, like a lot of tile, plaster, or wet roofing, we'll talk it through up front.
 
 ## Loading tips for a remodel or cleanout
 
@@ -29,6 +29,6 @@ For estate cleanouts especially, give yourself a little more time than you think
 
 ## Next-day service
 
-We dispatch every morning, and Old Stage is an easy run via Route 197 or the BW Parkway. Most addresses here are scheduled within 24 hours, and an early call may still make a same-day run. Because we're family-owned, the person who answers the phone is one of the owners, not a call center reading from a script. We'll help you figure out whether the 20-yard is right for your whole-house cleanout, your multi-room remodel, your estate project, or your roof — and if a different size makes more sense, we'll tell you that too.
+We dispatch every morning, and Old Stage is an easy run via Route 197 or the BW Parkway. Most addresses here are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run. Because we're family-owned, the person who picks up the phone is part of the family that runs JP Roll-Off, not a call center reading from a script. We'll help you figure out whether the 20-yard is right for your whole-house cleanout, your multi-room remodel, your estate project, or your roof — and if a different size makes more sense, we'll tell you that too.
 
-When you're ready to get a 20-yard dumpster on your Old Stage driveway, call us at **(301) 252-3586**. We'll give you a straight price, a clear delivery window, and a container that's actually sized for the job.
+When you're ready to get a 20-yard dumpster on your Old Stage driveway, call us at **(301) 252-3586**. We'll give you a straight price, a clear delivery day, and a container that's actually sized for the job.

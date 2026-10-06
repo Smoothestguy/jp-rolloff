@@ -2,7 +2,7 @@ When a project in Riverdale Park outgrows a 10-yard bin but doesn't quite need a
 
 ## What fits in a 15-yard dumpster
 
-The 15-yard measures roughly 16 feet long, 8 feet wide, and 4 feet tall. That holds about seven pickup-truck loads of debris. Pricing is per material, so call us for a quote on your specific load. That price covers delivery, pickup, and a 14-day rental. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request, so you call us to schedule the haul when you're done.
+The 15-yard measures roughly 16 feet long, 8 feet wide, and 4 feet tall. That holds about seven pickup-truck loads of debris. Pricing is per material, so call us for a quote on your specific load. That price covers delivery, pickup, and a 14-day rental. Additional days are available for a daily charge, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request, so you call us to schedule the haul when you're done.
 
 The four-foot wall height is the part homeowners appreciate most. It's low enough to toss in drywall, flooring, cabinets, and bagged debris over the side without a struggle, but the footprint still fits the modest driveways that are common across town. When Riverdale Park was platted back in 1889 as a railroad "villa park," the original sections were laid out with fairly uniform lots and setbacks, which means a lot of homes here have narrow, consistent frontages and short driveways. The 15-yard is sized to work with that, not fight it.
 
@@ -29,10 +29,10 @@ Placement is the first thing to sort out. If the dumpster goes on your own drive
 
 Driveway space is worth thinking through ahead of time given how the town is built. Lots in the original sections tend to have narrow, consistent frontages and shorter driveways, and parts of town near the Anacostia floodplain butt up against reserved parkland and the Northeast Branch Trail, which limits how lots are arranged. We've dropped cans all over Riverdale Park, from the historic blocks around the Riversdale Mansion to the newer townhomes and apartments near The Station at Riverdale Park development by the Whole Foods and the MARC stop, so if you're unsure where the can will fit, tell us about the spot and we'll help you plan it.
 
-The good news on timing: we're close. Riverdale Park sits just inside the Beltway, so most addresses are scheduled within 24 hours, and an early call may still make a same-day run. Being family-owned and local means we're not routing your job through a regional call center; you're talking to the people who actually run the trucks.
+The good news on timing: we're close. Riverdale Park sits just inside the Beltway, so most addresses are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run. Being family-owned and local means we're not routing your job through a regional call center; you're talking to the people who actually run the trucks.
 
 ## Ready when you are
 
 If you've got a kitchen to remodel, a roof to tear off, a couple of bathrooms to gut, or a basement to clear out, whether from a renovation or a flood, the 15-yard is a sensible, driveway-friendly choice for a Riverdale Park home. We'll confirm the size makes sense for your job and get a clean can dropped where you need it.
 
-When you're ready, call us at (301) 252-3586. The owners answer the phone, we know this town, and we're only ten minutes up the road. Let's get your project hauled.
+When you're ready, call us at (301) 252-3586. The family that runs JP Roll-Off answers the phone, we know this town, and we're only ten minutes up the road. Let's get your project hauled.

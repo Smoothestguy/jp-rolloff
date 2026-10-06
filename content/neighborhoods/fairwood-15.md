@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler, and Fairwood is an easy run b
 
 ## Why the 15-yard fits a Fairwood home
 
-The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds about seven pickup-truck loads of debris. Pricing is per material, so call for a quote on your load. Whatever the material, the drop includes delivery, pickup on request, and a 14-day rental. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request — just call to schedule it.
+The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds about seven pickup-truck loads of debris. Pricing is per material, so call for a quote on your load. Whatever the material, the drop includes delivery, pickup on request, and a 14-day rental. Additional days are available for a daily charge, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request — just call to schedule it.
 
 We call this the "single-room reno" size, and it is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly for most homes. That matters in Fairwood. Many of these single-family homes sit on cul-de-sac or wooded corner lots with tree-lined driveways, and the townhomes in the Retreat and Sanctuary sections have short, shared, or single-width driveways. The 16-foot footprint of the 15 tucks onto a quarter-acre pad or a single-width townhome driveway far more easily than a 20 or 30 would, and on a tighter wooded lot that compact length is often the difference between staging on your own property and not.
 
@@ -29,7 +29,7 @@ Because so many of these homes came from the same handful of builders — NVHome
 
 **Lots and driveways.** Fairwood's quarter-acre detached lots usually give a 15-yard plenty of room on the driveway, but the cul-de-sac, corner, and wooded homesites can come with tree-lined drives and tighter frontage, and the townhomes often have only a single-width or shared driveway to work with. The 15's short footprint helps in all of those cases — give us the spot the HOA has cleared and any tree or width constraints, and we will square the container to fit it. Roll-off dumpsters and delivery trucks are heavy and may damage some surfaces, so protecting the driveway or placement area before delivery is the customer's responsibility. If you're unsure about placement, call our office before scheduling.
 
-**Finding your door and drive time.** Fairwood sits in the City of Bowie in ZIP 20716, about 5 miles from Bowie Town Center and roughly 12 to 16 miles from D.C. via US Route 50. We dispatch every morning by Route 197 or the BW Parkway. Most Fairwood addresses are scheduled inside 24 hours, and an early call may still make a same-day run. A clear address and a known cross-street near the Sycamore Club or your section's entrance keep the delivery moving.
+**Finding your door and drive time.** Fairwood sits in the City of Bowie in ZIP 20716, about 5 miles from Bowie Town Center and roughly 12 to 16 miles from D.C. via US Route 50. We dispatch every morning by Route 197 or the BW Parkway. Most Fairwood addresses are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run. A clear address and a known cross-street near the Sycamore Club or your section's entrance keep the delivery moving.
 
 ## Talk to the family that runs the trucks
 

@@ -1,6 +1,6 @@
 Glenridge is one of the smallest pockets in all of Belair at Bowie — a late-phase "G-section" Levitt built in 1969, with only a couple dozen colonial homes lining quiet interior streets like Galaxy Lane and Gradys Walk. Every one of those houses is now past the 55-year mark, and that age shows up in the kind of work we get called for here: original kitchens and baths coming out, single-pane windows getting swapped, aging roofs stripped, and decades of garage and attic clutter finally hitting the curb. For a one-room project like that, the 10-yard roll-off is almost always the right call. It is our "garage cleanout" size — the smallest footprint we run — and it fits a single car spot on your driveway without making you pay for empty air you'll never fill.
 
-We're JP Roll-Off Service, a family-owned hauler. When you call, one of the owners answers — not a call center — and Glenridge is an easy run for us up Route 197 or the BW Parkway. We dispatch every morning, so most addresses here are scheduled within 24 hours, and an early call may still make a same-day run when we have the can available.
+We're JP Roll-Off Service, a family-owned hauler. When you call, the family that runs JP Roll-Off answers the phone — not a call center — and Glenridge is an easy run for us up Route 197 or the BW Parkway. We dispatch every morning, so most addresses here are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run when we have the can available.
 
 ## Why the 10-yard fits Glenridge homes
 
@@ -12,7 +12,7 @@ Most of these homes were built with a private driveway and an attached or built-
 
 ## Jobs the 10-yard is built for in Glenridge
 
-**Garage cleanout.** This is the can's namesake. Fifty-plus years in a Levitt colonial means a garage packed with old paint cans, broken lawn gear, warped plywood, and boxes nobody's opened since the Carter administration. The 10-yard's low sides make it easy to walk items straight in.
+**Garage cleanout.** This is the can's namesake. Fifty-plus years in a Levitt colonial means a garage packed with old bikes, broken lawn gear, warped plywood, and boxes nobody's opened since the Carter administration. The 10-yard's low sides make it easy to walk items straight in.
 
 **Bathroom remodel.** A single full-bath gut — vanity, tub or surround, tile, drywall, and the old subfloor — fits neatly. These original 1969 baths are exactly the kind of project the 10-yard was sized for.
 
@@ -30,9 +30,9 @@ When we drop off, we'll set the can where you want it. Tell us which way the doo
 
 ## What it costs
 
-For Glenridge, a 10-yard **includes delivery, pickup on request, and a 14-day rental — priced by material, so call for a quote**. Need it longer? Extra days are available on request when you book. Pickup is on request — give us a call to schedule it when you're done. If a job runs heavy (concrete, old roofing shingles, and dirt add up fast), that material is quoted separately because weight matters, and we'll explain it in plain terms before you ever commit, so nothing catches you off guard.
+For Glenridge, a 10-yard **includes delivery, pickup on request, and a 14-day rental — priced by material, so call for a quote**. Need it longer? Extra days are available for a daily charge. Pickup is on request — give us a call to schedule it when you're done. If a job runs heavy (concrete, old roofing shingles, and dirt add up fast), that material is quoted separately because weight matters, and we'll explain it in plain terms before you ever commit, so nothing catches you off guard.
 
-Because we're family-run and dispatch locally, we can usually be flexible on timing — drop the can on a Friday so you've got the weekend to work, and we'll swing back to grab it when you're done.
+Because we're family-run and dispatch locally, we can talk through timing with you — drop the can on a Friday so you've got the weekend to work, then call us when you're done and we'll schedule the pickup.
 
 ## A few honest tips before you book
 
@@ -44,4 +44,4 @@ Heavy materials are the one thing to watch with the small can. A 10-yard gets he
 
 Glenridge may be one of Bowie's smallest sections, but these 1969 colonials keep us busy — there's always another original kitchen, tired bath, or packed garage ready for a refresh. If you're tackling a one-room project on Galaxy Lane, Gradys Walk, or anywhere in the G-section, the 10-yard roll-off is the right-sized, driveway-friendly tool for the job.
 
-Call JP Roll-Off Service at **(301) 252-3586** and one of the owners will pick up, answer your questions, and get a can on your driveway — usually the next day, with an early call sometimes making a same-day run. We're your neighbors, and we'd be glad to help you clear it out.
+Call JP Roll-Off Service at **(301) 252-3586** and the family that runs JP Roll-Off will pick up, answer your questions, and get a can on your driveway — usually the next day, with an early call sometimes making a same-day run. We're your neighbors, and we'd be glad to help you clear it out.

@@ -4,9 +4,9 @@ We are JP Roll-Off Service, a family-owned hauler. College Park is a quick run s
 
 ## What fits in a 30-yard dumpster
 
-The 30-yard is one of the largest boxes we run and the one most people know as the "commercial and demo" size. It measures 22 ft long by 8 ft wide by 6 ft tall and swallows roughly fourteen pickup-truck loads of debris. Pricing is per material — priced by what you're throwing away, so call for a quote. Every 30-yard **includes delivery, pickup on request, and a 14-day rental**. Additional days are available on request when you book, heavy material such as concrete, dirt, brick and shingles is quoted separately because weight matters, and pickup is on request when you call to schedule.
+The 30-yard is one of the largest boxes we run and the one most people know as the "commercial and demo" size. It measures 22 ft long by 8 ft wide by 6 ft tall and swallows roughly fourteen pickup-truck loads of debris. Pricing is per material — priced by what you're throwing away, so call for a quote. Every 30-yard **includes delivery, pickup on request, and a 14-day rental**. Additional days are available for a daily charge, heavy material such as shingles is quoted separately because weight matters, and aggregates such as concrete, dirt, and brick go only in a designated 10-, 15-, or 20-yard container, and pickup is on request when you call to schedule.
 
-The reason to reach for a 30 over a 20 or a 25 is plain arithmetic. When you are gutting an entire structure or clearing a multi-unit building, a smaller container fills before the job is half done, and a second drop-and-haul costs more than sizing up once. The 30-yard is maximum capacity in a single container — you fill it, we take it, you are done.
+The reason to reach for a 30 over a 20 or a 25 is plain arithmetic. When you are gutting an entire structure or clearing a multi-unit building, a smaller container fills before the job is half done, and a second drop-and-haul costs more than sizing up once. The 30-yard is high capacity in a single container — you fill it, we take it, you are done.
 
 The one thing the 30 asks for in return is room. At 22 feet of box plus the truck, it needs a long, straight run-up to set down and pick up cleanly. In a city this constrained, that run-up is the first thing we ask about when you call.
 
@@ -14,7 +14,7 @@ The one thing the 30 asks for in return is room. At 22 feet of box plus the truc
 
 College Park's housing stock skews old and varied — most homes were built between roughly 1940 and 1969, with the Old Town and Berwyn neighborhoods holding houses well over a hundred years old. That mix of pre-war frame houses, mid-century Cape Cods, ranches, and split-levels keeps gut-remodels and tear-offs common across the city. But the 30-yard is not the cleanout box. It is the box for the jobs where capacity is the whole point:
 
-- **Full demolition.** Taking a structure down to the slab produces framing, roofing, plaster, and masonry all at once. The fourteen-load capacity is built for that volume, where a smaller box would mean hauling in the middle of the job. On the older Calvert Hills and Old Town properties — many of them early-20th-century homes that have been converted to multi-unit rentals — a full interior gut or teardown moves a lot of material fast.
+- **Full demolition.** Taking a structure down to the slab produces framing, roofing, plaster, and trim all at once. The fourteen-load capacity is built for that volume, where a smaller box would mean hauling in the middle of the job. On the older Calvert Hills and Old Town properties — many of them early-20th-century homes that have been converted to multi-unit rentals — a full interior gut or teardown moves a lot of material fast.
 - **Commercial site work.** The Route 1 / Baltimore Avenue corridor is in the middle of a sustained "Greater College Park" redevelopment wave, with motels and strip-mall sites along the development strip being demolished and rebuilt into student-oriented and affordable apartments. That kind of corridor construction and demolition generates exactly the heavy, mixed debris a 30-yard handles in one container.
 - **Bulk waste hauls.** When a single property has piled up more than a cleanout-sized load, the 30 takes it in one pass instead of two.
 - **Multi-family cleanouts.** This is where College Park's calendar shows up. Most off-campus student houses and apartments near the UMD campus corridor run August-to-July leases, so late summer brings a wave of move-out cleanouts, furniture and junk hauling, and landlord turnover work. Clearing several units at once — between tenants, after a sale, or on a turnaround in Berwyn or Hollywood — fills a 30-yard about right and keeps the whole job on one container.
@@ -33,7 +33,7 @@ Closer to campus and up in North College Park, the challenge shifts. Many of tho
 
 **Neighborhood reference points.** If you are working in Old Town, Berwyn, Calvert Hills, Hollywood, along the UMD campus corridor, or on the Route 1 development strip, those are exactly the areas where placement room and the permit question need a closer look. Tell us the cross street or a landmark — the campus, College Park Airport, or a stretch of Baltimore Avenue — and we will picture the approach before we commit a truck to it.
 
-**Drive time.** College Park is a quick run straight down Route 1 for us, so scheduling is fast. We dispatch every morning and most driveway jobs are scheduled within 24 hours, with a little extra lead time when a right-of-way permit is in play. An early call may still make a same-day run.
+**Drive time.** College Park is a quick run straight down Route 1 for us, so scheduling is fast. We dispatch every morning and most driveway jobs are scheduled for next-day delivery when you order by 12 PM, with a little extra lead time when a right-of-way permit is in play. An early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

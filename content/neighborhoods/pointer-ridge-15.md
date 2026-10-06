@@ -4,7 +4,7 @@ We are JP Roll-Off Service, a family-owned hauler, and Pointer Ridge is an easy 
 
 ## Why the 15-yard fits a Pointer Ridge home
 
-The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds about seven pickup-truck loads of debris. Pricing is per material — the 15-yard **includes delivery, pickup, and a 14-day rental, priced by what you are throwing out, so call for a quote**. Additional days are available on request when you book, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request — just call to schedule the haul.
+The 15-yard measures 16 ft long by 8 ft wide by 4 ft tall and holds about seven pickup-truck loads of debris. Pricing is per material — the 15-yard **includes delivery, pickup, and a 14-day rental, priced by what you are throwing out, so call for a quote**. Additional days are available for a daily charge, and dense or heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters. Pickup is on request — just call to schedule the haul.
 
 We call this the "single-room reno" size, and it earns that name on these P-streets. The 15 is the in-between container — bigger than a 10-yard quick cleanup, but still short and low enough to stay driveway-friendly. That matters less for clearance here than it does in Bowie's tighter townhouse enclaves, because Pointer Ridge homes sit on roughly third-of-an-acre lots with private driveways and room to spare. What the 15 really does on a lot this size is keep you from overpaying: it is sized to one defined project rather than a whole-house overhaul, so you are not renting empty air in a 20- or 30-yard box for a job that fills half of it.
 
@@ -31,7 +31,7 @@ Because so many of these homes came out of the same Levitt-era expansion of Bela
 
 **Keeping the school route clear.** Pointer Ridge Elementary sits inside the neighborhood at 1110 Parkington Lane, serving K-5 and within walking distance of many homes. If your address is near the school, we will set the container to keep the sidewalk and the walking route clear — a small thing that matters when kids are coming and going.
 
-**Finding your door.** The all-"P" street naming makes Pointer Ridge instantly readable to a local dispatcher and driver, so a clear address and cross-street get our truck to the right block fast. We dispatch every morning by Route 197 or the BW Parkway. Most Pointer Ridge addresses are scheduled within 24 hours, and an early call may still make a same-day run.
+**Finding your door.** The all-"P" street naming makes Pointer Ridge instantly readable to a local dispatcher and driver, so a clear address and cross-street get our truck to the right block fast. We dispatch every morning by Route 197 or the BW Parkway. Most Pointer Ridge addresses are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run.
 
 ## Talk to the family that runs the trucks
 

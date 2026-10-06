@@ -1,10 +1,10 @@
 Landover is a big-job town, and the 25-yard roll-off is the size built for the big jobs. We run these right up the Beltway, so a 25-yard headed for a home addition near the FedExField corridor or a warehouse cleanout off the Route 202 industrial strip is an easy morning run for us. Landover earns the major-construction container more than most places we serve: it is a large, mostly unincorporated stretch of Prince George's County — population just under 26,000 in 2020 — built out heavily between the mid-1950s and mid-1970s, with the commercial muscle of the Ardwick Industrial Park and Giant Food's longtime distribution operation along Route 50. That mix of aging mid-century homes due for serious work and steady commercial demand is exactly what keeps the 25-yard busy here.
 
-We are JP Roll-Off Service, a family-owned hauler. When you call, the owners answer the phone — there is no call center between you and the people who run the trucks.
+We are JP Roll-Off Service, a family-owned hauler. When you call, the family answers the phone — there is no call center between you and the people who run the trucks.
 
 ## What fits in a 25-yard dumpster
 
-The 25-yard is our major-construction size. It measures 18 ft long by 8 ft wide by 6 ft tall and holds roughly 10.5 pickup-truck loads of debris. Pricing is per material: for construction debris a 25-yard is **quoted separately from other materials, so call for a quote**, and every rental includes delivery and a **14-day rental**. Pickup is on request — give us a call when you are ready and we will come get it. Additional days are available on request when you book, and heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
+The 25-yard is our major-construction size. It measures 18 ft long by 8 ft wide by 6 ft tall and holds roughly 10.5 pickup-truck loads of debris. Pricing is per material: for construction debris a 25-yard is **quoted separately from other materials, so call for a quote**, and every rental includes delivery and a **14-day rental**. Pickup is on request — give us a call when you are ready and we will come get it. Additional days are available for a daily charge, and heavy materials such as shingles are quoted separately because weight matters, and aggregates such as concrete, dirt, and brick go only in a designated 10-, 15-, or 20-yard container.
 
 The step up from a 20-yard is real volume, not just a few extra feet of steel. That added capacity is what keeps one container on site through a project that would otherwise force a second haul partway through. The walls stand a full six feet tall, so there is meaningfully more room to build up a load and the kind of sustained output a major build produces — tall enough that for heavier debris you may want to load from the rear door rather than tip everything over the side.
 
@@ -16,7 +16,7 @@ Much of Landover's housing went up between roughly 1955 and 1975 — split-level
 
 - **Home additions.** Bumping out or building onto a 1960s rancher in Greater Landover throws off framing, old siding, and tear-out debris in the volume this size is meant to hold. For longer driveways and bigger builds, the 25-yard is the size that goes the distance.
 - **Whole-house remodels.** A full gut down to the studs — kitchen, baths, flooring, and drywall pulled at once from a 50-to-70-year-old home — is a classic 25-yard job, the kind where a smaller box would mean a mid-project swap.
-- **Large roofing tear-offs.** Bigger or multi-layer roofs run heavy; heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters, so a heavy asphalt-shingle job stays straightforward.
+- **Large roofing tear-offs.** Bigger or multi-layer roofs run heavy; heavy materials such as shingles are quoted separately because weight matters, and aggregates such as concrete, dirt, and brick go only in a designated 10-, 15-, or 20-yard container, so a heavy asphalt-shingle job stays straightforward.
 - **Commercial cleanouts.** Along the Route 202 industrial strip and the Ardwick-Ardmore corridor, warehouse cleanouts, tenant build-outs, and demolition produce a lot of material fast. The 25-yard handles that pace.
 
 If your project is smaller — a single-room redo or a routine cleanout — a 20-yard or 15-yard is usually the smarter spend, and we will say so. The 25-yard is the right call when the job is genuinely big.
@@ -29,7 +29,7 @@ The wrinkle is **Landover Hills**, the small incorporated town tucked along Anna
 
 Whenever we can, we set the container on a private driveway. It sidesteps the permit question entirely on unincorporated parcels, and on the larger lots common across Greater Landover there is usually room to do it cleanly. We will talk through the spot with you when you call. Roll-off dumpsters and delivery trucks are heavy and may damage some surfaces, so protecting the driveway or placement area before delivery is the customer's responsibility. If you're unsure about placement, call our office before scheduling.
 
-**Drive time.** Landover is right off the Capital Beltway. That proximity means most jobs are scheduled within 24 hours, and an early call may still make a same-day run — the kind of turnaround that keeps an addition or a commercial build on schedule.
+**Drive time.** Landover is right off the Capital Beltway. That proximity means most jobs are scheduled for next-day delivery when you order by 12 PM, and an early call may still make a same-day run — the kind of turnaround that keeps an addition or a commercial build on schedule.
 
 ## Talk to the family that runs the trucks
 

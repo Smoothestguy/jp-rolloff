@@ -4,7 +4,7 @@ A 25-yard container is our "major construction" size, and in Old Town Bowie it e
 
 ## What the 25-yard is built for in Old Town Bowie
 
-The 25-yard measures about 18 feet long, 8 feet wide, and 6 feet tall — roughly ten and a half pickup-truck loads of space. Pricing is per material: construction debris in the 25-yard is priced by material, so call for a quote, with other materials priced separately (aggregates are only offered in the 10-, 15-, and 20-yard sizes). Every rental includes delivery, pickup on request, and a 14-day rental; additional days are available on request when you book, and heavy materials such as concrete, dirt, brick and shingles are quoted separately because weight matters.
+The 25-yard measures about 18 feet long, 8 feet wide, and 6 feet tall — roughly ten and a half pickup-truck loads of space. Pricing is per material: construction debris in the 25-yard is priced by material, so call for a quote, with other materials priced separately (aggregates are only offered in the 10-, 15-, and 20-yard sizes). Every rental includes delivery, pickup on request, and a 14-day rental; additional days are available for a daily charge, and heavy materials such as shingles are quoted separately because weight matters, and aggregates such as concrete, dirt, and brick go only in a designated 10-, 15-, or 20-yard container.
 
 This size makes sense for the larger projects that the district's aging frame houses tend to generate:
 
@@ -31,6 +31,6 @@ It's also worth noting the district is on the upswing. A city-backed revitalizat
 
 ## Next-day service
 
-We dispatch every morning, and Old Town Bowie is an easy run up Route 197 or the BW Parkway. Because we're close, most addresses here are scheduled within 24 hours — and if you call early and we have a container free, an early call may still make a same-day run. We dropped the cookie-cutter approach a long time ago: every quote is for your specific lot and your specific project.
+We dispatch every morning, and Old Town Bowie is an easy run up Route 197 or the BW Parkway. Because we're close, most addresses here are scheduled for next-day delivery when you order by 12 PM — and if you call early and we have a container free, an early call may still make a same-day run. We dropped the cookie-cutter approach a long time ago: every quote is for your specific lot and your specific project.
 
 Being family-owned means when you call, you reach the people who actually own the trucks. No call center, no runaround — just a straight answer about size, price, and where the box should go. If you're planning an addition, a whole-house remodel, a big roofing job, or a commercial cleanout in Old Town Bowie and you think the 25-yard is your size, give us a ring at **(301) 252-3586**. We'll help you confirm it fits your lot, give you the per-material price, and get it dropped — usually the next day.
