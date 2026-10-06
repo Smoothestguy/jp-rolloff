@@ -1,7 +1,7 @@
 ---
 title: "Contact JP Roll-Off Service · Silver Spring, MD & the DMV"
 description: "Contact JP Roll-Off Service: (301) 252-3586 office, (301) 879-7040 secondary line. Serving Silver Spring, MD and the entire DMV. Free quotes, next-day delivery."
-canonical: "https://jprolloff.com/contact"
+canonical: "https://www.jprolloff.com/contact"
 navActive: "/contact"
 ---
 {% extends "base.njk" %}
@@ -33,6 +33,10 @@ navActive: "/contact"
                 <a href="tel:+13018797040" style="display:block; font-family: var(--font-display); font-size: var(--fs-40); color: var(--color-black); letter-spacing: var(--ls-snug);">(301) 879-7040</a>
               </div>
               <div>
+                <span class="eyebrow">Email</span>
+                <a href="mailto:{{ site.email }}" style="display:block; font-size: var(--fs-20); font-weight: 700; color: var(--color-black); line-height: var(--lh-loose);">{{ site.email }}</a>
+              </div>
+              <div>
                 <span class="eyebrow" data-en="Service Area" data-es="Área de Servicio">Service Area</span>
                 <p style="font-size: var(--fs-18); line-height: var(--lh-loose);" data-html data-en="DC Metropolitan Area" data-es="Área Metropolitana de DC">DC Metropolitan Area</p>
               </div>
@@ -50,11 +54,11 @@ navActive: "/contact"
             </div>
             <div class="field"><label for="cf-name" data-en="Full name" data-es="Nombre completo">Full name</label><input id="cf-name" name="name" type="text" autocomplete="name" required /></div>
             <div class="field"><label for="cf-phone" data-en="Phone" data-es="Teléfono">Phone</label><input id="cf-phone" name="phone" type="tel" autocomplete="tel" required /></div>
-            <div class="field field-full"><label for="cf-email" data-en="Email" data-es="Correo electrónico">Email</label><input id="cf-email" name="email" type="email" autocomplete="email" /></div>
+            <div class="field field-full"><label for="cf-email" data-en="Email" data-es="Correo electrónico">Email</label><input id="cf-email" name="email" type="email" autocomplete="email" required /></div>
             <div class="field field-full"><label for="cf-address" data-en="Service address" data-es="Dirección de servicio">Service address</label><input id="cf-address" name="address" type="text" autocomplete="street-address" required /></div>
             <div class="field"><label for="cf-size" data-en="Dumpster size" data-es="Tamaño del contenedor">Dumpster size</label>
               <select id="cf-size" name="size" required>
-                <option value="" data-en="— Select —" data-es="— Selecciona —">— Select —</option><option>10 Yard</option><option>15 Yard</option><option>20 Yard</option><option>25 Yard</option><option>30 Yard</option><option data-en="Not sure — help me pick" data-es="No estoy seguro — ayúdame a elegir">Not sure — help me pick</option>
+                <option value="" data-en="— Select —" data-es="— Selecciona —">— Select —</option><option>10 Yard</option><option>15 Yard</option><option>20 Yard</option><option>25 Yard</option><option>30 Yard</option><option>40 Yard</option><option data-en="Not sure — help me pick" data-es="No estoy seguro — ayúdame a elegir">Not sure — help me pick</option>
               </select>
             </div>
             <div class="field"><label for="cf-date" data-en="Delivery date" data-es="Fecha de entrega">Delivery date</label><input id="cf-date" name="date" type="date" /></div>

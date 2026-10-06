@@ -20,10 +20,10 @@ permalink: "/locations/{{ combo.city.slug }}/{{ combo.size.yd }}-yard/"
   </script>
 <script type="application/ld+json">
   { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://jprolloff.com/" },
-    { "@type": "ListItem", "position": 2, "name": "Service Areas", "item": "https://jprolloff.com/service-areas" },
-    { "@type": "ListItem", "position": 3, "name": "{{ city.name }}", "item": "https://jprolloff.com/locations/{{ city.slug }}" },
-    { "@type": "ListItem", "position": 4, "name": "{{ s.yd }}-Yard Dumpster", "item": "https://jprolloff.com/locations/{{ city.slug }}/{{ s.yd }}-yard" }
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.jprolloff.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Service Areas", "item": "https://www.jprolloff.com/service-areas" },
+    { "@type": "ListItem", "position": 3, "name": "{{ city.name }}", "item": "https://www.jprolloff.com/locations/{{ city.slug }}" },
+    { "@type": "ListItem", "position": 4, "name": "{{ s.yd }}-Yard Dumpster", "item": "https://www.jprolloff.com/locations/{{ city.slug }}/{{ s.yd }}-yard" }
   ]}
   </script>
 {% endblock %}
@@ -58,7 +58,7 @@ permalink: "/locations/{{ combo.city.slug }}/{{ combo.size.yd }}-yard/"
           {{ comboBody | markdown | safe }}
         </div>
         {% endif %}
-        <p style="margin-top: var(--space-8);"><a href="/#quote" class="btn btn-primary" data-en="Get a {{ city.name }} Quote →" data-es="Cotización Gratis en {{ city.name }} →">Get a {{ city.name }} Quote →</a></p>
+        <p style="margin-top: var(--space-8);"><a href="/#quote" data-quote-open class="btn btn-primary" data-en="Get a {{ city.name }} Quote →" data-es="Cotización Gratis en {{ city.name }} →">Get a {{ city.name }} Quote →</a></p>
       </div>
     </section>
     {% endif %}
@@ -80,7 +80,7 @@ permalink: "/locations/{{ combo.city.slug }}/{{ combo.size.yd }}-yard/"
               <li data-en="{{ b.en }}" data-es="{{ b.es }}">{{ b.en }}</li>
               {% endfor %}
             </ul>
-            <a href="/#quote" class="btn btn-primary" data-en="Get a {{ city.name }} Quote →" data-es="Cotización Gratis en {{ city.name }} →">Get a {{ city.name }} Quote →</a>
+            <a href="/#quote" data-quote-open class="btn btn-primary" data-en="Get a {{ city.name }} Quote →" data-es="Cotización Gratis en {{ city.name }} →">Get a {{ city.name }} Quote →</a>
           </div>
           <div class="feature-visual size-visual">
             <img src="/images/dumpster-{{ s.yd }}yd.png" alt="JP Roll-Off {{ s.yd }} yard dumpster in {{ city.name }}, MD" loading="lazy" onerror="this.style.display='none'" />
@@ -95,7 +95,7 @@ permalink: "/locations/{{ combo.city.slug }}/{{ combo.size.yd }}-yard/"
         <div class="faq-list">
           <details class="faq-item" open><summary data-en="Do I need a permit in {{ city.name }}?" data-es="¿Necesito un permiso en {{ city.name }}?">Do I need a permit in {{ city.name }}?</summary><div class="faq-answer" data-en="{{ city.permitRule.en }}" data-es="{{ city.permitRule.es }}">{{ city.permitRule.en }}</div></details>
           {% if city.driveTimeText %}
-          <details class="faq-item"><summary data-en="How fast can you get the {{ s.yd }}-yard to {{ city.name }}?" data-es="¿Qué tan rápido pueden llevar el de {{ s.yd }} yardas a {{ city.name }}?">How fast can you get the {{ s.yd }}-yard to {{ city.name }}?</summary><div class="faq-answer" data-en="{{ city.driveTimeText.en }} We dispatch every morning, so next-day is the default — same-day may be available depending on schedule." data-es="{{ city.driveTimeText.es }} Despachamos cada mañana, así que la entrega al día siguiente es lo habitual — el mismo día puede estar disponible según el horario.">{{ city.driveTimeText.en }} We dispatch every morning, so next-day is the default — same-day may be available depending on schedule.</div></details>
+          <details class="faq-item"><summary data-en="How fast can you get the {{ s.yd }}-yard to {{ city.name }}?" data-es="¿Qué tan rápido pueden llevar el de {{ s.yd }} yardas a {{ city.name }}?">How fast can you get the {{ s.yd }}-yard to {{ city.name }}?</summary><div class="faq-answer" data-en="{{ city.driveTimeText.en }} Order by 12 PM for next-day delivery — same-day may be available depending on location and schedule." data-es="{{ city.driveTimeText.es }} Ordena antes de las 12 PM para entrega al día siguiente — el mismo día puede estar disponible según la ubicación y el horario.">{{ city.driveTimeText.en }} Order by 12 PM for next-day delivery — same-day may be available depending on location and schedule.</div></details>
           {% endif %}
           {% if city.neighborhoods.length %}
           <details class="faq-item"><summary data-en="Which parts of {{ city.name }} do you cover?" data-es="¿Qué partes de {{ city.name }} cubren?">Which parts of {{ city.name }} do you cover?</summary><div class="faq-answer" data-en="All of it — including {{ city.neighborhoods | join(', ') }}. We serve ZIP{% if city.zips.length > 1 %}s{% endif %} {{ city.zips | join(', ') }}." data-es="Toda la ciudad — incluyendo {{ city.neighborhoods | join(', ') }}. Servimos el ZIP{% if city.zips.length > 1 %}s{% endif %} {{ city.zips | join(', ') }}.">All of it — including {{ city.neighborhoods | join(", ") }}. We serve ZIP{% if city.zips.length > 1 %}s{% endif %} {{ city.zips | join(", ") }}.</div></details>
@@ -136,8 +136,8 @@ permalink: "/locations/{{ combo.city.slug }}/{{ combo.size.yd }}-yard/"
     <section class="section">
       <div class="container">
         <div class="cta-band">
-          <div><h2 data-en="Get the {{ s.yd }}-yard to {{ city.name }}." data-es="Lleva el de {{ s.yd }} yardas a {{ city.name }}.">Get the {{ s.yd }}-yard to {{ city.name }}.</h2><p data-en="Call dispatch direct, or send your address and we'll quote on the spot." data-es="Llama directo a despacho, o envía tu dirección y te cotizamos al instante.">Call dispatch direct, or send your address and we'll quote on the spot.</p></div>
-          <div class="cta-band-actions"><a href="tel:+13012523586" class="cta-band-phone">(301) 252-3586</a><a href="/#quote" class="btn btn-lg" data-en="Get a Free Quote →" data-es="Solicita tu Cotización Gratis →">Get a Free Quote →</a></div>
+          <div><h2 data-en="Get the {{ s.yd }}-yard to {{ city.name }}." data-es="Lleva el de {{ s.yd }} yardas a {{ city.name }}.">Get the {{ s.yd }}-yard to {{ city.name }}.</h2><p data-en="Call the office, or send your address and we'll get back to you with a quote." data-es="Llama a la oficina, o envía tu dirección y te respondemos con una cotización.">Call the office, or send your address and we'll get back to you with a quote.</p></div>
+          <div class="cta-band-actions"><a href="tel:+13012523586" class="cta-band-phone">(301) 252-3586</a><a href="/#quote" data-quote-open class="btn btn-lg" data-en="Get a Free Quote →" data-es="Solicita tu Cotización Gratis →">Get a Free Quote →</a></div>
         </div>
       </div>
     </section>

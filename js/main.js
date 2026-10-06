@@ -112,11 +112,13 @@
   }
 
   // ---------- QUICK QUOTE FORM ----------
-  const form = document.querySelector('[data-quote-form]');
-  if (form) {
+  document.querySelectorAll('[data-quote-form]').forEach((form) => {
     form.addEventListener('submit', (e) => {
       e.preventDefault();
+      // Client-side validation: name, phone, and a valid email are required.
+      if (!form.checkValidity()) { form.reportValidity(); return; }
       const data = Object.fromEntries(new FormData(form).entries());
+      if (!data.name || !data.phone || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(data.email || '')) { form.reportValidity(); return; }
       const btn = form.querySelector('button[type="submit"]');
       const original = btn ? btn.textContent : '';
       if (btn) { btn.disabled = true; btn.textContent = 'Sending…'; }
@@ -147,7 +149,7 @@
         setTimeout(() => { if (btn) { btn.disabled = false; btn.textContent = original; } }, 4000);
       });
     });
-  }
+  });
 
   // ---------- TRUCK SCROLL REVEAL ----------
   // Single scrollProgress value (0..1 across the section) drives every animated property.
@@ -564,14 +566,18 @@
       const sizeLabel = (lead.size === 'not-sure' ? 'Not sure — needs help picking' : lead.size + ' Yard')
         + (lead.material === 'aggregate' ? ' (Aggregate)' : '');
 
-      // Show the thank-you immediately, save the lead to the dashboard in the
-      // background, and fall back to a prefilled email only if the save fails.
-      go(5);
+      // Save the lead first; only show the thank-you once the server confirms.
+      // If sending fails, tell the visitor and open a prefilled email as a fallback.
+      const sendErr = qm.querySelector('[data-qm-error-send]');
+      const submitBtn = qm.querySelector('[data-qm-submit]');
+      if (sendErr) sendErr.hidden = true;
+      submitBtn.disabled = true;
       fetch('/api/lead', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ name: lead.name, phone: lead.phone, email: lead.email, address: lead.address, size: sizeLabel, source: 'quote-wizard' })
-      }).then((r) => { if (!r.ok) throw new Error('save failed'); }).catch(() => {
+      }).then((r) => { if (!r.ok) throw new Error('save failed'); go(5); }).catch(() => {
+        if (sendErr) sendErr.hidden = false;
         const body = encodeURIComponent(
           'New quote request from the website:\n\n' +
           'Dumpster: ' + sizeLabel + '\n' +
@@ -586,7 +592,7 @@
         document.body.appendChild(a);
         a.click();
         a.remove();
-      });
+      }).finally(() => { submitBtn.disabled = false; });
     });
   }
 

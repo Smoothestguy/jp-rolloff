@@ -35,11 +35,13 @@ export default [
       { en: "Estate downsize", es: "Reducción de patrimonio" }
     ],
     why: {
-      en: "The smallest footprint — fits a single car spot and handles a one-room cleanout without overpaying for unused space.",
-      es: "La huella más pequeña — cabe en un espacio de auto y maneja la limpieza de una habitación sin pagar de más por espacio sin usar."
+      en: "The smallest footprint — fits a single car spot and handles a one-room cleanout without taking over the driveway.",
+      es: "La huella más pequeña — cabe en un espacio de auto y maneja la limpieza de una habitación sin ocupar todo el parqueo."
     },
-    servicesBlurb:
-      "12 ft × 8 ft × 4 ft · ~3 pickup truck loads. Fits a single car spot. Built for the garage cleanout, the single-bathroom remodel, the yard-waste haul, and the estate downsize. Our smallest container.",
+    servicesBlurb: {
+      en: "12 ft × 8 ft × 4 ft · ~3 pickup truck loads. Fits a single car spot. Built for the garage cleanout, the single-bathroom remodel, the yard-waste haul, and the estate downsize. Our smallest container.",
+      es: "12 ft × 8 ft × 4 ft · ~3 cargas de camioneta. Cabe en un solo lugar de auto. Hecho para la limpieza de garaje, la remodelación de un baño, el acarreo de desechos de jardín y la reducción de patrimonio. Nuestro contenedor más pequeño."
+    },
     // Client size-level boilerplate (lifted from the 2026-09 Word docs; EN/ES).
     // Rendered on every city×size and neighborhood×size page via _includes/client-copy.njk.
     clientCopy: {
@@ -172,8 +174,10 @@ export default [
       en: "The in-between size — bigger than 10 but still driveway-friendly for most homes.",
       es: "El tamaño intermedio — más grande que 10 pero aún cabe en la mayoría de los parqueos."
     },
-    servicesBlurb:
-      "16 ft × 8 ft × 4 ft · ~7 pickup loads. Bigger than a 10 but still driveway-friendly for most homes. Kitchen remodels, roofing tear-offs, two-bath gut jobs, basement cleanouts.",
+    servicesBlurb: {
+      en: "16 ft × 8 ft × 4 ft · ~7 pickup loads. Bigger than a 10 but still driveway-friendly for most homes. Kitchen remodels, roofing tear-offs, two-bath gut jobs, basement cleanouts.",
+      es: "16 ft × 8 ft × 4 ft · ~7 cargas de camioneta. Más grande que un 10 pero aún cabe en el parqueo de la mayoría de las casas. Remodelaciones de cocina, remociones de techo, demolición de dos baños, limpiezas de sótano."
+    },
     // Client size-level boilerplate (lifted from the 2026-09 Word docs; EN/ES).
     // Rendered on every city×size and neighborhood×size page via _includes/client-copy.njk.
     clientCopy: {
@@ -306,8 +310,10 @@ export default [
       en: "A whole-house favorite — and our top pick for aggregates, since heavy material is limited to the 10/15/20-yard bins.",
       es: "Un favorito para casas completas — y nuestra mejor opción para agregados, ya que el material pesado se limita a los contenedores de 10/15/20 yardas."
     },
-    servicesBlurb:
-      "22 ft × 8 ft × 4 ft · ~9 pickup loads. A whole-house workhorse. Whole-house cleanouts, multi-room remodels, mid-size roofing, estate cleanouts — and our go-to size for aggregates.",
+    servicesBlurb: {
+      en: "22 ft × 8 ft × 4 ft · ~9 pickup loads. A whole-house workhorse. Whole-house cleanouts, multi-room remodels, mid-size roofing, estate cleanouts — and our go-to size for aggregates.",
+      es: "22 ft × 8 ft × 4 ft · ~9 cargas de camioneta. El caballo de batalla para casas completas. Limpiezas de casa completa, remodelaciones de varias habitaciones, techos medianos, limpiezas de patrimonio — y nuestro tamaño preferido para agregados."
+    },
     // Client size-level boilerplate (lifted from the 2026-09 Word docs; EN/ES).
     // Rendered on every city×size and neighborhood×size page via _includes/client-copy.njk.
     clientCopy: {
@@ -440,8 +446,10 @@ export default [
       en: "For bigger builds and tear-outs — taller walls mean more volume in a shorter footprint.",
       es: "Para construcciones y demoliciones más grandes — paredes más altas significan más volumen en una huella más corta."
     },
-    servicesBlurb:
-      "18 ft × 8 ft × 6 ft · ~10.5 pickup loads. Home additions, whole-house remodels, large roofing jobs, commercial cleanouts. Taller walls pack more volume into a shorter footprint.",
+    servicesBlurb: {
+      en: "18 ft × 8 ft × 6 ft · ~10.5 pickup loads. Home additions, whole-house remodels, large roofing jobs, commercial cleanouts. Taller walls pack more volume into a shorter footprint.",
+      es: "18 ft × 8 ft × 6 ft · ~10.5 cargas de camioneta. Ampliaciones de casa, remodelaciones completas, techos grandes, limpiezas comerciales. Las paredes más altas concentran más volumen en menos largo."
+    },
     // Client size-level boilerplate (lifted from the 2026-09 Word docs; EN/ES).
     // Rendered on every city×size and neighborhood×size page via _includes/client-copy.njk.
     clientCopy: {
@@ -574,8 +582,10 @@ export default [
       en: "Our most popular size — big capacity for jobs where a smaller bin would mean a second haul. Needs a long run-up to place.",
       es: "Nuestro tamaño más popular — gran capacidad para trabajos donde un contenedor más pequeño significaría un segundo viaje. Requiere espacio largo para colocar."
     },
-    servicesBlurb:
-      "22 ft × 8 ft × 6 ft · ~14 pickup loads. Our most popular size — high volume. Full demolitions, commercial sites, bulk waste hauls, multi-family cleanouts. Needs a long run-up to place — call us if you're not sure it fits.",
+    servicesBlurb: {
+      en: "22 ft × 8 ft × 6 ft · ~14 pickup loads. Our most popular size — high volume. Full demolitions, commercial sites, bulk waste hauls, multi-family cleanouts. Needs a long run-up to place — call us if you're not sure it fits.",
+      es: "22 ft × 8 ft × 6 ft · ~14 cargas de camioneta. Nuestro tamaño más popular — alto volumen. Demoliciones completas, sitios comerciales, cargas de basura a granel, limpiezas multifamiliares. Necesita un acceso largo — llámanos si no estás seguro de que cabe."
+    },
     // Client size-level boilerplate (lifted from the 2026-09 Word docs; EN/ES).
     // Rendered on every city×size and neighborhood×size page via _includes/client-copy.njk.
     clientCopy: {
@@ -710,8 +720,10 @@ export default [
       en: "Our largest container — the most volume we offer for major demolition and commercial jobs. Needs a long, clear run-up to place.",
       es: "Nuestro contenedor más grande — el mayor volumen que ofrecemos para demoliciones mayores y trabajos comerciales. Requiere un espacio largo y despejado para colocarlo."
     },
-    servicesBlurb:
-      "22 ft × 8 ft × 8 ft · ~17 pickup loads. Our largest container — maximum volume for major demolition and commercial jobs. The 8-foot walls need a long, clear run-up to place; call us to confirm it fits.",
+    servicesBlurb: {
+      en: "22 ft × 8 ft × 8 ft · ~17 pickup loads. Our largest container — maximum volume for major demolition and commercial jobs. The 8-foot walls need a long, clear run-up to place; call us to confirm it fits.",
+      es: "22 ft × 8 ft × 8 ft · ~17 cargas de camioneta. Nuestro contenedor más grande — máximo volumen para demoliciones mayores y trabajos comerciales. Las paredes de 8 pies necesitan un acceso largo y despejado; llámanos para confirmar que cabe."
+    },
     // Client size-level boilerplate (lifted from the 2026-09 Word docs; EN/ES).
     // Rendered on every city×size and neighborhood×size page via _includes/client-copy.njk.
     clientCopy: {

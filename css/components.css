@@ -283,7 +283,7 @@ body.is-home .nav-logo-scrolled { display: block !important; }
   color: var(--color-black);
   letter-spacing: var(--ls-tight);
 }
-.nav-mobile .btn { width: 100%; margin-top: var(--space-4); }
+.nav-mobile .btn { width: 100%; margin-top: var(--space-4); white-space: normal; text-align: center; line-height: 1.25; padding-top: 14px; padding-bottom: 14px; }
 .nav-mobile-meta {
   margin-top: auto;
   padding-top: var(--space-6);

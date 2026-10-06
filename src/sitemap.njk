@@ -16,7 +16,7 @@ eleventyExcludeFromCollections: true
 {%- for page in collections.all %}
 {%- if "/404" not in page.url %}
   <url>
-    <loc>https://jprolloff.com{{ page.url | trimSlash }}</loc>
+    <loc>https://www.jprolloff.com{{ page.url | trimSlash }}</loc>
     <lastmod>{{ page.date | isoDate }}</lastmod>
   </url>
 {%- endif %}

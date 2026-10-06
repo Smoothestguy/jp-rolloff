@@ -1,7 +1,7 @@
 ---
 title: "Dumpster Rental Services | JP Roll-Off Service"
 description: "10, 15, 20, 25, 30 & 40 yard roll-off dumpster rentals across the DMV. Construction, residential, demolition, and commercial cleanouts. Next-day delivery across the DMV."
-canonical: "https://jprolloff.com/services"
+canonical: "https://www.jprolloff.com/services"
 navActive: "/services"
 quoteHref: "/#quote"
 ---
@@ -59,7 +59,7 @@ quoteHref: "/#quote"
             <div class="ds-img"><img src="/images/dumpster-{{ s.yd }}yd.png" alt="JP Roll-Off {{ s.yd }} yard dumpster" loading="lazy" /></div>
             <span class="ds-yd">{{ s.yd }} yd</span>
             <h3 data-en="{{ s.yd }} Yard" data-es="{{ s.yd }} Yardas">{{ s.yd }} Yard</h3>
-            <p class="ds-meta">{{ s.servicesBlurb }}</p>
+            <p class="ds-meta" data-en="{{ s.servicesBlurb.en }}" data-es="{{ s.servicesBlurb.es }}">{{ s.servicesBlurb.en }}</p>
             <a href="/services/{{ s.slug }}" class="btn btn-secondary btn-sm"{% if s.popular %} style="background:#fff;color:#CC0000;border-color:#fff;"{% endif %} data-en="See {{ s.yd }}-yard details →" data-es="Ver detalles de {{ s.yd }} yardas →">See {{ s.yd }}-yard details →</a>
           </article>
           {% endfor %}
@@ -120,7 +120,7 @@ quoteHref: "/#quote"
           <article class="step">
             <div class="step-icon"><img src="/icons/Wedeliver.png" alt="" /></div>
             <h4 data-en="We deliver, you fill" data-es="Entregamos, tú llenas">We deliver, you fill</h4>
-            <p data-en="We'll provide an ETA and deliver your dumpster. Fill it at your own pace during the rental period." data-es="Te damos un ETA y entregamos tu contenedor. Llénalo a tu propio ritmo durante el periodo de renta.">We'll provide an ETA and deliver your dumpster. Fill it at your own pace during the rental period.</p>
+            <p data-en="We'll confirm your delivery window when you book and deliver your dumpster. Fill it at your own pace during the rental period." data-es="Confirmamos tu ventana de entrega al reservar y entregamos tu contenedor. Llénalo a tu propio ritmo durante el periodo de renta.">We'll confirm your delivery window when you book and deliver your dumpster. Fill it at your own pace during the rental period.</p>
           </article>
           <article class="step">
             <div class="step-icon"><img src="/icons/callforpickup.png" alt="" /></div>
@@ -186,7 +186,7 @@ quoteHref: "/#quote"
           </details>
           <details class="faq-item">
             <summary data-en="What can't I put in a dumpster?" data-es="¿Qué no puedo poner en un contenedor?">What can't I put in a dumpster?</summary>
-            <div class="faq-answer" data-en="We do not accept hazardous materials, asbestos, propane tanks, fuels, or oils. Mattresses and tires are accepted for an additional charge. Concrete, dirt, asphalt, brick, and masonry require a designated 10-, 15-, or 20-yard aggregate dumpster. Not sure about an item? Call us before loading." data-es="No aceptamos materiales peligrosos, asbesto, tanques de propano, combustibles ni aceites. Los colchones y las llantas se aceptan por un cargo adicional. El concreto, la tierra, el asfalto, el ladrillo y la mampostería requieren un contenedor de agregados designado de 10, 15 o 20 yardas. ¿No estás seguro sobre un artículo? Llámanos antes de cargar.">Hazardous materials are the universal "no" list: wet paint, oils, fuels, batteries, asbestos, propane tanks, refrigerators with freon (must be evacuated first), and medical waste. Mattresses and tires are accepted but carry a per-item surcharge. Heavy materials like concrete, dirt, and brick are allowed but quoted separately because they fill weight before volume. When in doubt, ask before you toss it in — we'd rather sort it on the phone than at the transfer station.</div>
+            <div class="faq-answer" data-en="We do not accept hazardous materials, asbestos, propane tanks, fuels, or oils. Mattresses and tires are accepted for an additional charge. Concrete, dirt, asphalt, brick, and masonry require a designated 10-, 15-, or 20-yard aggregate dumpster. Not sure about an item? Call us before loading." data-es="No aceptamos materiales peligrosos, asbesto, tanques de propano, combustibles ni aceites. Los colchones y las llantas se aceptan por un cargo adicional. El concreto, la tierra, el asfalto, el ladrillo y la mampostería requieren un contenedor de agregados designado de 10, 15 o 20 yardas. ¿No estás seguro sobre un artículo? Llámanos antes de cargar.">We do not accept hazardous materials, asbestos, propane tanks, fuels, or oils. Mattresses and tires are accepted for an additional charge. Concrete, dirt, asphalt, brick, and masonry require a designated 10-, 15-, or 20-yard aggregate dumpster. Not sure about an item? Call us before loading.</div>
           </details>
           <details class="faq-item">
             <summary data-en="What forms of payment do you accept?" data-es="¿Qué formas de pago aceptan?">What forms of payment do you accept?</summary>
@@ -198,7 +198,7 @@ quoteHref: "/#quote"
           </details>
           <details class="faq-item">
             <summary data-en="¿Hablan español?" data-es="¿Hablan español?">¿Hablan español?</summary>
-            <div class="faq-answer" data-en="Sí — toda nuestra oficina atiende llamadas, cotizaciones, y entregas en español. Mismo precio, misma velocidad, mismo equipo. Llama al {{ site.phone.display }} o pide tu cotización por escrito en español y la mandamos en menos de una hora durante horario laboral." data-es="Sí — toda nuestra oficina atiende llamadas, cotizaciones, y entregas en español. Mismo precio, misma velocidad, mismo equipo. Llama al {{ site.phone.display }} o pide tu cotización por escrito en español y la mandamos en menos de una hora durante horario laboral.">Sí — toda nuestra oficina atiende llamadas, cotizaciones, y entregas en español. Mismo precio, misma velocidad, mismo equipo. Llama al {{ site.phone.display }} o pide tu cotización por escrito en español y la mandamos en menos de una hora durante horario laboral.</div>
+            <div class="faq-answer" data-en="Sí — toda nuestra oficina atiende llamadas, cotizaciones, y entregas en español. Mismo precio, misma velocidad, mismo equipo. Llama al {{ site.phone.display }} o pide tu cotización por escrito en español y te respondemos en horario laboral." data-es="Sí — toda nuestra oficina atiende llamadas, cotizaciones, y entregas en español. Mismo precio, misma velocidad, mismo equipo. Llama al {{ site.phone.display }} o pide tu cotización por escrito en español y te respondemos en horario laboral.">Sí — toda nuestra oficina atiende llamadas, cotizaciones, y entregas en español. Mismo precio, misma velocidad, mismo equipo. Llama al {{ site.phone.display }} o pide tu cotización por escrito en español y te respondemos en horario laboral.</div>
           </details>
         </div>
       </div>
@@ -219,8 +219,8 @@ quoteHref: "/#quote"
             <span data-en="Every quote covers a 14-day rental window. Additional days are available — ask when you book." data-es="Cada cotización cubre una ventana de renta de 14 días. Hay días adicionales disponibles — pregunta al reservar.">Every quote covers a 14-day rental window. Additional days are available — ask when you book.</span>
           </li>
           <li>
-            <strong data-en="Priced by weight, not flat-rate" data-es="Precio por peso, no tarifa fija">Priced by weight, not flat-rate</strong>
-            <span data-en="Construction and household debris is priced by material and weight — heavy loads are quoted separately." data-es="Los escombros de construcción y del hogar se cotizan por material y peso — las cargas pesadas se cotizan por separado.">Construction and household debris is priced by material and weight — heavy loads are quoted separately.</span>
+            <strong data-en="Priced by size and material" data-es="Precio por tamaño y material">Priced by size and material</strong>
+            <span data-en="Pricing depends on the dumpster size and type of material — heavy materials are quoted separately." data-es="El precio depende del tamaño del contenedor y del tipo de material — los materiales pesados se cotizan por separado.">Pricing depends on the dumpster size and type of material — heavy materials are quoted separately.</span>
           </li>
           <li>
             <strong data-en="Pickup is on request" data-es="La recogida es a solicitud">Pickup is on request</strong>
@@ -248,7 +248,7 @@ quoteHref: "/#quote"
           <div><h2 data-en="Still not sure which size?" data-es="¿Aún no sabes qué tamaño?">Still not sure which size?</h2><p data-en="Tell us your project — we'll recommend the right size and quote it in the same call." data-es="Cuéntanos tu proyecto — te recomendamos el tamaño adecuado y lo cotizamos en la misma llamada.">Tell us your project — we'll recommend the right size and quote it in the same call.</p></div>
           <div class="cta-band-actions">
             <a href="tel:{{ site.phone.tel }}" class="cta-band-phone">{{ site.phone.display }}</a>
-            <a href="/#quote" class="btn btn-lg" data-en="Get a Free Quote →" data-es="Solicita tu Cotización Gratis →">Get a Free Quote →</a>
+            <a href="/#quote" data-quote-open class="btn btn-lg" data-en="Get a Free Quote →" data-es="Solicita tu Cotización Gratis →">Get a Free Quote →</a>
           </div>
         </div>
       </div>

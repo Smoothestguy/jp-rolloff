@@ -17,10 +17,10 @@ permalink: "/locations/{{ np.city.slug }}/{{ np.neighborhood.slug }}/{{ np.size.
   </script>
 <script type="application/ld+json">
   { "@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
-    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://jprolloff.com/" },
-    { "@type": "ListItem", "position": 2, "name": "Service Areas", "item": "https://jprolloff.com/service-areas" },
-    { "@type": "ListItem", "position": 3, "name": "{{ city.name }}", "item": "https://jprolloff.com/locations/{{ city.slug }}" },
-    { "@type": "ListItem", "position": 4, "name": "{{ hood.name }} {{ s.yd }}-Yard", "item": "https://jprolloff.com/locations/{{ city.slug }}/{{ hood.slug }}/{{ s.yd }}-yard" }
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.jprolloff.com/" },
+    { "@type": "ListItem", "position": 2, "name": "Service Areas", "item": "https://www.jprolloff.com/service-areas" },
+    { "@type": "ListItem", "position": 3, "name": "{{ city.name }}", "item": "https://www.jprolloff.com/locations/{{ city.slug }}" },
+    { "@type": "ListItem", "position": 4, "name": "{{ hood.name }} {{ s.yd }}-Yard", "item": "https://www.jprolloff.com/locations/{{ city.slug }}/{{ hood.slug }}/{{ s.yd }}-yard" }
   ]}
   </script>
 {% endblock %}
@@ -54,7 +54,7 @@ permalink: "/locations/{{ np.city.slug }}/{{ np.neighborhood.slug }}/{{ np.size.
           {{ np.body | markdown | safe }}
         </div>
         {% endif %}
-        <p style="margin-top: var(--space-8);"><a href="/#quote" class="btn btn-primary" data-en="Get a {{ hood.name }} Quote →" data-es="Pide tu Cotización para {{ hood.name }} →">Get a {{ hood.name }} Quote →</a></p>
+        <p style="margin-top: var(--space-8);"><a href="/#quote" data-quote-open class="btn btn-primary" data-en="Get a {{ hood.name }} Quote →" data-es="Pide tu Cotización para {{ hood.name }} →">Get a {{ hood.name }} Quote →</a></p>
       </div>
     </section>
 
@@ -78,8 +78,8 @@ permalink: "/locations/{{ np.city.slug }}/{{ np.neighborhood.slug }}/{{ np.size.
     <section class="section">
       <div class="container">
         <div class="cta-band">
-          <div><h2 data-en="{{ s.yd }}-yard to {{ hood.name }}." data-es="{{ s.yd }} yardas a {{ hood.name }}.">{{ s.yd }}-yard to {{ hood.name }}.</h2><p data-en="Call dispatch direct, or send your address and we'll quote on the spot." data-es="Llama directo a despacho, o envía tu dirección y te cotizamos al instante.">Call dispatch direct, or send your address and we'll quote on the spot.</p></div>
-          <div class="cta-band-actions"><a href="tel:+13012523586" class="cta-band-phone">(301) 252-3586</a><a href="/#quote" class="btn btn-lg" data-en="Get a Free Quote →" data-es="Solicita tu Cotización Gratis →">Get a Free Quote →</a></div>
+          <div><h2 data-en="{{ s.yd }}-yard to {{ hood.name }}." data-es="{{ s.yd }} yardas a {{ hood.name }}.">{{ s.yd }}-yard to {{ hood.name }}.</h2><p data-en="Call the office, or send your address and we'll get back to you with a quote." data-es="Llama a la oficina, o envía tu dirección y te respondemos con una cotización.">Call the office, or send your address and we'll get back to you with a quote.</p></div>
+          <div class="cta-band-actions"><a href="tel:+13012523586" class="cta-band-phone">(301) 252-3586</a><a href="/#quote" data-quote-open class="btn btn-lg" data-en="Get a Free Quote →" data-es="Solicita tu Cotización Gratis →">Get a Free Quote →</a></div>
         </div>
       </div>
     </section>

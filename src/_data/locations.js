@@ -20,8 +20,8 @@
 //   zips          Array of ZIP codes actually served
 //   neighborhoods Named areas/neighborhoods within the city
 //   permitRule    The real local permit rule, one sentence/paragraph
-//   driveTimeMin  Integer minutes from the Beltsville yard, or null
-//   driveTimeText The exact drive-time sentence, or null
+//   driveTimeMin  Unused (always null) — no drive-time / home-base claims are rendered
+//   driveTimeText Delivery sentence (next-day / order-by-12 PM), or null
 //   neighbors     Slugs of adjacent cities (must exist in this dataset)
 //   positioning   One-line characterization used in headers/intros
 //   transferStation  Nearest transfer/landfill station, or null
@@ -34,10 +34,10 @@ export default [
     zips: ["20704", "20705"],
     neighborhoods: ["Powder Mill", "Cherry Hill", "Sellman", "BARC corridor", "Calverton", "Beltsville Industrial Park", "Vansville"],
     permitRule: {
-      en: "Beltsville is unincorporated — permits fall under Prince George's County. Dumpsters on private driveways don't need a permit. If the container has to sit in the public right-of-way, the county requires a Use & Occupancy permit.",
-      es: "Beltsville no está incorporada — los permisos dependen del condado de Prince George's. Los contenedores en parqueos privados no necesitan permiso. Si el contenedor tiene que quedar en la vía pública, el condado exige un permiso de Uso y Ocupación."
+      en: "Beltsville is unincorporated — permits fall under Prince George's County. Dumpsters on private driveways don't need a permit. If the container has to sit in the public right-of-way, the county requires a Use & Occupancy permit. Customers are responsible for determining whether a permit is required and obtaining it before delivery.",
+      es: "Beltsville no está incorporada — los permisos dependen del condado de Prince George's. Los contenedores en parqueos privados no necesitan permiso. Si el contenedor tiene que quedar en la vía pública, el condado exige un permiso de Uso y Ocupación. Los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega."
     },
-    driveTimeMin: 0,
+    driveTimeMin: null,
     driveTimeText: {
       en: "Next-day delivery for Beltsville addresses — order by 12 PM.",
       es: "Entrega al día siguiente para direcciones en Beltsville — ordena antes de las 12 PM."
@@ -57,8 +57,8 @@ export default [
     zips: ["20710"],
     neighborhoods: ["Port Towns", "Anacostia tributary corridor", "Edmonston border"],
     permitRule: {
-      en: "The Town of Bladensburg requires a permit for dumpsters in the street or right-of-way. Driveway placement is permit-free. The town hall is responsive and turnaround is generally same-week.",
-      es: "El pueblo de Bladensburg exige un permiso para contenedores en la calle o vía pública. La colocación en el parqueo no necesita permiso. El ayuntamiento responde rápido y el trámite suele resolverse en la misma semana."
+      en: "The Town of Bladensburg requires a permit for dumpsters in the street or right-of-way. Driveway placement is permit-free. Customers are responsible for determining whether a permit is required and obtaining it before delivery.",
+      es: "El pueblo de Bladensburg exige un permiso para contenedores en la calle o vía pública. La colocación en el parqueo no necesita permiso. Los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega."
     },
     driveTimeMin: null,
     driveTimeText: null,
@@ -80,10 +80,10 @@ export default [
       en: "The City of Bowie requires a right-of-way permit if the dumpster sits in a city street. Driveways and HOA-approved staging do not. Customers are responsible for determining whether a permit is required and obtaining it before delivery.",
       es: "La ciudad de Bowie exige un permiso de vía pública si el contenedor queda en una calle de la ciudad. Los parqueos y los espacios aprobados por la HOA no lo necesitan. Los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega."
     },
-    driveTimeMin: 25,
+    driveTimeMin: null,
     driveTimeText: {
-      en: "About 25 minutes via Route 197 or the BW Parkway.",
-      es: "Unos 25 minutos por la Route 197 o la BW Parkway."
+      en: "Next-day delivery for Bowie addresses — order by 12 PM.",
+      es: "Entrega al día siguiente para direcciones en Bowie — ordena antes de las 12 PM."
     },
     neighbors: ["upper-marlboro", "lanham", "greenbelt", "beltsville"],
     positioning: {
@@ -100,13 +100,13 @@ export default [
     zips: ["20785"],
     neighborhoods: [],
     permitRule: {
-      en: "The Town of Cheverly requires a permit if a dumpster is placed in the street or right-of-way. Most renovations here place on the driveway, which is permit-free. Town hall is responsive — typically 24–48 hour turnaround.",
-      es: "El pueblo de Cheverly exige un permiso si el contenedor se coloca en la calle o vía pública. La mayoría de las renovaciones aquí se colocan en el parqueo, que no necesita permiso. El ayuntamiento responde rápido — normalmente en 24 a 48 horas."
+      en: "The Town of Cheverly requires a permit if a dumpster is placed in the street or right-of-way. Most renovations here place on the driveway, which is permit-free. Customers are responsible for determining whether a permit is required and obtaining it before delivery.",
+      es: "El pueblo de Cheverly exige un permiso si el contenedor se coloca en la calle o vía pública. La mayoría de las renovaciones aquí se colocan en el parqueo, que no necesita permiso. Los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega."
     },
-    driveTimeMin: 20,
+    driveTimeMin: null,
     driveTimeText: {
-      en: "Cheverly is a 20-minute run from Beltsville.",
-      es: "Cheverly está a 20 minutos de Beltsville."
+      en: "Next-day delivery for Cheverly addresses — order by 12 PM.",
+      es: "Entrega al día siguiente para direcciones en Cheverly — ordena antes de las 12 PM."
     },
     neighbors: ["landover", "hyattsville", "bladensburg", "riverdale"],
     positioning: {
@@ -146,15 +146,15 @@ export default [
       en: "The City of Greenbelt requires a permit if a dumpster sits on a city street or right-of-way — that includes most of the Old Greenbelt court parking. Driveways and HOA-approved staging areas typically don't. Customers are responsible for determining whether a permit is required and obtaining it before delivery.",
       es: "La ciudad de Greenbelt exige un permiso si el contenedor queda en una calle de la ciudad o vía pública — eso incluye la mayoría del estacionamiento de los courts de Old Greenbelt. Los parqueos y los espacios aprobados por la HOA normalmente no lo necesitan. Los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega."
     },
-    driveTimeMin: 10,
+    driveTimeMin: null,
     driveTimeText: {
-      en: "Beltsville's ten minutes away — your dumpster's not far behind.",
-      es: "Beltsville está a diez minutos — tu contenedor no se queda atrás."
+      en: "Next-day delivery for Greenbelt addresses — order by 12 PM.",
+      es: "Entrega al día siguiente para direcciones en Greenbelt — ordena antes de las 12 PM."
     },
     neighbors: ["beltsville", "college-park", "hyattsville", "laurel"],
     positioning: {
-      en: "Serving Old Greenbelt, Greenbelt East, Greenbriar, Hunting Ridge, and the Goddard / Capital Office Park corridor. 20770 and 20768. Beltsville's ten minutes away — your dumpster's not far behind.",
-      es: "Atendemos Old Greenbelt, Greenbelt East, Greenbriar, Hunting Ridge y el corredor de Goddard / Capital Office Park. 20770 y 20768. Beltsville está a diez minutos — tu contenedor no se queda atrás."
+      en: "Serving Old Greenbelt, Greenbelt East, Greenbriar, Hunting Ridge, and the Goddard / Capital Office Park corridor. 20770 and 20768. Next-day delivery (same-day may be available depending on location and schedule).",
+      es: "Atendemos Old Greenbelt, Greenbelt East, Greenbriar, Hunting Ridge y el corredor de Goddard / Capital Office Park. 20770 y 20768. Entrega al día siguiente (el mismo día puede estar disponible según la ubicación y el horario)."
     },
     transferStation: null,
     premium: true
@@ -186,8 +186,8 @@ export default [
     zips: ["20784", "20785"],
     neighborhoods: ["FedExField / future Commanders site corridor", "Landover Hills", "Glenarden border", "Route 202 industrial strip"],
     permitRule: {
-      en: "Landover is unincorporated PG County — county rules apply. Right-of-way placement requires a county permit; private property does not. Landover Hills (the small incorporated town) has its own town permit for street placement.",
-      es: "Landover no está incorporada y pertenece al condado de PG — aplican las reglas del condado. La colocación en la vía pública requiere un permiso del condado; la propiedad privada no. Landover Hills (el pequeño pueblo incorporado) tiene su propio permiso municipal para la colocación en la calle."
+      en: "Landover is unincorporated PG County — county rules apply. Right-of-way placement requires a county permit; private property does not. Landover Hills (the small incorporated town) has its own town permit for street placement. Customers are responsible for determining whether a permit is required and obtaining it before delivery.",
+      es: "Landover no está incorporada y pertenece al condado de PG — aplican las reglas del condado. La colocación en la vía pública requiere un permiso del condado; la propiedad privada no. Landover Hills (el pequeño pueblo incorporado) tiene su propio permiso municipal para la colocación en la calle. Los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega."
     },
     driveTimeMin: null,
     driveTimeText: null,
@@ -209,10 +209,10 @@ export default [
       en: "Lanham is unincorporated PG County. Right-of-way permits are required for street placement; private driveways are not. Customers are responsible for determining whether a permit is required and obtaining it before delivery.",
       es: "Lanham no está incorporada y pertenece al condado de PG. Se requieren permisos de vía pública para la colocación en la calle; los parqueos privados no. Los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega."
     },
-    driveTimeMin: 15,
+    driveTimeMin: null,
     driveTimeText: {
-      en: "15 minutes via Route 450 or the BW Parkway.",
-      es: "15 minutos por la Route 450 o la BW Parkway."
+      en: "Next-day delivery for Lanham addresses — order by 12 PM.",
+      es: "Entrega al día siguiente para direcciones en Lanham — ordena antes de las 12 PM."
     },
     neighbors: ["bowie", "landover", "greenbelt", "beltsville"],
     positioning: {
@@ -249,10 +249,10 @@ export default [
     zips: ["20737"],
     neighborhoods: ["Town of Riverdale Park", "Town Center / MARC station area", "historic Riversdale Mansion neighborhoods"],
     permitRule: {
-      en: "The Town of Riverdale Park requires a permit for dumpsters in the public right-of-way. Town hall is responsive and turnaround is usually 1–2 business days. Driveways are typically permit-free.",
-      es: "El pueblo de Riverdale Park exige un permiso para contenedores en la vía pública. El ayuntamiento responde rápido y el trámite suele tardar de 1 a 2 días hábiles. Los parqueos normalmente no necesitan permiso."
+      en: "The Town of Riverdale Park requires a permit for dumpsters in the public right-of-way. Driveways are typically permit-free. Customers are responsible for determining whether a permit is required and obtaining it before delivery.",
+      es: "El pueblo de Riverdale Park exige un permiso para contenedores en la vía pública. Los parqueos normalmente no necesitan permiso. Los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega."
     },
-    driveTimeMin: 10,
+    driveTimeMin: null,
     driveTimeText: {
       en: "ZIP 20737 — next-day delivery.",
       es: "ZIP 20737 — entrega al día siguiente."
@@ -272,13 +272,13 @@ export default [
     zips: ["20850", "20852", "20853", "20855"],
     neighborhoods: ["Twinbrook", "King Farm", "Rockville Town Center", "North Bethesda border", "Derwood"],
     permitRule: {
-      en: "The City of Rockville requires a permit for any dumpster placed in a city street or right-of-way. Driveways and private property are permit-free. Rockville's permit office is responsive and turnaround is usually 2–3 business days.",
-      es: "La ciudad de Rockville exige un permiso para cualquier contenedor colocado en una calle de la ciudad o vía pública. Los parqueos y la propiedad privada no necesitan permiso. La oficina de permisos de Rockville responde rápido y el trámite suele tardar de 2 a 3 días hábiles."
+      en: "The City of Rockville requires a permit for any dumpster placed in a city street or right-of-way. Driveways and private property are permit-free. Customers are responsible for determining whether a permit is required and obtaining it before delivery.",
+      es: "La ciudad de Rockville exige un permiso para cualquier contenedor colocado en una calle de la ciudad o vía pública. Los parqueos y la propiedad privada no necesitan permiso. Los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega."
     },
-    driveTimeMin: 45,
+    driveTimeMin: null,
     driveTimeText: {
-      en: "About 45 minutes via I-495 or Route 200.",
-      es: "Unos 45 minutos por la I-495 o la Route 200."
+      en: "Next-day delivery for Rockville addresses — order by 12 PM.",
+      es: "Entrega al día siguiente para direcciones en Rockville — ordena antes de las 12 PM."
     },
     neighbors: ["silver-spring", "takoma-park", "beltsville"],
     positioning: {
@@ -335,13 +335,13 @@ export default [
     zips: ["20772", "20774"],
     neighborhoods: ["Westphalia", "Marlton"],
     permitRule: {
-      en: "The Town of Upper Marlboro (the small historic core) has its own permit; the rest of 20772/20774 falls under PG County. Right-of-way placement requires a permit in both cases. Private property typically does not.",
-      es: "El pueblo de Upper Marlboro (el pequeño núcleo histórico) tiene su propio permiso; el resto de 20772/20774 pertenece al condado de PG. La colocación en la vía pública requiere un permiso en ambos casos. La propiedad privada normalmente no."
+      en: "The Town of Upper Marlboro (the small historic core) has its own permit; the rest of 20772/20774 falls under PG County. Right-of-way placement requires a permit in both cases. Private property typically does not. Customers are responsible for determining whether a permit is required and obtaining it before delivery.",
+      es: "El pueblo de Upper Marlboro (el pequeño núcleo histórico) tiene su propio permiso; el resto de 20772/20774 pertenece al condado de PG. La colocación en la vía pública requiere un permiso en ambos casos. La propiedad privada normalmente no. Los clientes son responsables de determinar si se requiere un permiso y de obtenerlo antes de la entrega."
     },
-    driveTimeMin: 35,
+    driveTimeMin: null,
     driveTimeText: {
-      en: "About 35 minutes via Route 4 or I-495.",
-      es: "Unos 35 minutos por la Route 4 o la I-495."
+      en: "Next-day delivery for Upper Marlboro addresses — order by 12 PM.",
+      es: "Entrega al día siguiente para direcciones en Upper Marlboro — ordena antes de las 12 PM."
     },
     neighbors: ["bowie", "lanham", "landover", "cheverly"],
     positioning: {
